@@ -1,0 +1,42 @@
+[AutoProxy 0.2.9]
+
+! Title: [proxy]Filters
+! Expires: 4 hours
+
+! 本规则为自用简洁版，欢迎补充规则，贴吧ID：523860169
+
+||6park.com
+||cool18.com
+||ytimg.com
+.youtube.com
+||youtube-nocookie.com
+||googlevideo.com
+.sex8.cc
+.facebook.com
+||fbcdn.net
+||twitter.com
+||twimg.com
+||cao25.com
+||vido.ws
+.t66y.com
+||imageab.com
+||imgur.com
+||imagebam.com
+||imagefruity.com
+||holland.pk
+||trueimages.ru
+||hotavxxx.com
+||imgdino.com
+||imgchili.net
+||nimplus.com
+||viidii.info
+||piclect.com
+||kepkezelo.com
+||pixhost.org
+||picpar.com
+||snapgram.co
+||free.fr
+||javlibrary.com
+||dmm.co.jp
+||wangyou.com
+||photobucket.com
