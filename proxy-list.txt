@@ -70,7 +70,6 @@ video.yahoo.com
 ||youversion.com
 ||zacebook.com
 ||174.142.105.153
-||69.65.19.160
 @@||acfun.com
 @@||youku.com
 @@||tudou.com
