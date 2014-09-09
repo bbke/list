@@ -3985,15 +3985,18 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zt2088.com^
 ||zuoche.com/promo/*.jspx
 ||zvweapp.com^
+||leiqun.snxyf.com^
 ||zxip.com/2013_ad/
 ||zxxk.com/js/articleinfo/JS_
 ||zyzczs.com/js/tj.txt
 ||shangdu.com/lyinfo/ad/
 ||bforu.info/03.jpg
+||chidir.com^
 ||gohubei.com/img/tuniu.jpg
 ||gohubei.com/img/zhuna.gif
 ||zznews.cn/home/js/duilian1.js
 ||baidud.cn/aoao/down_
+||xizhongzi.net/bootstrap/dist/img/
 ||zymk.cn/Public/editor/attached/20140819080822_33400.jpg
 ||ossweb-img.qq.com/upload/webplat/info/*_imageAddr.jpg
 ||zzqhy.com^*/page/
@@ -4001,6 +4004,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 zymk.cn###bb
+oneplusbbs.com###diy4
 zuile8.com###playertipian
 gohubei.com###comiis_pd_kuxw01
 nmgnews.com.cn##TR:nth-child(2) > TD[style="padding-top:8px; padding-bottom:8px;"]
