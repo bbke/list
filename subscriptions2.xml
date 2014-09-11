@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subscriptions>
+  <subscription title="国内源" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
+    <variants>
+      <variant title="My AdFilters" url="http://git.oschina.net/halflife/list/raw/master/ad.txt"/>
+      <variant title="[proxy]GFWList" url="http://git.oschina.net/halflife/list/raw/master/gfwlist.txt" complete="true"/>
+      <variant title="[proxy]Filters" url="http://git.oschina.net/halflife/list/raw/master/proxy-list.txt"/>
+    </variants>
+  </subscription>
+  <subscription title="国外源" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
+    <variants>
+      <variant title="My AdFilters" url="https://raw.githubusercontent.com/523860169/list/master/ad.txt"/>
+      <variant title="[proxy]GFWList" url="https://raw.githubusercontent.com/523860169/list/master/gfwlist.txt" complete="true"/>
+      <variant title="[proxy]Filters" url="https://raw.githubusercontent.com/523860169/list/master/proxy-list.txt"/>
+    </variants>
+  </subscription>
+  <subscription title="广告过滤规则已包含如下规则，特此鸣谢" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
+    <variants>
+      <variant title="iFL" url="https://code.csdn.net/i_square/i/blob/master/iFL.txt" complete="true"/>
+      <variant title="easylistchina" url="https://easylist-downloads.adblockplus.org/easylistchina.txt" complete="true"/>
+      <variant title="cjxlist" url="http://cjxlist1.googlecode.com/svn/cjxlist.txt"/>
+    </variants>
+  </subscription>
+</subscriptions>
