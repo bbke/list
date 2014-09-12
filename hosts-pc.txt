@@ -2818,7 +2818,7 @@
 
 #ads block#
 127.0.1.1	pflq.duowan.com
-203.189.105.215 www.minggo.tk
+#203.189.105.215 www.minggo.tk
 23.21.27.78 my.minggo.tk
 54.83.78.255 code.minggo.tk
 203.189.105.216 sign1.minggo.tk
