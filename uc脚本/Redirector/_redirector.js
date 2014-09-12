@@ -32,7 +32,7 @@ rules = [{
 },{
     name: "Google统计脚本的正常使用",
     from: /^https?:\/\/(.*?)google-analytics\.com\/(.*)$/i,
-    to: "http://git.minggo.tk/js/$2",
+    to: "http://www.minggo.tk/js/$2",
     regex: true
 },{
     name: "Googlecode>> https",
@@ -47,7 +47,7 @@ rules = [{
 },{
     name: "Google Tag Services",
     from: /^https?:\/\/(.*?)googletagservices\.com\/tag\/js\/(.*)$/i,
-    to: "http://git.minggo.tk/etc/$2",
+    to: "http://www.minggo.tk/etc/$2",
     regex: true
 },{
     name: "Gravatar头像>>多说",
