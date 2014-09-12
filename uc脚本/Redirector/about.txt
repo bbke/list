@@ -1,6 +1,0 @@
-
-***********************使用说明***********************
-
-1. 本文件夹内，Redirector.uc.js为uc脚本文件，
-   _redirector.js为Redirector的规则文件；
-2. _redirector.js默认应置于火狐配置文件夹中chrome\local文件夹内。
