@@ -4037,10 +4037,21 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zznews.cn/home/js/duilian1.js
 ||cqfishing.net/data/attachment/portal/
+||btkitty.org/static/images/880X60.gif
+||hc360.com/security/201311/201311151050289368.swf
+||hc360.com/security/201409/201409021830024990.jpg
+||hc360.com/images/14826/289x90.jpg
+||jbtalks.cc/static/image/custom/sme-web-hosting-splash.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+udn.com###mpromote
+jbtalks.cc###ad_region_E
+jbtalks.cc###center-popup-bg
+jbtalks.cc###center-popup-show
+jbtalks.cc##.jbt-ad-region
+jbtalks.cc##.threadad
 cqfishing.net###chs_bannerArea
 yaolan.com###AD
 21yq.com###AD1
