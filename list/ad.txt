@@ -3609,8 +3609,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||tibet.news.cn/zhuye/images/wangqun
 ||tieba.baidu.com/f/urlcheck?
 ||tieba.lecai.com/page/zhuanti/baidu/
-||tietuku.com/39e2d9b63c8efed4.jpg
-||tietuku.com/a0acfeaad0215258.jpg
 ||tietuku.com^$domain=potplayer.org
 ||tiexue.net/domain-policy/
 ||tigtag.com/images/pic1/
@@ -3919,7 +3917,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||y4dg.com/source/plugin/wzkk_xshow/images/title.js
 ||yam.com/ad_yam/
 ||yanjiao.com/zt/indexad/
-||yanu.qiniudn.com/*1060x60.gif
 ||yaolan.com/wenku_debris/time_debris/images/mary
 ||yaolanimage.cn/cms/image/960-90
 ||yb983.com/skin/yb983V2013/ad/
@@ -4041,12 +4038,21 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||hc360.com/security/201311/201311151050289368.swf
 ||hc360.com/security/201409/201409021830024990.jpg
 ||hc360.com/images/14826/289x90.jpg
+||fuliqu.com/js/bejson_common.js
+||bejson.com/imgs/tuo.png
+||yanu.qiniudn.com/*x60.
+||tietuku.com/8e81aa8e5298383e.jpg
+||tietuku.com/0bb9bfe57636dc55.jpg
+||sf-express.com/cn/sc/.galleries/sfbest/tickets_right_sc.jpg
 ||jbtalks.cc/static/image/custom/sme-web-hosting-splash.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 udn.com###mpromote
+uhaoye.com##.picturead
+uhaoye.com##DIV[style="width:100%;text-align:center;margin-bottom:-6px;"]
+pconline.com.cn##.jcztl
 jbtalks.cc###ad_region_E
 jbtalks.cc###center-popup-bg
 jbtalks.cc###center-popup-show
