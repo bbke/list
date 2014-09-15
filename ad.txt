@@ -767,6 +767,7 @@ hk.yahoo.com###mntl1
 |https://*/ad/
 !------------------------General element hiding rules-------------------------!
 ###MyMoveAd
+##.con_ad
 ###QQ_Full
 ###ad_box1
 ###ad_box2
@@ -4046,10 +4047,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||jbtalks.cc/static/image/custom/sme-web-hosting-splash.jpg
 ||bing.net/th?id=OJ.ZJarP0kW1z3jXA&pid=MSNJVFeeds
 ||mymusic.net.tw/upload/mobile_web_tmp/indexad01.
+||kfs.io/article5/global/*/original.gif
+||sinaimg.cn/mw690/a6a976a2jw1ekate4cecig206y06ytge.gif
+||dh2.kimg.cn/v/upload/20140828/eecba9649f92d58114a67684c76b73b7.swf?
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+duba.com###ad-detail-banner
 mymusic.net.tw###prom
 cn.bing.com##.OpInNwWndw
 udn.com###mpromote
@@ -5268,7 +5273,6 @@ ithome.com##.con-recom
 gaominews.com##.con3-c
 gaominews.com##.con7-c
 ifeng.com##.conRgg
-bitauto.com,iciba.com,qqxs.cc##.con_ad
 360che.com##.con_banner
 u-car.com.tw##.contad
 766.com##.container > .fl
@@ -6735,6 +6739,7 @@ house.shangdu.com#@#.top_ad
 @@||shu008.com/heibing/js/ad/style1.js
 @@||sina.com.cn/litong/zhitou/pic/close-
 @@||sina.com.hk^*_ads.cgi
+@@||omusic.com.tw/backend/uploadpic/adindex/
 @@||sinaimg.cn/ad/adimage/50x50_
 @@||sinaimg.cn/cj/deco/$script,domain=finance.sina.com.cn
 @@||sinaimg.cn/large/696b3be5tw1edul5buf5jg206e01yt8p.gif
