@@ -5,9 +5,8 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         1.6.1
-// @updateUrl       https://j.mozest.com/zh-CN/ucscript/script/92.meta.js
-// @downloadUrl     https://j.mozest.com/zh-CN/ucscript/script/92.uc.js
+// @version         1.6.1.201409162302
+// @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（网络版）.uc.js
 // ==/UserScript==
 (function() {
     // YoukuAntiADs, request observer
