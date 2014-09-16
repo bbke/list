@@ -2678,10 +2678,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||inhe.net/javascript/Jsduilian.js
 ||inhe.net/Uploadfiles/ad_2014/
 ||inhe.net/Uploadfiles/adpublish2012/
-||inimc.com//static/image/*/1.jpg
-||inimc.com//static/image/*/2.jpg
-||inimc.com//static/image/*/3.jpg
-||inimc.com/public/javascript/*_9zhounian/
 ||inlishui.com/index.php?m=poster&
 ||inte.sogou.com^
 ||iotexpo.com.cn/Images/2014VipReg.swf
@@ -4054,10 +4050,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||downza.cn/html/skin/default/ad/
 ||sz5.cn/template/comiis_kmsjx3hlx/ads/ad
 ||haxiu.miaotiao.com^
+||inimc.com//static/image/5PYs
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+pcbeta.com##BODY > DIV[style^="height:"]
 duba.com###ad-detail-banner
 mymusic.net.tw###prom
 csdn.net##.ad_class
@@ -4092,7 +4090,6 @@ qq.com###AdRight-Article-QQ
 1677.net###AdsE
 1677.net###AdsT
 zol.com.cn###Article_Top_Banner
-pcbeta.com###BXZ93D2v2OSd
 firefang.cn###BaiduAd1
 firefang.cn###BaiduAd2
 firefang.cn###BaiduAd3
@@ -4267,7 +4264,6 @@ adultwefong.com,gxorg.com,huacolor.com,news.shangdu.com,qiwen999.com,steachs.com
 cwyuni.tw###banner > h2
 xpghost.com###banner-1
 shangdu.com###banner960
-pcbeta.com###banner9th
 99tianji.com###banner_gg
 766.com###banner_left
 766.com###banner_right
@@ -6068,7 +6064,6 @@ kutj.com##a[target="_blank"] > img[src*="gao/"]
 qzntv.com,qzwb.com##body > .area[style^="height:60px;"]
 danyang.com##body > div[align="center"]
 shangdu.com##body > div[class="bt"]
-pcbeta.com##body > div[id][style="height: 300px;"]
 baqiushi.com,qiushibaike.info##body > div[style]
 dm456.com##body > div[style^="height:90px;"]
 ahtv.cn##body > table[style^="text-align:center; width:960px;"]
@@ -6539,7 +6534,8 @@ house.shangdu.com#@#.top_ad
 @@|http:*/ad$domain=meiziweibo.com
 @@|http:*/AD/$domain=6ku.cc|dou6.cc|uuu123.net
 @@|http:*/gg/*.css
-@@||10086.cn^$document,domain=10086.cn
+@@||10086.cn/service/$elemhide,domain=10086.cn
+@@||10086.cn^*/ad$domain=10086.cn
 @@||100jia.cn/template/veikei_dz_life_20130101_green/images/ad/ad_s_230_90.jpg
 @@||113.com.tw/www/image/index-ad.png
 @@||131js.131.com/home/resouces/js/index_20120420.js
@@ -6796,6 +6792,7 @@ house.shangdu.com#@#.top_ad
 @@||youlea.com/uppic/adpic/
 @@||zhaozi.cn/d/js/acmsd/ggao5$script
 @@||zhibowu.com/ad2.htm
+@@||ad*.8591.com.tw^$domain=8591.com.tw
 @@||cb.baidu.com/ecom?di=933918&
 !--------------------------------Tracking Systems-----------------------------!
 /1.gif?$domain=scol.com.cn
