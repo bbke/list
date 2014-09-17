@@ -4041,7 +4041,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||tietuku.com/0bb9bfe57636dc55.jpg
 ||sf-express.com/cn/sc/.galleries/sfbest/tickets_right_sc.jpg
 ||jbtalks.cc/static/image/custom/sme-web-hosting-splash.jpg
-||bing.net/th?id=OJ.ZJarP0kW1z3jXA&pid=MSNJVFeeds
 ||mymusic.net.tw/upload/mobile_web_tmp/indexad01.
 ||kfs.io/article5/global/*/original.gif
 ||sinaimg.cn/mw690/a6a976a2jw1ekate4cecig206y06ytge.gif
@@ -4050,11 +4049,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||downza.cn/html/skin/default/ad/
 ||sz5.cn/template/comiis_kmsjx3hlx/ads/ad
 ||haxiu.miaotiao.com^
+||haoghost.com/js/hy_cpc_print.js
 ||inimc.com//static/image/5PYs
+||12pe.com/aajjss/
+||vvvdj.com/sms/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+vvvdj.com##TD[valign="top"][bgcolor="#13161E"][align="center"]
 pcbeta.com##BODY > DIV[style^="height:"]
 duba.com###ad-detail-banner
 mymusic.net.tw###prom
@@ -4215,7 +4218,6 @@ tw.msn.com###adgrouponca2
 ceil.me,rrting.net###adindex
 dgmei.com###admhdiv_abc
 tw.msn.com###admomoca2
-xinhuanet.com###adplay
 chuchushoe.blogspot.com,frdic.com,gnhome.com,it168.com,lol.moa.cse.tw,piao.com.cn,udn.com###ads
 danyang.com###ads-hd
 njdaily.cn###ads-qadjs-link
@@ -6792,6 +6794,8 @@ house.shangdu.com#@#.top_ad
 @@||youlea.com/uppic/adpic/
 @@||zhaozi.cn/d/js/acmsd/ggao5$script
 @@||zhibowu.com/ad2.htm
+@@||eden.org.tw*/script/ad_banner/
+@@||eden.org.tw/themes/liger/images/banner_
 @@||ad*.8591.com.tw^$domain=8591.com.tw
 @@||cb.baidu.com/ecom?di=933918&
 !--------------------------------Tracking Systems-----------------------------!
