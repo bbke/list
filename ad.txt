@@ -33,6 +33,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||baidu.com/h.js?
 ||connect.facebook.net^
 ||platform.twitter.com/widgets.js
+##FONT.jammer
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/upload_*.js
