@@ -4039,13 +4039,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||yanu.qiniudn.com/*x60.
 ||tietuku.com/8e81aa8e5298383e.jpg
 ||tietuku.com/0bb9bfe57636dc55.jpg
-||sf-express.com/cn/sc/.galleries/sfbest/tickets_right_sc.jpg
+||sf-express.com/cn/sc/.galleries/sfbest/*_right_sc.
 ||jbtalks.cc/static/image/custom/sme-web-hosting-splash.jpg
 ||mymusic.net.tw/upload/mobile_web_tmp/indexad01.
 ||kfs.io/article5/global/*/original.gif
 ||sinaimg.cn/mw690/a6a976a2jw1ekate4cecig206y06ytge.gif
 ||dh2.kimg.cn/v/upload/20140828/eecba9649f92d58114a67684c76b73b7.swf?
-||v2ex.com/assets/sidebar/100offer_
+||v2ex.com/assets/sidebar/
 ||downza.cn/html/skin/default/ad/
 ||sz5.cn/template/comiis_kmsjx3hlx/ads/ad
 ||haxiu.miaotiao.com^
@@ -4054,10 +4054,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||12pe.com/aajjss/
 ||vvvdj.com/sms/
 ||qpic.cn/mblogpic/f7052e063cec814c8a44/2000
+/pcbeta/xbox_one_banner.
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+pcbeta.com###xboxonebanner
 ithome.com##.bx-recom2
 vvvdj.com##TD[valign="top"][bgcolor="#13161E"][align="center"]
 pcbeta.com##BODY > DIV[style^="height:"]
@@ -4070,7 +4072,6 @@ udn.com###mpromote
 21cn.com###Show_TopAd_Iframe0
 life.21cn.com##A[href^="http://news.haxiu.com/"]
 uhaoye.com##.picturead
-v2ex.com##DIV[style="width: 240px; margin: 0px auto 0px auto; text-align: left;"]
 uhaoye.com##DIV[style="width:100%;text-align:center;margin-bottom:-6px;"]
 pconline.com.cn##.jcztl
 jbtalks.cc###ad_region_E
@@ -6799,6 +6800,7 @@ house.shangdu.com#@#.top_ad
 @@||eden.org.tw*/script/ad_banner/
 @@||eden.org.tw/themes/liger/images/banner_
 @@||ad*.8591.com.tw^$domain=8591.com.tw
+@@||ads.ribiaozi.info^*.jpg
 @@||cb.baidu.com/ecom?di=933918&
 !--------------------------------Tracking Systems-----------------------------!
 /1.gif?$domain=scol.com.cn
