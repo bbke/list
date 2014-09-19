@@ -4065,10 +4065,17 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||kuaihei.com/js/980
 ||kuaihei.com/js/view.js
 ||kuaihei.com/js/xiazaishang.js
+||saaee.com/view/youkuvip/*ad.gif
+/inimc\.com.*?[A-Z]/$match-case,image,domain=pcbeta.com
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ltaaa.com##.lAds
+ltaaa.com##.topAds2
+jump.bdimg.com,tieba.baidu.com##.live_show_aside
+saaee.com##.lad
+saaee.com##.rad
 ifxtx.com##.ad
 pcbeta.com##BODY > [style*="height:"]
 so.360.cn,so.com###e_idea_pp
@@ -4076,7 +4083,6 @@ so.360.cn,so.com###qiyu-brand-container
 pcbeta.com##A[id][href="http://bbs.pcbeta.com/viewthread-1541980-1-1.html"]
 ithome.com##.bx-recom2
 vvvdj.com##TD[valign="top"][bgcolor="#13161E"][align="center"]
-pcbeta.com##BODY > DIV[style^="height:"]
 duba.com###ad-detail-banner
 mymusic.net.tw###prom
 csdn.net##.ad_class
