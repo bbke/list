@@ -5,13 +5,13 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         1.6.1.201409170101
+// @version         1.6.1.201409192001
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（本地版）.uc.js
 // ==/UserScript==
 (function() {
     // YoukuAntiADs, request observer
     function YoukuAntiADs() {};
-    var refD = 'file:///' + Components.classes['@mozilla.org/file/directory_service;1'].getService(Components.interfaces.nsIProperties).get("ProfD", Components.interfaces.nsILocalFile).path + '/chrome/swf/';
+    var refD = 'http://www.minggo.tk/swf/';
     YoukuAntiADs.prototype = {
         SITES: {
             'youku_loader': {
@@ -87,6 +87,10 @@
             '17173_out': {
                 'player': refD + '17173_Player_file_out.swf',
                 're': /http:\/\/f\.v\.17173cdn\.com\/(\d+)\/flash\/Player_file_out\.swf/i
+            },
+            '17173_Live_out': {
+                'player': refD + '17173_Player_stream_out.swf',
+                're': /http:\/\/f\.v\.17173cdn\.com\/(\d+)\/flash\/Player_stream_customOut\.swf/i
             },
             'duowan': {
                 'player': 'http://yuntv.letv.com/bcloud.swf',
