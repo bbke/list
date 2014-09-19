@@ -865,6 +865,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 ||2155ec.com^$third-party
+||eyouv.cn^$third-party
 /99vjj/*$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -3313,7 +3314,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||res.ythouse.com/image/index/2012/
 ||resource.*.kukuplay.com/upload/$object-subrequest
 ||resource.updrv.com/drivers/img/tu_
-||rexuedongman.com/scripts/suiji
+||rexuedongman.com/scripts/sui
 ||rfidworld.com.cn/js/a.js
 ||rfidworld.com.cn/js/b.js
 ||rfidworld.com.cn/js/c.html
@@ -4066,11 +4067,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||kuaihei.com/js/view.js
 ||kuaihei.com/js/xiazaishang.js
 ||saaee.com/view/youkuvip/*ad.gif
-/inimc\.com.*?[A-Z]/$match-case,image,domain=pcbeta.com
+||rexuedongman.com/scripts/show/3
+||rexuedongman.com/scripts/show/a
+||inimc.com//static/image/eFkL
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+rexuedongman.com##.w980.uzmh-0
 ltaaa.com##.lAds
 ltaaa.com##.topAds2
 jump.bdimg.com,tieba.baidu.com##.live_show_aside
@@ -5993,7 +5997,6 @@ cyzone.cn##.tzkd_bottom
 cyzone.cn##.tzkd_top
 jump.bdimg.com,tieba.baidu.com##.u9_head
 7sel.com##.ui-sponsor950
-rexuedongman.com##.uzmh-vv.w980.uzmh-0
 iciba.com##.vRecomm
 400gb.com,bego.cc,fmdisk.com,pipipan.com##.viewfile_content_main_r > .row-fluid:nth-child(2)
 kanxi123.com##.viewt_77
