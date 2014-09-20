@@ -84,7 +84,6 @@ video.yahoo.com
 @@|http://ime.baidu.jp
 @@||4399.com
 ||yt3.ggpht.com
-||ggpht.com
 ||akamaihd.net
 ||2233b.com
 ||1155h.com
