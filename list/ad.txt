@@ -36,7 +36,9 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ##FONT.jammer
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
+@@*/tb/_/repost_*.js
 @@*/tb/_/upload_*.js
+@@*/tb/_/pop_video_*.js
 @@*/tb/_/rich_poster_*.js
 @@*/tb/_/thread_vote_*.js
 @@*/tb/_/audio_player_*.js
@@ -115,6 +117,8 @@ tieba.baidu.com##.member_rank
 tieba.baidu.com###search_bottomad
 tieba.baidu.com##.u9_head
 tieba.baidu.com##.nav_icon.nav_achieve
+tieba.baidu.com##.thread_recommend
+tieba.baidu.com###forum_recommend
 ! 右上角
 tieba.baidu.com##.u_mobile
 tieba.baidu.com##.u_tbmall
@@ -148,6 +152,7 @@ tieba.baidu.com##a.icon_meizhi
 tieba.baidu.com###j_head_focus_btn
 tieba.baidu.com###bdshare
 tieba.baidu.com##.per_list
+tieba.baidu.com##.u_baiduPrivilege
 tieba.baidu.com###plat_act_wrapper
 tieba.baidu.com##div.ui_bubble_wrap:nth-child(4)
 ! 右侧
@@ -157,6 +162,7 @@ tieba.baidu.com###aside_ad
 tieba.baidu.com##.tbui_aside_float_bar
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com##.u9_aside
+tieba.baidu.com##.item.live_show_aside
 ! 底部
 tieba.baidu.com###footer
 tieba.baidu.com##.poster_head
@@ -4077,6 +4083,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+91.com##.banner-gg
 cnzol.com###Wl_Float_Div
 cnzol.com##A[href*="zhuan5."]
 rexuedongman.com##.w980.uzmh-0
