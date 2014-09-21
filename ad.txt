@@ -505,7 +505,6 @@ tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 ||rekanw.com^$third-party
 ||resmkt.dipan.com^$third-party
 ||resource.gamediad.com^$third-party
-||rsccs.com^$third-party
 ||s.vipcnzz.com^$third-party
 ||samboc.com^$third-party
 ||shendu.cc^$third-party
@@ -877,6 +876,9 @@ hk.yahoo.com###mntl1
 ##a[href^="plugin.php?id=stoola_adcenter:userclick&adid="]
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
+||rsccs.com^$third-party
+||366safego.com^
+||ihualun.com^
 ||2155ec.com^$third-party
 ||eyouv.cn^$third-party
 /99vjj/*$third-party
@@ -4086,6 +4088,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cnzol.com/page/
 ||cnzol.com/userfiles/image/*#
 ||cnzol.com/template/style/images/wlfloat.js
+||books.com.tw/web/apActivityStick?
+||youxi.baidu.com/tips/bdtips_min.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -5911,7 +5915,7 @@ sogou.com,soso.com##.sponsored
 163.com##.sports_300x60_ad1
 so.360.cn,so.com##.spread
 jump.bdimg.com,tieba.baidu.com##.spreadad
-1024go.info,5d7y.net,caoliuhome.com,cl.man.lv,cl.s1.lv,clsq1024.pw,lesile.net,lovecaoliu.pw,mecaoliu.org,t66y.com,zlvc.net,woyao.cl##.sptable
+1024go.info,5d7y.net,caoliuhome.com,cl.man.lv,cl.s1.lv,clsq1024.pw,lesile.net,lovecaoliu.pw,mecaoliu.org,t66y.com,yao.cl,zlvc.net,woyao.cl##.sptable
 10jqka.com.cn##.subbanner
 qingdaonews.com##.surround
 shm.com.cn##.surround2
