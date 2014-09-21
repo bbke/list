@@ -199,7 +199,8 @@ tieba.baidu.com##.nav_icon.nav_achieve
 tieba.baidu.com##.fMember_cnt
 tieba.baidu.com##.u_joinvip
 tieba.baidu.com###encourage_entry
-tieba.baidu.com##.content_top!*** chinalist-adservers.txt ***
+tieba.baidu.com##.content_top
+tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 !--中国电信
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party
