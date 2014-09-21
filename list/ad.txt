@@ -8,6 +8,7 @@
 
 tieba.baidu.com##DIV[style="display: block; bottom: 0px;"]
 ||bdimg.share.baidu.com/static/js/*
+||bdimg.share.baidu.com/static/api/js/*
 ||play.baidu.com/player/static/flash/fmp.swf
 tieba.baidu.com##.tbui_aside_float_bar
 ||forum.xitek.com/xml/flash.swf
@@ -36,6 +37,9 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ##FONT.jammer
 ||174.139.222.73^
 ||192.253.230.110^
+||127.0.0.1^
+||google-analytics.com^
+||tjs.sjs.sinajs.cn^
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
