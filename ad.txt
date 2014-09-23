@@ -1164,7 +1164,7 @@ hk.yahoo.com###mntl1
 .com/?Intr=$popup
 /?ref=$popup,domain=allanalpass.com|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /pushstart.aspx?$popup,third-party
-|http:$popup,third-party,domain=520cc.cc|5278.cc|5278bbs.com|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|mimima.com|rmdown.com|see3r.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com
+|http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|mimima.com|rmdown.com|see3r.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com
 ||133gp.com^$popup
 ||189.gd^*.html?p=$popup
 ||90hnbb.pw^$popup,script
@@ -4100,10 +4100,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||yytcdn.com/others/avt/
 ||224qq.com/js/ddd.js
 ||qiniudn.com/uploads/new/banner/540847a64f4a5.jpg
+||oa.hinews.cn/work/img/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+bookshi.com##.ad-box
+hinews.cn###showgg
 v2ex.com##DIV[style="width: 240px; margin: 0px auto 0px auto; text-align: left;"]
 leiphone.com##.advertOne
 leiphone.com##.idx-adver1
@@ -4122,8 +4125,7 @@ rexuedongman.com##.w980.uzmh-0
 ltaaa.com##.lAds
 ltaaa.com##.topAds2
 jump.bdimg.com,tieba.baidu.com##.live_show_aside
-saaee.com##.lad
-saaee.com##.rad
+saaee.com##.adclose
 ifxtx.com##.ad
 pcbeta.com##BODY > [style*="height:"]
 so.360.cn,so.com###e_idea_pp
@@ -4874,7 +4876,6 @@ xici.net###word_ad
 jump.bdimg.com,tieba.baidu.com###worldcup_guess_frs_wrap
 jump.bdimg.com,tieba.baidu.com###worldcup_topic
 v17go.com###wp > a
-520cc.cc###wp > center
 chcj.net,yixingjia.com###wp > table[width="960"]
 taoguba.com.cn###wrap_footer > div[style*="960"]
 cd.qq.com###wrap_top
@@ -6111,7 +6112,6 @@ mengmao.org##a[href*="taobao.com"]
 mopiaoyao.com##a[href="/hao/hao"]
 mopiaoyao.com##a[href="/html/zanzhu.html"]
 bbs.jumpcn.com##a[href="http://jumpcn.taobao.com/"] > img
-hinews.cn##a[href="http://www.hnxydec.com/index.asp"]
 mobile01.com##a[href^="adredir.php"]
 17kqw.com##a[href^="gg.php?"]
 liba.com##a[href^="http://adsame.liba.com"]
