@@ -3408,7 +3408,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||s3-ap-northeast-1.amazonaws.com/unalisbucket/10/
 ||s3-ap-northeast-1.amazonaws.com/unalisbucket/4/
 ||s3-ap-northeast-1.amazonaws.com/unalisbucket/9/
-||saaee.com/view/youkuvip/*ad.gif
+/view/youkuvip/*ad.gif
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
 ||same.jrj.com.cn^$script,subdocument
@@ -4109,6 +4109,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+saaeecom.duapp.com##.adclose
+189.cn###zqtopag_bg
+163.com##.m-ad3
+163.com##.m-ad4
+163.com##.m-ad5
+163.com##.m-ad6
 win7china.com,win8china.com###pc_c
 yaolan.com###AD
 21yq.com###AD1
@@ -6873,6 +6879,7 @@ house.shangdu.com#@#.top_ad
 @@||yktj.yzz.cn/htmldata/mds/yzz_single_gg.js$domain=bbs.yzz.cn
 @@||youlea.com/uppic/adpic/
 @@||zhaozi.cn/d/js/acmsd/ggao5$script
+@@/images/ad$domain=vvpan.com
 @@||zhibowu.com/ad2.htm
 !--------------------------------Tracking Systems-----------------------------!
 /1.gif?$domain=scol.com.cn
