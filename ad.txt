@@ -841,6 +841,7 @@ hk.yahoo.com###mntl1
 ##.bm.a_c
 ##.content_ad_300
 ##.gg_full
+##.ggtop
 ##.google_adsense2
 ##.leftadv
 ##.wp.a_f
@@ -1877,7 +1878,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||bbs.xiashanet.com/js/adsview.js
 ||bbs.xinjs.cn/js/float.js
 ||bbs.yhcgo.com/attachment/Mon_1112/74_1_5c13cbc5db6ba7c.jpg
-||bcbj100.com/upload_files/label/1_20140319010342_geuxh.gif
+||upan.so/images/bcbjAD.jpg
 ||bcc.com.tw/imgs/adv/
 ||bccn.net/aaa/
 ||bcok.com^$subdocument
@@ -3282,6 +3283,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||qj001.com/data/js/js0.js
 ||qjis.com/js/qjis_nr.js
 ||qm120.com/images/adZhayou.jpg
+||qpic.cn^$domain=360-bo.com
 ||qpic.cn/manhua_detail/$object-subrequest
 ||qpic.cn/mblogpic/829ff64132ceec61b372/2000
 ||qpic.cn^$domain=54xr.com|7958.com|xrba.net
@@ -3459,7 +3461,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||sina.com/assets/js/dart/
 ||sina.com/rm/
 ||sinaimg.cn/cj/dfz_ad/
-||sinaimg.cn/large/$domain=360-bo.com|btshare.net|kiees.cn|kqiuba.com|lueqiu.com|pptiyu.com|qqzhibo.net
+||360bo.cc/js/float.js
+||sinaimg.cn^$domain=btshare.net
+||sinaimg.cn/large/$domain=360-bo.com|360bo.cc|kiees.cn|kqiuba.com|lueqiu.com|pptiyu.com|qqzhibo.net
 ||sinaimg.cn/large/*?$domain=zhaofuli.net
 ||sinaimg.cn/large/7044f931gw1ejiv61vggsg20qy0230xd.gif
 ||sinaimg.cn/large/710c121btw1ecexo6z2e2j20qe02ijrz.jpg
@@ -4101,10 +4105,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||224qq.com/js/ddd.js
 ||qiniudn.com/uploads/new/banner/540847a64f4a5.jpg
 ||oa.hinews.cn/work/img/
+||21ses.info/t/
+||qpic.cn^$domain=pptiyu.com
+||im286.com/data/attachment/forum/201409/09/164936ipg8e3tgtght7od7.gif
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+zhongsou.com##.lt_ggao_wei
+zhongsou.com##.marketingad01
+zhongsou.com##DIV[class^="ad_sp"]
 bookshi.com##.ad-box
 hinews.cn###showgg
 v2ex.com##DIV[style="width: 240px; margin: 0px auto 0px auto; text-align: left;"]
@@ -5540,7 +5550,6 @@ creaders.net##.ggbox1
 qidian.com##.ggbox740X80
 gexing.com.cn##.ggline
 eastday.com##.gglist
-ghjie.com##.ggtop
 rrting.net##.ggw960h60
 jiaju.shangdu.com##.global-ad-img
 jiaju.shangdu.com##.global-banner-ad
@@ -5726,7 +5735,7 @@ xizi.com##.md310_90
 nownews.com##.meannews
 taihainet.com##.menu_bg + .box10 + .wrapper
 qq.com##.mian-ad
-360-bo.com,jisuzhibo.net,pptiyu.com##.middiv a[name="thegg"]
+360-bo.com,360bo.cc,jisuzhibo.net,pptiyu.com##.middiv a[name="thegg"]
 fjsen.com##.middle_ad
 69zw.com##.mlad
 playno1.com##.mn > div[style="margin-bottom:10px;"]
@@ -6820,7 +6829,7 @@ appbyme.com#@#.adchange
 @@||omusic.com.tw/backend/uploadpic/adindex/
 @@||sinaimg.cn/ad/adimage/50x50_
 @@||sinaimg.cn/cj/deco/$script,domain=finance.sina.com.cn
-@@||sinaimg.cn/large/696b3be5tw1edul5buf5jg206e01yt8p.gif
+@@||sinaimg.cn/large/696b3be5jw1eiuo9zjz34g206e01yjra.gif
 @@||sinaimg.cn/unipro/pub/suda_m_v629.js$domain=video.sina.com.cn
 @@||sinaimg.cn^*/deco/*/sinaObj.js
 @@||snh48.com/images/ad/
