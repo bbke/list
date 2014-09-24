@@ -1,4 +1,9 @@
 rules = [{
+   name: "Google.com To Google NCR",
+   from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
+   to: 'https://www.google.com/ncr',
+   regex: true,
+},{
     name: "google链接加密",
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
     exclude: /google\.cn/i,  // 可选，排除例外规则
@@ -14,6 +19,11 @@ rules = [{
     to: "$1/zh-cn/$4",
     regex: true,
     satte:true,
+},{
+    name: "wiki media转https",
+    from: /^http:\/\/upload\.wikimedia\.org\/(.*)$/i,
+    to: "https://upload.wikimedia.org/$1",
+    regex: true
 },{
     name: "Google公共库>>360公共库",
     from: /^http:\/\/(.*?)googleapis\.com\/(.*)$/i,
