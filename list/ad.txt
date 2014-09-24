@@ -321,7 +321,6 @@ tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 ||999d.com^$third-party
 ||99ddd.com^$third-party,domain=~ali213.net
 ||9buo.com^$third-party
-||9ead.com^$third-party
 ||9wad.com^$third-party
 ||9wee.com^$third-party
 ||a1click.aiqun.com^$third-party
@@ -877,6 +876,7 @@ hk.yahoo.com###mntl1
 ##a[href^="plugin.php?id=stoola_adcenter:userclick&adid="]
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
+||9ead.com^$third-party
 /99vjj/*$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -4116,6 +4116,11 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||edu03.com/data/js.php?id=
 ||yyets.com/public/rooms?
 ||muyuge.net/js/bb/
+||taomato.com/js/TP2.js
+||dup.baidustatic.com/js/zm.js
+||wo318.com/good/
+||wo318.com/sjs/km/xixitv.js
+||wo318.com/template/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
