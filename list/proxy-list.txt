@@ -109,3 +109,4 @@ video.yahoo.com
 ||videomega.tv
 ||img.topky.sk
 ||pastebin.com
+||popo8.com
