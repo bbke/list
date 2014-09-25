@@ -768,6 +768,7 @@ hk.yahoo.com###mntl1
 |http://*/*_ad.js
 |http://*/ad.js?sn=
 |http://*/ad.js?v=
+|http://*/ad.0.js?v=
 |http://*/gg/
 |http://*/i.js$third-party,domain=~liuyanbaike.com
 |http://*/js/ad.
@@ -4121,6 +4122,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||wo318.com/good/
 ||wo318.com/sjs/km/xixitv.js
 ||wo318.com/template/
+||github.io/2048/full/meta/cmpay.gif
+||alabout.com/images/*.760x90.
+/2tu/heisiwang.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -5957,7 +5961,7 @@ shm.com.cn##.surround2
 2345.com##.swf_banner
 3bbb.net##.swfright
 heiguang.com##.syAdTopTxt
-zerodm.net##.syad
+zerodm.tv##.syad
 zhlzw.com##.sygg
 zhifang.com##.sytl
 elecinfo.com##.t-ad
@@ -6020,7 +6024,7 @@ baidu.com##.top-banner-ad-wrap
 163.com##.top-gg
 www.uuu9.com##.top1bar
 uuu9.com##.top2box
-52wubi.com,zerodm.net,zerodm.tv##.top960
+52wubi.com,zerodm.tv##.top960
 cn.msn.com,ifeng.com,nen.com.cn,sina.com.tw##.topAd
 ltaaa.com##.topAds2
 yeyou.com##.topBackgroundAdv_bgbody
@@ -6901,6 +6905,7 @@ house.shangdu.com#@#.top_ad
 @@/images/ad$domain=vvpan.com
 @@||adsense.woso.cn^$domain=woso.cn
 @@||webcrow.jp/adjs/ncskt.js
+@@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
 @@||zhibowu.com/ad2.htm
 !--------------------------------Tracking Systems-----------------------------!
 /1.gif?$domain=scol.com.cn
