@@ -39,7 +39,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||192.253.230.110^
 ||127.0.0.1^
 ||google-analytics.com^
-||tjs.sjs.sinajs.cn/open/*
+||tjs.sjs.sinajs.cn/open/analytics/*
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
