@@ -879,6 +879,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 ||9ead.com^$third-party
+||sstc360.com^
 /99vjj/*$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -3413,7 +3414,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 /view/youkuvip/*ad.gif
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
-||same.jrj.com.cn^$script,subdocument
+||same*.jrj.com.cn^$script,subdocument
 ||same.stockstar.com^
 ||sax.sina.com.cn/crossdomain.xml
 ||sc.chinaiiss.com/do.php?do=ad&
@@ -4127,6 +4128,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||alabout.com/images/*.760x90.
 /2tu/heisiwang.js
 ||jandan.com/static/gggg/
+/view/youkuvip/750.png
+||ckjdh.com/lenovo/pc/all.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
