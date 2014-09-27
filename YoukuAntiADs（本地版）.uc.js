@@ -5,8 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         1.6.1.201409272001
-// @updateUrl       http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（本地版）.meta.js
+// @version         14.09.27
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（本地版）.uc.js
 // ==/UserScript==
 (function() {
