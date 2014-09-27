@@ -37,6 +37,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ##FONT.jammer
 ||174.139.222.73^
 ||192.253.230.110^
+||192.253.224.172^
 ||127.0.0.1^
 ||google-analytics.com^
 ||tjs.sjs.sinajs.cn/open/analytics/*
