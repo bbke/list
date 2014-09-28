@@ -4145,10 +4145,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||thmz.com/003/619/392/276/760/919/3619392276760919.ssm/manifest.f4m
 ||daed.pw/Runtime/js/
 ||setudou.org/Runtime/js/
+||6rooms.com^$domain=yayaxz.com
+||yayaxz.com/ad-js/
+||qidian.com/javascript/fkkyk.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+mail.qq.com###plp_ad_container
+yayaxz.com##.room
 yyets.com###yyets_slide_ad
 060s.com###left_Ad_300
 060s.com##DIV[style="height:250px;width:300px"]
@@ -5522,7 +5527,7 @@ sina.com.tw##.game_ad
 jump.bdimg.com,tieba.baidu.com##.game_banner_common_wapper
 jump.bdimg.com,tieba.baidu.com##.game_content
 game.9724.com##.game_details
-qdwenxue.com,qidian.com##.game_info
+qdmm.com,qdwenxue.com,qidian.com##.game_info
 jump.bdimg.com,tieba.baidu.com##.game_list_and_rank
 jump.bdimg.com,tieba.baidu.com##.game_spread_thread
 jump.bdimg.com,tieba.baidu.com##.game_tab
