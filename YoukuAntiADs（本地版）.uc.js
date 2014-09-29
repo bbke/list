@@ -5,13 +5,13 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.09.29
+// @version         14.09.29.16
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（本地版）.uc.js
 // ==/UserScript==
 (function() {
     // YoukuAntiADs, request observer
     function YoukuAntiADs() {};
-    var refD = 'http://www.minggo.tk/swf/';
+    var refD = 'file:///' + Components.classes['@mozilla.org/file/directory_service;1'].getService(Components.interfaces.nsIProperties).get("ProfD", Components.interfaces.nsILocalFile).path + '/chrome/swf/';
     YoukuAntiADs.prototype = {
         SITES: {
             'youku_loader': {
