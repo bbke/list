@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.09.30.22
+// @version         14.09.30.23
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（网络版）.uc.js
 // ==/UserScript==
 (function() {
@@ -15,41 +15,41 @@
     YoukuAntiADs.prototype = {
         SITES: {
         'youku_loader': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/loader.swf',
+            'player': refD + 'loader.swf',
             're': /http:\/\/static\.youku\.com(\/v[\d\.]+)?\/v\/swf\/loaders?\.swf/i
         },
         'youku_player': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/player.swf',
+            'player': refD + 'player.swf',
             're': /http:\/\/static\.youku\.com(\/v[\d\.]+)?\/v\/swf\/q?player[^\.]*\.swf/i
         },
         'ku6': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/ku6.swf',
+            'player': refD + 'ku6.swf',
             're': /http:\/\/player\.ku6cdn\.com\/default\/common\/player\/\d{12}\/player\.swf/i
         },
         'ku6_out': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/ku6_out.swf',
+            'player': refD + 'ku6_out.swf',
             're': /http:\/\/player\.ku6cdn\.com\/default\/out\/\d{12}\/player\.swf/i
         },
         'iqiyi': {
-            'player0': 'chrome://AntiChinaVideoAds/content/swf/iqiyi_out.swf',
-            'player1': 'chrome://AntiChinaVideoAds/content/swf/iqiyi5.swf',
-            'player2': 'chrome://AntiChinaVideoAds/content/swf/iqiyi.swf',
+            'player0': refD + 'iqiyi_out.swf',
+            'player1': refD + 'iqiyi5.swf',
+            'player2': refD + 'iqiyi.swf',
             're': /https?:\/\/www\.iqiyi\.com\/(player\/\d+\/Player|common\/flashplayer\/\d+\/(Main|Coop)?Player_?.*)\.swf/i
         },
         'tudou': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/tudou.swf',
+            'player': refD + 'tudou.swf',
             're': /http:\/\/js\.tudouui\.com\/.*portalplayer[^\.]*\.swf/i
         },
         'tudou_olc': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/olc_8.swf',
+            'player': refD + 'olc_8.swf',
             're': /http:\/\/js\.tudouui\.com\/.*olc[^\.]*\.swf/i
         },
         'tudou_sp': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/sp.swf',
+            'player': refD + 'sp.swf',
             're': /http:\/\/js\.tudouui\.com\/.*\/socialplayer[^\.]*\.swf/i
         },
         'letv': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/letv.swf',
+            'player': refD + 'letv.swf',
             're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/((?!(Live|seed))((C|S)[\w]{2,3})?(?!Live)[\w]{4}|swf))Player*\.swf/i
         },
         'letvskin': {
@@ -57,23 +57,23 @@
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/(?!1456)\d*\/newplayer\/\d+\/SLetvPlayer\.swf/i
         },
         'pplive_live': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/pplive_live.swf',
+            'player': refD + 'pplive_live.swf',
             're': /http:\/\/player\.pplive\.cn\/live\/.*\/player4live2\.swf/i
         },
         'sohu': {
-           'player': 'chrome://AntiChinaVideoAds/content/swf/sohu.swf',
+           'player': refD + 'sohu.swf',
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(?!(live|\d+)).*\d+\/(main|PlayerShell)\.swf/i
         },
         'sohu_liv': {
-           'player': 'chrome://AntiChinaVideoAds/content/swf/sohulive.swf',
+           'player': refD + 'sohulive.swf',
            're': /http:\/\/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}(:[0-9]{2,5})?(\/test)?\/(player|webplayer)\/(main|playershell)\.swf/i
         },
         'sohu_live': {
-           'player': 'chrome://AntiChinaVideoAds/content/swf/sohulive.swf',
+           'player': refD + 'sohulive.swf',
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(live\/|)\d+\/(main|PlayerShell)\.swf/i
         },
         'pps': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/pps.swf',
+            'player': refD + 'pps.swf',
             're': /http:\/\/www\.iqiyi\.com\/player\/cupid\/.*\/pps[\w]+.swf/i
         },
         'wanhenda': {
@@ -81,19 +81,19 @@
             're': /http:\/\/assets\.dwstatic\.com\/.*\/vppp\.swf/i
         },
         '17173': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/17173_Player_file.swf',
+            'player': refD + '17173_Player_file.swf',
             're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_file\.swf/i			                
 		},
         '17173_out': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/17173_Player_file_out.swf',
+            'player': refD + '17173_Player_file_out.swf',
   	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_file_(custom)?out\.swf/i
      	},			
 	    '17173_stream_customOut': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/17173_Player_stream_out.swf',
+            'player': refD + '17173_Player_stream_out.swf',
   	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_stream_customOut\.swf/i
 	    },			
         '17173_live': {
-            'player': 'chrome://AntiChinaVideoAds/content/swf/17173_Player_stream.swf',
+            'player': refD + '17173_Player_stream.swf',
             're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_stream\.swf/i
         }
     },
