@@ -1,4 +1,4 @@
-##规则主页：http://www.minggo.tk##
+##规则主页：http://code.minggo.tk##
 
 ###包含：###
       (1) ad.txt：整合iFL（贴吧清爽规则）、cjx和adblockchina规则，以及我个人定义的一些去广告规则;
