@@ -1,19 +1,3 @@
-// ==UserScript==
-// @name            youkuantiads.uc.js
-// @namespace       YoukuAntiADs@harv.c
-// @description     视频网站去黑屏
-// @include         chrome://browser/content/browser.xul
-// @author          harv.c
-// @homepage        http://haoutil.tk
-// @version         14.09.30.23
-// @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（本地版）.uc.js
-// ==/UserScript==
-(function() {
-    // YoukuAntiADs, request observer
-    function YoukuAntiADs() {};
-    var refD = 'file:///' + Components.classes['@mozilla.org/file/directory_service;1'].getService(Components.interfaces.nsIProperties).get("ProfD", Components.interfaces.nsILocalFile).path + '/chrome/swf/';
-    YoukuAntiADs.prototype = {
-        SITES: {
         'youku_loader': {
             'player': refD + 'loader.swf',
             're': /http:\/\/static\.youku\.com(\/v[\d\.]+)?\/v\/swf\/loaders?\.swf/i
@@ -21,7 +5,7 @@
         'youku_player': {
             'player': refD + 'player.swf',
             're': /http:\/\/static\.youku\.com(\/v[\d\.]+)?\/v\/swf\/q?player[^\.]*\.swf/i
-        },
+// @version         14.10.01.11
         'ku6': {
             'player': refD + 'ku6.swf',
             're': /http:\/\/player\.ku6cdn\.com\/default\/common\/player\/\d{12}\/player\.swf/i
