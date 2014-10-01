@@ -155,14 +155,12 @@ tieba.baidu.com##.tieba_notice
 tieba.baidu.com##.icon_group
 tieba.baidu.com##.star_nav_ico_group
 tieba.baidu.com##a.icon_meizhi
-tieba.baidu.com###j_head_focus_btn
 tieba.baidu.com###bdshare
 tieba.baidu.com##.per_list
 tieba.baidu.com##.u_baiduPrivilege
 tieba.baidu.com###plat_act_wrapper
 tieba.baidu.com##div.ui_bubble_wrap:nth-child(4)
 ! 右侧
-tieba.baidu.com###sign_mod
 tieba.baidu.com##.profile_right.user_score
 tieba.baidu.com###aside_ad
 tieba.baidu.com##.tbui_aside_float_bar
