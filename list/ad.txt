@@ -4150,10 +4150,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zymk.cn/Public/editor/attached/20140819080822_33400.jpg
 ||zyzczs.com/js/tj.txt
 ||zznews.cn/home/js/duilian1.js
+||93s8.com/UploadFiles/ad/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cntv.cn###bbspop
 pengfu.com##.banner
 pengfu.com##.banner300x250
 pengfu.com##.banner300x270
