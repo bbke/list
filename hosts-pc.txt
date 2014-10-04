@@ -1,39 +1,39 @@
-﻿#+UPDATE_TIME 2014-09-20 10:18:00
-#+Ver : 1.2014.0920
+﻿#+UPDATE_TIME    2014-09-20    10:18:00
+#+Ver    :    1.2014.0920
 
-#localhost START
+#localhost    START
 ::1	localhost
-#localhost END
+#localhost    END
 
 
-#ccFox.info START
+#ccFox.info    START
 66.155.11.238	ccfox.info
 66.155.11.238	myimouto.wordpress.com
 207.198.113.233	myimouto.files.wordpress.com
-#ccFox.info END
+#ccFox.info    END
 
-#ProjectH START
+#ProjectH    START
 106.186.31.197	projecth.us
 106.186.31.197	www.projecth.us
 106.186.31.197	forum.projecth.us
 106.186.31.197	repo.projecth.us
-#ProjectH END
+#ProjectH    END
 
-#Battle.NET START
+#Battle.NET    START
 #12.129.206.133	enUS.patch.battle.net
 #12.129.206.133	zhTW.patch.battle.net
 #208.111.168.7	llnw.blizzard.com
-#Battle.NET END
+#Battle.NET    END
 
-#12306 START
-#61.157.124.251 dynamic.12306.cn
-#12306 END
+#12306    START
+#61.157.124.251    dynamic.12306.cn
+#12306    END
 
-#dapenti START
+#dapenti    START
 #202.106.184.35	ptimg.org
-#dapenti START
+#dapenti    START
 
-#3DM START
+#3DM    START
 #122.226.122.23	bbs.3dmgame.com
 #122.226.122.6	tu.3dmgame.com
 #120.92.249.145	dl.3dmgame.com
@@ -42,9 +42,9 @@
 #120.92.249.136	pic1.3dmgame.com
 #120.92.249.136	file1.3dmgame.com
 #120.92.249.136	img0.3dmgame.com
-#3DM END
+#3DM    END
 
-#SoundCloud START
+#SoundCloud    START
 #68.232.44.127	soundcloud.com
 #72.21.91.127	m.soundcloud.com
 #68.232.44.127	api.soundcloud.com
@@ -57,9 +57,9 @@
 #203.190.124.18	pixel.quantserve.com
 #62.161.94.230	logs1403.xiti.com
 #208.111.171.129	soundcloud.hs.llnwd.net
-#SoundCloud END
+#SoundCloud    END
 
-#WordPress START
+#WordPress    START
 66.155.11.243	wordpress.com
 68.232.44.111	s0.wp.com
 68.232.44.111	s1.wp.com
@@ -83,21 +83,21 @@
 66.155.9.238	lucifr.wordpress.com
 72.233.2.58	botd2.wordpress.com
 72.233.2.58	r-login.wordpress.com
-#WordPress END
+#WordPress    END
 
-#Box.com START
+#Box.com    START
 74.112.184.73	box.com
 74.112.184.70	app.box.com
-#Box.com END
+#Box.com    END
 
-#Microsoft Live START
+#Microsoft    Live    START
 134.170.108.26	onedrive.live.com
 134.170.109.48	skyapi.onedrive.live.com
 134.170.108.224	storage.live.com
 #134.170.30.15	people.live.com
-#Microsoft Live END
+#Microsoft    Live    END
 
-#Dropbox START
+#Dropbox    START
 108.160.165.147	dropbox.com
 108.160.165.147	www.dropbox.com
 108.160.166.140	client-lb.dropbox.com
@@ -1215,9 +1215,9 @@
 204.236.220.7	dl-client997.dropbox.com
 204.236.220.7	dl-client998.dropbox.com
 204.236.220.7	dl-client999.dropbox.com
-#Dropbox END
+#Dropbox    END
 
-#GitHub START
+#GitHub    START
 192.30.252.131	github.com
 192.30.252.131	www.github.com
 192.30.252.144	nodeload.github.com
@@ -1225,14 +1225,14 @@
 103.245.222.133	documentcloud.github.com
 103.245.222.133	pages.github.com
 103.245.222.184	github.global.ssl.fastly.net
-#GitHub END
+#GitHub    END
 
-#inoreader START
+#inoreader    START
 #78.83.7.11	www.inoreader.com
 #78.83.7.11	inoreader.com
-#inoreader END
+#inoreader    END
 
-#Wikipedia START
+#Wikipedia    START
 208.80.154.224	www.wikipedia.org
 208.80.154.240	upload.wikimedia.org
 208.80.154.234	bits.wikimedia.org
@@ -1547,9 +1547,9 @@
 208.80.154.224	wikiversity.org
 208.80.154.224	wikivoyage.org
 208.80.154.224	wiktionary.org
-#Wikipedia END
+#Wikipedia    END
 
-#Flickr START
+#Flickr    START
 #68.142.214.24	flickr.com
 #66.196.66.157	www.flickr.com
 #209.191.121.31	up.flickr.com
@@ -1585,9 +1585,9 @@
 #67.195.19.62	gq1.farm4.staticflickr.com
 #67.195.19.65	gq1.farm5.staticflickr.com
 #98.136.171.208	gq1.farm6.staticflickr.com
-#Flickr END
+#Flickr    END
 
-#Twitter START
+#Twitter    START
 199.16.158.8	twitter.com
 199.16.158.8	www.twitter.com
 199.16.158.13	mobile.twitter.com
@@ -1661,9 +1661,9 @@
 96.127.160.130	web8.twitpic.com
 96.127.160.130	web9.twitpic.com
 96.127.160.130	web10.twitpic.com
-#Twitter END
+#Twitter    END
 
-#Facebook Start
+#Facebook    Start
 69.171.237.25	facebook.com
 173.252.120.6	www.facebook.com
 173.252.120.6	m.facebook.com
@@ -1730,9 +1730,9 @@
 #173.223.232.67	fbcdn-sphotos-a.akamaihd.net
 #117.104.139.58	fbcdn-photos-a.akamaihd.net
 #60.254.131.177	fbstatic-a.akamaihd.net
-#Facebook END
+#Facebook    END
 
-#Google Services START
+#Google    Services    START
 #GoogleAccounts↓
 64.233.168.84	accounts.google.com
 64.233.168.84	accounts.l.google.com
@@ -2197,7 +2197,7 @@
 210.242.125.98	t6.gstatic.com
 210.242.125.98	t7.gstatic.com
 #Gstatic↑
-#Google other↓
+#Google    other↓
 64.233.185.113	apis.google.com
 64.233.185.113	talkgadget.google.com
 74.125.207.189	chromoting-host.talkgadget.google.com
@@ -2576,8 +2576,8 @@
 74.125.207.132	2.bp.blogspot.com
 74.125.207.132	3.bp.blogspot.com
 74.125.207.132	4.bp.blogspot.com
-#Google other↑
-#Google Play↓
+#Google    other↑
+#Google    Play↓
 #203.208.46.89	r1---sn-a5m7znee.c.android.clients.google.com
 #203.208.46.89	r2---sn-a5m7znee.c.android.clients.google.com
 #203.208.46.89	r3---sn-a5m7znee.c.android.clients.google.com
@@ -2798,35 +2798,35 @@
 #203.208.46.89	r18---sn-npo7enes.c.android.clients.google.com
 #203.208.46.89	r19---sn-npo7enes.c.android.clients.google.com
 #203.208.46.89	r20---sn-npo7enes.c.android.clients.google.com
-#Google Play↑
-#Google Services END
+#Google    Play↑
+#Google    Services    END
 
 
 #GitHub#
-38.127.167.7 lastpass.com
-38.127.167.7 www.lastpass.com
+38.127.167.7    lastpass.com
+38.127.167.7    www.lastpass.com
 192.30.252.129	github.com
-192.30.252.130 www.github.com
-192.30.252.144 nodeload.github.com
-103.245.222.133 raw.github.com
-103.245.222.133 documentcloud.github.com
-103.245.222.133 pages.github.com
-103.245.222.133 raw.githubusercontent.com
-162.159.253.4 feedly.com
-162.159.253.4 s3.feedly.com
+192.30.252.130    www.github.com
+192.30.252.144    nodeload.github.com
+103.245.222.133    raw.github.com
+103.245.222.133    documentcloud.github.com
+103.245.222.133    pages.github.com
+103.245.222.133    raw.githubusercontent.com
+162.159.253.4    feedly.com
+162.159.253.4    s3.feedly.com
 
-#ads block#
+#ads    block#
 127.0.1.1	pflq.duowan.com
-#203.189.105.215 www.minggo.tk#
-23.21.27.78 my.minggo.tk
-54.83.78.255 code.minggo.tk
-203.189.105.216 sign1.minggo.tk
-203.189.105.215 sign2.minggo.tk
-203.189.105.216 sign3.minggo.tk
-203.189.105.215 sign4.minggo.tk
-203.189.105.216 sign5.minggo.tk
-162.243.13.252 www.paranoidandroid.co
-183.136.233.226 attachment.mcbbs.net
-113.107.42.25 cdn.pcbeta.attachment.inimc.com
-93.184.220.90 wac.9218.systemcdn.net
-93.184.220.90 edgecast.cam4s.com
+#203.189.105.215	www.minggo.tk#
+23.21.27.78	my.minggo.tk
+54.83.78.255	code.minggo.tk
+203.189.105.216	sign1.minggo.tk
+203.189.105.215	sign2.minggo.tk
+203.189.105.216	sign3.minggo.tk
+203.189.105.215	sign4.minggo.tk
+203.189.105.216	sign5.minggo.tk
+162.243.13.252	www.paranoidandroid.co
+183.136.233.226	attachment.mcbbs.net
+113.107.42.25	cdn.pcbeta.attachment.inimc.com
+93.184.220.90	wac.9218.systemcdn.net
+93.184.220.90	edgecast.cam4s.com
