@@ -4160,10 +4160,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||chinaqking.com/images/newPage/zhaopin.jpg
 ||chinaqking.com/userUpload/jobApply2.jpg
 ||big-cup.tv/uploads/banner/
+||178.com/lol/201410/206398796489/206398807404.jpg
+||178.com/lol/201410/206406421945/206406428217.jpg
+||178.com/dayan/
+||fefe22.com/js/config.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+xindm.cn##.gg_botom_gg
+lol.178.com##DIV[style="height: 60px; text-align: center;"]
 big-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
 18888.com##.t5[style^="margin-top:"]
 map.baidu.com###mapBanner
@@ -6609,6 +6615,7 @@ taihainet.com##ul[style=" width:1000px; height:90px; padding:10px 0; background-
 00sy.com##ul[style="width: 830px;margin:0 auto;height:250px;text-align:center;margin-top:10px;"]
 !---------------------------------CSS Whitelist-------------------------------!
 920url.com#@##AdDiv
+d77.com#@##ad-wrap
 the-sun.on.cc#@##ContentAd1
 news.now.com#@##ad-2
 greedio.com#@##adBox
