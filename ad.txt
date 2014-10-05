@@ -41,6 +41,10 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tjs.sjs.sinajs.cn/open/analytics/*
 ||file.ithome.com/js/wap/common.js
 ||shooter.cn/ggsearch/*
+||pingjs.qq.com^
+||jsqmt.qq.com^
+||scorecardresearch.com^
+||btrace.qq.com/collect?*
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
