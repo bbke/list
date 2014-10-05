@@ -31,7 +31,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 |http://static.youku.com/*/index/js/popup.js
 ||untitled.dwstatic.com/fodder/*$object-subrequest
 ||doubleclick.net^
-||baidu.com/h.js?
+||hm.baidu.com^
 ||connect.facebook.net^
 ||platform.twitter.com/widgets.js
 ##FONT.jammer
@@ -7026,7 +7026,6 @@ house.shangdu.com#@#.top_ad
 ||frame.enet.com.cn/a.php
 ||gdt.qq.com^
 ||hd.sohu.com.cn^$object-subrequest
-||hm.baidu.com^$third-party,domain=~cankaoxiaoxi.com|~ihome99.com
 ||hz.youku.com/red/
 ||icon.zol-img.com.cn/mainpage/js/click.js
 ||imedia.bokecc.com^
