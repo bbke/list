@@ -1285,7 +1285,6 @@ hk.yahoo.com###mntl1
 /tt7z.js$domain=tt7z.com|ttrar.com
 /upload/gad/*$domain=pbzy.com|shanzhaiben.com
 /view/youkuvip/*ad.gif
-/view/youkuvip/750.png
 /wallstcn/img/head-event-
 /wangyuedeux/imgs/daibang.jpg
 /www.soft4fun.net/wp-content/uploads/*_banner
@@ -4176,6 +4175,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||sto.cn/temp/adv.jpg
 ||js.leafletsoft.com^
 ||5adm.net/79070.gif
+||imgur.com^*.gif$domain=18p2p.com
+/view/youkuvip/buyip.gif
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -5180,7 +5181,8 @@ ifeng.com##.adbox03
 xcar.com.cn##.adbox980
 qq.com##.adbutton-Aritcle-QQ
 qq.com##.adcent
-saaee.com,saaeecom.duapp.com##.adclose
+id97.com##.leftadch
+id97.com##.rightadch
 ifeng.com##.adcontent
 jgzj.net##.adcss
 4493.com,hao.rising.cn,jq22.com##.add
@@ -6690,6 +6692,8 @@ house.shangdu.com#@#.top_ad
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@||ad.10010.com^
+@@||10010.com^*/ad.
+@@||10010.com^*/ad/
 @@?bannerId=$domain=qianbao666.com
 @@||edgesuite.net^*/ad.css?
 @@&ad_width=810&$domain=jd.com
