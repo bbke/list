@@ -1,9 +1,6 @@
 ﻿#+UPDATE_TIME    2014-10-6    10:56:00
-#+Ver    :    1.2014.10.6
 
 #localhost    START
-::1	localhost
-#localhost    END
 
 
 #ccFox.info    START
