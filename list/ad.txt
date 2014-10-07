@@ -400,7 +400,6 @@ tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 ||ee4kdushuba.com^$third-party
 ||esearches.com.tw^$third-party
 ||ezsaving.com^$third-party
-||feedsportal.com^$third-party
 ||feesee.com^$third-party
 ||flashwing.net^$third-party
 ||flunion.cn^$third-party
@@ -4177,10 +4176,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||5adm.net/79070.gif
 ||imgur.com^*.gif$domain=18p2p.com
 /view/youkuvip/buyip.gif
+||654mmm.com^
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+1lou.com##.error
 5adm.net##.ad780
 51rhca.com###InviteWindow
 sto.cn##.network_adv
