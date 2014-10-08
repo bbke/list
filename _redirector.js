@@ -70,9 +70,24 @@ rules = [{
     to: "http://userscripts-mirror.org/$1",
     regex: true
  },{
+    name: "网易云音乐反劫持",
+    from: /^http:\/\/m1\.music\.126\.net\/(.*)$/i,
+    to: "http://m2.music.126.net/$1",
+    regex: true
+},{
     name: "cam4s转https",
     from: /^http:\/\/edgecast\.cam4s\.com\/(.*)$/i,
     to: "https://edgecast.cam4s.com/$1",
+    regex: true
+},{
+    name: "williamgates图床转https",
+    from: /^http:\/\/t\.williamgates\.net\/(.*)$/i,
+    to: "https://t.williamgates.net/$1",
+    regex: true
+},{
+    name: "FB转https",
+    from: /^http:\/\/www.facebook\.com\/(.*)$/i,
+    to: "https://www.facebook.com/$1",
     regex: true
 },{
     name: "tumblr转https",

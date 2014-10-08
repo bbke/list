@@ -12,8 +12,6 @@
 ||youtube-nocookie.com
 ||googlevideo.com
 .sex8.cc
-.facebook.com
-||fbcdn.net
 ||twitter.com
 ||twimg.com
 ||cao25.com
@@ -84,7 +82,6 @@ video.yahoo.com
 @@|http://ime.baidu.jp
 @@||4399.com
 ||yt3.ggpht.com
-||akamaihd.net
 ||2233b.com
 ||1155h.com
 ||sis001.us
