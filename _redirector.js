@@ -42,7 +42,7 @@ rules = [{
 },{
     name: "Google统计脚本的正常使用",
     from: /^https?:\/\/(.*?)google-analytics\.com\/(.*)$/i,
-    to: "http://www.minggo.tk/js/$2",
+    to: "http://www.minggo.tk/etc/$2",
     regex: true
 },{
     name: "Googlecode>> https",
@@ -70,11 +70,6 @@ rules = [{
     to: "http://userscripts-mirror.org/$1",
     regex: true
  },{
-    name: "网易云音乐反劫持",
-    from: /^http:\/\/m1\.music\.126\.net\/(.*)$/i,
-    to: "http://m2.music.126.net/$1",
-    regex: true
-},{
     name: "cam4s转https",
     from: /^http:\/\/edgecast\.cam4s\.com\/(.*)$/i,
     to: "https://edgecast.cam4s.com/$1",
@@ -86,7 +81,7 @@ rules = [{
     regex: true
 },{
     name: "FB转https",
-    from: /^http:\/\/www.facebook\.com\/(.*)$/i,
+    from: /^http:\/\/www\.facebook\.com\/(.*)$/i,
     to: "https://www.facebook.com/$1",
     regex: true
 },{
