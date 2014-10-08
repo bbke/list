@@ -41,7 +41,6 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tjs.sjs.sinajs.cn/open/analytics/*
 ||file.ithome.com/js/wap/common.js
 ||shooter.cn/ggsearch/*
-||pingjs.qq.com^
 ||jsqmt.qq.com^
 ||scorecardresearch.com^
 ||btrace.qq.com/collect?*
