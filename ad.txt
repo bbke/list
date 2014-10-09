@@ -613,7 +613,6 @@ tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 /ggpic/*
 /main/s?
 /pic/ad/*
-/picad/*
 /tan1.js
 !*** chinalist-specific.txt ***
 !--有道
@@ -717,6 +716,7 @@ hk.yahoo.com###mntl1
 /AdPreview/*
 /adpuba/*
 /advpic/*
+/picad/*
 /ajds/*
 /cache/ad_js/*
 /caches/poster_js/*
@@ -877,6 +877,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||033.com^$third-party
 ||at98.com^
 ||poxzyu.com^$third-party
 ||ye3.com^$third-party
@@ -4186,11 +4187,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||78land.com/js/fumeiti.js
 ||bf1.7m.cn/b/
 ||bf2.7m.cn/b/
+/Aemplate/dd_1010/baidu
+/Atemplate/dd_1010/baidu
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 7m.cn###Top_b
+autohome.com.cn###ad_fbanner_00
+autohome.com.cn###ad_hytw_1
 live.90bfw.com###live > TABLE[cellspacing="0"][cellpadding="0"]
 90bfw.com##DIV[id^="ShowTopAds_"]
 live.90bfw.com##TD[height="22"][bgcolor="#FFFEE0"]
