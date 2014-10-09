@@ -3584,8 +3584,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||sinaimg.cn/large/d3a48243tw1e9ku3qboj1j207e02aq2y.jpg
 ||sinaimg.cn/large/ed5e6a1djw1eknotztdf8g20r803cq51.gif
 ||sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi.jpg
-||sinaimg.cn/mw690/7e2fcc5btw1eddew6zhznj206y06ymxf.jpg
-||sinaimg.cn/mw690/7e2fcc5btw1eeeexqfdyij20j602i0tg.jpg
 ||sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj.jpg
 ||sinaimg.cn/mw690/a1916e89gw1dye4d74zmij.jpg
 ||sinaimg.cn/mw690/a6a976a2gw1ee8phmumv5j20h802ijrp.jpg
@@ -4194,6 +4192,10 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+2345.com##.mzdh_bottom
+neonan.com###login_footer
+meili.cn##.w300
+mengmao.org###cat3
 hkgolden.com###mainTopicTable > TBODY > TR:nth-child(3):not([id])
 hkgolden.com###mainTopicTable > TBODY > TR[id] + TR:not([id])
 yaolan.com###AD
@@ -4921,7 +4923,7 @@ tianjinwe.com###topadv
 aibang.com###topadv_baidu_aibang
 blog.163.com###topbar_randShowArea
 nowscore.com###toperText
-i.1616.net###toplink
+1616.net###toplink
 imanhua.com###topmon
 bt49.com###topwarning_7ree
 wwwzqr.cn###tp
