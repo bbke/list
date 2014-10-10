@@ -12,6 +12,9 @@
 ||youtube-nocookie.com
 ||googlevideo.com
 .sex8.cc
+.facebook.com
+||facebook.com
+||fbcdn.net
 ||twitter.com
 ||twimg.com
 ||cao25.com
