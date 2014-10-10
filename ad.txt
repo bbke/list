@@ -17,7 +17,6 @@ tieba.baidu.com##.tbui_aside_float_bar
 |http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
 www.ithome.com###side_func
 www.ithome.com###qrcode
-www.ithome.com##.shareto
 cam4.com###headerBanner
 cam4.com###subfoot
 analtubegirls.com,cam4.com,djs-teens.net,free-celebrity-tube.com,glarysoft.com,hardsextube.com,hdporn.in,nsfwyoutube.com,onlyhot.biz,pornshaft.com,porntalk.com,ratemypeach.com,springbreaktubegirls.com,teentube18.com##.ads
@@ -34,7 +33,6 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||platform.twitter.com/widgets.js
 ##FONT.jammer
 */d2/s.ashx$domain=www.baidu.com
-||127.0.0.1^
 ||google-analytics.com^
 ||tjs.sjs.sinajs.cn/open/analytics/*
 ||file.ithome.com/js/wap/common.js
@@ -641,7 +639,6 @@ cet.99sushe.com###div_bottom
 ||hichannel.hinet.net/player/radio/hinetAd.js
 ||hichannel.hinet.net/videoad2/
 ||p4u.hinet.net^
-||p8u.hinet.net^
 ||town.xuite.net/_ad/
 !---盛大
 ||aagw.sdo.com^
@@ -4192,6 +4189,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||7zhan.com/templets/default/images/ly.jpg
 ||hoto.cn/source/img/index_4.jpg
 ||haodou.com/public/images3/goeatpass.jpg
+||p8u.hinet.net^
+||orzx.im/Document/recommend/flashpoint.html
+||orzx.im/js/*pop
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -4199,6 +4199,7 @@ gpcxw.com###AA2
 haodou.com##.idx_ad_box
 3jy.com##.Rad
 3jy.com##.lad
+ipv6.baidu.com,www.baidu.com,www1.baidu.com##.res_top_banner
 hifidiy.net##.MainRight > .marginTop[style]
 fzlbase.com###article_extinfo + .block-long
 fzlbase.com##.block-long[style*="90px;"]
@@ -6930,7 +6931,7 @@ house.shangdu.com#@#.top_ad
 @@||jj.5ccc.net/scripts/new/pagetop.js
 @@||jjjgame.com/plus/ad_
 @@||joy.cn/service.php?*&showad=
-@@||js.gomein.net.cn^*/template.min.js$domain=gome.com.cn
+@@||gomein.net.cn/??
 @@||js.tudouui.com/bin/player2/$object
 @@||juxiangyou.com/advert/
 @@||kbcool.com/advpic/$domain=ks.js.cn
