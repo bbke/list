@@ -27,8 +27,6 @@ cam4.com##.removeAds
 ||chaturbate.com/sitestats/openwindow/$popup
 celebspank.com,chaturbate.com,cliphunter.com,gamcore.com,playboy.com,signbucks.com,tehvids.com,uflash.tv,wankoz.com,yobt.tv##.ad
 chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.com,vidxnet.com,wanknews.com,watchhentaivideo.com,xbabe.com,yourdailygirls.com##.banner
-|http://static.youku.com/*/index/js/qwindow.js
-|http://static.youku.com/*/index/js/popup.js
 ||untitled.dwstatic.com/fodder/*$object-subrequest
 ||doubleclick.net^
 ||hm.baidu.com^
@@ -44,6 +42,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||jsqmt.qq.com^
 ||scorecardresearch.com^
 ||btrace.qq.com/collect?*
+||pstatic.xunlei.com/js/*
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
@@ -6675,6 +6674,7 @@ taihainet.com##ul[style=" width:1000px; height:90px; padding:10px 0; background-
 00sy.com##ul[style="width: 830px;margin:0 auto;height:250px;text-align:center;margin-top:10px;"]
 !---------------------------------CSS Whitelist-------------------------------!
 920url.com#@##AdDiv
+dingdong.ganji.com#@#.banner
 the-sun.on.cc#@##ContentAd1
 news.now.com#@##ad-2
 d77.com#@##ad-wrap
