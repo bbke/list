@@ -1,15 +1,4 @@
 rules = [{
-   name: "Google.com To Google NCR",
-   from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
-   to: 'https://www.google.com/ncr',
-   regex: true,
-},{
-    name: "google链接加密",
-    from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
-    exclude: /google\.cn/i,  // 可选，排除例外规则
-    to: "https://$1",
-    regex: true
-},{
     name: "google搜索结果禁止跳转",
     from: /^https?:\/\/www\.google\.com\/url\?.*url=([^&]*).*/i,
     to: "$1",
@@ -19,11 +8,6 @@ rules = [{
     to: "$1/zh-cn/$4",
     regex: true,
     satte:true,
-},{
-    name: "wiki media转https",
-    from: /^http:\/\/upload\.wikimedia\.org\/(.*)$/i,
-    to: "https://upload.wikimedia.org/$1",
-    regex: true
 },{
     name: "Google公共库>>360公共库",
     from: /^http:\/\/(.*?)googleapis\.com\/(.*)$/i,
@@ -45,16 +29,6 @@ rules = [{
     to: "http://www.minggo.tk/etc/$2",
     regex: true
 },{
-    name: "Googlecode>> https",
-    from: /^http:\/\/(.*?)googlecode\.com\/(.*)$/i,
-    to: "https://$1googlecode.com/$2",
-    regex: true
-},{
-    name: "GoogleUserContent>> https",
-    from: /^http:\/\/(.*?)googleusercontent\.com\/(.*)$/i,
-    to: "https://$1googleusercontent.com/$2",
-    regex: true
-},{
     name: "Google Tag Services",
     from: /^https?:\/\/(.*?)googletagservices\.com\/tag\/js\/(.*)$/i,
     to: "http://www.minggo.tk/etc/$2",
@@ -70,19 +44,40 @@ rules = [{
     to: "http://userscripts-mirror.org/$1",
     regex: true
  },{
+   name: "Google.com To Google NCR",
+   from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
+   to: 'https://www.google.com/ncr',
+   regex: true,
+},{
+    name: "google转https",
+    from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
+    exclude: /google\.cn/i,  // 可选，排除例外规则
+    to: "https://$1",
+    regex: true
+},{
+    name: "wiki media转https",
+    from: /^http:\/\/upload\.wikimedia\.org\/(.*)$/i,
+    to: "https://upload.wikimedia.org/$1",
+    regex: true
+},{
+    name: "Googlecode转https",
+    from: /^http:\/\/(.*?)googlecode\.com\/(.*)$/i,
+    to: "https://$1googlecode.com/$2",
+    regex: true
+},{
+    name: "GoogleUserContent转https",
+    from: /^http:\/\/(.*?)googleusercontent\.com\/(.*)$/i,
+    to: "https://$1googleusercontent.com/$2",
+    regex: true
+},{
     name: "cam4s转https",
     from: /^http:\/\/edgecast\.cam4s\.com\/(.*)$/i,
     to: "https://edgecast.cam4s.com/$1",
     regex: true
 },{
-    name: "williamgates图床转https",
+    name: "williamgates转https",
     from: /^http:\/\/t\.williamgates\.net\/(.*)$/i,
     to: "https://t.williamgates.net/$1",
-    regex: true
-},{
-    name: "FB转https",
-    from: /^http:\/\/www\.facebook\.com\/(.*)$/i,
-    to: "https://www.facebook.com/$1",
     regex: true
 },{
     name: "tumblr转https",
