@@ -4207,10 +4207,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||0678.com/statics/images/aabbcc.jpg
 ||vgugu.com/iframes/xp-
 ||qhimg.com/static/5dcd236fc857be9c,fe9fa6060f6b330f.js
+||dl-l-tax.gov.cn/js/2floating.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dl-l-tax.gov.cn##DIV[id^="clip"]
+hao.360.cn###j-mall-hotsale
+hao.360.cn###j-mall-reco
+hao.360.cn##.mall-sale
+hao.360.cn##.topic-news > .slide-wrap
 360kan.com###advert_stack_0
 360kan.com,letv.com###logo_activity
 qzone.qq.com##.gb-bill-area
