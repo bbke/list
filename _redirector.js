@@ -3,95 +3,95 @@ rules = [{
     from: /^https?:\/\/www\.google\.com\/url\?.*url=([^&]*).*/i,
     to: "$1",
     regex: true
-},{  name: "wiki繁转简",
+},{  name: "wiki繁 >> 简",
     from: /^(https?:\/\/zh\.wikipedia\.org)\/(wiki|zh|zh((?!\-cn)[^\/])+)\/(.*)/i,
     to: "$1/zh-cn/$4",
     regex: true,
     satte:true,
 },{
-    name: "Google公共库>>360公共库",
+    name: "Google公共库 >> 360公共库",
     from: /^http:\/\/(.*?)googleapis\.com\/(.*)$/i,
     to: "http://$1useso.com/$2",
     regex: true
 },{
-    name: "科大博客提供 Google Fonts 加速-1",
+    name: "Google Fonts >> 科大博客",
     from: /^https:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
     to: "http://$1.lug.ustc.edu.cn/$2",
     regex: true
 },{
-    name: "科大博客提供 Google Fonts 加速-2",
+    name: "Google Themes >> 科大博客",
     from: /^https?:\/\/themes\.googleusercontent\.com\/(.*)$/i,
     to: "http://google-themes.lug.ustc.edu.cn/$1",
     regex: true
 },{
-    name: "Google统计脚本的正常使用",
+    name: "Google统计脚本 >> mingto.tk",
     from: /^https?:\/\/(.*?)google-analytics\.com\/(.*)$/i,
     to: "http://www.minggo.tk/etc/$2",
     regex: true
 },{
-    name: "Google Tag Services",
+    name: "Google Tag Services >> mingto.tk",
     from: /^https?:\/\/(.*?)googletagservices\.com\/tag\/js\/(.*)$/i,
     to: "http://www.minggo.tk/etc/$2",
     regex: true
 },{
-    name: "Gravatar头像>>多说",
+    name: "Gravatar头像 >> 多说",
     from: /^https?:\/\/([0-9]?)\.gravatar\.com\/avatar\/(.*)$/i,
     to: "http://gravatar.duoshuo.com/avatar/$2",
     regex: true
 },	{
     // 包含手机版界面
-    name: "百度随心听（音质改320）",
+    name: "百度随心听音质 >> 320p",
     from: /^http:\/\/music\.baidu\.com\/data\/music\/fmlink(.*[&\?])rate=[^3]\d+(.*)/i,
     to: "http://music.baidu.com/data/music/fmlink$1rate=320$2",
     regex: true
 },{
-    name: "uso重定向至uso-mirror",
+    name: "uso >> uso-mirror",
     from: /^https?:\/\/userscripts\.org(:8080)?\/(.*)/i,
     to: "http://userscripts-mirror.org/$1",
     regex: true
 },{
-   name: "Google.com To Google NCR",
+   name: "Google.com  >>  Google NCR",
    from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
    to: 'https://www.google.com/ncr',
    regex: true,
 },{
-    name: "google转https",
+    name: "【https】google",
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
     exclude: /google\.cn/i,  // 可选，排除例外规则
     to: "https://$1",
     regex: true
 },{
-    name: "wiki media转https",
+    name: "【https】Wiki Media",
     from: /^http:\/\/upload\.wikimedia\.org\/(.*)$/i,
     to: "https://upload.wikimedia.org/$1",
     regex: true
 },{
-    name: "Googlecode转https",
+    name: "【https】Google Code",
     from: /^http:\/\/(.*?)googlecode\.com\/(.*)$/i,
     to: "https://$1googlecode.com/$2",
     regex: true
 },{
-    name: "GoogleUserContent转https",
+    name: "【https】Google User Content",
     from: /^http:\/\/(.*?)googleusercontent\.com\/(.*)$/i,
     to: "https://$1googleusercontent.com/$2",
     regex: true
 },{
-    name: "cam4s转https",
+    name: "【https】cam4s",
     from: /^http:\/\/edgecast\.cam4s\.com\/(.*)$/i,
     to: "https://edgecast.cam4s.com/$1",
     regex: true
 },{
-    name: "williamgates转https",
+    name: "【https】williamgates",
     from: /^http:\/\/t\.williamgates\.net\/(.*)$/i,
     to: "https://t.williamgates.net/$1",
     regex: true
 },{
-    name: "tumblr转https",
+    name: "【https】tumblr",
     from: /^http:\/\/(.*?)tumblr\.com\/(.*)$/i,
     to: "https://$1tumblr.com/$2",
     regex: true
 },{
-    name: "5isotoi5转https",
+    name: "【https】5isotoi5",
     from: /^http:\/\/76\.164\.232\.67\/(.*)$/i,
     to: "https://76.164.232.67/$1",
     regex: true
