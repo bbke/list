@@ -38,12 +38,18 @@ rules = [{
     from: /^https?:\/\/([0-9]?)\.gravatar\.com\/avatar\/(.*)$/i,
     to: "http://gravatar.duoshuo.com/avatar/$2",
     regex: true
+},	{
+    // 包含手机版界面
+    name: "百度随心听（音质改320）",
+    from: /^http:\/\/music\.baidu\.com\/data\/music\/fmlink(.*[&\?])rate=[^3]\d+(.*)/i,
+    to: "http://music.baidu.com/data/music/fmlink$1rate=320$2",
+    regex: true
 },{
     name: "uso重定向至uso-mirror",
-    from: /^https?:\/\/userscripts.org\/(.*)/i,
+    from: /^https?:\/\/userscripts\.org(:8080)?\/(.*)/i,
     to: "http://userscripts-mirror.org/$1",
     regex: true
- },{
+},{
    name: "Google.com To Google NCR",
    from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
    to: 'https://www.google.com/ncr',
