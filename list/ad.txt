@@ -4212,6 +4212,17 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+sohu.com##.m_ad
+lysq.com##.tac.mb5
+lysq.com##DIV[id^="ads_r_"]
+lysq.com##.threadInfo + TABLE[style="table-layout:fixed;"]
+lysq.com##.tac[style="border-top:1px dotted #ddd;line-height:1;"]
+lysq.com###leftDiv
+lysq.com###main + .GM_960
+lysq.com###main > .view-hover
+lysq.com###rightDiv
+lysq.com##.GM_gridC + .GM_960
+lysq.com##.view-hover + .GM_960 > .GM_gridC
 dl-l-tax.gov.cn##DIV[id^="clip"]
 hao.360.cn###j-mall-hotsale
 hao.360.cn###j-mall-reco
