@@ -1936,7 +1936,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||bestxl.com/langzi/0403/ld.jpg
 ||bf1.7m.cn/b/
 ||bf2.7m.cn/b/
-||bf2.zzc.cn/b/live_b
 ||bforu.info/03.jpg
 ||bh111.com/js/tan_center.js
 ||big-cup.tv/uploads/banner/
@@ -4210,10 +4209,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||qhimg.com/static/5dcd236fc857be9c,fe9fa6060f6b330f.js
 ||dl-l-tax.gov.cn/js/2floating.js
 ||gucheng.com/2013/you1010-1111.gif
+||zzc.cn/b/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+haotui.com##.con-recom
+bt.ktxp.com##.right > A[href$="?/ad/ad-from-2"]
+bt.ktxp.com##.right > A[href="http://www.kkkmh.com/?ktxp"]
 sohu.com##.m_ad
 gucheng.com##.n_fy500300
 gucheng.com##.n_fy_580300
