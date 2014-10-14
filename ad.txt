@@ -4214,10 +4214,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||265g.com/images/201410/201410140900407711.jpg
 ||qiqibudy.com/js/*.gif
 ||gimhoy.com/201404/cute.jpg
+||prettyvirgin.com/images/banners/
+||prettyvirgin.com/js/show.html
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+weather.com.cn##DIV[id^="adpos"]
+gdzjdaily.com.cn##.big_news + DIV
+gdzjdaily.com.cn##.headBg + TABLE + TABLE[width="980"]
 xilu.com##.banner_bg
 cheshi.com##DIV[id^="ad_pos_"]
 taiwan.cn##DIV[style*="height:250px;padding:5px 17px 5px 18px;"]
