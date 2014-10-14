@@ -2211,7 +2211,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||dmfans.net/template/haokandemanhhua/images/g_js/
 ||dn-safe.qbox.me/wp-content/themes/HotNewspro/images/a.gif
 ||dnwx.com*/ad$image
-||dnwx.com/pic/*_978x60-2.gif
+||dnwx.com/pic/lg.gif
+||dnwx.com/pic/*_978x
 ||dnwx.com/pic_ad/
 ||do189.com/zb_users/theme/duoyi/style/images/*.gif
 ||docin.com/app/a_d/
@@ -4217,6 +4218,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+xilu.com##.banner_bg
+cheshi.com##DIV[id^="ad_pos_"]
 taiwan.cn##DIV[style*="height:250px;padding:5px 17px 5px 18px;"]
 fyjs.cn##DIV[style="width:336px;height:280px;float:right;background:#FFF;"]
 gimhoy.com##.advert + DIV[class]:not(.post-content)
