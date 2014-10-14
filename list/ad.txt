@@ -4212,10 +4212,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||gucheng.com/2013/you1010-1111.gif
 ||zzc.cn/b/
 ||firefox.com.cn/gfox/ad/
+||265g.com/images/201410/201410140900407711.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+37.com##.cross
+37.com##.moduel-pub
+37.com##.top-flash
+131458.com##.ulfooter_top
 131458.com##.guanggao
 jq.131458.com##.soso_02
 131.com##div[style="position:fixed;bottom:0;right:0;"]
