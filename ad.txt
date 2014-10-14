@@ -281,7 +281,6 @@ tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 ||510599.com^$third-party
 ||5151ad.com^$third-party
 ||51link.com^$third-party
-||51wan.com^$third-party,domain=~qqopenapp.com|~qzoneapp.com|~tqapp.cn|~twsapp.com
 ||523688.com^$third-party
 ||52lover.info^$third-party
 ||54kefu.net^$third-party
@@ -457,7 +456,6 @@ tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 ||kuqi.com^$third-party
 ||levei.cc^$third-party
 ||lianjie.phpwind.com^$third-party
-||linekong.com^$third-party
 ||link.ad966.com^$third-party
 ||lm.35.com^$third-party
 ||log.hiiir.com^
@@ -4219,6 +4217,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+taiwan.cn##DIV[style*="height:250px;padding:5px 17px 5px 18px;"]
+fyjs.cn##DIV[style="width:336px;height:280px;float:right;background:#FFF;"]
 gimhoy.com##.advert + DIV[class]:not(.post-content)
 37.com###gg_right_mid
 37.com##.cross
