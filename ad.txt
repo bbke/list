@@ -4222,6 +4222,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||qiyipic.com/zongyi/fix/runningman20141008_bg03.jpg
 ||heshan.gov.cn/JS/ddgg.js
 ||sinaimg.cn/large/ed5e6a1djw1el85wjziclg20r803cq51.gif
+||hackbase.com/vip/topbanner.html
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -6850,6 +6851,8 @@ house.shangdu.com#@#.top_ad
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@||briian.com/advert.
+@@||baidu.com/js/m.js$domain=baidu.baomihua.com|baidu.ku6.com|baidu.hz.letv.com|baidu.yinyuetai.com|baidu.56.com|baidu.pptv.com|baidu.v.ifeng.com|baidu.video.sina.com|baidu.v1.cn|baidu.v.126.net|baidu.hd.baofeng.com|baidu.kankanews.com
+@@||cb.baidu.com/ecom?di=975061&
 @@||cb.baidu.com/ecom?$domain=play.yue365.com
 @@||cbjs.baidu.com/js/s.js$domain=play.yue365.com
 @@&ad_width=810&$domain=jd.com
@@ -7141,7 +7144,7 @@ house.shangdu.com#@#.top_ad
 @@||union.bokecc.com/servlet/getvideofile?
 @@||unisharp.com/images/ad.jpg
 @@||v.rbc.cn/ad/
-@@||v1.cn/player/cloud/cloud_player.swf?
+@@||v1.cn/player/cloud/cloud_player
 @@||veimg.cn/adimg/
 @@||veimg.cn/AdsShow/
 @@||video.appledaily.com.hk/admedia/$object-subrequest
