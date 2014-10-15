@@ -9,12 +9,12 @@ rules = [{
     regex: true,
     satte:true,
 },{
-    name: "Google公共库 >> 360公共库",
+    name: "Google公共库 http >> 360公共库",
     from: /^http:\/\/(.*?)googleapis\.com\/(.*)$/i,
     to: "http://$1useso.com/$2",
     regex: true
 },{
-    name: "Google Fonts >> 科大博客",
+    name: "Google Fonts https >> 科大博客",
     from: /^https:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
     to: "http://$1.lug.ustc.edu.cn/$2",
     regex: true
@@ -22,6 +22,11 @@ rules = [{
     name: "Google Themes >> 科大博客",
     from: /^https?:\/\/themes\.googleusercontent\.com\/(.*)$/i,
     to: "http://google-themes.lug.ustc.edu.cn/$1",
+    regex: true
+},{
+    name: "Google fonts-gstatic >> 科大博客",
+    from: /\:\/\/fonts\.gstatic\.com\/(.*)$/,
+    to: "://fonts-gstatic.lug.ustc.edu.cn/$1",
     regex: true
 },{
     name: "Google统计脚本 >> mingto.tk",
@@ -38,7 +43,7 @@ rules = [{
     from: /^https?:\/\/([0-9]?)\.gravatar\.com\/avatar\/(.*)$/i,
     to: "http://gravatar.duoshuo.com/avatar/$2",
     regex: true
-},	{
+},{
     // 包含手机版界面
     name: "百度随心听音质 >> 320p",
     from: /^http:\/\/music\.baidu\.com\/data\/music\/fmlink(.*[&\?])rate=[^3]\d+(.*)/i,
@@ -84,6 +89,11 @@ rules = [{
     name: "【https】williamgates",
     from: /^http:\/\/t\.williamgates\.net\/(.*)$/i,
     to: "https://t.williamgates.net/$1",
+    regex: true
+},{
+    name: "【https】imgur",
+    from: /^http:\/\/(.*?)imgur\.com\/(.*)$/i,
+    to: "https://$1imgur.com/$2",
     regex: true
 },{
     name: "【https】tumblr",
