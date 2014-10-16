@@ -244,7 +244,6 @@ tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
 ||114lm.com^$third-party
 ||115.238.103.82^$third-party
 ||116b.com^$third-party
-||1188.com^$third-party
 ||11l11.net^$third-party
 ||122.com.tw^$third-party
 ||12291.com^$third-party
@@ -879,6 +878,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||1188.com^$third-party
 ||show.kc.taotaosou.com^
 /adscpv/*
 /AShow.aspx?AID=
@@ -4233,10 +4233,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||sinacn.net/INC/tu1.js
 ||jtimg.com/beauty/nowater/201408/101124358.jpg
 ||vc52.cn/data/attachment/forum/201407/28/115351zb26p62jojh6oo49.gif
+/modules/46/js/*$domain=mzyfz.com
+||donews.com/special/yixin/a_scene.swf
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+donews.com##.pic1area
+donews.com##.picarea
+cnmo.com##.hezuo_tui
+mzyfz.com##.gov_article_banner
 ce.cn##.advert
 qianlong.com##.ad1
 autohome.com.cn###ad_fbutton_00
