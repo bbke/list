@@ -48,6 +48,11 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||videowood.tv/pop2
 ||analytics.163.com^
 ||hotvrs.js.tv.itc.cn^
+||js.users.51.la^
+||dup.baidustatic.com^
+||pos.baidu.com^
+||eclick.baidu.com^
+||wrating.com^$third-party
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
@@ -4243,10 +4248,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||morningpost.com.cn/2014/0816/1408174809922.gif
 ||chengruide.com/js/union_junshiqu.js
 ||ddooo.com/ddjs/
+||bx0635.com/tx/vip.gif
+||52solution.com/js/duilian-bbs.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+52solution.com##.adv
+52solution.com##.adv-hb
+52solution.com##.adv-lb
+52solution.com##.adv-sq
 junshiqu.com###ad2
 cb.com.cn##.ad_dob
 cb.com.cn##.chbox_r_ad
