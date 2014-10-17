@@ -52,6 +52,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||pos.baidu.com^
 ||eclick.baidu.com^
 ||wrating.com^$third-party
+||qpic.cn^$domain=www.ithome.com
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
@@ -4251,6 +4252,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cfanz.cn##.ad
+zhidao.baidu.com##.optimus
 52solution.com##.adv
 52solution.com##.adv-hb
 52solution.com##.adv-lb
