@@ -94,7 +94,6 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tb1.bdstatic.com/tb/static-common/lib/hourglass_*.js
 ||tb1.bdstatic.com/tb/static-pb/widget/pb_track/pb_track.js
 ||tb1.bdstatic.com/tb/static-frs/img/icon_bright/guessing.png?*
-||tb2.bdstatic.com/tb/static-frs/img/frs_bright/*
 ||tb2.bdstatic.com/tb/static-pb/img/save_face/*
 ||tb2.bdstatic.com/tb/static-pb/img/tshow_*.gif
 ||tb2.bdstatic.com/tb/static-pb/img/voice_ad.gif
