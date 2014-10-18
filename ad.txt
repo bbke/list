@@ -3626,7 +3626,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||sinaimg.cn/cj/dfz_ad/
 ||sinaimg.cn/large/$domain=360-bo.com|360bo.cc|kiees.cn|kqiuba.com|lueqiu.com|pptiyu.com|qqzhibo.net
 ||sinaimg.cn/large/*?$domain=zhaofuli.net
-||sinaimg.cn/large/7044f931gw1ejiv61vggsg20qy0230xd.gif
 ||sinaimg.cn/large/710c121btw1ecexo6z2e2j20qe02ijrz.jpg
 ||sinaimg.cn/large/710c121btw1ecexp4p1d1j20qe02i74t.jpg
 ||sinaimg.cn/large/adde8400gw1ehkji88zq1j20tg01ot9j.jpg
@@ -3671,7 +3670,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||slit.cn/slgg/
 ||slit.cn/slimages/
 ||smzy.com/newjava/*970.js
-||smzy.com/newtaip/smzy*.js
+||smzy.com/newtaip/webtg
 ||so100.cn/images/a*.js
 ||so100.cn/images/newshead.htm
 ||soaspx.com/images/hws.gif
@@ -4254,10 +4253,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||xz7.com/js/jctj.js
 ||xz7.com/js/top2.js
 ||xz7.com/js/xia
+||haoring03.com/ads/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tsdm.net##TD[colspan="5"]:first-child:last-child
+hao123.com###ecom
 office68.com##.ggad
 yaolan.com###AD
 21yq.com###AD1
@@ -4849,7 +4851,7 @@ xdowns.com###part_1
 hefei.cc###pb_sm_l
 jump.bdimg.com,tieba.baidu.com###pc2client
 ithome.com,win7china.com,win8china.com###pc_c
-tsdm.net###pgt + div > p
+tsdm.net##A[href="http://dmf8.taobao.com"]
 bbs.houdao.com,paipai.fm,paipaitxt.com###pic_div
 sina.com.cn###pip_taobao
 cwyuni.tw,pixnet.net###pixblogad
