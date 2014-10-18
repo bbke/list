@@ -53,6 +53,8 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||eclick.baidu.com^
 ||wrating.com^$third-party
 ||qpic.cn^$domain=www.ithome.com
+||i.match.qq.com^
+||js.aq.qq.com^
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
@@ -63,6 +65,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 @@*/tb/_/audio_player_*.js
 */tb/_/aside_float_bar_*.js
 */tb/_/game_frs_head_*.js
+*/tb/_/tshow_out_date_warn_*.js
 ||xiu8.com
 ||cb.baidu.com^
 ^monitor.jpg?xcode^
@@ -71,7 +74,9 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||nsclick.baidu.com
 ||wanba.baidu.com
 ||api.share.baidu.com
+||img.live.yy.com/avatar/*
 ||share.baidu.com/static/js/*
+||image.yy.com/yysnapshot/*
 ||img.baidu.com/hunter/alog/*
 ||imgsrc.baidu.com/tieba/pic/item/*
 ||bdimg.share.baidu.com/static/css/*
@@ -82,6 +87,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tieba.baidu.com/tb/static-frs/img/icon_bright/*
 ||tieba.baidu.com/tb/static-common/img/props/*
 ||tieba.baidu.com/tb/static-comforum/img/history_game/*
+||static.tieba.baidu.com/tb/pms/*
 ||static.tieba.baidu.com/tb/img/pv.gif?*
 ||static.tieba.baidu.com/tb/img/track.gif?*
 ||bdstatic.com/tb/static-common/img/card/*
@@ -100,6 +106,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tb2.bdstatic.com/tb/static-frs/img/icon_bright/*
 ||tb2.bdstatic.com/tb/static-common/img/props/*
 ||tb2.bdstatic.com/tb/static-ihome/widget/onekey_sign/*
+||tb2.bdstatic.com/tb/static-encourage/widget/firework/*
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 
 ! Part2 隐藏一些内容
@@ -135,6 +142,8 @@ tieba.baidu.com##.u9_head
 tieba.baidu.com##.nav_icon.nav_achieve
 tieba.baidu.com##.thread_recommend
 tieba.baidu.com###forum_recommend
+tieba.baidu.com###spage_liveshow_slide
+tieba.baidu.com##.icon_yyshow
 ! 右上角
 tieba.baidu.com##.u_mobile
 tieba.baidu.com##.u_tbmall
