@@ -31,7 +31,6 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||connect.facebook.net^
 ||platform.twitter.com/widgets.js
 ##FONT.jammer
-*/d2/s.ashx$domain=www.baidu.com
 ||google-analytics.com^
 ||tjs.sjs.sinajs.cn/open/analytics/*
 ||file.ithome.com/js/wap/common.js
