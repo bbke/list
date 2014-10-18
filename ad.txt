@@ -1178,7 +1178,7 @@ hk.yahoo.com###mntl1
 ||zp265.com^$third-party
 !---------------------------Popups--------------------------------------------!
 .com/?Intr=$popup
-/?ref=$popup,domain=allanalpass.com|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
+/?ref=$popup,domain=allanalpass.com|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /pushstart.aspx?$popup,third-party
 |http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|mimima.com|rmdown.com|see3r.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com
 ||133gp.com^$popup
@@ -3878,7 +3878,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||upload.northnews.cn/2013/1028/1382943429869.jpg
 ||uploadhouse.com/fileuploads/16891/*.gif
 ||uploadhouse.com/fileuploads/16920/*.jpg
-||usa.bytravel.cn/images/cus/
+||bytravel.cn/images/cus/
 ||uutv5.com/xz.gif
 ||uutv5.com/zy/
 ||uuu9.com/news/css/news_content_in.js
@@ -4254,10 +4254,18 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||xz7.com/js/top2.js
 ||xz7.com/js/xia
 ||haoring03.com/ads/
+||1pxpx.net/BOJS/
+||ppsj.com.cn/ppsj728.gif
+||bytravel.cn/images/t/usa_250_120.gif
+||tcmap.com.cn/js/b_
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tsdm.net###content_box_300250
+tsdm.net###content_box_60090
+tsdm.net###content_box_72890
+tsdm.net##DIV[style="border:1px #BFE6F4 solid;width:960px;height:90px;margin:0 auto;"]
 tsdm.net##TD[colspan="5"]:first-child:last-child
 hao123.com###ecom
 office68.com##.ggad
