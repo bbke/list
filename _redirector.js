@@ -44,7 +44,12 @@ rules = [{
     to: "http://gravatar.duoshuo.com/avatar/$2",
     regex: true
 },{
-    // 包含手机版界面
+    name:"Greasyfork >> zh-CN",
+    state:true,
+    from:/^https:\/\/greasyfork\.org\/scripts\/(.*)/,
+    to:"https://greasyfork.org/zh-CN/scripts/$1",
+    regex:true
+},{
     name: "百度随心听音质 >> 320p",
     from: /^http:\/\/music\.baidu\.com\/data\/music\/fmlink(.*[&\?])rate=[^3]\d+(.*)/i,
     to: "http://music.baidu.com/data/music/fmlink$1rate=320$2",
