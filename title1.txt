@@ -1,0 +1,8 @@
+[Adblock]
+
+! Title: My AdFilters
+! Expires: 4 hours
+
+!本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
+!欢迎补充规则，贴吧ID：523860169
+
