@@ -60,6 +60,12 @@ rules = [{
     to: "http://userscripts-mirror.org/$1",
     regex: true
 },{
+    name: "AcFun",
+    from: /^http:\/\/www\.acfun\.tv\/v\/ac(.*)$/i,
+    exclude: /acfun\.tv\/v\/ac(.*)#txt-title-view/i,  // 可选，排除例外规则
+    to: "http://www.acfun.tv/v/ac$1#txt-title-view",
+    regex: true
+},{
    name: "Google.com  >>  Google NCR",
    from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
    to: 'https://www.google.com/ncr',
