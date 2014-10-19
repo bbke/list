@@ -11,6 +11,7 @@
   <subscription title="国外源" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
     <variants>
       <variant title="My AdFilters" url="https://raw.githubusercontent.com/523860169/list/master/ad.txt"/>
+      <variant title="My AdFilters Lite" url="https://raw.githubusercontent.com/523860169/list/master/ad2.txt"/>
       <variant title="[proxy]GFWList" url="https://raw.githubusercontent.com/523860169/list/master/gfwlist.txt" complete="true"/>
       <variant title="[proxy]Filters" url="https://raw.githubusercontent.com/523860169/list/master/proxy-list.txt"/>
     </variants>
@@ -20,6 +21,7 @@
       <variant title="iFL" url="https://code.csdn.net/i_square/i/blob/master/iFL.txt" complete="true"/>
       <variant title="easylistchina" url="https://easylist-downloads.adblockplus.org/easylistchina.txt" complete="true"/>
       <variant title="cjxlist" url="http://cjxlist1.googlecode.com/svn/cjxlist.txt"/>
+      <variant title="xwhycadblock" url="http://bbs.theworld.cn/attachment.php?aid=MTE0NDQ4fDUyZjc3Mjc3fDEzOTc5MTM1OTh8NDczMHBuYytiNk1yR0dQa2lqdGFyOXg1R29QNEVaUjJoYTNIb0U4bXFHeVM0eGM%3D"/>
     </variants>
   </subscription>
 </subscriptions>
