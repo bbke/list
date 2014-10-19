@@ -62,7 +62,7 @@ rules = [{
 },{
     name: "AcFun",
     from: /^http:\/\/www\.acfun\.tv\/v\/ac(.*)$/i,
-    exclude: /acfun\.tv\/v\/ac(.*)#txt-title-view/i,  // 可选，排除例外规则
+    exclude: /acfun\.tv\/v\/ac(.*)#txt-title-view/i,
     to: "http://www.acfun.tv/v/ac$1#txt-title-view",
     regex: true
 },{
@@ -73,7 +73,7 @@ rules = [{
 },{
     name: "【https】google",
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
-    exclude: /google\.cn/i,  // 可选，排除例外规则
+    exclude: /google\.cn/i,
     to: "https://$1",
     regex: true
 },{
