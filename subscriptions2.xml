@@ -3,6 +3,7 @@
   <subscription title="国内源" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
     <variants>
       <variant title="My AdFilters" url="http://git.oschina.net/halflife/list/raw/master/ad.txt"/>
+      <variant title="My AdFilters Lite" url="http://git.oschina.net/halflife/list/raw/master/ad2.txt"/>
       <variant title="[proxy]GFWList" url="http://git.oschina.net/halflife/list/raw/master/gfwlist.txt" complete="true"/>
       <variant title="[proxy]Filters" url="http://git.oschina.net/halflife/list/raw/master/proxy-list.txt"/>
     </variants>

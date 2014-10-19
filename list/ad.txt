@@ -6,6 +6,7 @@
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !欢迎补充规则，贴吧ID：523860169
 
+
 tieba.baidu.com##DIV[style="display: block; bottom: 0px;"]
 ||bdimg.share.baidu.com/static/js/*
 ||bdimg.share.baidu.com/static/api/js/*
@@ -57,6 +58,8 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||member.jschina.com.cn/AD*
 ||static.pay.baidu.com^
 ||cnzz.com^$third-party
+
+
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
@@ -219,7 +222,8 @@ tieba.baidu.com##.fMember_cnt
 tieba.baidu.com##.u_joinvip
 tieba.baidu.com###encourage_entry
 tieba.baidu.com##.content_top
-tieba.baidu.com##.save_face_bg!*** chinalist-adservers.txt ***
+tieba.baidu.com##.save_face_bg
+!*** chinalist-adservers.txt ***
 !189.cn
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party
@@ -7324,7 +7328,8 @@ house.shangdu.com#@#.top_ad
 ||youdao.com/ctlog?
 ||youdao.com/tl?
 ||zol.com.cn/cgimp/zc.js
-!----------------------------------The End------------------------------------!! Expires: 4 days (update frequency)
+!----------------------------------The End------------------------------------!
+! Expires: 4 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-1674209-1-1.html
 &ad_type=
 &ad_url=
