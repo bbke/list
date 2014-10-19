@@ -219,7 +219,8 @@ tieba.baidu.com##.fMember_cnt
 tieba.baidu.com##.u_joinvip
 tieba.baidu.com###encourage_entry
 tieba.baidu.com##.content_top
-tieba.baidu.com##.save_face_bg!  --tw6 filters by xwhyc----3018---------------------------
+tieba.baidu.com##.save_face_bg
+!  --tw6 filters by xwhyc----3018---------------------------
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com
 @@|http://*.org/admin$image
 @@|http://*/ad_js.php?aid=10004
