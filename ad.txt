@@ -2157,7 +2157,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||copy.ousns.com^
 ||cosersuki.org/2013/03/20140515091120.jpg
 ||cosersuki.org/2014/06/manjidi-ad.jpg
-||cp.ifeng.com/iframe/toquickbet
+||ifeng.com/iframe/toquickbet
 ||cpbl-elta.cdn.hinet.net/assets/images/banner-
 ||cqfishing.net/data/attachment/portal/
 ||cqnews.net:8080/vplayerAdv/
@@ -4287,11 +4287,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||10000sb.com/4gbct.js
 ||121down.com/img/*.html
 ||alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
+||img.3sjt.com^
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ifeng.com###picAdposition
 tw116.com###t365
+finance.ifeng.com###box_img
 baidu.com###ad_xbox_1
 baidu.com###ad_xbox_2
 baidu.com###ad_xbox_3
