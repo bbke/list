@@ -4291,6 +4291,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tw116.com###t365
+baidu.com###ad_xbox_1
+baidu.com###ad_xbox_2
+baidu.com###ad_xbox_3
+baidu.com###couplet-left
+baidu.com###couplet-right
 warting.com##.ad_155x155
 warting.com##.top_ad2
 warting.com##.top_index_ad
@@ -6940,6 +6946,7 @@ house.shangdu.com#@#.top_ad
 17ppt.com#@#.topads
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||gg.woniu.com^$domain=snail.com
 @@||down.cc/down/js/ad.js
 @@&ad_width=810&$domain=jd.com
 @@,modules/adMedia.
