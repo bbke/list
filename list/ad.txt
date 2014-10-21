@@ -4302,10 +4302,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||etest8.com/style/full_floating.js
 ||etest8.com/style/950x90_2.js
 ||ld0766.com/2014/
+||nownews.com/include_house/product.html
+||nownews.com/events/sean/estateap/
+||ltshu.net/api.php?mod=js&
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+121ask.com##.downmain1
 libaclub.com###adsame
 aitxt.com###banner
 redocn.com###category_detail_adv
