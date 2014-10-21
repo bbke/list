@@ -60,10 +60,20 @@ rules = [{
     to: "http://userscripts-mirror.org/$1",
     regex: true
 },{
+   name: "Google.com  >>  Google NCR",
+   from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
+   to: 'https://www.google.com/ncr',
+   regex: true,
+},{
+    name: "百度贴吧|百科 原始大图",
+    from: /http:\/\/(imgsrc|[\w]?\.hiphotos)\.baidu\.com\/(forum|baike)\/[\w].+\/sign=[^\/]+(\/.*).jpg/i,
+    to: "http://$1.baidu.com/$2/pic/item$3.jpg",
+    regex: true
+},{
     name: "AcFun",
-    from: /^http:\/\/www\.acfun\.tv\/v\/ac(.*)$/i,
-    exclude: /acfun\.tv\/v\/ac(.*)#txt-title-view/i,  // 可选，排除例外规则
-    to: "http://www.acfun.tv/v/ac$1#txt-title-view",
+    from: /^http:\/\/www\.acfun\.tv\/v\/a(.*)$/i,
+    exclude: /acfun\.tv\/v\/a(.*)#txt-title-view/i,  // 可选，排除例外规则
+    to: "http://www.acfun.tv/v/a$1#txt-title-view",
     regex: true
 },{
     name: "BiliBili",
@@ -71,11 +81,6 @@ rules = [{
     exclude: /bilibili\.com\/video\/av(.*)#alist/i,  // 可选，排除例外规则
     to: "http://www.bilibili.com/video/av$1#alist",
     regex: true
-},{
-   name: "Google.com  >>  Google NCR",
-   from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
-   to: 'https://www.google.com/ncr',
-   regex: true,
 },{
     name: "【https】google",
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
