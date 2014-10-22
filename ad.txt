@@ -4310,10 +4310,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||52pk.com/jkjs/imp-
 ||icnkr.com/cnkradv/
 ||cilook.net/cilookinc/isee5_950x60.gif
+||yyets.com/ads/bd-
+||yyets.com/ads/ga-
+||yyets.com/ads/tb-
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+xineurope.com##.adbox
+lnzq5.com##.log_ada
+life.com.tw###googleAdIndexTop
 icnkr.com##.newsmainbox_midder_top
 mei521.com##.fs_ad
 xinhuanet.com##.gg1
