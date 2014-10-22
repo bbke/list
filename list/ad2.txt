@@ -113,6 +113,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tb2.bdstatic.com/tb/static-common/img/props/*
 ||tb2.bdstatic.com/tb/static-ihome/widget/onekey_sign/*
 ||tb2.bdstatic.com/tb/static-encourage/widget/firework/*
+||tb2.bdstatic.com/tb/static-encourage/widget/global_notice/*
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 
 ! Part2 隐藏一些内容
@@ -150,6 +151,8 @@ tieba.baidu.com##.thread_recommend
 tieba.baidu.com###forum_recommend
 tieba.baidu.com###spage_liveshow_slide
 tieba.baidu.com##.icon_yyshow
+tieba.baidu.com##.firework_sender_wrap
+tieba.baidu.com###global_notice_wrap
 ! 右上角
 tieba.baidu.com##.u_mobile
 tieba.baidu.com##.u_tbmall
