@@ -55,8 +55,6 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||static.pay.baidu.com^
 ||cnzz.com^$third-party
 ||tb1.bdstatic.com/tb/static-common/js/pic_share/*
-||tb1.bdstatic.com/tb/static-props/component/guide/*
-||tieba.baidu.com/tb/zt/spread/*
 ||tieba.baidu.com/zhibo/*
 ||vs-static.baidu.com/edu/tieba/*
 ||jiaoyu.baidu.com/tieba/*
