@@ -55,8 +55,6 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||static.pay.baidu.com^
 ||cnzz.com^$third-party
 ||tb1.bdstatic.com/tb/static-common/js/pic_share/*
-||tieba.baidu.com/zhibo/*
-||vs-static.baidu.com/edu/tieba/*
 ||jiaoyu.baidu.com/tieba/*
 
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
