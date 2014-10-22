@@ -55,8 +55,6 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||static.pay.baidu.com^
 ||cnzz.com^$third-party
 ||tb1.bdstatic.com/tb/static-common/js/pic_share/*
-||tieba.baidu.com/zhibo/*
-||vs-static.baidu.com/edu/tieba/*
 ||jiaoyu.baidu.com/tieba/*
 
 ! 本规则分为屏蔽规则和隐藏规则，前半部分为屏蔽规则，后半部分为隐藏规则
@@ -4316,10 +4314,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||yyets.com/ads/tb-
 ||guitarchina.com/1/ww2014
 ||90zy.cn/data/attachment/portal/
+||66rd.cn/pic/*1000.
+||chinafix.com.cn/data/attachment/portal/201409/22/155241di5o5rprppr5ii13.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+niwota.com###google_ad2
+niwota.com##DIV[style="width:365px;height:310px;border:0px solid #ccc;float:left; margin: 0px 10px 5px 0px;"]
+52life.cc##TABLE[style="margin-top:0"]
+66rd.cn##TABLE[width="1000"][height="70"]
 oigps.com##.tac.mb5
 0597kk.com##.mobile_download
 ihome99.com###J_jianban_first_floor
@@ -7030,7 +7034,7 @@ house.shangdu.com#@#.top_ad
 @@||gg.woniu.com^$domain=snail.com
 @@||down.cc/down/js/ad.js
 @@&ad_width=810&$domain=jd.com
-@@,modules/adMedia.
+@@||16888.com/dist/js/??
 @@.beautifulphoto.net/ads/music
 @@.cntv.cn/adplayer/
 @@.com/ad/$domain=x.jd.com
