@@ -4,7 +4,7 @@
 ! Expires: 4 hours
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
-!欢迎补充规则，贴吧ID：523860169
+!如有任何疑问、意见或建议，请反馈至：HalfLife吧
 
 
 ||bdimg.share.baidu.com/static/js/*
@@ -894,6 +894,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||offcn.com^$third-party
 ||91wan.com^$third-party
 ||twb98.com^$third-party
 /adscpv/*
@@ -3271,7 +3272,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||nvsheng.com/js/gg.js
 ||oa.hinews.cn/work/img/
 ||oeeee.com/static/js/AD2v1.1.js
-||offcn.com/qzzn/
 ||okbmf.com^*950_120.jpg
 ||on.cc/js/v2/iframe_ysm_
 ||onegreen.net/MyFile/
@@ -4320,9 +4320,11 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||pimg.tw/ifans/1399368662-4247048381.png
 ||pimg.tw/ifans/1413352479-2229183085.png
 /front/adv/getpmadvlist
+||qzzn.com/statics/
 ||microcontrol.cn/HomeImages/AD/
 ||microcontrol.cn/bbs/images/AD755_150.swf
 ||chinafix.com.cn/data/attachment/portal/201409/22/155241di5o5rprppr5ii13.jpg
+||90bifen.net/images/c_ad_
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!

@@ -4,7 +4,7 @@
 ! Expires: 4 hours
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
-!欢迎补充规则，贴吧ID：523860169
+!如有任何疑问、意见或建议，请反馈至：HalfLife吧
 
 
 ||bdimg.share.baidu.com/static/js/*
