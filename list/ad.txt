@@ -2171,7 +2171,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cs360.cn/js/search_zcw.js
 ||csdn.net/ggmm/
 ||ctrip.com/amd/2014/1/3/qz/qz180x320.jpg
-||cupid.qiyi.com/policy
 ||cwan.com/templets/shouye/misc/js/suspend.js
 ||cwan.com/templets/webgame/misc/js/indextip.js
 ||d.107788.com^
@@ -4341,6 +4340,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||firefoxchina.cn^*_couplet
 ||557xx.com/js/
 ||121.199.49.111/show.js
+/10jqka_info/html/ad_
+||cp126.com/888zr11.gif
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
