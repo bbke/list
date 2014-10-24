@@ -99,8 +99,11 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tb1.bdstatic.com/tb/cms/tbmall/*
 ||tb1.bdstatic.com/tb/cms/post/bubble/*
 ||tb2.bdstatic.com/tb/static-comforum/img/*
+||tb1.bdstatic.com/tb/static-frs/img/title_icon/*
 ||tb1.bdstatic.com/tb/static-common/lib/hourglass_*.js
+||tb1.bdstatic.com/tb/static-common/widget/ten_years/*
 ||tb1.bdstatic.com/tb/static-pb/widget/pb_track/pb_track.js
+||tb1.bdstatic.com/tb/static-encourage/widget/welfare_icon/*
 ||tb1.bdstatic.com/tb/static-frs/img/icon_bright/guessing.png?*
 ||tb2.bdstatic.com/tb/static-pb/img/save_face/*
 ||tb2.bdstatic.com/tb/static-pb/img/tshow_*.gif
@@ -111,6 +114,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tb2.bdstatic.com/tb/static-encourage/widget/firework/*
 ||tb2.bdstatic.com/tb/static-encourage/widget/global_notice/*
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
+||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 
 ! Part2 隐藏一些内容
 ! 推广
@@ -169,6 +173,7 @@ tieba.baidu.com##.userinfo_scores.clearfix
 tieba.baidu.com##.userinfo_appraise
 tieba.baidu.com##.dialogJmodal
 tieba.baidu.com##.nav_item
+tieba.baidu.com##.ihome_aside_section.ihome_aside_first
 ! 顶部
 tieba.baidu.com##.banner_post
 tieba.baidu.com###pb_adbanner
@@ -223,6 +228,7 @@ tieba.baidu.com##.u_joinvip
 tieba.baidu.com###encourage_entry
 tieba.baidu.com##.content_top
 tieba.baidu.com##.save_face_bg
+tieba.baidu.com##[class*="reward"]
 !*** chinalist-adservers.txt ***
 !189.cn
 ||189.cn/dns/
