@@ -31,12 +31,12 @@ rules = [{
 },{
     name: "Google统计脚本 >> mingto.tk",
     from: /^https?:\/\/(.*?)google-analytics\.com\/(.*)$/i,
-    to: "http://www.minggo.tk/etc/$2",
+    to: "http://www.minggo.tk/js/$2",
     regex: true
 },{
     name: "Google Tag Services >> mingto.tk",
     from: /^https?:\/\/(.*?)googletagservices\.com\/tag\/js\/(.*)$/i,
-    to: "http://www.minggo.tk/etc/$2",
+    to: "http://www.minggo.tk/js/$2",
     regex: true
 },{
     name: "Gravatar头像 >> 多说",
