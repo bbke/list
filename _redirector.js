@@ -70,15 +70,21 @@ rules = [{
     to: "http://$1.baidu.com/$2/pic/item$3.jpg",
     regex: true
 },{
-    name: "AcFun",
-    from: /^http:\/\/www\.acfun\.tv\/v\/a(.*)$/i,
-    exclude: /acfun\.tv\/v\/a(.*)#txt-title-view/i,  // 可选，排除例外规则
-    to: "http://www.acfun.tv/v/a$1#txt-title-view",
+    name: "AcFun - aa|ab",
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)(.*)$/i,
+    exclude: /acfun\.tv\/(a|v)\/a(.*)#(.*)/i,
+    to: "http://www.acfun.tv/$1/a$2$3#mainer",
+    regex: true
+},{
+    name: "AcFun - ac",
+    from: /^http:\/\/www\.acfun\.tv\/v\/ac(.*)$/i,
+    exclude: /acfun\.tv\/v\/a(.*)#(.*)/i,
+    to: "http://www.acfun.tv/v/ac$1#txt-title-view",
     regex: true
 },{
     name: "BiliBili",
     from: /^http:\/\/www\.bilibili\.com\/video\/av(.*)$/i,
-    exclude: /bilibili\.com\/video\/av(.*)#alist/i,  // 可选，排除例外规则
+    exclude: /bilibili\.com\/video\/av(.*)#(.*)/i,
     to: "http://www.bilibili.com/video/av$1#alist",
     regex: true
 },{
