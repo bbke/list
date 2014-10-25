@@ -452,7 +452,6 @@ tieba.baidu.com##[class*="reward"]
 ||ifocus.cn^$third-party
 ||ilepai.com^$third-party
 ||image.qndown.com^$third-party
-||instreet.cn^$third-party
 ||ishare.tw^$subdocument,third-party
 ||istreamsche.com^$third-party
 ||izptech.com^$third-party
@@ -900,6 +899,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||instreet.cn^$third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -3886,7 +3886,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||tianya.cn/images/ad950x90.jpg
 ||tibet.news.cn/zhuye/images/wangqun
 ||tieba.baidu.com/f/urlcheck?
-||tieba.lecai.com/page/zhuanti/baidu/
+||lecai.com/page/zhuanti/baidu/
 ||tietuku.com/0bb9bfe57636dc55.jpg
 ||tietuku.com/8e81aa8e5298383e.jpg
 ||tietuku.com^$domain=potplayer.org|xiaodaoyl.com
@@ -4251,7 +4251,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||ylnet.com.cn/inc/ad$subdocument
 ||ylyl.net/template/comiis_bato/ads/
 ||ylzx8.cn/style/js/sad.js
-||you85.cn/tt/
 ||youth.cn/templates/youth/edu/images/edu_atd.jpg
 ||youth.cn/templates/youth/edu/images/edu_xly.gif
 ||youthwant.com.tw/dodo.php?adjs=
@@ -4355,10 +4354,18 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||you85.cn^*/vip.js
+||you85.cn/taott/
+||enet.com.cn/eschool/includes/gdtup/tu6/slide.js
+||ddaa22.com/lenovo/pc/*.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+weibo.com###floatAd-left
+weibo.com###floatAd-right
+weibo.com##.topAd
+you85.cn##TABLE[width="980"]
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
