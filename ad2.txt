@@ -229,7 +229,7 @@ tieba.baidu.com###encourage_entry
 tieba.baidu.com##.content_top
 tieba.baidu.com##.save_face_bg
 tieba.baidu.com##[class*="reward"]
-!  --tw6 filters by xwhyc----2997---------------------------
+!  --tw6 filters by xwhyc----3053---------------------------
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com
 @@|http://*.org/admin$image
 @@|http://*/ad_js.php?aid=10004
@@ -1202,7 +1202,7 @@ tieba.baidu.com##[class*="reward"]
 |http://am15.net/sb.php?s=
 |http://aoodoo.feng.com/view.php?what=zone:41&n=
 |http://apas.aipai.com/www/delivery
-|http://api.cupid.qiyi.com/policy2?a=qc_100001_
+
 |http://ark.letv.com/*?vid=
 |http://ark.letv.com/t?mid=
 |http://as.0731fdc.com/AiShun/ads/
@@ -3212,10 +3212,61 @@ zol.com.cn##div.banner.mt,div.banner1.mt,div#rightAd,div#rightAdDiv1,div#right_b
 zol.com.cn##div[id^="Bar"][id$="_small"],div[id^="Bar"][id$="_big"],div.side-news,ul#soft-sj-rank.soft-list.clearfix
 ~bbs.theworld.cnxxxxxxxxxxxxxxxxxxx##div.ad960-90,div.ad-side,table.adtable,div.a_mu,div.a_h,ins.adsbygoogle,div.ad_pic,div#ggPar,div.wp.a_f,div.wp.a_t,div.a_pb,div.a_pt,div.a_pr,div#preAdContent,div.a_cn,div.bm.a_c
 
-|http://i2.tietuku.com/662f01a7384166ab.gif
+|http://i2.tietuku.com/$image,domain=potplayer.org
+|http://*.info/ad.js$script
+|http://*.info/ad7*.js$script
+|http://www.bforu.info/images/aoyou372down300_0618.jpg$image
+|http://www.bforu.info/03.jpg$image
+|http://www.bforu.info/images/ali.gif$image
+||twb98.com
+|http://gg.kugou.com
+|http://mvads.kugou.com/
+|http://ad.uuu9.com/
+|http://5y9nfpes.52pk.com/
+|http://www.shanhaimiwenlu.com/sh.js$script
+|http://www.xitongzhijia.net/theme/js/top.js$script
+|http://*/adservice/
+|http://*.com/ad-js/
+|http://*.cn/ad-js/
+|http://*/adUtils.js
+|http://img.wan.sogou.com/cdn/js/wmh_ad.js
+|http://p3.wan.sogoucdn.com/cdn/flash/201*.swf
+|http://tb1.bdstatic.com/tb/cms/com/mis/spreadad/dasense_iframe_api.js$script
+|http://*/9115gg/toubu.js$script
+@@|http://$domain=alibaba.com
+|http://www.cilook.net/cilookinc/isee5_950x60.gif$image
+|http://bbs.my5600.com/tw2233.js$script
+|http://50.7.98.226/$image
+|http://50.7.98.27/$image
+|http://v.beta.yinyuetai.com/swf/plugins_new.xml?t=
+|http://www.yinyuetai.com/proment/get-play-medias?json=true&position=
+||amazon-adsystem.com
+
+bbs.hupu.com##div#topPub
+aiku.me##div#bar_show_lm
+qiannao.com##div#yzjy_div
+52pk.com##div.adv.mt6
+www.yiihuu.com##div.popup-ad
+mini.sohu.com##div.blockRB
+xitongzhijia.net##p.articleads,div.top_banner,div#article_01,div.gbanner
+0597kk.com##div.ad-text,img[src^="http://pic.0597kk.com/pic/"],li.mobile_download
+6pingm.com##div.ad950,div.ad960
+www.slzww.com,www.cilook.net##iframe[src^="http://img.88rpg.net/html/click/"]
+henbt.com##div.clear.text_center
+www.9ifly.cn##div.wp.a_f
+tudou.com##div.ab_banner.ad_banner
 
 !------------------------需合并规则-----------------
-tieba.baidu.com##div#platform_left_float
+soso.com##div#promotion_adv_container.sponsored,div#leftbottomleadContainer.sponsored
+tieba.baidu.com##div.global_notice_wrap,a.j_firework_sender.firework_sender,div#platform_left_float
+www.baidu.com##&table[id^="400"],table[id^="500"]
+www.gezila.com##div.g300_250
+www.weiqitv.com##div.comment_right
+yyets.com##div#yyets_slide_ad
+baidu.com##div.res_top_banner
+www.baidu.com##SPAN.bg.s_btn_wr + SPAN.tools
+520xs.com##div.ad250left
+
 
 dianying.fm##DIV[id^="ad"]:not([style="height:90px;margin-botton:5px;"])
 www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
