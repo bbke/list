@@ -78,7 +78,7 @@ rules = [{
 },{
     name: "AcFun - ac",
     from: /^http:\/\/www\.acfun\.tv\/v\/ac(.*)$/i,
-    exclude: /acfun\.tv\/v\/a(.*)#(.*)/i,
+    exclude: /acfun\.tv\/v\/a(.*)#txt-title-view/i,
     to: "http://www.acfun.tv/v/ac$1#txt-title-view",
     regex: true
 },{
