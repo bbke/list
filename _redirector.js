@@ -71,25 +71,25 @@ rules = [{
     regex: true
 },{
     name: "AcFun - No #album",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/(.*)\#album(.*)$/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/(.*)\#album(.*)/i,
     to: "http://www.acfun.tv/$1/$2",
     regex: true
 },{
     name: "AcFun - aa|ab",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)(.*)$/i,
-    exclude: /acfun\.tv\/(a|v)\/a(a|b)(.*)#mainer(.*)/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)(.*)/i,
+    exclude: /acfun\.tv\/(a|v)\/a(a|b)(.*)#mainer/i,
     to: "http://www.acfun.tv/$1/a$2$3#mainer",
     regex: true
 },{
     name: "AcFun - ac",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac(.*)$/i,
-    exclude: /acfun\.tv\/(a|v)\/ac(.*)#txt-title-view(.*)/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac(.*)/i,
+    exclude: /acfun\.tv\/(a|v)\/ac(.*)#txt-title-view/i,
     to: "http://www.acfun.tv/$1/ac$2#txt-title-view",
     regex: true
 },{
     name: "BiliBili",
-    from: /^http:\/\/www\.bilibili\.com\/video\/av(.*)$/i,
-    exclude: /bilibili\.com\/video\/av(.*)#alist(.*)/i,
+    from: /^http:\/\/www\.bilibili\.com\/video\/av(.*)/i,
+    exclude: /bilibili\.com\/video\/av(.*)#alist/i,
     to: "http://www.bilibili.com/video/av$1#alist",
     regex: true
 },{
