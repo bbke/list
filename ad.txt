@@ -767,6 +767,7 @@ hk.yahoo.com###mntl1
 /proxy.htm?id=
 /proxy.html?id=
 /qpxl.js
+/show.js?sp=*&oid=
 /runtime/js/index960.js
 /source/plugin/mama_tips/*
 /static/adsview/*
@@ -897,6 +898,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||yqw88.com^
 ||xsu.cc^$third-party
 ||instreet.cn^$third-party
 ||cnxad.com^$third-party
@@ -1411,7 +1413,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||11dndn.com/java/
 ||11ffbb.com/java/
 ||120askimages.com/ask/js/m.js
-||121.199.49.111/show.js
 ||121down.com/img/*.html
 ||121down.com/js/*.html
 ||123cha.com/712381_com.gif
@@ -4359,6 +4360,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||enet.com.cn/eschool/includes/gdtup/tu6/slide.js
 ||ddaa22.com/lenovo/pc/*.js
 ||77qe.org/js/ads/
+||23us.com/images/code.png
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
