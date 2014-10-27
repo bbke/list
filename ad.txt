@@ -4376,6 +4376,11 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+hcwang.cn##.logo3
+hcwang.cn##.wz2
+hcwang.cn##.wz3
+hcwang.cn###diy111
+0598yu.com##[id^="ads_c_"]
 0743ds.com##.a_p
 03tt.cn##.yl5361_ad
 0743ds.com###comiis_ad00
@@ -6761,7 +6766,6 @@ ccidnet.com##div[id^="ad_dst"]
 cheshi.com##div[id^="ad_pos_"]
 weather.com.cn##div[id^="adpos"]
 cbmland.com##div[id^="ads_"]
-txzqw.com##div[id^="ads_c_"]
 mgbbs.cn,shangdu.com##div[id^="ads_d_"]
 chinayk.com,e0575.cn,eyuyan.com,lysq.com,tiboo.cn##div[id^="ads_r_"]
 fx678.com,xiancn.com,zhulang.com##div[id^="adv"]
@@ -6967,7 +6971,7 @@ zjol.com.cn##span.lqgg
 zjol.com.cn##span.qqt
 bbs.my0511.com##span.smalltxt
 bbs.xmfish.com##span[id^="ads"]
-e0575.cn##span[id^="ads_c_"]
+e0575.cn##[id^="ads_c_"]
 sina.com.cn##span[id^="cont-tanx-a-"]
 hkgolden.com##span[id^="lineImage"]
 my0511.com##table[bordercolor="#C0C0C0"][border="1"]
