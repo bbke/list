@@ -1060,7 +1060,6 @@ hk.yahoo.com###mntl1
 ||eiv.baidu.com^
 ||ejin56.com^$third-party
 ||emarbox.com^$third-party
-||ems183.cn^$third-party
 ||eyeota.net^$third-party
 ||eyouv.cn^$third-party
 ||f1190.com^
@@ -1405,7 +1404,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||115.com/static/plug/download/images/yun.jpg
 ||115img.com/static/delivery/
 ||115mm.com/js/
-||117.79.236.111/wj/
 ||118.26.200.246^
 ||119.167.73.60/m_code/
 ||11dndn.com/java/
@@ -1464,13 +1462,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||17yy.com/style/ifra_ad/
 ||183.129.206.25:18180/i.php?z=
 ||183.136.168.78:8082/ad/
-||183.81.166.100/cari/banner/
 ||183yf.cn/niuza160.jpg
 ||18888.com^*/Mon_*.gif
-||189so.cn/js/np1.js
-||189so.cn/js/popup.js
-||189so.cn/js/qiantan.js
-||189so.cn/pop.html
 ||198.40.52.11/ad/
 ||198.40.56.242/ad/
 ||1dot.cn/spider/1dotAd.php
@@ -4372,6 +4365,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||gg.0598yu.com^
 ||0598yu.com/html/channel/yu2013/images/xlgg.js
 ||17ce.com/118/tbanner.html
+||niuza.com/kd/
+||kiees.com/kd/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -4627,7 +4622,6 @@ gamme.com.tw###bd
 dm456.com###bdSider
 naruto.hk###bdbqy
 soso.com###bdfs0
-189so.cn###bdtg214
 baidu.com###bdyx_float_rb
 docin.com###beforeAd
 dm5.com,dm5.hk,manmankan.com,sfacg.com###beitou
@@ -4645,7 +4639,6 @@ blog.163.com###blog-163-com-toptips
 microcontrol.cn###body > table[width="758"]
 wanmei.com###body_right
 china3-d.com###box > .flash
-189so.cn###box-famoussite > header
 finance.ifeng.com###box_img
 club.topsage.com###brbox
 v.hao123.com###btn-dl-bro
@@ -5360,7 +5353,6 @@ hupu.com##.ad720-90
 ifeng.com##.ad728_tit
 5adm.net##.ad780
 tgbus.com##.ad79
-17ppt.com##.ad80
 tgbus.com##.ad86
 6pingm.com,ifeng.com,laohe360.com,laohe360.net,sohu.com##.ad950
 pharmnet.com.cn##.ad950-t
@@ -6842,7 +6834,6 @@ go-gddq.com##div[style="float: Right; height: 260px; width: 310px; clear: Right;
 bbs.my0511.com##div[style="float: right; padding-left:10px; padding-bottom:10px;"]
 gamefy.cn##div[style="float:left; width:220px; padding-top:15px;"]
 123cha.com##div[style="float:left;margin:8px 0;width:790px;border:1px dashed #ccc;border-left:6px solid #999;border-right:6px solid #999;"]
-1688.com.au##div[style="float:left;width:320px;height:280px;"]
 tingshuge.com##div[style="height: 280px"]
 lol.178.com##div[style="height: 60px; text-align: center;"]
 9ku.com##div[style="height:150px; overflow:hidden;zoom:1; width:960px; margin:12px auto 15px;"]
@@ -7100,7 +7091,6 @@ tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 dianmi.net#@#.top-ads
 house.shangdu.com#@#.top_ad
-17ppt.com#@#.topads
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@||360buyimg.com/ad/$domain=re.jd.com
@@ -7226,7 +7216,6 @@ house.shangdu.com#@#.top_ad
 @@||bzfxw.com/adfile/ad29.htm
 @@||bzfxw.com/adfile/syycss.js
 @@||bzfxw.com/adfile/xzhf3.js
-@@||c.aliimg.com/fdevlib/js/$script
 @@||c4d.cn/ads/ads_
 @@||cb.baidu.com/ecom?$domain=colafile.com|pctowap.com|play.yue365.com
 @@||cb.baidu.com/ecom?di=106878&
