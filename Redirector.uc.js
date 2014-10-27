@@ -129,7 +129,7 @@
 				// add icon
 				let icon;
 				if (this.type == 0) {
-					icon = document.getElementById("urlbar-icons").appendChild(document.createElement("toolbarbutton"));
+					icon = document.getElementById("addon-bar").appendChild(document.createElement("toolbarbutton"));
 					icon.setAttribute('class', 'toolbarbutton-1');
 					icon.setAttribute('type', 'menu');
 					icon.setAttribute("onclick", "Redirector.iconClick(event);");
