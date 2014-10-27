@@ -4367,10 +4367,22 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||17ce.com/118/tbanner.html
 ||niuza.com/kd/
 ||kiees.com/kd/
+||js0573.com/images/cus/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+start.firefoxchina.cn##.wrap > DIV[style]:last-child
+jd-bbs.com##IMG[width="900"][height="100"]
+js0573.com###adv1
+js0573.com###adv2
+js0573.com###Adv1
+js0573.com###Adv2
+js0573.com###Adv3
+js0573.com###Adv4
+js0573.com###gotopl
+js0573.com###gotopr
+js0573.com##.Adv_banner
 hcwang.cn##.logo3
 hcwang.cn##.wz2
 hcwang.cn##.wz3
@@ -6526,7 +6538,6 @@ web20share.com##.widget:nth-of-type(5)
 bgbk.org##.widget_banner
 51jifenbao.net##.widget_text:last-child
 wangyueblog.com##.wigget_sponsors
-17173.com,17173.tv.sohu.com##.win17173
 ltaaa.com##.worldcup
 jump.bdimg.com,tieba.baidu.com##.worldcup_info_banner_dialog
 renren.com##.wp-rrzm-popup
@@ -6856,7 +6867,6 @@ qidian.com##div[style="margin:0 auto;width:375px;height:63px;padding-top:5px"]
 dianxinnews.com##div[style="margin:0;padding:0;width:660px;height:250px;overflow:hidden;background-color:#fff;"]
 mnw.cn##div[style="margin:0px auto;padding:0px 0px 5px;width:950px;height:70px;overflow:hidden;"]
 ipc.me##div[style="margin:46px auto 66px auto;width:660px;height:140px"]
-start.firefoxchina.cn##div[style="padding:10px 0px;text-align:center;color:#666;"]
 emuch.net##div[style="padding:15px;border:1px solid #648EB2;width:468px;text-align:center;"]
 win007.com##div[style="padding:6px 0; width:950px; height:45px"]
 131.com##div[style="position:fixed;bottom:0;right:0;"]
