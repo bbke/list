@@ -2740,10 +2740,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||i.alipayobjects.com/i/ecmng/png/201406/2plz7QqgST.png
 ||i.fgi.tw/images/survey_of_woman9.gif
 ||i.firefoxchina.cn/html/taobao_focus_250x250.html
-||i1.tietuku.com/02a3173e647f7c99.gif
-||i1.tietuku.com/786ccc5694543ada.jpg
-||i1.tietuku.com/c04dd1e95ec6f77e.jpg
-||i1.tietuku.com/d96cf261bca7214d.jpg
+||tietuku.com/786ccc5694543ada.jpg
+.tietuku.com/d5eeb4fae226b2e3.gif
 ||i2i2.cn/uploads/soft/2345.gif
 ||iads.xinmin.cn^
 ||iapolo.com/myjs/
@@ -3665,7 +3663,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||shaoxing.com.cn^*gg.
 ||share.dmhy.*/*?$image
 ||share.gzdsw.com^
-||shared.ydstatic.com/images/hao163/600-45_2.jpg
 ||shenmaxiaoshuo.com/js/hf
 ||shenmaxiaoshuo.com/js/lu.js
 ||shenmaxiaoshuo.com/js/mu.js
@@ -3822,7 +3819,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||suopao.org/attachment/Fid_177/177_1_a0f2af20e450977.gif
 ||super.cat898.com^
 ||super.kdnet.net^
-||swf.ws.126.net/house/201406161500.swf
 ||sxrom.com/images/download/top.js
 ||sxrom.com/images/zz.jpg
 ||sy.ln.cn/08gg/
@@ -4373,10 +4369,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zreading.qiniudn.com/image/changtou.jpg
 ||zreading.qiniudn.com/image/jianshu.jpg
 ||zreading.qiniudn.com/image/xjy.jpg
+||163.com/special/*/tonglan1.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+163.com##.area_brand_ad
+163.com##.area_top_ad
 yyets.com###ad_644_100 + DIV[style="margin-top:1em;text-align:center;"]
 start.firefoxchina.cn##.wrap > DIV[style]:last-child
 jd-bbs.com##IMG[width="900"][height="100"]
@@ -6336,7 +6335,6 @@ pediy.com##.search
 99114.com##.search_keywordAd
 ijia360.com##.search_radlist
 cnool.net##.second-banner
-163.com##.sect_top_ad
 jq-school.com##.setfarme:nth-child(7)
 sogou.com##.sg-ad
 sogou.com##.sg-ad-r
