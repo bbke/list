@@ -15,7 +15,7 @@
     	this.addIcon = true;                        // 是否添加按钮
         this.state = true;                          // 是否启用脚本
         this.rulesFile = "local\\_redirector.js";
-rules = [{
+        this.rules = [{
     name: "google搜索结果禁止跳转",
     from: /^https?:\/\/www\.google\.com\/url\?.*url=([^&]*).*/i,
     to: "$1",
