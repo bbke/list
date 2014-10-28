@@ -71,15 +71,15 @@ rules = [{
     regex: true
 },{
     name: "AcFun - aa|ab",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)([\w]+)(#album=.*)?/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)([\w]+)(#album=.*)?(#autoplay=1)?/i,
     exclude: /acfun\.tv\/(a|v)\/a(a|b)(.*)#mainer/i,
     to: "http://www.acfun.tv/$1/a$2$3#mainer",
     regex: true
 },{
     name: "AcFun - ac",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac([\w]+)(#album=.*)?/i,
-    exclude: /acfun\.tv\/(a|v)\/ac(.*)#txt-title-view/i,
-    to: "http://www.acfun.tv/$1/ac$2#txt-title-view",
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac([\w]+)(#album=.*)?(#autoplay=1)?/i,
+    exclude: /acfun\.tv\/(a|v)\/ac(.*)#txt-info-title/i,
+    to: "http://www.acfun.tv/$1/ac$2#txt-info-title",
     regex: true
 },{
     name: "BiliBili",
