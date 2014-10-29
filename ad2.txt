@@ -71,6 +71,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||xiu8.com
 ||cb.baidu.com^
 ^monitor.jpg?xcode^
+||static.pay.baidu.com^
 ||youxi.baidu.com
 ||sclick.baidu.com
 ||nsclick.baidu.com
