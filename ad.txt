@@ -4373,12 +4373,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||scsn.cn/Public/config/Couplet/Index
 ||rising.cn/index/20130717/images/bdytms1111.swf
 ||rising.cn/index/20130717/images/icon_righttop.png
+||sinaimg.cn/mw690/a6a976a2gw1elr2aqpusdj206y06y0th.jpg
+||jmhfw.com/index.php?/ajax/get_adv/
 ||3g.cn/js/noblockme/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 game2.cn###rb
+heu8.com###widget_ada
 bbs.it168.com##.daoh2 + .bor8
 tv.2345.com##A[href^="http://buy.2345.com/go/?"]
 21yq.com##.top_big_bg
