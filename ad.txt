@@ -4367,10 +4367,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||it.com.cn/test/cj/2014/10/24/11/-1197329481.jpg
 ||vvpan.com/templates/32666/imgs/down001.gif
 ||2kk.cc/Tpl/black/images/2k-*.gif
+||scsn.cn/Public/config/Couplet/16.js
+||scsn.cn/Public/config/Couplet/Index
+||rising.cn/index/20130717/images/bdytms1111.swf
+||rising.cn/index/20130717/images/icon_righttop.png
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+bbs.it168.com##.daoh2 + .bor8
 tv.2345.com##A[href^="http://buy.2345.com/go/?"]
 21yq.com##.top_big_bg
 yyets.com##DIV[style="margin:0;padding:0;width:640px;height:345px;overflow:hidden;background-color:#fff;"]
