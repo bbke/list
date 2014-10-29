@@ -4376,6 +4376,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||3g.cn/js/noblockme/
 /wangyuedeux/imgs/wangzhuano.jpg
+||hahade.com/tpl/5/loading.html
+||27.cn/iframe/r-con1.
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -6541,7 +6543,6 @@ hupu.com##.voice-ad300-250
 10jqka.com.cn##.w1000
 meili.cn##.w300
 dbw.cn##.w720
-27.cn##.w960[style*="height:100px;"]
 afwing.com##.w970
 rexuedongman.com##.w980.uzmh-0
 xdf.cn##.w_ads
