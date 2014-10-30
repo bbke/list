@@ -4362,10 +4362,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||qiniudn.com^$domain=52jifenbao.net
 ||freep.cn/3tb_1408171239008bu7512293.jpg
 ||ajiang.net/b4_dnslak.png
+||adhome.1fangchan.com^
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tieba.baidu.com##.advertise
+m.baidu.com##.news_ad
+m.baidu.com##a[href*="m.lecai.com"]
+m.baidu.com##a[href="http://126.am/4MHWn3"]
 sogou.com###weixin_adv
 yyets.com##.AreaR2 > .box_4:nth-child(3)
 down.51cto.com##.ag
@@ -7123,6 +7128,7 @@ dianmi.net#@#.top-ads
 house.shangdu.com#@#.top_ad
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||360buyimg.com^*/widget/ad/
 @@/appledaily/images/HomeAd/tb_ad_logo.png
 @@||51img1.com/??*/adsys.
 @@||pos.baidu.com/acom?di=u1671167&
@@ -7153,7 +7159,7 @@ house.shangdu.com#@#.top_ad
 @@/images/ad$domain=2kuai.com|7s8.net|dxrr.com|fmdisk.com|lepan.cc|nyhx.com|sx566.com|vvpan.com
 @@/page/adv.html?advId=$subdocument
 @@/pop.js|$domain=189.cn
-@@/qplayer.swf?*&showAd=
+@@||youku.com^*&showAd=
 @@/show_ad_$domain=wb.qq.com
 @@/show_ads.js$domain=flvxz.com
 @@/store_ad/*$domain=pcstore.com.tw
@@ -7179,7 +7185,7 @@ house.shangdu.com#@#.top_ad
 @@||3399.com/DataTransfer/Advertisement/
 @@||5060.com^$elemhide,domain=5060.com
 @@||51hanhua.com/2013/brtxt.js
-@@||52cons.cn/data/attachment/*_300_250_
+@@/data/attachment/*_300_250_
 @@||52zy.com/gg/
 @@||61ef.cn/upfiles/gg/
 @@||66u.com/data/attachment/common/cf/
