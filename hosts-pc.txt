@@ -1,4 +1,4 @@
-﻿#+UPDATE_TIME    2014-10-30    17:22:00    
+﻿#+UPDATE_TIME    2014-10-30    18:50:00    
 
 #localhost    START
 
@@ -110,7 +110,7 @@
 162.159.252.5	www.feedly.com
 162.159.252.5	feedly.com
 74.125.204.121	s3.feedly.com
-64.233.185.141	feedly-beta.appspot.com
+120.210.202.32	feedly-beta.appspot.com
 #feedly    END
 
 #FlipBoard    START
@@ -146,6 +146,7 @@
 199.59.150.46	syndication-o.twimg.com
 117.18.237.139	a0.twimg.com
 117.18.237.139	a1.twimg.com
+117.18.237.139	abs.twimg.com
 117.18.237.139	p.twimg.com
 199.16.158.15	r.twimg.com
 117.18.237.139	si0.twimg.com
@@ -377,6 +378,7 @@
 37.0.88.36	blog.startpage.com
 #Startpage    END
 
+#Google    Services    START
 #Mail    clients    may    not    work    for    following    hosts
 202.65.246.80	gmail-pop.l.google.com
 202.65.246.80	pop.googlemail.com
