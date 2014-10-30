@@ -4366,6 +4366,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+sogou.com###weixin_adv
 yyets.com##.AreaR2 > .box_4:nth-child(3)
 down.51cto.com##.ag
 51cto.com##.banner_head
@@ -7122,6 +7123,7 @@ dianmi.net#@#.top-ads
 house.shangdu.com#@#.top_ad
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@/appledaily/images/HomeAd/tb_ad_logo.png
 @@||51img1.com/??*/adsys.
 @@||pos.baidu.com/acom?di=u1671167&
 @@||pos.baidu.com/acom?di=u1460926&

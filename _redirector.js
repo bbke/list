@@ -3,6 +3,11 @@ rules = [{
     from: /^https?:\/\/www\.google\.com\/url\?.*url=([^&]*).*/i,
     to: "$1",
     regex: true
+},{
+    name: "google.com.hk >> google.com",
+    from: /^https?:\/\/www\.google\.com\.hk\/search\?(.*)/,
+    to: "https://www.google.com/ncr#hl=en-US&newwindow=1&$1",
+    regex: true
 },{  name: "wiki繁 >> 简",
     from: /^(https?:\/\/zh\.wikipedia\.org)\/(wiki|zh|zh((?!\-cn)[^\/])+)\/(.*)/i,
     to: "$1/zh-cn/$4",
@@ -59,11 +64,6 @@ rules = [{
     from: /^https?:\/\/userscripts\.org(:8080)?\/(.*)/i,
     to: "http://userscripts-mirror.org/$1",
     regex: true
-},{
-   name: "Google.com  >>  Google NCR",
-   from: /^https?:\/\/www\.google\.com\.hk\/?(.*)/,
-   to: 'https://www.google.com/ncr',
-   regex: true,
 },{
     name: "百度贴吧|百科 原始大图",
     from: /http:\/\/(imgsrc|[\w]?\.hiphotos)\.baidu\.com\/(forum|baike)\/[\w].+\/sign=[^\/]+(\/.*).jpg/i,
