@@ -5,7 +5,8 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.10.31.15
+// @version         14.10.31.23
+// @charset         utf-8
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
