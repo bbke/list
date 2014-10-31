@@ -6,6 +6,7 @@
 // @author          harv.c
 // @homepage        http://haoutil.com
 // @version         1.4.5
+// @charset         utf-8
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
