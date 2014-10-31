@@ -4368,6 +4368,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cnbeta.com##.imgbox240x310 > :not([href*=".cnbeta."])
 admaimai.com##DIV[class^="inv9_ad0"]
 tieba.baidu.com##.advertise
 m.baidu.com##.news_ad
