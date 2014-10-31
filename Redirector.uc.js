@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.10.30.23
+// @version         14.10.31.15
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -88,13 +88,13 @@
     regex: true
 },{
     name: "AcFun - aa|ab",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)([\w]+)(#album=.*)?(#autoplay=1)?/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
     exclude: /acfun\.tv\/(a|v)\/a(a|b)(.*)#mainer/i,
     to: "http://www.acfun.tv/$1/a$2$3#mainer",
     regex: true
 },{
     name: "AcFun - ac",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac([\w]+)(#album=.*)?(#autoplay=1)?/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
     exclude: /acfun\.tv\/(a|v)\/ac(.*)#txt-info-title/i,
     to: "http://www.acfun.tv/$1/ac$2#txt-info-title",
     regex: true
