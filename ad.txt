@@ -647,7 +647,7 @@ cet.99sushe.com###div_bottom
 ||a.tbcdn.cn/s/atp.js
 !--iQIYI
 ||qiyipic.com/common/$object-subrequest
-!---CC
+!---bokecc
 @@||union.bokecc.com/crossdomain.xml
 @@||union.bokecc.com/js/player/
 @@||union.bokecc.com/servlet/GetUserInfo?
@@ -4366,10 +4366,22 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||15w.com/flash/
+||file.shmet.com/images/
+||shmet.com/images/150x150newsshmet.jpg
+||shmet.com/images/zz250x80.jpg
+||shmet.com/js/shmetAd.js
+||shmet.com/images/20120213ad/
+||shmet.com/images/1000x90newshmet.swf
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+shmet.com##DIV[style="width:1000px; height:90px; margin:10px auto;"]
+shmet.com###div_xiala_ad
+shmet.com##.ad
+shmet.com##.memberadstb
+shmet.com##TABLE[width="960"][border="0"]
+epochtimes.com##.adbox
 15w.com###rec
 yaolan.com###AD
 21yq.com###AD1
@@ -7073,6 +7085,8 @@ taihainet.com##ul[style=" width:1000px; height:90px; padding:10px 0; background-
 wanshuge.net##ul[style="width: 880px;margin:0 auto;text-align:center;margin-top:10px;"]
 !---------------------------------CSS Whitelist-------------------------------!
 920url.com#@##AdDiv
+epochtimes.com#@#.adbox1
+epochtimes.com#@#div[id^="div-gpt-ad-"]
 the-sun.on.cc#@##ContentAd1
 news.now.com#@##ad-2
 d77.com#@##ad-wrap
