@@ -761,6 +761,7 @@ hk.yahoo.com###mntl1
 /j/Lad6_2.js
 /jsadv/*
 /module/adsview/*
+/lenovo/pc/all.js
 /paypic/*
 /piaofu.js
 /pic/ad/*
@@ -899,6 +900,8 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||niuza.com^$image,subdocument,third-party
+||kiees.com^$image,subdocument,third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -1116,7 +1119,6 @@ hk.yahoo.com###mntl1
 ||news.tagtoo.co^$third-party
 ||nextcps.com^
 ||ni22.com^$third-party
-||niuza.com^$image,third-party
 ||notice.uchome.manyou.com^
 ||o091i.com^$third-party
 ||offcn.com^$third-party
@@ -2136,7 +2138,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cj.qidian.com/Picture/$domain=sosu.qidian.com
 ||cj.qidian.com^$object,subdocument
 ||cjn.cn^*/ad/
-||ckjdh.com/lenovo/pc/all.js
 ||classbm.hkgolden.com^
 ||clm02.com/2014-A/FB-6-14-AA1.jpg
 ||clm02.com/2014-A/FB-rayvivi-5-28-B.jpg
@@ -2242,7 +2243,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||dcfever.com/campaigns/
 ||dclick.autonet.com.tw/90/AC_RunActiveContent.js
 ||dd.xdnice.com^
-||ddaa22.com/lenovo/pc/*.js
 ||dddbbb.net^$script,subdocument
 ||ddooo.com/ddjs/
 ||ddooo.com/duoduo/
@@ -2908,7 +2908,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||ithome.com/images/lagou/
 ||ithome.com/images/partner/
 ||ithome.com/js/recommend.js
-||ithome.com/NewsUploadFiles/focus/5.jpg
 ||itmxc.com/mxc-news/960x
 ||itmxc.com/mxckb.gif
 ||itocp.com/html/gk/*/*x50.
@@ -3057,7 +3056,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||kfcdn.com/upload/analysis/20140625/21ln3ovhre9djgri.jpg
 ||kfcdn.com/upload/analysis/20140626/9mmh58z7itqv7g75.jpg
 ||kfs.io/article5/global/*/original.gif
-||kiees.com/kd/
 ||kk55.net/beitou.js
 ||kkkmh.com/iframe/
 ||kkkmh.com/javascripts/abcde/
@@ -3335,7 +3333,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||ngacn.cc/common_res/js_adscommon.js
 ||nilongdao.com/include/js/Copyright
 ||niutuku.com/skin/img/830x90.gif
-||niuza.com/kd/
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
 ||nmg.xinhuanet.com/sy/images/*.swf
 ||nmgnews.com.cn/0/10/71/66/10716601_990205.gif
@@ -3538,9 +3535,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||qjis.com/js/qjis_nr.js
 ||qm120.com/images/adZhayou.jpg
 ||qpic.cn/manhua_detail/$object-subrequest
-||qpic.cn/mblogpic/3c1c3c05c5f48c9495d4/2000
 ||qpic.cn/mblogpic/829ff64132ceec61b372/2000
-||qpic.cn/mblogpic/f7052e063cec814c8a44/2000
 ||qpic.cn^$domain=360-bo.com|54xr.com|7958.com|pptiyu.com|xrba.net
 ||qq.com/bbs/bbs_topgg.htm
 ||qq.com/bqq_qfpic/$domain=keywin.org
@@ -4372,10 +4367,21 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||shmet.com/js/shmetAd.js
 ||shmet.com/images/20120213ad/
 ||shmet.com/images/1000x90newshmet.swf
+||hxsame.hexun.com
+||hexun.com*/shicaidai/
+||zhujiangroad.com/js/alltop.js
+||sinaimg.cn/large/$domain=chakd.com
+||chakd.com/images/xitie160x60.gif
+||wangdaizhijia.com/wdzj/js/front/ads.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wangdaizhijia.com###frameiZg8D5
+wangdaizhijia.com##.adv_box
+wangdaizhijia.com##.rnad
+wangdaizhijia.com##DIV[id^="adv"]
+hexun.com,hexun.com.tw###hexunCouplet01
 shmet.com##DIV[style="width:1000px; height:90px; margin:10px auto;"]
 shmet.com###div_xiala_ad
 shmet.com##.ad
