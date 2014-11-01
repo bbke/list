@@ -1208,6 +1208,7 @@ hk.yahoo.com###mntl1
 ||zp265.com^$third-party
 !---------------------------Popups--------------------------------------------!
 .com/?Intr=$popup
+||aiwanma99.com^$popup
 /?ref=$popup,domain=allanalpass.com|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /pushstart.aspx?$popup,third-party
 |http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|mimima.com|rmdown.com|scokl.com|see3r.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com
@@ -2235,7 +2236,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||dbw.cn/0/06/73/98/6739849_212270.gif
 ||dbw.cn/0/07/18/40/7184029_146090.jpg
 ||dbw.cn/ad.html
-||dbw.cn/images/cpad.jpg
+||dbw.cn/js/cp.js
 ||dbw.cn/js/lanrenzhijia.js
 ||dc.letv.com^
 ||dcfever.com/campaigns/
@@ -4364,10 +4365,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||15w.com/flash/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+15w.com###rec
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -6013,7 +6016,7 @@ aiyuke.com##.igamead
 edu24ol.com##.image_01
 jump.bdimg.com,tieba.baidu.com##.images_game_container
 10jqka.com.cn##.imgWrap
-cnbeta.com##.slide_area A:not([href*=".cnbeta."])
+cnbeta.com##.slide_area A:not([href^="http://www.cnbeta."])
 v17go.com##.imgcon2
 pingpang.info##.imp
 news18a.com##.ina_ad_left
