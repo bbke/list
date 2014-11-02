@@ -846,7 +846,7 @@ hk.yahoo.com###mntl1
 ##.a_fl
 ##.a_fr
 ##.a_h
-~125.la,~it168.com,~xitek.com##.a_mu
+~125.la,~52pojie.cn,~it168.com,~xitek.com##.a_mu
 ##.a_pb
 ##.a_pr
 ~briian.com,~imuyang.com,~wps.cn##.a_pt
@@ -2839,7 +2839,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||img.cngba.com/da/
 ||img.cqsq.com/s/exp/*_475x60.
 ||img.cqsq.com/s/temp/
-||img.dm530.com/fgr/
 ||img.eol.cn/images/ed/$~image
 ||img.hexun.com*/wszj/js.js
 ||img.ifeng.com/tres/html/
@@ -4370,6 +4369,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||1fun.com.hk/bb/189X180B.swf
+||gamersky.com/gsinc/content_bg.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -5166,7 +5166,7 @@ blog.163.com###topbar_randShowArea
 nowscore.com###toperText
 1616.net###toplink
 imanhua.com###topmon
-bt49.com,repaik.com###topwarning_7ree
+bt49.com###topwarning_7ree
 wwwzqr.cn###tp
 hkgalden.com###tpli > tbody > script + tr
 tianya.cn###travel_float
