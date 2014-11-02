@@ -70,16 +70,16 @@ rules = [{
     to: "http://$1.baidu.com/$2/pic/item$3.jpg",
     regex: true
 },{
-    name: "AcFun - aa|ab",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(a|b)([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
-    exclude: /acfun\.tv\/(a|v)\/a(a|b)(.*)#mainer/i,
-    to: "http://www.acfun.tv/$1/a$2$3#mainer",
+    name: "AcFun - ab",
+    from: /^http:\/\/www\.acfun\.tv\/v\/ab([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
+    exclude: /acfun\.tv\/v\/ab(.*)#txt-title-view/i,
+    to: "http://www.acfun.tv/v/ab$1#txt-title-view",
     regex: true
 },{
     name: "AcFun - ac",
     from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
     exclude: /acfun\.tv\/(a|v)\/ac(.*)#txt-info-title/i,
-    to: "http://www.acfun.tv/$1/ac$2#txt-info-title",
+    to: "http://www.acfun.tv/$1/ac$2#txt-info-title", 
     regex: true
 },{
     name: "BiliBili",
@@ -117,6 +117,11 @@ rules = [{
     name: "【https】williamgates",
     from: /^http:\/\/t\.williamgates\.net\/(.*)$/i,
     to: "https://t.williamgates.net/$1",
+    regex: true
+},{
+    name: "【https】m-team",
+    from: /^http:\/\/(.*?)m-team\.cc\/(.*)$/i,
+    to: "https://$1m-team.cc/$2",
     regex: true
 },{
     name: "【https】imgur",
