@@ -353,7 +353,6 @@ tieba.baidu.com##[class*="reward"]
 ||a1click.aiqun.com^$third-party
 ||aaalian.com^$third-party
 ||ad8.cc^$third-party
-||adcenter.conn.tw^$third-party
 ||adhai.com^$third-party
 ||adjwl.com^$third-party
 ||admaji.com^$third-party
@@ -899,6 +898,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||adcenter.conn.tw^$third-party
 ||junnew.com^$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -4371,6 +4371,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+blog.realtw.com##TABLE[width="728"][height="90"]
 72bbb.com##.ad
 9724.com##.detail_fix
 9724.com##DIV[style="width:990px; height:82px; display:block; margin:10px auto"]
@@ -5183,7 +5184,6 @@ nowscore.com###toperText
 imanhua.com###topmon
 bt49.com###topwarning_7ree
 wwwzqr.cn###tp
-hkgalden.com###tpli > tbody > script + tr
 tianya.cn###travel_float
 2500sz.com###tuisong
 sohu.com###turn-ad

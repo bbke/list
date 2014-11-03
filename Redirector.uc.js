@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.02.18
+// @version         14.11.03.19
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -101,7 +101,7 @@
     regex: true
 },{
     name: "BiliBili",
-    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?(##alist)?/i,
+    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?(\?[\w]+)?(##alist)?/i,
     exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?#alist/i,
     to: "http://www.bilibili.com/video/av$1/$2#alist",
     regex: true
