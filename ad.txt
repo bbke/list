@@ -1698,7 +1698,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||6.gy/wp-content/uploads/*/ad
 ||600km.com/source/plugin/rsf_elasticity_pull_screen_adv/
 ||600km.com/template/*/ad/
-||60808.org/a/$image
+||60808.org/a/*.jpg
 ||61.128.121.99/nsrad/
 ||61.147.92.251:81/120x160.asp
 ||61.164.108.104:4275/ad*.gif
@@ -4372,6 +4372,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+6park.com##.td1[width="50%"]:nth-child(2)
+6park.com##A[href="http://www.vava8.com"]
+6park.com##TABLE[style="width: 998px;"]
 bbs.52life.cc##.part1
 uuu9.com##.sindex_ad1
 0597kk.com##DIV[style="width:960px; overflow:hidden; margin:2px auto; "]
@@ -7188,7 +7191,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@|http:$image,script,domain=jjcast.com
 @@|http:$script,~third-party,domain=btspread.com|javzoo.com
 @@|http:*/ad$domain=meiziweibo.com
-@@|http:*/AD/$domain=6ku.cc|dou6.cc|uuu123.net
+@@|http:*/AD/$domain=dou6.cc|kk369.net|uuu123.net
 @@|http:*/gg/*.css
 @@||10010.com^*/ad.
 @@||10010.com^*/ad/
