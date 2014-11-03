@@ -3699,7 +3699,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||show.xiazai16.com^$subdocument
 ||showfom.sexy/files/2014/04/23/809abc04c5cbc2a9cdcab853999a4dc6.jpg
 ||shows.21cn.com^
-||shtimg.com/portal/201210/29/14342484gae6g2h4efo499.swf
 ||shuaijiao.com/statics/js/adv0.js
 ||shuhe.cc/ssi/
 ||shulihua.net/js/gzlishi468google.js
@@ -3903,7 +3902,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||tingchina.com/js/allad.js
 ||tingchina.com/js/dp468
 ||tk001.com/quote$subdocument
-||tmcdn.net/img/h000/h67/img201405211716540f9230.jpg
 ||tntdown.com/News/js/C_
 ||tom.com/templets/tomwq/ad/
 ||tom365.com/js/*0
@@ -4368,10 +4366,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zznews.cn/home/js/duilian1.js
 ||1fun.com.hk/bb/189X180B.swf
 ||gamersky.com/gsinc/content_bg.js
+||73p37.com/js/playad.html
+||73p37.com/js/top
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+firefoxchina.cn##.main-promote-sites
+firefoxchina.cn##UL[track-key="adv_links"]
 6park.com##.td1[width="50%"]:nth-child(2)
 6park.com##A[href="http://www.vava8.com"]
 6park.com##TABLE[style="width: 998px;"]
@@ -6488,7 +6490,7 @@ northnews.cn##.tnm
 xinhuanet.com##.tonglan01
 315che.com##.tonglan1
 xdkb.net##.tonglan2
-www.baidu.com##.tools > .shouji
+ipv6.baidu.com,www.baidu.com,www1.baidu.com##.tools > .shouji
 uhaoye.com##.top-a
 chinaluxus.com,northnews.cn##.top-banner
 baidu.com##.top-banner-ad-wrap
