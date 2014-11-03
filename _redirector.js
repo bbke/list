@@ -83,7 +83,7 @@ rules = [{
     regex: true
 },{
     name: "BiliBili",
-    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?(##alist)?/i,
+    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?(\?[\w]+)?(##alist)?/i,
     exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?#alist/i,
     to: "http://www.bilibili.com/video/av$1/$2#alist",
     regex: true
