@@ -898,6 +898,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||vsnoon.com^$third-party
 ||adcenter.conn.tw^$third-party
 ||junnew.com^$third-party
 /adscpv/*
@@ -4006,7 +4007,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||vmanhua.com/new_v3/player/image/a_d_img/
 ||voc.com.cn/adsClick/
 ||voc.com.cn/Frame/qqms_cs.html
-||vsnoon.com/show.php?$subdocument
 ||vupload.duowan.com^
 ||vvic.com/images/pi/*.jpg
 ||vvpan.com/templates/32666/imgs/down001.gif
@@ -6278,7 +6278,9 @@ www.sina.com.cn##.part-l > :nth-child(n+2)
 sina.com##.parta_l_ads
 heiguang.com##.pbAddPic
 jump.bdimg.com,tieba.baidu.com##.per_list.j_per_list.per_list_frs
-phtv.ifeng.com##.pic1000
+ifeng.com##.pic1000
+ifeng.com##.adbox02
+ifeng.com##.pic950
 donews.com##.pic1area
 ifeng.com##.pic300
 ifeng.com##.picNews
