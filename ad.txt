@@ -4379,6 +4379,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ifeng.com###video_p
+ifeng.com##.ad_09
+ifeng.com##.ad_04
 sqkz.com##.guanggao
 baidu.com###adMainTopLeft
 baidu.com###adMainTopRight
@@ -7506,6 +7509,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||zhaopin.cn^*/adbox_
 @@||zhaozi.cn/d/js/acmsd/ggao5$script
 @@||zhibowu.com/ad2.htm
+@@||tenpay.com^*?ADTAG=
 !--------------------------Fixed Malware Domains rules------------------------!
 @@||js.tv.itc.cn^
 !--------------------------------Tracking Systems-----------------------------!
