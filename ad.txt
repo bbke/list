@@ -4367,10 +4367,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||72bbb.com/images/12.gif
 ||72bbb.com/images/vip.gif
 ||78dm.net/uploads/imgs/2013/qumiaoduoduilian-
+||bokerb.com/images/00987.png
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+bokerb.com##.foot_td_1
 dasai8.com##A[href^="http://rf003.com/?Extend="]
 dasai8.com##A[href^="http://www.lmny6.com/?p="]
 blog.realtw.com##TABLE[width="728"][height="90"]
@@ -5265,7 +5267,7 @@ juqingba.cn##.Ad_300_2
 xinhuanet.com##.AdvColumn1
 js0573.com##.Adv_banner
 feixiangtv.com##.Advertisement
-yyets.com##.AreaR2 > .box_4:nth-child(3)
+yyets.com##.AreaR2 > .box_4:first-child + .clearfix + .box_4
 tiexue.net##.AreaR_ad
 qiwen999.com##.Axing_add_Page
 jump.bdimg.com,tieba.baidu.com##.BAIDU_CLB_AD
