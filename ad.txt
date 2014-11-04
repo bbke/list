@@ -4372,10 +4372,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||bokerb.com/images/00987.png
 ||lululu.club/wp-content/uploads/*-720x80.
 ||bukade.com/js/*_p_
+||bdstatic.com/player/t/j/CDBMSKKh.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+baidu.com###adMainTopLeft
+baidu.com###adMainTopRight
 lululu.club##.head-pic
 bokerb.com##.foot_td_1
 dasai8.com##A[href^="http://rf003.com/?Extend="]
@@ -7594,6 +7597,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||youdao.com/ctlog?
 ||youdao.com/tl?
 ||zol.com.cn/cgimp/zc.js
+||log.music.baidu.com^
 !----------------------------------The End------------------------------------!
 ! Expires: 4 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-1674209-1-1.html
