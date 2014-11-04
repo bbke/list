@@ -4272,9 +4272,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||yxdown.com/ghtml/
 ||yxlady.com/cdd/
 ||yy521.com/qq/qq.js
-||yyets.com/ads/bd-
-||yyets.com/ads/ga-
-||yyets.com/ads/tb-
+||yyets.com*/ads/bd-
+||yyets.com*/ads/ga-
+||yyets.com*/ads/tb-
 ||yyets.com/public/rooms?
 ||yytcdn.com/others/avt/
 ||yytcdn.com/swf/plugins_new.xml?$domain=yinyuetai.com
@@ -4373,6 +4373,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||lululu.club/wp-content/uploads/*-720x80.
 ||bukade.com/js/*_p_
 ||bdstatic.com/player/t/j/CDBMSKKh.js
+||t259.net/js/click_showclose.js
+||t259.net/images/*.gif
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -7174,6 +7176,8 @@ house.shangdu.com#@#.top_ad
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||cbjs.baidu.com/js/m.js$domain=77mh.com
+@@||177mh.com/img_v1/bbad.gif
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music

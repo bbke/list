@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.04.15
+// @version         14.11.04.16
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -89,8 +89,8 @@
     regex: true
 },{
     name: "AcFun - 网页全屏",
-    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
-    exclude: /acfun\.tv\/v\/a(b|c)(.*)#fullscreen=1$/i,
+    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?/i,
+    exclude: /acfun\.tv\/v\/a(b|c)(.*)#fullscreen=1/i,
     to: "http://www.acfun.tv/v/a$1$2#fullscreen=1", 
     regex: true
 },{
@@ -111,26 +111,6 @@
     to: "https://upload.wikimedia.org/$1",
     regex: true
 },{
-    name: "【https】Google Code",
-    from: /^http:\/\/(.*?)googlecode\.com\/(.*)$/i,
-    to: "https://$1googlecode.com/$2",
-    regex: true
-},{
-    name: "【https】Google User Content",
-    from: /^http:\/\/(.*?)googleusercontent\.com\/(.*)$/i,
-    to: "https://$1googleusercontent.com/$2",
-    regex: true
-},{
-    name: "【https】Reddit media",
-    from: /^http:\/\/(.*?)redditmedia.com\/(.*)$/i,
-    to: "https://$1redditmedia.com/$2",
-    regex: true
-},{
-    name: "【https】cam4s",
-    from: /^http:\/\/edgecast\.cam4s\.com\/(.*)$/i,
-    to: "https://edgecast.cam4s.com/$1",
-    regex: true
-},{
     name: "【https】williamgates",
     from: /^http:\/\/t\.williamgates\.net\/(.*)$/i,
     to: "https://t.williamgates.net/$1",
@@ -141,14 +121,9 @@
     to: "https://$1m-team.cc/$2",
     regex: true
 },{
-    name: "【https】imgur",
-    from: /^http:\/\/(.*?)imgur\.com\/(.*)$/i,
-    to: "https://$1imgur.com/$2",
-    regex: true
-},{
-    name: "【https】tumblr",
-    from: /^http:\/\/(.*?)tumblr\.com\/(.*)$/i,
-    to: "https://$1tumblr.com/$2",
+    name: "【https】T、I、R、G、C",
+    from: /^http:\/\/(.*)?(tumblr|imgur|redditmedia|googleusercontent|googlecode|cam4s)\.com\/(.*)$/i,
+    to: "https://$1$2.com/$3",
     regex: true
 },{
     name: "【https】5isotoi5",
