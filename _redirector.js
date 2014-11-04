@@ -70,16 +70,10 @@ rules = [{
     to: "http://$1.baidu.com/$2/pic/item$3.jpg",
     regex: true
 },{
-    name: "AcFun - ab",
-    from: /^http:\/\/www\.acfun\.tv\/v\/ab([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
-    exclude: /acfun\.tv\/v\/ab(.*)#txt-title-view/i,
-    to: "http://www.acfun.tv/v/ab$1#txt-title-view",
-    regex: true
-},{
-    name: "AcFun - ac",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/ac([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
-    exclude: /acfun\.tv\/(a|v)\/ac(.*)#txt-info-title/i,
-    to: "http://www.acfun.tv/$1/ac$2#txt-info-title", 
+    name: "AcFun - 网页全屏",
+    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?(#(fullscreen=1;)?autoplay=1)?/i,
+    exclude: /acfun\.tv\/v\/a(b|c)(.*)#fullscreen=1$/i,
+    to: "http://www.acfun.tv/v/a$1$2#fullscreen=1", 
     regex: true
 },{
     name: "BiliBili",
@@ -107,6 +101,11 @@ rules = [{
     name: "【https】Google User Content",
     from: /^http:\/\/(.*?)googleusercontent\.com\/(.*)$/i,
     to: "https://$1googleusercontent.com/$2",
+    regex: true
+},{
+    name: "【https】Reddit media",
+    from: /^http:\/\/(.*?)redditmedia.com\/(.*)$/i,
+    to: "https://$1redditmedia.com/$2",
     regex: true
 },{
     name: "【https】cam4s",
