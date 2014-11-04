@@ -7614,6 +7614,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||ifengimg.com^*/sta_collection.
 ||ifengimg.com^*/staytime.
 ||ifengimg.com^*/wrating.js
+||baidu.com/hunter/alog/
 !----------------------------------The End------------------------------------!
 ! Expires: 4 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-1674209-1-1.html
