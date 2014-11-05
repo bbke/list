@@ -466,7 +466,6 @@ tieba.baidu.com##[class*="reward"]
 ||js.91tiger.com^$third-party
 ||js.ssrj.net^$third-party
 ||js.tjq.com^$third-party
-||juandou.com^$third-party
 ||jugao.com^$third-party
 ||kairing.com^$third-party
 ||kcld.net^$third-party
@@ -898,6 +897,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||juandou.com^$third-party
 ||yzxls.com^$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -1888,7 +1888,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||adwordsing.com/img/1.jpg
 ||adwordsing.com/img/2.jpg
 ||ah.sina.com.cn/iframe/
-||ahlife.com/20140606hd.swf
 ||ahlife.com/api.php?mod=adv&
 ||aibang.com/?area=ajax&cmd=adv&
 ||aid.chinayk.com^
@@ -4369,10 +4368,18 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||ahlife.com/skin/hftogo/js/
+||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
+||qq.com/coral/ADS
+||gtimg.com/v/pics/hv1/88/83/1734/112774603.jpg
+||gtimg.com/newsapp_ls/0/27161189/0
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+qq.com##.mod_custom_ad
+qq.com###advertisement
+anjuke.com##DIV[class$="-ad"]
 yaolan.com###AD
 21yq.com###AD1
 app01.com.tw##.coverAD
@@ -5089,7 +5096,6 @@ xfastest.com###showRightOverFlow
 yzz.cn###showSlideAD_big
 yzz.cn###showSlideAD_small
 softonic.cn###show_banner_medium_rectangle
-ahlife.com###show_or_hide_you_gess
 find.sina.com.tw###show_ysm + div[style]
 vyming.com###showcontent > .pdp > a
 vyming.com###showcontent > .pdp:last-child
