@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.04.16
+// @version         14.11.05.23
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -89,7 +89,7 @@
     regex: true
 },{
     name: "AcFun - 网页全屏",
-    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?/i,
+    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?((#|;)autoplay=1)?/i,
     exclude: /acfun\.tv\/v\/a(b|c)(.*)#fullscreen=1/i,
     to: "http://www.acfun.tv/v/a$1$2#fullscreen=1", 
     regex: true

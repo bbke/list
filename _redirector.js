@@ -71,7 +71,7 @@ rules = [{
     regex: true
 },{
     name: "AcFun - 网页全屏",
-    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?/i,
+    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?((#|;)autoplay=1)?/i,
     exclude: /acfun\.tv\/v\/a(b|c)(.*)#fullscreen=1/i,
     to: "http://www.acfun.tv/v/a$1$2#fullscreen=1", 
     regex: true
