@@ -4374,6 +4374,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||gtimg.com/v/pics/hv1/88/83/1734/112774603.jpg
 ||gtimg.com/newsapp_ls/0/27161189/0
 ||aknba.com/cache/ads.js
+||cye.com.cn/JS/AdsJS/
+||doc88.com/assets/js/myad.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -7613,6 +7615,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||youdao.com/ctlog?
 ||youdao.com/tl?
 ||zol.com.cn/cgimp/zc.js
+||doc88.com/js/count.js
 !----------------------------------The End------------------------------------!
 ! Expires: 4 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-1674209-1-1.html
