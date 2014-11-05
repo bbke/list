@@ -1992,7 +1992,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||bdstatic.com/tb/static-ucenter/img/cont_sign_card.gif
 ||bdstatic.com/tb/zt/tengfei/gzdialog.jpg
 ||beanfun.com/playweb/adpicpage.htm
-||beephone.com.tw/ad-middle.php
+||beephone.com.tw/ad-yahoo.php
 ||bego.cc/img/
 ||bejson.com/imgs/tuo.png
 ||bestxl.com/langzi/0403/ld.jpg
@@ -4379,6 +4379,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cnblogs.com/ooooo/
 ||bejson.com/img/index-ads.png
 ||imgcache.qq.com/*/MediaPlugin.swf
+||107.182.131.103/cache/?q=/images/
+||sinaimg.cn^$domain=youdian.in
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -7187,7 +7189,9 @@ house.shangdu.com#@#.top_ad
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||107.182.131.103/cache/?q=/images/*/
 @@||ali213.net/*/pop.js
+@@||addon.discuz.com/resource/*/ad
 @@||emome.net/files/advertising/
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
