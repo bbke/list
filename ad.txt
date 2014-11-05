@@ -4373,10 +4373,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||qq.com/coral/ADS
 ||gtimg.com/v/pics/hv1/88/83/1734/112774603.jpg
 ||gtimg.com/newsapp_ls/0/27161189/0
+||aknba.com/cache/ads.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+17173.com##.gameTip
+17173.com##.playGame
 qq.com##.mod_custom_ad
 qq.com###advertisement
 anjuke.com##DIV[class$="-ad"]
@@ -7178,6 +7181,7 @@ house.shangdu.com#@#.top_ad
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||emome.net/files/advertising/
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
