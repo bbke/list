@@ -4384,10 +4384,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||lululu.club/wp-content/uploads/*/QQ
 ||jjwxc.net/images/wap/wap.gif
 ||eap.big5.enorth.com.cn^
+||ntpcb.com/10rmb.gif
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+gigacircle.com##.Game-Ads
 yaolan.com###AD
 enorth.com.cn##DIV[class^="guanggao"]
 jump.bdimg.com,tieba.baidu.com##.wanle_tab_tip
