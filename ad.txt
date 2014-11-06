@@ -2764,7 +2764,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||i-part.com.tw/hookimg/21034_14026411181.gif
 ||i-part.com.tw/images2/index/HouseStar/
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
-||i.fgi.tw/images/survey_of_woman9.gif
+||i.fgi.tw/images/survey_of_woman
 ||i.firefoxchina.cn/html/taobao_focus_250x250.html
 ||iads.xinmin.cn^
 ||iapolo.com/myjs/
@@ -4382,11 +4382,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||lululu.club/wp-content/uploads/*/QQ
+||jjwxc.net/images/wap/wap.gif
+||eap.big5.enorth.com.cn^
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yaolan.com###AD
+enorth.com.cn##DIV[class^="guanggao"]
 jump.bdimg.com,tieba.baidu.com##.wanle_tab_tip
 qq.com##.ad-foot
 house.qq.com##DIV[style="width:100%; height:100px; position:fixed; left:0; bottom:0; z-index:9999;"]
@@ -5981,7 +5984,7 @@ bioon.com##.grid_6
 putclub.com##.gtest
 58.com##.guaguabox
 hkwb.net##.guangg
-131458.com,adreep.cn,enorth.com.cn,nen.com.cn,sqkz.com##.guanggao
+131458.com,adreep.cn,nen.com.cn,sqkz.com##.guanggao
 my0538.com##.guanggao1
 my0538.com,tgbus.com##.guanggao2
 cnmo.com##.guanggao_type
