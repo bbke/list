@@ -1246,7 +1246,7 @@ hk.yahoo.com###mntl1
 .com/images/$domain=cao01.com|cao71.com|cao79.com|cao89.com|caoporn.com|ri86.com|ri96.com
 .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
 .com/link/$image,domain=i-ab.com
-.com/tps/$domain=lknovel.lightnovel.cn|ocucn.com
+.com/tps/$domain=ocucn.com
 .com/x/$domain=17173.com|17173.tv.sohu.com
 .com/ys/ad_top$domain=9baka.com|9gal.com
 .gif|$domain=557zz.com
@@ -4385,10 +4385,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||jjwxc.net/images/wap/wap.gif
 ||eap.big5.enorth.com.cn^
 ||ntpcb.com/10rmb.gif
+||alicdn.com^$domain=lightnovel.cn
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+lightnovel.cn##A[href*=".taobao.com/"]
+lightnovel.cn##A[href^="http://tb.cn/"]
+lightnovel.cn##A[href*=".tmall.com/"]
 gigacircle.com##.Game-Ads
 yaolan.com###AD
 enorth.com.cn##DIV[class^="guanggao"]
@@ -5288,7 +5292,6 @@ news.hf365.com##.G_bot
 fuli.ba,fuliba.asia,fuliba.mobi##.GzList
 epinv.com##.Headad
 sj998.com##.Hr_1
-lightnovel.cn##.J_ad
 cwan.com##.L_ad_12
 cwan.com##.L_ad_22
 shenchuang.com##.MainR_ad3
@@ -6158,7 +6161,6 @@ niotv.com##.list[height="60"]
 sjzbus.com.cn##.litBanner
 sjzbus.com.cn##.litGg
 jump.bdimg.com,tieba.baidu.com##.live_show_aside
-lknovel.lightnovel.cn##.lk-a-d-block
 lnzq5.com##.log_ada
 hcwang.cn##.logo3
 fashionguide.com.tw##.logo_ad
@@ -6370,7 +6372,6 @@ portablesoft.org##.rightside > :nth-child(n+2)
 biz.ifeng.com##.riodel
 wangdaizhijia.com##.rnad
 yayaxz.com##.room
-lknovel.lightnovel.cn##.row-fluid[style="margin: 0 0 20px 20px;"]
 howfile.com##.row1_right
 nhaidu.com##.rowa.clearfix.clear
 ld0766.com##.rsf_pull_screen_adv
