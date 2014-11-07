@@ -4379,10 +4379,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||baofeng.com/src/ad.js
 ||cyzone.cn/statics/js/m.js
 ||safedom.net/edm/ad/
+||haxiu.com/data/cache/myadn-
+||letvimg.com/cms/201411/07/cdc98f3fc2034494aab82dfa81821d5f.jpg
+||360.cn/festival_zone.html
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+letv.com##A[href^="http://prom.gome.com.cn/"]
+letv.com##LI[data-info*="prom.gome.com.cn/"]
 btmee.net##A[href="http://www.tk001.com/?btmee"]
 yaolan.com###AD
 360.cn##.ads-pic
@@ -6662,7 +6667,7 @@ qdmm.com,qidian.com##a[href^="http://avd.qidian.com/showavd.aspx"]
 tv.2345.com##a[href^="http://buy.2345.com/go/?"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 178.com##a[href^="http://iwan.sogou.com/webgame?f="]
-life.21cn.com##a[href^="http://news.haxiu.com/"]
+21cn.com##A[href^="http://news.haxiu.com/"]
 xdjz.net##a[href^="http://p.xdsq.net/ad/"]
 dasai8.com##a[href^="http://rf003.com/?Extend="]
 vikilife.com##a[href^="http://s.click.taobao.com/"]
