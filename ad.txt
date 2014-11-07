@@ -896,6 +896,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||ws341.com^
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -2062,7 +2063,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||bxs.cc/js/foot$script
 ||bxtd.net/heibing/js/tag.js
 ||bxwx.org/1.js
-||bxwx.org/downad
 ||bxwx.org/js/box_
 ||bxwx.org/myabc/
 ||bytravel.cn/images/cus/
@@ -4379,6 +4379,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||baofeng.com/src/ad.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -7630,6 +7631,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||youdao.com/tl?
 ||haostat.qihoo.com^
 ||zol.com.cn/cgimp/zc.js
+||static.hd.baofeng.com/script/baidu_
 !----------------------------------The End------------------------------------!
 ! Expires: 4 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-1674209-1-1.html
