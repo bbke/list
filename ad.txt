@@ -3288,7 +3288,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||muyuge.net/js/bb/
 ||mwsl.qiniudn.com/250x250-
 ||mwsl.qiniudn.com/puma-faas300v3.jpg
-||mwsl.qiniudn.com/wp-content/uploads/2014/06/duckduckgo.png
 ||my0511.com/*/ad_
 ||my0511.com/aadd/
 ||my0832.com/xyz/upload/
@@ -4395,6 +4394,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||z63.org/wp-content/themes/z63/img/s-
 ||z63.org/wp-content/themes/z63/img/top-1.jpg
 ||z63.org/wp-content/themes/z63/img/zybk.jpg
+||bdstatic.com/tb/r/image/2014-11-06/2ce9f2fab0cc9bad07e3486fea891c53.gif
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
