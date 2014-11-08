@@ -3768,7 +3768,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||sinaimg.cn/mw690/ea495f08gw1egqwdf1h2mj208c04rt91.jpg
 ||sinaimg.cn/mw690/ea495f08gw1ehcsmx6dlzg20eq04gt9c.gif
 ||sinaimg.cn/unipro/
-||sinaimg.cn^$domain=btshare.net|jisuzhibo.net|youdian.in|zhaofuli.net|zhaofuli.org|zhiboche.com
+||sinaimg.cn^$domain=btshare.net|jisuzhibo.net|zhaofuli.net|zhaofuli.org|zhiboche.com
 ||sinaimg.cn^*/deco/$script
 ||sinajs.cn/blog7style/images/activity/app_tuiguang/
 ||sinajs.cn/xblogstyle/images/activity/xinyue_ad/banner
@@ -4386,10 +4386,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zznews.cn/home/js/duilian1.js
 ||creaders.net*/ad_func.js
 ||sinaimg.cn/mw690/a6a976a2tw1em08ae7nlbj20go01oaav.jpg
+||sinaimg.cn/bmiddle/c00f4a08gw1el0rif0zb0g208c06y0yl.gif
+||1177h.com/js/
+||115.29.141.121:8086/js/wp.js
+||xiaoliaolianmeng.com/Data/Static/image/lzujob_
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+4v5v.com##TABLE[bordercolor="#FF0000"]
 fuliba.asia,fuli.ba,fuliba.mobi##.right-banner
 jump.bdimg.com,tieba.baidu.com##.order_repost_wrap
 yaolan.com###AD
