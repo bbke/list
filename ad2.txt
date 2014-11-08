@@ -48,6 +48,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||pos.baidu.com^
 ||eclick.baidu.com^
 ||wrating.com^$third-party
+||addthis.com^$third-party
 ||qpic.cn^$domain=www.ithome.com
 ||i.match.qq.com^
 ||js.aq.qq.com^

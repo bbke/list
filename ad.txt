@@ -48,6 +48,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||pos.baidu.com^
 ||eclick.baidu.com^
 ||wrating.com^$third-party
+||addthis.com^$third-party
 ||qpic.cn^$domain=www.ithome.com
 ||i.match.qq.com^
 ||js.aq.qq.com^
@@ -4391,6 +4392,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||115.29.141.121:8086/js/wp.js
 ||xiaoliaolianmeng.com/Data/Static/image/lzujob_
 ||shousibaocai.com/static/ssbc.js
+||z63.org/wp-content/themes/z63/img/s-
+||z63.org/wp-content/themes/z63/img/top-1.jpg
+||z63.org/wp-content/themes/z63/img/zybk.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!

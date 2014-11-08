@@ -71,9 +71,9 @@ rules = [{
     regex: true
 },{
     name: "AcFun - 网页全屏",
-    from: /^http:\/\/www\.acfun\.tv\/v\/a(b|c)([\w]+)(#album=.*)?((#|;)autoplay=1)?/i,
-    exclude: /acfun\.tv\/v\/a(b|c)(.*)#fullscreen=1/i,
-    to: "http://www.acfun.tv/v/a$1$2#fullscreen=1", 
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(b|c)([\w]+)(#album=.*)?((#|;)autoplay=1)?/i,
+    exclude: /acfun\.tv\/(a|v)\/a(b|c)(.*)#fullscreen=1/i,
+    to: "http://www.acfun.tv/$1/a$2$3#fullscreen=1", 
     regex: true
 },{
     name: "BiliBili",
