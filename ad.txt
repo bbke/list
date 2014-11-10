@@ -2243,7 +2243,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||dailynews.sina.com/gb/ads/
 ||danlan.org/KFC/
 ||danyang.com/statics/banner.swf
-||daqianduan.com/wp-content/uploads/*/ads.*.jpg
+||daqianduan.com/wp-content/uploads/*/ads*.jpg
 ||dasai8.com/js/duilianjs.js
 ||dashi.com/static/images/jiaocheng_ad.jpg
 ||dashuye.com/data/cache/myad*.htm
@@ -4412,10 +4412,16 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||bdstatic.com/tb/cms/com/mis/spreadad/dasense_iframe_api.js
 ||baidu.com/tb/zt/wen_da_pc.html
 /^http\:\/\/lknovel\.lightnovel\.cn\/(?!(resouses|cover)\/)/$image,domain=lknovel.lightnovel.cn
+||my.kiees.cn/img/dang.jpg
+||fulidang.com/ads/
+||daqianduan.com/wp-content/uploads/2014/11/1111.jpg
+||sinaimg.cn/mw690/60006c33jw*206y
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+fulidang.com##.banner
+fulidang.com##.d_banner
 jump.bdimg.com,tieba.baidu.com##.j_couplet
 www.163.com##.float-bar
 gpshk.cc##.a_p
