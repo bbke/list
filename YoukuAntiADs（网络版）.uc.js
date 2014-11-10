@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.10.31.15
+// @version         14.11.10.16
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs.uc.js
 // ==/UserScript==
 (function() {
@@ -50,9 +50,9 @@
         },
         'letv': {
             'player': refD + 'letv.swf',
-            're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/((?!(Live|seed|Disk))((C|S)[\w]{2,3})?(?!Live)[\w]{4}|swf))Player*\.swf/i
+            're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/(?!(Live|seed|Disk))((C|S)[\w]{2,3})?(?!Live)[\w]{4})Player[^\.]*\.swf/i
         },
-        'letv_live': {
+		'letv_live': {
             'player': refD + 'letvlive.swf',
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/\d+\/newplayer\/LivePlayer\.swf/i
         },
@@ -60,11 +60,15 @@
             'player': 'http://player.letvcdn.com/p/201407/24/15/newplayer/1/SSLetvPlayer.swf',
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/(?!15)\d*\/newplayer\/\d+\/S?SLetvPlayer\.swf/i
         },
-        'pplive_live': {
-            'player': refD + 'pplive_live.swf',
-            're': /http:\/\/player\.pplive\.cn\/live\/.*\/player4live2\.swf/i
+        'pptv': {
+            'player': refD + 'pptv.swf',
+            're': /http:\/\/player.pplive.cn\/ikan\/.*\/player4player2\.swf/i
         },
-        'sohu': {
+		'pplive': {
+            'player': refD + 'pptvLive.swf',
+            're': /http:\/\/player.pplive.cn\/live\/.*\/player4live2\.swf/i
+        },
+		'sohu': {
            'player': refD + 'sohu.swf',
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(?!(live|\d+)).*\d+\/(main|PlayerShell)\.swf/i
         },
@@ -76,10 +80,14 @@
            'player': refD + 'sohulive.swf',
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(live\/|)\d+\/(main|PlayerShell)\.swf/i
         },
-        'pps': {
+		'pps': {
             'player': refD + 'pps.swf',
             're': /http:\/\/www\.iqiyi\.com\/player\/cupid\/.*\/pps[\w]+.swf/i
         },
+		'ppsiqiyi': {
+            'player': refD + 'iqiyi.swf',
+            're': /http:\/\/www\.iqiyi\.com\/common\/flashplayer\/\d+\/PPSMainPlayer.*\.swf/i
+		},	
         'wanhenda': {
             'player': 'http://yuntv.letv.com/bcloud.swf',
             're': /http:\/\/assets\.dwstatic\.com\/.*\/vppp\.swf/i
@@ -94,12 +102,16 @@
      	},			
 	    '17173_stream_customOut': {
             'player': refD + '17173_Player_stream_out.swf',
-  	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_stream_customOut\.swf/i
+  	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_stream_(custom)?Out\.swf/i
 	    },			
         '17173_live': {
             'player': refD + '17173_Player_stream.swf',
-            're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_stream\.swf/i
-        }
+            're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_stream(_firstpage)?\.swf/i
+        },
+		'baiduAD': {
+            'player': refD + 'baiduAD.swf',
+		    're': /http:\/\/list\.video\.baidu\.com\/swf\/advPlayer\.swf/i
+		}
     },
     os: Cc['@mozilla.org/observer-service;1']
             .getService(Ci.nsIObserverService),
