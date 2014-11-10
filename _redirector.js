@@ -65,12 +65,17 @@ rules = [{
     to: "http://userscripts-mirror.org/$1",
     regex: true
 },{
-    name: "百度贴吧|百科 原始大图",
+    name: "优美图 >> 大图",
+    from: /^https?:\/\/(.*)\.topit\.me\/(s|m)\/(.*)$/,
+    to: "http://$1.topit.me/l/$3",
+    regex: true
+},{
+    name: "百度贴吧|百科 >> 原始大图",
     from: /http:\/\/(imgsrc|[\w]?\.hiphotos)\.baidu\.com\/(forum|baike)\/[\w].+\/sign=[^\/]+(\/.*).jpg/i,
     to: "http://$1.baidu.com/$2/pic/item$3.jpg",
     regex: true
 },{
-    name: "AcFun - 网页全屏",
+    name: "AcFun >> 网页全屏",
     from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(b|c)([\w]+)(#album=.*)?((#|;)autoplay=1)?/i,
     exclude: /acfun\.tv\/(a|v)\/a(b|c)(.*)#fullscreen=1/i,
     to: "http://www.acfun.tv/$1/a$2$3#fullscreen=1", 
