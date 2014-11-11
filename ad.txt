@@ -2163,7 +2163,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cmsjs.eastmoney.com/js/fixedSoft$script
 ||cmsjs.eastmoney.com^$subdocument
 ||cnblogs.com/ooooo/
-||cncalc.org/ti/1-10.png
 ||cnchu.com/aps/
 ||cnchu.com/templates/cnchu2014/images/13.jpg
 ||cnchu.com/templates/cnchu2014/images/14.jpg
@@ -2681,7 +2680,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||heshan.gov.cn/JS/ddgg.js
 ||hexun.com*/hx_news/hx_news_finalpage.js
 ||hexun.com*/shicaidai/
-||hezuo.sh.soufun.com^$subdocument,third-party
 ||hf365.com/0/13/79/87/13798795_912593.jpg
 ||hf365.com/0/14/31/00/14310068_933922.png
 ||hf365.com/0/14/60/93/14609355_921128.jpg
@@ -4423,10 +4421,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 /^http\:\/\/lknovel\.lightnovel\.cn\/(?!(resouses|cover|illustration)\/)/$image,domain=lknovel.lightnovel.cn
+||yanu.qiniudn.com/270300.jpg
+||c4d.cn/api.php?mod=ad&adid=
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+baidu.com##.adTopImg
+ccav1.com###widget_default
 lknovel.lightnovel.cn##A[rel="nofollow"]
 yaolan.com###AD
 21yq.com###AD1
@@ -6120,7 +6122,6 @@ goxiazai.net,hifidiy.net,ydss.cn##.indexAd
 goxiazai.net##.indexAd1
 goxiazai.net##.indexAd2
 cwan.com##.indexTip
-c4d.cn##.index_336
 pengfu.com##.index_advertising
 pengfu.com##.index_advertising01
 6665.com,g1080.com,jisuxz.com,jmnews.com.cn##.index_banner
@@ -6128,7 +6129,6 @@ juxia.com##.index_btad
 xiaoma.com##.index_float
 hqdoor.com##.index_newad
 xinmin.cn##.index_nhsh_effect
-c4d.cn##.index_right > .index_box[style]
 jianshen114.com##.index_temp
 69zw.com##.indexad2
 69zw.com##.indexad3
@@ -7033,7 +7033,6 @@ duba.com##div[style="width:645px;height:200px;position:relative;float:left;borde
 jgtj.com.cn##div[style="width:654px; height:300px; margin:auto; margin-top:10px;"]
 vipyl.com##div[style="width:692px;height:282px;margin:0px 10px 0px 10px; padding:0px;float:right; overflow:hidden"]
 neihan8.com##div[style="width:728px; margin: 20px auto 0px;"]
-coolapk.com##div[style="width:728px;height:90px;margin:5px auto;"]
 131458.com##div[style="width:788px;border:solid 1px #def0e1;padding:0 10px;overflow:hidden;background:#fff9f3; height:35px;line-height:35px;"]
 weshequ.com##div[style="width:940px;margin:0 auto;height:200px;"]
 linyiren.com##div[style="width:960px; height:70px; margin:2px auto;"]
@@ -7196,6 +7195,7 @@ wanshuge.net##ul[style="width: 880px;margin:0 auto;text-align:center;margin-top:
 firefoxchina.cn##ul[track-key="adv_links"]
 !---------------------------------CSS Whitelist-------------------------------!
 920url.com#@##AdDiv
+china.com#@#.adclass
 the-sun.on.cc#@##ContentAd1
 news.now.com#@##ad-2
 d77.com#@##ad-wrap
@@ -7389,7 +7389,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||bzfxw.com/adfile/ad29.htm
 @@||bzfxw.com/adfile/syycss.js
 @@||bzfxw.com/adfile/xzhf3.js
-@@||c4d.cn/ads/ads_
 @@||cb.baidu.com/ecom?$domain=colafile.com|pctowap.com|play.yue365.com
 @@||cb.baidu.com/ecom?di=106878&
 @@||cb.baidu.com/ecom?di=373107&
