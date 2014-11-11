@@ -845,7 +845,7 @@ hk.yahoo.com###mntl1
 ~125.la,~52pojie.cn,~it168.com,~xitek.com##.a_mu
 ##.a_pb
 ##.a_pr
-~briian.com,~imuyang.com,~wps.cn##.a_pt
+~briian.com,~imuyang.com,~gamersky.com,~wps.cn##.a_pt
 ##.ad250left
 ##.ad72060
 ~hk-pub.com##.ad_footerbanner
@@ -2218,7 +2218,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cqvip.com/viewserver/ViewAD
 ||cr173.com/js/
 ||cr173.com/show/
-||cr173.com/skin/gr/js/*bt_ty.js
 ||creaders.net*/ad_func.js
 ||creativetop.com/cn/pic/laogu_adv.gif
 ||crs.baidu.com^
@@ -4424,6 +4423,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+/suningshuang11shouyebanner.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
