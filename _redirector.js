@@ -89,7 +89,7 @@ rules = [{
 },{
     name: "【https】google",
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
-    exclude: /google\.cn/i,  // 可选，排除例外规则
+    exclude: /google\.cn/i,  //例外规则
     to: "https://$1",
     regex: true
 },{
