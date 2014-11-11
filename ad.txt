@@ -1291,7 +1291,7 @@ hk.yahoo.com###mntl1
 /ifengRotatorAd.js
 /images/*.gif$domain=174.37.129.197|174.37.147.136|iu91.co|sejie.com|ukhuaren.co
 /Images/ak47/*$domain=hanzify.net|hanzify.org
-/images/cc.js$domain=70.86.24.117|mayahh.com|mimihh.com
+/images/cc.js$domain=174.123.15.33|70.86.24.117|mayahh.com|mimiok.com
 /images/content/1436/*$domain=chineseinla.com
 /images/g_js/*$domain=jide123.com|jide123.net
 /images/gtj*.jpg$domain=paipai.fm|paipaitxt.com
@@ -2182,7 +2182,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cnhubei.com*/g2
 ||cnjxol.com/*.files/sian.gif
 ||cnjxol.com/include/2011/index/js/index.js
-||cnkang.com/images/kwgbsy.jpg
+||cnkang.com/images/*756.jpg
+||cnkang.com/cs/images0410/fengxiong.jpg
 ||cnkang.com/images/sy
 ||cnkang.com/zixun/nanke/
 ||cnliti.com//template/xtfuf_black/images/img/m3ph73.png
@@ -2763,7 +2764,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||huanqiukexue.com/uploads/images/hqkx_11.jpg
 ||huanwen.com/Public/images/banner/
 ||huarenjie.com/files/140257728854.jpg
-||hudong.pl.youku.com^
+||hudong.pl.youku.com/interact/player/get/plugins?
 ||huizhou.cn/webfile/*/images/scroll.js
 ||hunantv.com/ui/2014/images/hao123.jpg
 ||huodong.liaoing.com/haibao/2013/800zhinengsuo_0702/zhineng.swf
@@ -4424,6 +4425,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 /suningshuang11shouyebanner.jpg
+||chewen.com/pics/2013/09/13/02013091317191365.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
@@ -4634,7 +4636,6 @@ news.msn.com.tw###adv_images_l
 qq.com###advertisement
 sogou.com###adword
 mtime.com###animation_lu
-coolapk.com###apkDownloadAds
 qzone.qq.com###appCanvasRightBottomTips
 qzone.qq.com###appCanvasRightTopQBoss
 qzone.qq.com###appCanvasTopBanner
@@ -5189,7 +5190,7 @@ srzc.com###srzcad
 k7mm.com###t2 + a
 skyme.com,tom365.com,tom365.net,tw116.com###t365
 sg169.com###tab1
-70.86.24.117,mayahh.com,mimihh.com###table1
+174.123.15.33,70.86.24.117,mayahh.com,mimiok.com###table1
 bbs.hiapk.com###tag_1_7
 zymk.cn###tanchuang
 e23.cn###taobaorba
@@ -5523,7 +5524,7 @@ hd.zhijia.com,house.bdinfo.net,inhe.net##.adb
 ifeng.com##.adbest
 keke001.com,oogps.com##.adbg
 jq22.com##.adbka
-17173.tv.sohu.com,68design.net,caixun.com,cdyee.com,epochtimes.com,hsw.cn,ifeng.com,jrj.com.cn,phoenixtv.com,xineurope.com,yesky.com##.adbox
+17173.tv.sohu.com,68design.net,cdyee.com,epochtimes.com,hsw.cn,ifeng.com,jrj.com.cn,phoenixtv.com,xineurope.com,yesky.com##.adbox
 ifeng.com##.adbox02
 ifeng.com##.adbox03
 xcar.com.cn##.adbox980
