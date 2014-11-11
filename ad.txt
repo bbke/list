@@ -2096,7 +2096,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||caomeinv.info/images/*.gif
 ||cari.com.my/cari/banner/
 ||cari.com.my/cari/daybanner/
-||cbber.com/data/attachment/portal/201401/07/101915x2ez2z4f65cka6fz.gif
+||cbber.com/data/attachment/portal/201410/14/102616z4cuvt26tzt66lzc.gif
 ||cbfw.cn/gonggong/js/cf_flash.js
 ||cc134.com/js/ddd.js
 ||ccav1.com/wp-content/themes/BYMT/images/mengmengdeguanggao.jpg
@@ -2838,7 +2838,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||image.6park.com^
 ||image.9duw.com^
 ||image.hh010.com^
-||image.jzmt.net//default.jpg
 ||image.seowhy.com/bbs/20
 ||image.sportscn.com/other/live/
 ||image.wenweipo.com/*/ad_
@@ -4425,10 +4424,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||china.com/zh_cn/plugin/all/hezuo360/
 ||besc.baidustatic.com^
 ||china.com/jsfiles/gotopgg/
+||sinaimg.cn^$domain=www.lightnovel.cn
+||cnmo-img.com.cn/oddjs/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cbber.com###diy_chart
 china.com###BJ
 china.com##DIV[style="width:680px;height:90px;padding-left:10px"]
 baidu.com##.adTopImg
@@ -6703,8 +6705,8 @@ gamebase.com.tw##[id^="aid_"]
 jump.bdimg.com,tieba.baidu.com##[id^="spreadad_"]
 image.baidu.com##a[data-nsclick="p=all&event_type=ad.text.clk"]
 chdbits.org,hdcmct.org,wuleba.com##a[href*=".taobao"]
-cosersuki.org,lightnovel.cn##a[href*=".taobao.com/"]
-lightnovel.cn##a[href*=".tmall.com/"]
+cosersuki.org,lightnovel.cn##a[href*=".taobao.com"]
+lightnovel.cn##a[href*=".tmall.com"]
 18p2p.com##a[href*="/? Intr="]
 18p2p.com##a[href*="/?aff="]
 mkzhan.com,zymk.cn##a[href*="/adid/"]
@@ -7703,6 +7705,9 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||youdao.com/ctlog?
 ||youdao.com/tl?
 ||zol.com.cn/cgimp/zc.js
+||cnmo.com/pv.js
+||zol-img.com.cn/bms/js/stat.js
+||stat.cnmo.com^
 !----------------------------------The End------------------------------------!
 ! Expires: 4 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-1674209-1-1.html
