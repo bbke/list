@@ -797,6 +797,7 @@ hk.yahoo.com###mntl1
 |https://*/ad/
 !------------------------General element hiding rules-------------------------!
 ###MyMoveAd
+###ad_id
 ###QQ_Full
 ###ad_box1
 ###ad_box2
@@ -4428,10 +4429,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||qhimg.com/t01a73aeee19e81078f.jpg
 ||upaiyun.com/css88/*/1008
 ||qhimg.com/t011cba326a10688b9c.jpg
+||cdn.shdsp.net/ad
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+yyets.com##.top_log_news
+gongchang.com##.topAd
 douni.com###lad_1
 douni.com###lad_2
 douni.com###lad_3
@@ -4562,7 +4566,6 @@ gameapps.hk###adTopClickAreaLeft
 gameapps.hk###adTopClickAreaRight
 gameapps.hk###adTopClickAreaTop
 udn.com###ad_300_100
-yyets.com###ad_644_100 + div[style="margin-top:1em;text-align:center;"]
 autohome.com.cn###ad_990_tm
 shaoxing.com.cn###ad_Full
 www.sohu.com###ad_TOP
@@ -6735,7 +6738,6 @@ tv.2345.com##a[href^="http://buy.2345.com/go/?"]
 21cn.com##a[href^="http://news.haxiu.com/"]
 xdjz.net##a[href^="http://p.xdsq.net/ad/"]
 letv.com##a[href^="http://prom.gome.com.cn/"]
-dasai8.com##a[href^="http://rf003.com/?Extend="]
 vikilife.com##a[href^="http://s.click.taobao.com/"]
 lightnovel.cn##a[href^="http://t.cn/"]
 lightnovel.cn##a[href^="http://tb.cn/"]
