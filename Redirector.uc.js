@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.11.19
+// @version         14.11.12.11
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -108,7 +108,7 @@
 },{
     name: "【https】google",
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
-    exclude: /google\.cn/i,  //例外规则
+    exclude: /google\.cn/i,  // 可选，排除例外规则
     to: "https://$1",
     regex: true
 },{
@@ -127,8 +127,8 @@
     to: "https://$1m-team.cc/$2",
     regex: true
 },{
-    name: "【https】T、I、R、G、C",
-    from: /^http:\/\/(.*)?(tumblr|imgur|redditmedia|googleusercontent|googlecode|cam4s)\.com\/(.*)$/i,
+    name: "【https】T、L、I、R、G、C",
+    from: /^http:\/\/(.*)?(tumblr|livestream|imgur|redditmedia|googleusercontent|googlecode|cam4)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{
