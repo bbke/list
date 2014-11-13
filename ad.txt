@@ -4434,6 +4434,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzsky.cn/images/zzskycom_
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+9724.com##.game_detail
+9724.com##.game_details
 lgn.yy.com##.m_left > A[href="https://pay.yy.com/hjb/page/act/lighten"]
 yaolan.com###AD
 21yq.com###AD1
@@ -7493,7 +7495,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||laniqu.com/static/ad/
 @@||launcher.lenovo.com/launcher/data/attachment/common/cf/
 @@||life.tenpay.com/res/ad/cellphone/js/down_for_app.js
-@@||linuxidc.com/linuxfile/linux.js
 @@||m1905.cn/utils/adloader.js
 @@||meiziweibo.com^$elemhide
 @@||meizu.com/fileserver/ad/img/
