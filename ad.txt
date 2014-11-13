@@ -4340,9 +4340,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||duowan.com/lgn/x/images/lgnadv/
 ||chaling.cn/data/attachment/portal/
 ||chaling.cn/images/*.gif
+||101.78.195.135/js/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+esdict.cn,eudic.net,frdic.com,godic.net##.ads_info
+esdict.cn,eudic.net,frdic.com,godic.net##.ads_info ~ p
 9724.com##.game_detail
 9724.com##.game_details
 yaolan.com###AD
@@ -5008,7 +5011,6 @@ reyoo.com,reyoo.net###rich_window
 bejson.com###right
 sogou.com,soso.com###right > .atTrunk
 2345.com###right > div:first-child
-esdict.cn,frdic.com,godic.net###right-side-colume
 wenkudaquan.com###rightAD
 66rd.cn,cao1024.com,cssqt.com,gdzjdaily.com.cn,lysq.com,mxwz.com,qiannao.com###rightDiv
 gxnews.com.cn###right_3_ad
