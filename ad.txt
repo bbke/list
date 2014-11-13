@@ -4350,6 +4350,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||saydigi.com/wp-content/uploads/2014/09/19.jpg
 ||saydigi.com/wp-content/uploads/*-banner
 ||198zone.com/images/*noad.jpg
+||17558.net/goodthing.gif
+||17558.net/gzroyal_cn_888.jpg
+||17558.net/ke01_com.gif
+||17558.net/weishangcheng.gif
+||198zone.com/images/17558/198zone.gif
+||jiaoyu.baidu.com/tieba/getindexdata?$domain=jump.bdimg.com|tieba.baidu.com
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
@@ -5610,7 +5616,7 @@ newxue.com##.bd500
 ttshuba.com##.bd980
 yesky.com##.bd_adv
 55188.com##.bd_gg
-cnbeta.com##.bd_r
+cnbeta.com##.rating_box + .navi
 cnscore.com##.bdbanner
 e23.cn##.bdggtb
 pinshan.com##.bea_adv2
