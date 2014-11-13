@@ -4341,9 +4341,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||chaling.cn/data/attachment/portal/
 ||chaling.cn/images/*.gif
 ||101.78.195.135/js/
+||im286.com/286/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+jxedt.com##.ad640
+jxedt.com##.bbad
+jxedt.com##.ggad
+jxedt.com##.jxpl
+jxedt.com##.tbad
 esdict.cn,eudic.net,frdic.com,godic.net##.ads_info
 esdict.cn,eudic.net,frdic.com,godic.net##.ads_info ~ p
 9724.com##.game_detail
@@ -6912,6 +6918,7 @@ house.shangdu.com#@#.top_ad
 @@||zhaopin.cn^*/adbox_
 @@||zhaozi.cn/d/js/acmsd/ggao5$script
 @@||zhibowu.com/ad2.htm
+@@||banma.com/statics/js/??
 /1.gif?$domain=scol.com.cn
 /atcount.php?$domain=178.com
 /att_count.js
