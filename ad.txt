@@ -811,6 +811,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||110160.com^$third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -4358,9 +4359,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||dnwx.com/pic/*-960x60.
 ||hjdn.cn/img/hjgq.gif
 ||ykimg.com/051000005417E43D6737B32E06066ABA
+||219.238.159.181^*.html
+||letvimg.com/yunzhuanma/*_640_360.
+||61.235.249.195^*/Default.aspx?id=
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+hujiang.com##.top_banner
 lknovel.lightnovel.cn##.J_a1d_link
 html-js.com##.ad-blank
 html-js.com##.ads
@@ -6619,6 +6624,7 @@ tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
 @@&ad_type=$domain=x.jd.com
+@@||advert.kf5.com^
 @@||jobbole.com/wp-content/uploads/sites/8/2014/07/36c4ed88b6ffefc5c83fce3881952875.png
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
