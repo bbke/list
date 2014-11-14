@@ -116,6 +116,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 
+tieba.baidu.com##.guessing_watermark
 tieba.baidu.com###union_mod
 tieba.baidu.com###pop_frame
 tieba.baidu.com##.frs_act_repost_wrapper_outter
