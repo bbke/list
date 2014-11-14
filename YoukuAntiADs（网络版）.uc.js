@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.11.10.16
+// @version         14.11.14.17
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs.uc.js
 // ==/UserScript==
 (function() {
@@ -88,6 +88,10 @@
             'player': refD + 'iqiyi.swf',
             're': /http:\/\/www\.iqiyi\.com\/common\/flashplayer\/\d+\/PPSMainPlayer.*\.swf/i
 		},	
+		'ppslive': {
+            'player': 'http://www.iqiyi.com/player/20140613210124/livePlayer.swf',
+            're': /http:\/\/www\.iqiyi\.com\/common\/flashplayer\/\d+\/am.*\.swf/i
+		},		
         'wanhenda': {
             'player': 'http://yuntv.letv.com/bcloud.swf',
             're': /http:\/\/assets\.dwstatic\.com\/.*\/vppp\.swf/i

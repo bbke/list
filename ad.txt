@@ -920,7 +920,6 @@ hk.yahoo.com###mntl1
 ||appnext.com^$third-party
 ||at918.com^$third-party
 ||at98.com^
-||baifendian.com^$third-party
 ||biddingx.com^$third-party
 ||blogad.com.tw^$third-party
 ||bloggerads.net^$third-party
@@ -2938,7 +2937,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||jmsyzj.com^
 ||jn.auto.sina.com.cn/iframe/13/
 ||jnnews.tv/indexad/
-||jobbole.com/wp-content/uploads/sites/8/2014/09/
 ||jobtong.com/openSiteAd?
 ||joyes.com/image/06.jpg
 ||jpseek.com/pr/click2.jpg
@@ -6262,7 +6260,6 @@ ahtv.cn,onlinedown.net##.r1
 g1080.com##.r_img_m
 douni.com##.rad_1
 0597kk.com##.radioBox
-cnbeta.com##.rating_box + .navi
 junshi.cn,qichelian.com,tiantianpengfu.com,tiantianqiwen.com,yangsheng123.cn##.rbanner
 app01.com.tw##.rcAD
 3gsc.com.cn##.read_otherbook + a
@@ -6617,10 +6614,12 @@ hbee.edu.cn#@#.headerad
 i-pass.com.tw#@#.homead
 sohu.com#@#.label-ad
 36.cn#@#.mainAd
+qq.com#@#.ad-icon
 tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
 @@&ad_type=$domain=x.jd.com
+@@||jobbole.com/wp-content/uploads/sites/8/2014/07/36c4ed88b6ffefc5c83fce3881952875.png
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
