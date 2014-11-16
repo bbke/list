@@ -4371,9 +4371,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||imgchr.com/images/1200.gif
 ||iyejie.com/1024code.gif
 ||iyejie.com/xydlad.js
+||fufu66.com/js/config.js
+||jusesz.com/images/
+||jusesz.com/js/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+qzone.qq.com###appCanvasRecentApplist
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom

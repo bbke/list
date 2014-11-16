@@ -87,6 +87,11 @@ rules = [{
     to: "http://www.bilibili.com/video/av$1/$2#alist",
     regex: true
 },{
+    name: "优酷会员电影免费观看",
+    from: /^http:\/\/v\.youku\.com\/v_show\/id_([0-9a-zA-Z]{13})\.html$/i,
+    to: "http://www.id97.com/videos/play/id_$1.html",
+    regex: true
+},{
     name: "【https】google",
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
     exclude: /google\.cn/i,  // 可选，排除例外规则
@@ -109,7 +114,7 @@ rules = [{
     regex: true
 },{
     name: "【https】T、L、I、R、G、C",
-    from: /^http:\/\/(.*)?(tumblr|livestream|imgur|redditmedia|googleusercontent|googlecode|cam4)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|livestream|evozi|imgur|redditmedia|googleusercontent|googlecode|cam4)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{
