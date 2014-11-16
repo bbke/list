@@ -8296,11 +8296,14 @@ googleusercontent#
 127.0.0.1	file.ipinyou.com.cn
 127.0.0.1	stats.ipinyou.com
 #AdBlock    END
-#203.189.105.215	www.minggo.tk#
-23.21.27.78	my.minggo.tk
+#Firefox    AMO
+117.18.232.191    mozorg.cdn.mozilla.net
+117.18.232.191    addons.cdn.mozilla.net
+#minggo.tk
+23.21.27.78    my.minggo.tk
 54.83.78.255	code.minggo.tk
 203.189.105.215	2.minggo.tk
-203.189.105.216	sign1.minggo.tk
+203.189.105.216    sign1.minggo.tk
 203.189.105.216	sign3.minggo.tk
 203.189.105.215	sign4.minggo.tk
 203.189.105.216	sign5.minggo.tk
