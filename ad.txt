@@ -3092,6 +3092,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||lelevod.com/js/money/
 ||letsebuy.com/static/image/common/dm_cn_130.jpg
 ||letvcdn.com/js/*_focus_flash.js
+||letvimg.com/cms/201411/06/2ba9c8af5b248b0eafd93494e9f770906239.png
 ||letvimg.com/cms/201411/07/cdc98f3fc2034494aab82dfa81821d5f.jpg
 ||letvimg.com/gugwl/$object-subrequest
 ||letvimg.com/gugwl/*.swf
@@ -4368,7 +4369,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
-||letvimg.com/cms/201411/06/2ba9c8af5b248b0eafd93494e9f770906239.png
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
