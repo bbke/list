@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.16.17
+// @version         14.11.16.23
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -106,7 +106,7 @@
     to: "http://www.bilibili.com/video/av$1/$2#alist",
     regex: true
 },{
-    name: "优酷会员电影免费观看",
+    name: "优酷电影 >> 免费√",
     from: /^http:\/\/v\.youku\.com\/v_show\/id_([0-9a-zA-Z]{13})\.html$/i,
     to: "http://www.id97.com/videos/play/id_$1.html",
     regex: true
@@ -132,7 +132,7 @@
     to: "https://$1m-team.cc/$2",
     regex: true
 },{
-    name: "【https】T、L、I、R、G、C",
+    name: "【https】常用com网站",
     from: /^http:\/\/(.*)?(tumblr|livestream|evozi|imgur|redditmedia|googleusercontent|googlecode|cam4)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
