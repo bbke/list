@@ -4374,10 +4374,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||fufu66.com/js/config.js
 ||jusesz.com/images/
 ||jusesz.com/js/
+||112.126.66.58^*?mid=
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
-qzone.qq.com###appCanvasRecentApplist
+qzone.qq.com###appCanvasRecentAppActivity > .activity-area
+qzone.qq.com##.pop-app-list-c
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -6637,6 +6639,7 @@ yuexw.com#@#.con_ad
 wholehk.com#@##ad_headerbanner
 wholehk.com#@##adsense
 @@&ad_type=$domain=x.jd.com
+@@||keyan.cc/data/bcs/*/w
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=wholehk.com
 @@||wholehk.com/madads728.htm
 @@&ad_width=590&$domain=jd.com
