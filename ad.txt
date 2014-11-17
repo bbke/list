@@ -2667,7 +2667,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||house.jschina.com.cn/userfiles/image/20131106/061805022f21d2d8737937.gif
 ||house.sina.com.cn/2.0/abp/
 ||house.sina.com.cn/2.0/ads/
-||house.sina.com.cn/images/*/jiaju_1000x120.jpg
+||sina.com.cn/images/201406/yidong_dakuanghuan.jpg
 ||house365.com/hfads/
 ||house365.com/js/lbpopup.js
 ||house365.com/njads/
@@ -4382,6 +4382,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+sina.com.cn###ad_tl_01
+ifeng.com##.news_ADbox
 yinyuetai.com##.p_demo
 tianya.cn##.art-view
 dbw.cn##.Jutop
@@ -4837,7 +4839,6 @@ k618.cn,solidot.org###headads
 gxnews.com.cn###header_3
 131458.com###header_gg
 gd.xinhuanet.com###headline + #kuang3
-danyang.com###hello
 hexun.com,hexun.com.tw###hexunCouplet01
 51caiju.com###hint + .AdTop-Article-QQ
 gamersky.com###hitix
@@ -6801,7 +6802,6 @@ house.shangdu.com#@#.top_ad
 @@||cntv.cn^*_ad.js
 @@||colafile.com/js/ad_test.js
 @@||costco.com.tw/jsps/website/*AD
-@@||counter.sina.com.cn/time?fm=JS$domain=finance.sina.com.cn
 @@||cpro.baidu.com/cpro/ui/c.js$domain=520tingshu.com
 @@||cpro.baidustatic.com/cpro/ui/*.js$domain=400gb.com|bego.cc|pipipan.com
 @@||cpro.baidustatic.com/cpro/ui/c.js$domain=121.40.92.135|9duli.com|colafile.com|dlzyw.com|ffpan.com|gqpdf.com|gqzzw.com|l7po.com|pctowap.com
