@@ -4380,6 +4380,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+dbw.cn##.Jutop
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
