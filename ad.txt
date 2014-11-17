@@ -1333,6 +1333,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||111cn.net/gg_ad/
 ||111cn.net/js/downc*.js
 ||111cn.net/js/v8/
+||112.126.66.58^*?mid=
 ||113.17.188.44/*.js
 ||114fw.com/dagg/
 ||114so.cn/js/nm*.js
@@ -2430,6 +2431,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||freep.cn/lianjie/xuanfuwang.js
 ||fsehome.com/images/ad_tan.js
 ||fspcdn.com/main/fis/js/v11/play/pop-ad_
+||fufu66.com/js/config.js
 ||fulidang.com/ads/
 ||fulikong.com/images/yulecheng
 ||fuliqu.com/js/bejson_common.js
@@ -2837,6 +2839,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||img3.longyu.cc/topic/201312/980-6000.jpg
 ||imgad0.pconline.com.cn/ivy/image/
 ||imgcache.qq.com^*/MediaPlugin.swf
+||imgchr.com/images/1200.gif
 ||imgf.gamersky.com^$image
 ||imgn.jiatx.com/jiatx/mall/outer/
 ||imgs.cc/images/ad_
@@ -2895,6 +2898,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||iweihai.cn/js/float.js
 ||iyaxin.com/assert/js/m.js
 ||iyaya.info/newmshow.php
+||iyejie.com/1024code.gif
+||iyejie.com/xydlad.js
 ||jandan.com/static/gggg/
 ||javjunkies.com/FL$subdocument
 ||javlibrary.com/js/bnr_
@@ -2989,6 +2994,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||jthysh.com/uploadfile/poster/trt.swf
 ||jtimg.com/beauty/nowater/201408/101124358.jpg
 ||junph.cn^$domain=tiexue.net
+||jusesz.com/images/
+||jusesz.com/js/
 ||juxia.com/public/js/foot.js
 ||juxia.com/public/js/juxia.js
 ||jx.xinhuanet.com/*banner/
@@ -3135,6 +3142,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||loorin.com/uploads/140616/yijia.jpg
 ||loorin.com/uploads/140903/mx2.jpg
 ||loveshang.com/pic/*.swf
+||lrshare.com/wp-content/uploads/2014/11/AD.jpg
 ||ltaaa.com/data/bg/worldcup.jpg
 ||ltshu.net/api.php?mod=js&
 ||luckstatic.v1.cn/st/10000/
@@ -4368,19 +4376,9 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
-||imgchr.com/images/1200.gif
-||iyejie.com/1024code.gif
-||iyejie.com/xydlad.js
-||fufu66.com/js/config.js
-||jusesz.com/images/
-||jusesz.com/js/
-||112.126.66.58^*?mid=
-||lrshare.com/wp-content/uploads/2014/11/AD.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
-qzone.qq.com###appCanvasRecentAppActivity > .activity-area
-qzone.qq.com##.pop-app-list-c
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -4583,6 +4581,7 @@ news.msn.com.tw###adv_images_l
 qq.com###advertisement
 sogou.com###adword
 mtime.com###animation_lu
+qzone.qq.com###appCanvasRecentAppActivity > .activity-area
 qzone.qq.com###appCanvasRightBottomTips
 qzone.qq.com###appCanvasRightTopQBoss
 qzone.qq.com###appCanvasTopBanner
@@ -6249,6 +6248,7 @@ play.jb51.net##.playlistRT
 play.jb51.net##.playtlbd
 play.jb51.net##.playtlbdx
 19lou.com##.pop-ad
+qzone.qq.com##.pop-app-list-c
 zdfans.com##.poptip
 anzhuo365.com,pzzc.net##.portal_block_summary
 iplaysoft.com##.post > center
@@ -6584,11 +6584,12 @@ okwei.com#@##ad_160
 unisharp.com#@##ad_banner
 shuaijiao.com#@##ad_big
 chanet.com.cn#@##ad_content
+wholehk.com#@##ad_headerbanner
 51job.com#@##ad_left
 51job.com#@##ad_right
 cw.com.tw#@##adblock
 tt1069.com#@##adbrite
-pcdvd.com.tw#@##adsense
+pcdvd.com.tw,wholehk.com#@##adsense
 yaerwen.com#@##adtop
 52vfx.com#@##head_ad
 hutc.zj.cn#@##index_ad
@@ -6629,6 +6630,7 @@ tt1069.com#@#.afs_ads
 dingdong.ganji.com#@#.banner
 rsdown.cn#@#.banner-ads
 ishangman.com#@#.bottom_ad
+yuexw.com#@#.con_ad
 hbee.edu.cn#@#.headerad
 i-pass.com.tw#@#.homead
 sohu.com#@#.label-ad
@@ -6636,13 +6638,7 @@ sohu.com#@#.label-ad
 tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
-yuexw.com#@#.con_ad
-wholehk.com#@##ad_headerbanner
-wholehk.com#@##adsense
 @@&ad_type=$domain=x.jd.com
-@@||keyan.cc/data/bcs/*/w
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=wholehk.com
-@@||wholehk.com/madads728.htm
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -6858,6 +6854,7 @@ wholehk.com#@##adsense
 @@||js.tudouui.com/bin/player2/$object
 @@||juxiangyou.com/advert/
 @@||kbcool.com/advpic/$domain=ks.js.cn
+@@||keyan.cc/data/bcs/*/w
 @@||kocpc.myweb.hinet.net/BANNER.jpg
 @@||l.qq.com/lview?$domain=888.sports.qq.com
 @@||laniqu.com/static/ad/
@@ -6883,7 +6880,7 @@ wholehk.com#@##adsense
 @@||p.tanx.com/ex?i=mm_12852562_1778064_
 @@||p.tanx.com/ex?i=mm_33231655_8000000_
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pcdvd.com.tw
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=greedio.com|mnighthk.net|pcdvd.com.tw|tu265.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=greedio.com|mnighthk.net|pcdvd.com.tw|tu265.com|wholehk.com
 @@||partner.googleadservices.com/gpt/pubads_impl_$domain=pcdvd.com.tw
 @@||pcdvd.com.tw/advertisement.js
 @@||photo.erji.com/hifig.jpg
@@ -6956,6 +6953,7 @@ wholehk.com#@##adsense
 @@||veimg.cn/AdsShow/
 @@||video.appledaily.com.hk/admedia/$object-subrequest,domain=appledaily.com
 @@||webcrow.jp/adjs/ncskt.js
+@@||wholehk.com/madads728.htm
 @@||wowsai.com/data/files/ad/
 @@||woxiu.com/xapi/offsite_swf_more.php?*&type=
 @@||xda.cn/data/attachment/common/cf/
