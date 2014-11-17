@@ -4374,7 +4374,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||douban.com/?unit=dale_movie_trailer_after_play&
 ||dbw.cn/eap/js/db/dbwad_
 ||yytcdn.com/headfile/avt/
-||sinaapp.com^$domain=lknovel.lightnovel.cn
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
