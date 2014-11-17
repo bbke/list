@@ -3326,7 +3326,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||no1.168abc.net/upload/
 ||nokiacn.net/baidu.htm
 ||northtimes.com/huodong/02/js/ad-
-||nownews.com/events/sean/estateap/
+||nownews.com/events/
 ||nownews.com/include_house/product.html
 ||ntpcb.com/10rmb.gif
 ||ntpcb.com/html/channel/citypark/images/p83_temp_
@@ -4377,9 +4377,12 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zznews.cn/home/js/duilian1.js
 ||douban.com/?unit=dale_movie_trailer_after_play&
 ||dbw.cn/eap/js/db/dbwad_
+||yytcdn.com/headfile/avt/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+yinyuetai.com##.p_demo
+tianya.cn##.art-view
 dbw.cn##.Jutop
 yaolan.com###AD
 21yq.com###AD1
