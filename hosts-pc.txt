@@ -5622,14 +5622,30 @@
 
 #AdBlock    START
 #AdBlock    END
-#Firefox    AMO
-117.18.232.191    mozorg.cdn.mozilla.net
-117.18.232.191    addons.cdn.mozilla.net
+#mozilla
+117.18.232.191	addons.cdn.mozilla.net
+117.18.232.191	mozorg.cdn.mozilla.net
+117.18.232.191	developer.cdn.mozilla.net
+117.18.232.191	fhr.cdn.mozilla.net
+117.18.232.191	support.cdn.mozilla.net
+117.18.232.191	marketplace.cdn.mozilla.net
+117.18.232.191	air.cdn.mozilla.net
+117.18.232.191	activations.cdn.mozilla.net
+117.18.232.191	cdn.mozilla.net
+117.18.232.191	download-installer.cdn.mozilla.net
+117.18.237.191	getpersonas-cdn.mozilla.net
+117.18.232.191	snippets.cdn.mozilla.net
+117.18.232.191	telemetry-experiment.cdn.mozilla.net
+117.18.232.191	code.cdn.mozilla.net
+117.18.232.191	cs163.wpc.edgecastcdn.net
+117.18.232.191	videos.cdn.mozilla.net
+117.18.232.191	glow.cdn.mozilla.net
+68.232.45.109	df6a.https.cdn.softlayer.net
 #minggo.tk
-23.21.27.78    my.minggo.tk
+23.21.27.78	my.minggo.tk
 54.83.78.255	code.minggo.tk
 203.189.105.215	2.minggo.tk
-203.189.105.216    sign1.minggo.tk
+203.189.105.216	sign1.minggo.tk
 203.189.105.216	sign3.minggo.tk
 203.189.105.215	sign4.minggo.tk
 203.189.105.216	sign5.minggo.tk
