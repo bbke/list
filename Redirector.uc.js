@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.19.05
+// @version         14.11.19.06
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -27,11 +27,11 @@
     from: /^https?:\/\/www\.google\.com\.hk\/search\?(.*)/,
     to: "https://www.google.com/ncr#hl=en-US&newwindow=1&$1",
     regex: true
-},{  name: "wiki繁 >> 简",
+},{
+    name: "wiki繁 >> 简",
     from: /^(https?:\/\/zh\.wikipedia\.org)\/(wiki|zh|zh((?!\-cn)[^\/])+)\/(.*)/i,
     to: "$1/zh-cn/$4",
     regex: true,
-    satte:true,
 },{
     name: "Google公共库 http >> 360公共库",
     from: /^http:\/\/(.*?)googleapis\.com\/(.*)$/i,
@@ -64,7 +64,6 @@
     regex: true
 },{
     name:"Greasyfork >> zh-CN",
-    state:true,
     from:/^https:\/\/greasyfork\.org\/scripts\/(.*)/,
     to:"https://greasyfork.org/zh-CN/scripts/$1",
     regex:true
@@ -138,8 +137,9 @@
     regex: true
 },{
     name: "【https】5isotoi5",
-    from: /^http:\/\/76\.164\.232\.68\/(.*)$/i,
-    to: "https://www.5isotoi5.org/$1",
+    from: /^https?:\/\/(.*)?(76\.164\.232\.(68|70)|5isotoi5\.org)\/(.*)$/i,
+    exclude:/^https:\/\/5isotoi5\.org/i,
+    to: "https://5isotoi5.org/$4",
     regex: true
 }];		this.enableIcon = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVQ4jaWTIa7DMBBEDUMNixeGGgauFBAYUClsURRStqTE2DfoDXqCnsAX6AV6A99hippvN+5X1IIBlqznmdm1McbgRxnA+69UAB6nE6IILsOAwIxj26Ingm2a9TWyFueuQ1ItAUkVt2lCT7TLtjsckFTrEfZCLsNQB+SWo0hxzpU9ZGrFgKwFvEdgrgKObbsFRJFNznPXVQHXcdwCbtO0K//i3HaM/9nNbV/Hsb4H8B6Lc0VJ93leS7RNg8D8eZHeR9gTAd4XkFe5LxcF4N0+WbtuXA2S3f9zkFQRRRCYsTiHxTlEESRV9EQIzLjP8+cIX3+mX/QEXma7NDsegmEAAAAASUVORK5CYII=";
 		this.disableIcon = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA4klEQVQ4jaWTQREDIQxFMYACFKyDGEBBFCAgAhDAHQE5c14BkRBPv6duly7t7LSHf2CGefz/E0IIAX8qwN1/0gTY9x2qilorRAQ5ZxARYozHaykllFJgZjPAzNB7BxHdsr1tG8xsHeEupNa6Bpwtq+p0Puv0UFgVg5QS3B0isgTknK8AVb3kLKUsAa21K6D3fis/M1/H+M3u2XZrbb0H7g5mnkoaYxwlxhghIp8X6X2ERAR3nyDPcp8uJsC7/ZTSsXEryOn+y4GZQVUhImBmMDNUFWYGIoKIYIzxOcLPn+kfPQAVduEGEMliqAAAAABJRU5ErkJggg==";

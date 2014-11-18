@@ -8,11 +8,11 @@ rules = [{
     from: /^https?:\/\/www\.google\.com\.hk\/search\?(.*)/,
     to: "https://www.google.com/ncr#hl=en-US&newwindow=1&$1",
     regex: true
-},{  name: "wiki繁 >> 简",
+},{
+    name: "wiki繁 >> 简",
     from: /^(https?:\/\/zh\.wikipedia\.org)\/(wiki|zh|zh((?!\-cn)[^\/])+)\/(.*)/i,
     to: "$1/zh-cn/$4",
     regex: true,
-    satte:true,
 },{
     name: "Google公共库 http >> 360公共库",
     from: /^http:\/\/(.*?)googleapis\.com\/(.*)$/i,
@@ -45,7 +45,6 @@ rules = [{
     regex: true
 },{
     name:"Greasyfork >> zh-CN",
-    state:true,
     from:/^https:\/\/greasyfork\.org\/scripts\/(.*)/,
     to:"https://greasyfork.org/zh-CN/scripts/$1",
     regex:true
@@ -119,7 +118,8 @@ rules = [{
     regex: true
 },{
     name: "【https】5isotoi5",
-    from: /^http:\/\/76\.164\.232\.68\/(.*)$/i,
-    to: "https://www.5isotoi5.org/$1",
+    from: /^https?:\/\/(.*)?(76\.164\.232\.(68|70)|5isotoi5\.org)\/(.*)$/i,
+    exclude:/^https:\/\/5isotoi5\.org/i,
+    to: "https://5isotoi5.org/$4",
     regex: true
 }];
