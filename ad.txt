@@ -2197,6 +2197,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||dayoo.com/AdPub/adpub/$image
 ||db28.cn/cache/ads.js
 ||dbw.cn/0/07/18/40/7184029_146090.jpg
+||dbw.cn/eap/js/db/dbwad_
 ||dbw.cn/js/cp.js
 ||dc.letv.com^
 ||dcfever.com/campaigns/
@@ -2258,6 +2259,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||donews.com/special/yixin/a_scene.swf
 ||dospy.com/hezuo/
 ||dota2.uuu9.com^$subdocument
+||douban.com/?unit=dale_movie_trailer_after_play&
 ||douban.com/misc/mixed_static/529c8492e26293cb.js
 ||douban.com/view/dale-online/dale_ad
 ||douban.com^*/fm_bgad.js
@@ -2664,7 +2666,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||house.jschina.com.cn/userfiles/image/20131106/061805022f21d2d8737937.gif
 ||house.sina.com.cn/2.0/abp/
 ||house.sina.com.cn/2.0/ads/
-||sina.com.cn/images/201406/yidong_dakuanghuan.jpg
 ||house365.com/hfads/
 ||house365.com/js/lbpopup.js
 ||house365.com/njads/
@@ -3703,6 +3704,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||shuobar.cn/images/task/300x200wl.swf
 ||simplecd.me/static/js/adcpm.js
 ||sina.aicai.com/pages/sina/foot/jczq.shtml
+||sina.com.cn/images/201406/yidong_dakuanghuan.jpg
 ||sina.com.cn/js/87/20140101/hongbao/
 ||sina.com.cn/litong/
 ||sina.com.cn/rwei/hapi2014/64video_titu_logo_500x90.gif
@@ -4285,6 +4287,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||yyets.com*/ads/ga-
 ||yyets.com*/ads/tb-
 ||yyets.com/public/rooms?
+||yytcdn.com/headfile/avt/
 ||yytcdn.com/others/avt/
 ||yytcdn.com/swf/plugins_new.xml?$domain=yinyuetai.com
 ||yytcdn.com/user/bugles/*_*x*.jpg
@@ -4371,25 +4374,15 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
-||douban.com/?unit=dale_movie_trailer_after_play&
-||dbw.cn/eap/js/db/dbwad_
-||yytcdn.com/headfile/avt/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
-dailyfx.com.hk##.home-banner
-sina.com.cn###AD_Background_Wall_BG_Link
-sina.com.cn##.ad_684x90
-sina.com.cn###ad_tl_01
-ifeng.com##.news_ADbox
-yinyuetai.com##.p_demo
-tianya.cn##.art-view
-dbw.cn##.Jutop
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
 gdtv.cn###ADVbuttom1
 sina.com.cn###AD_Background_Wall_BG
+sina.com.cn###AD_Background_Wall_BG_Link
 sina.com.cn###AD_Background_Wall_Banner
 autofan.com.cn,jiaodong.net,rzw.com.cn,yb983.com###ALayer1
 autofan.com.cn,jiaodong.net,rzw.com.cn,yb983.com###ALayer2
@@ -4537,6 +4530,7 @@ bioon.com###ad_tb
 qqzhibo.net###ad_text_top
 8591.com.tw###ad_tips
 qidian.com###ad_tjword
+sina.com.cn###ad_tl_01
 baidu.com###ad_xbox_1
 baidu.com###ad_xbox_2
 baidu.com###ad_xbox_3
@@ -5261,6 +5255,7 @@ fuli.ba,fuliba.asia,fuliba.mobi##.GzList
 epinv.com##.Headad
 sj998.com##.Hr_1
 lknovel.lightnovel.cn##.J_a1d_link
+dbw.cn##.Jutop
 cwan.com##.L_ad_12
 cwan.com##.L_ad_22
 shenchuang.com##.MainR_ad3
@@ -5399,6 +5394,7 @@ ibuylady.com##.ad_300 + .content_S_2
 ttys5.com##.ad_580
 yntv.cn##.ad_6
 qq.com##.ad_670_90
+sina.com.cn##.ad_684x90
 junqing123.com##.ad_960_85
 sina.com.cn##.ad_960x90
 hupu.com##.ad_980
@@ -5538,6 +5534,7 @@ keywin.org##.appdownload
 163.com##.area_brand_ad
 163.com##.area_top_ad
 gfan.com##.art-ad
+tianya.cn##.art-view
 10jqka.com.cn,shangdu.com##.art_ad
 bkjia.com##.art_rightad1
 51test.net##.article-show:nth-child(2n+3)
@@ -5979,7 +5976,7 @@ jpwind.com##.hf_tupian_gg
 xinhuanet.com##.hfgg
 jump.bdimg.com,tieba.baidu.com##.hgame_mod_theme1
 jump.bdimg.com,tieba.baidu.com##.hgame_mod_theme2
-jthysh.com##.home-banner
+dailyfx.com.hk,jthysh.com##.home-banner
 quwenjiemi.com##.homeTopAd
 www.infoq.com##.home_banner
 iqilu.com##.hot-news
@@ -6197,6 +6194,7 @@ zhifang.com##.newhousegg002
 ali213.net##.newright
 cnhan.com,longhoo.net##.news-5
 xdkb.net##.news-l-yg
+ifeng.com##.news_ADbox
 m.baidu.com##.news_ad
 news.duba.com##.news_ad > .hot_list:first-child
 acousticguitar.com.cn##.news_b
@@ -6216,6 +6214,7 @@ hepan.com##.onead
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.op_tvplay_main
 zhidao.baidu.com##.optimus
 jump.bdimg.com,tieba.baidu.com##.order_repost_wrap
+yinyuetai.com##.p_demo
 actoys.net##.p_new_ad
 actoys.net##.p_top_ad
 tw.yahoo.com##.pa-banner
@@ -6999,6 +6998,7 @@ house.shangdu.com#@#.top_ad
 ||atpanel.com^$image
 ||baidu.com/game/asset/common/performance.js
 ||baidu.com/hunter/alog/
+||beacon.sina.com.cn^
 ||brand.sogou.com^
 ||bt.ktxp.com/iframe/statistics.js
 ||ca.cbsi.com.cn/rpv?
@@ -7101,7 +7101,6 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
-||beacon.sina.com.cn^
 &ad_type=
 &ad_url=
 &ad_zones=
