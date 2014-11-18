@@ -34,14 +34,9 @@ rules = [{
     to: "://fonts-gstatic.lug.ustc.edu.cn/$1",
     regex: true
 },{
-    name: "Google统计脚本 >> mingto.tk",
-    from: /^https?:\/\/(.*?)google-analytics\.com\/(.*)$/i,
-    to: "http://www.minggo.tk/etc/$2",
-    regex: true
-},{
-    name: "Google Tag Services >> mingto.tk",
-    from: /^https?:\/\/(.*?)googletagservices\.com\/tag\/js\/(.*)$/i,
-    to: "http://www.minggo.tk/etc/$2",
+    name: "Google统计和tag >> mingto.tk",
+    from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices)\.com\/([\w]+\/)*([\w]+\.js)/i,
+    to: "http://www.minggo.tk/etc/$4",
     regex: true
 },{
     name: "Gravatar头像 >> 多说",
@@ -118,8 +113,13 @@ rules = [{
     to: "https://$1$2.com/$3",
     regex: true
 },{
-    name: "【https】5isotoi5",
+    name: "【https】5isotoi5图",
     from: /^http:\/\/76\.164\.232\.67\/(.*)$/i,
     to: "https://76.164.232.67/$1",
+    regex: true
+},{
+    name: "【https】5isotoi5",
+    from: /^http:\/\/76\.164\.232\.68\/(.*)$/i,
+    to: "https://www.5isotoi5.org/$1",
     regex: true
 }];
