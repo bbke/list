@@ -4393,6 +4393,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+win007.com###ad
 dabin69.com###frameOa2lrD
 123.sogou.com###center_1
 letv.com##.interact_cnt
