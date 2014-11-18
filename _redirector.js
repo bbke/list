@@ -108,7 +108,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|livestream|evozi|imgur|redditmedia|googleusercontent|googlecode|cam4s)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|livestream|evozi|imgur|redditmedia|googleusercontent|googlecode|cam4s|filesmonster)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{

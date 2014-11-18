@@ -114,7 +114,6 @@ video.yahoo.com
 ||appleinn.co.jp
 ||uploadhouse.com
 ||taleofthenight.com
-||filesmonster.com
 ||99bitgongchang.org
 ||torrentroom.com
 ||sourceforge.net
