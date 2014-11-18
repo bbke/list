@@ -14,6 +14,8 @@
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 ||js.tudouui.com/bin/lingtong/app
 |http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
+tieba.baidu.com##.reward_btn.j_reward_btn
+tieba.baidu.com##.none_right_border.j_tbnav_tab
 www.ithome.com###side_func
 www.ithome.com###qrcode
 cam4.com###headerBanner
