@@ -1,0 +1,21 @@
+body {
+    overflow:auto;
+    background-color: #EDEDED;
+    font-family: 微软雅黑;
+    font-size: 62.5%;
+}
+
+/*设置导航整体面板*/
+#navs {
+  position:relative;
+  float:left;
+  top: 10em;
+  left: 20%;
+  margin:0 auto;
+}
+#link{
+  font-size:1.7em;
+  font-weight: bold;
+  color:gray;
+}
+
