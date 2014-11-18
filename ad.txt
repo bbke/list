@@ -3767,8 +3767,8 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||slit.cn/skin/slitsk/js/dlad.js
 ||slit.cn/slgg/
 ||slit.cn/slimages/
-||smzy.com/newjava/*970.js
-||smzy.com/newtaip/webtg
+||smzy.com^*970.js
+||smzy.com^*/webtg
 ||so100.cn/images/a*.js
 ||so100.cn/images/newshead.htm
 ||soaspx.com/images/hws.gif
@@ -4380,9 +4380,14 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||chinacar.com.cn/zhuanyongche/images/wintip_
 ||ettoday.net^*/ad/
 ||zzz4.com/JS_AD/
+||yaolanimage.cn/assets/ask/js/ask_video_popup.js
+||dabin69.com/data/attachment/portal/
+||dabin69.com/template/comiis_ydzx/ads/topad01.jpg
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+dabin69.com###frameOa2lrD
+123.sogou.com###center_1
 letv.com##.interact_cnt
 ettoday.net##.idleAd
 hjenglish.com##.top_banner
@@ -6652,8 +6657,12 @@ sohu.com#@#.label-ad
 tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
+icbc.com.cn#@#.adLeft
+icbc.com.cn#@#.adRight
 @@&ad_type=$domain=x.jd.com
 @@||ecitic.com/ads_
+@@||icbc.com.cn/Portal_Resources/Common/AdCss/
+@@||icbc.com.cn/Portal_Resources/Common/AdRes/
 @@||ecitic.com/eshop/advertise/
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
@@ -7113,6 +7122,8 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||adnetpub.yaolan.com^
+||yaolanimage.cn/assets/tongji/
 &ad_type=
 &ad_url=
 &ad_zones=
