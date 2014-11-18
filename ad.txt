@@ -817,6 +817,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||czpush.com^
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -4377,6 +4378,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+letv.com##.ad_layer
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -6643,6 +6645,8 @@ tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
 @@&ad_type=$domain=x.jd.com
+@@||ecitic.com/ads_
+@@||ecitic.com/eshop/advertise/
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
