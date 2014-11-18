@@ -146,6 +146,7 @@ tieba.baidu.com##.icon_yyshow
 tieba.baidu.com##.firework_sender_wrap
 tieba.baidu.com###global_notice_wrap
 tieba.baidu.com###j_navtab_wanle
+tieba.baidu.com##.wanle_tab_tip
 tieba.baidu.com##.u_mobile
 tieba.baidu.com##.u_tbmall
 tieba.baidu.com##.u_mytbmall
