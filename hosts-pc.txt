@@ -5622,6 +5622,9 @@
 
 #AdBlock    START
 #AdBlock    END
+#cam4
+93.184.220.90	edgecast.cam4s.com
+93.184.220.90	wac.9218.systemcdn.net
 #minggo.tk
 23.21.27.78	my.minggo.tk
 54.83.78.255	code.minggo.tk
