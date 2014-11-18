@@ -817,6 +817,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||adingo.jp^$third-party
 ||czpush.com^
 /adscpv/*
 /AShow.aspx?AID=
@@ -1131,6 +1132,7 @@ hk.yahoo.com###mntl1
 ||zgyiyi.com^$third-party
 ||zp265.com^$third-party
 .189.gd^*.html?p=$popup,third-party
+/BadwebRemindPage.aspx?param=$popup,third-party
 .com/?Intr=$popup
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /pushstart.aspx?$popup,third-party
@@ -4377,9 +4379,11 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zznews.cn/home/js/duilian1.js
 ||chinacar.com.cn/zhuanyongche/images/wintip_
 ||ettoday.net^*/ad/
+||zzz4.com/JS_AD/
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
 gpcxw.com###AA2
+letv.com##.interact_cnt
 ettoday.net##.idleAd
 hjenglish.com##.top_banner
 letv.com##.ad_layer
