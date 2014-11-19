@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.11.14.17
+// @version         14.11.19.22
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（本地版）.uc.js
 // ==/UserScript==
 (function() {
@@ -50,7 +50,7 @@
         },
         'letv': {
             'player': refD + 'letv.swf',
-            're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/(?!(Live|seed|Disk))((C|S)[\w]{2,3})?(?!Live)[\w]{4})Player[^\.]*\.swf/i
+            're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/((?!(Live|seed|Disk))(S[\w]{2,3})?(?!Live)[\w]{4}|swf))Player*\.swf/i
         },
 		'letv_live': {
             'player': refD + 'letvlive.swf',
