@@ -1216,7 +1216,6 @@ hk.yahoo.com###mntl1
 /Images/ak47/*$domain=hanzify.net|hanzify.org
 /images/cc.js$domain=174.123.15.33|70.86.24.117|mayahh.com|mimiok.com
 /images/content/1436/*$domain=chineseinla.com
-/images/g_js/*$domain=jide123.com|jide123.net
 /images/gtj*.jpg$domain=paipai.fm|paipaitxt.com
 /images/paipai/tgm*.jpg$domain=paipai.fm|paipaitxt.com
 /images/tuangou$domain=bjxxw.com
@@ -1227,7 +1226,6 @@ hk.yahoo.com###mntl1
 /img/disc.jpg$domain=jpfans.com|jpseek.com
 /img/kana.jpg$domain=jpfans.com|jpseek.com
 /js/gTool.js$domain=51live.com|52waha.com|ccav5.com|zhibo7.com
-/jsa/*$domain=jide123.com|jide123.net
 /jsc/book_$domain=99770.cc|99comic.com|99manga.com
 /jsc/Copy.js$domain=99770.cc|99comic.com|99manga.com
 /kocpc.myweb.hinet.net^
@@ -2105,7 +2103,6 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||cjn.cn^*/ad/
 ||classbm.hkgolden.com^
 ||clm02.com/2014-A/FB-6-14-AA1.jpg
-||clm02.com/2014-A/FB-rayvivi-5-28-B.jpg
 ||club.pchome.net/*/localexchange.php$subdocument
 ||cmsjs.eastmoney.com/js/fixedSoft$script
 ||cmsjs.eastmoney.com^$subdocument
@@ -4393,9 +4390,13 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||zzqhy.com^*/page/
 ||219.238.159.182^*.html
 ||90pk.cn/photo/stage1/stage1.gif
+||chuixue.com/jsa/
+||chuixue.com/template/*/images/g_js/show_
+||startlogic.com^*/EZ-YAHOO/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+ezvivi.com###marsk2
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -4995,8 +4996,6 @@ leiting001.com,leitingcn.com###nrad
 image.baidu.com###only-lady-sec
 ifeng.com###optimusPrimeContentId
 dnvod.eu###outwin
-ezvivi.com###overlay
-ezvivi.com###overlay + .width_max
 3boys2girls.com###overture_ads_long
 manhua.weibo.com###p-nav-fix + .p-area.w980
 guanhuaju.com###page_gg_1
