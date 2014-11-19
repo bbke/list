@@ -820,6 +820,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||xzyituo.com^
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
