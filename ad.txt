@@ -2845,6 +2845,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||img3.longyu.cc/topic/201312/980-6000.jpg
 ||imgad0.pconline.com.cn/ivy/image/
 /vmind.qqvideo.tc.qq.com^
+_vmind.qqvideo.tc.qq.com^
 ||gtimg.com/qqlive/
 ||imgchr.com/images/1200.gif
 ||imgf.gamersky.com^$image
@@ -4393,6 +4394,7 @@ _iframe.htm|$domain=news.cn|xinhuanet.com
 ||chuixue.com/jsa/
 ||chuixue.com/template/*/images/g_js/show_
 ||startlogic.com^*/EZ-YAHOO/
+||tui18.com/source/plugin/yl_curtain/template/yl_curtain.
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
