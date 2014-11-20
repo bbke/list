@@ -3302,7 +3302,7 @@ _vmind.qqvideo.tc.qq.com^
 ||ncnews.com.cn/tywwxj/
 ||neihan8.com/templets/default/images/dubo
 ||neihan8.com/templets/default/images/dui
-||neihan8.com/templets/default/images/porf.jpg
+||neihan8.com/templets/default/images/hengfu.gif
 ||nen.com.cn/eap/
 ||nen.com.cn/service/js/beitou
 ||neotv.com.cn/images/avs/tc/tc.js
@@ -4398,9 +4398,13 @@ _vmind.qqvideo.tc.qq.com^
 ||963dy.com/ads/
 ||gg.sonhoo.com^
 ||epinv.com/wp-content/themes/ep/tu/yinshu.gif
+||yangtse.com/d/file/news/life/2014-11-13/*.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+neihan8.com##.hengfu
+d5wx.com##.ad336left
+yangtse.com##.ad
 knowlet3389.blogspot.com,knowlet3389.blogspot.tw,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp###HTML5
 qq.com###nqsnqsad02
 yaolan.com###AD
