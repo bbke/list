@@ -4397,6 +4397,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||gtimg.com/comic/js/zhaoshang/
+||221.5.69.52^*.js
+||963dy.com/ads/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -7140,6 +7142,8 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||log.51cto.com^
+||logs.51cto.com^
 &ad_type=
 &ad_url=
 &ad_zones=
