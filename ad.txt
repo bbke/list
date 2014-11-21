@@ -821,6 +821,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||fmad.cc^$third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -4405,6 +4406,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zdmimg.com/data/forum-
 ||fhm.com.tw/fhm_upload/img1414750679.jpg
 ||fhm.com.tw/fhm_upload/img1414750951.jpg
+||sinaimg.cn/large/68299a77jw1em5p41rjyoj206205kdfw.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -7155,6 +7157,7 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
+@@||scorecardresearch.com/beacon.js$domain=hktvmall.com
 &ad_type=
 &ad_url=
 &ad_zones=
