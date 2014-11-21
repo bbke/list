@@ -114,6 +114,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||tb2.bdstatic.com/tb/static-pb/img/save_face/*
 ||tb2.bdstatic.com/tb/static-pb/img/tshow_*.gif
 ||tb2.bdstatic.com/tb/static-pb/img/voice_ad.gif
+||tb2.bdstatic.com/tb/static-pb/widget/vie_sofa/*
 ||tb2.bdstatic.com/tb/static-frs/img/icon_bright/*
 ||tb2.bdstatic.com/tb/static-common/img/props/*
 ||tb2.bdstatic.com/tb/static-ihome/widget/onekey_sign/*
@@ -213,7 +214,7 @@ tieba.baidu.com##.u_joinvip
 tieba.baidu.com###encourage_entry
 tieba.baidu.com##.content_top
 tieba.baidu.com##.save_face_bg
-||189.cn/dns/
+tieba.baidu.com###sofa_post||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party
 ||gd.189.cn/gz/promotion/$popup,third-party
 ||gd.189.cn/push/$popup,third-party
