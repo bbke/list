@@ -4403,9 +4403,11 @@ _vmind.qqvideo.tc.qq.com^
 ||gp.jstv.com^$domain=live.jstv.com
 ||jstv.com/static_files/zones/87/
 ||hxyl.net/hydzsw.jpg
+||zdmimg.com/data/forum-
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+daqi.com###tanx-con-1
 jstv.com##.gg
 yaolan.com###AD
 21yq.com###AD1
