@@ -821,6 +821,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||71sem.com^
 ||fmad.cc^$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -4405,6 +4406,8 @@ _vmind.qqvideo.tc.qq.com^
 ||fhm.com.tw/fhm_upload/img1414750951.jpg
 ||pin5i.com/custom/
 ||pin5i.com/javascript/c.js
+||i548.com/ad46860/
+||afocus.com.cn/s?
 ||sinaimg.cn/large/68299a77jw1em5p41rjyoj206205kdfw.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
