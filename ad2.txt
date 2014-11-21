@@ -39,7 +39,7 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||shooter.cn/ggsearch/*
 ||jsqmt.qq.com^
 ||scorecardresearch.com^
-||btrace.qq.com/collect?*
+||btrace.qq.com^
 ||pstatic.xunlei.com/js/*
 ||img.kuai.xunlei.com/js/webxunlei.js
 ||videowood.tv/assets/js/popup.js?*
