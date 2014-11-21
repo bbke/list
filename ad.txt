@@ -2368,7 +2368,6 @@ _vmind.qqvideo.tc.qq.com^
 ||epinv.com/wp-content/themes/ep/js/single.js
 ||epinv.com/wp-content/themes/ep/tu/yinshu.gif
 ||eprice.com.tw/js/swfobject-2.3.js
-||erji.com/acton.swf
 ||erji.net/photo/
 ||etdown.net/images/ad1
 ||etest8.com/images/subcate/158/158-2014-head.gif
@@ -4404,9 +4403,12 @@ _vmind.qqvideo.tc.qq.com^
 ||jstv.com/static_files/zones/87/
 ||hxyl.net/hydzsw.jpg
 ||zdmimg.com/data/forum-
+||fhm.com.tw/fhm_upload/img1414750679.jpg
+||fhm.com.tw/fhm_upload/img1414750951.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+fhm.com.tw##.banner_02
 daqi.com###tanx-con-1
 jstv.com##.gg
 yaolan.com###AD
