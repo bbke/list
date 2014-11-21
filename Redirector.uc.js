@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.19.07
+// @version         14.11.21.17
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -129,11 +129,6 @@
     name: "【https】常用com网站",
     from: /^http:\/\/(.*)?(tumblr|livestream|evozi|imgur|redditmedia|googleusercontent|googlecode|cam4s|filesmonster)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
-    regex: true
-},{
-    name: "【https】5isotoi5图",
-    from: /^http:\/\/76\.164\.232\.67\/(.*)$/i,
-    to: "https://76.164.232.67/$1",
     regex: true
 },{
     name: "【https】5isotoi5",

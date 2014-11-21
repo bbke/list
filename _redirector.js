@@ -112,11 +112,6 @@ rules = [{
     to: "https://$1$2.com/$3",
     regex: true
 },{
-    name: "【https】5isotoi5图",
-    from: /^http:\/\/76\.164\.232\.67\/(.*)$/i,
-    to: "https://76.164.232.67/$1",
-    regex: true
-},{
     name: "【https】5isotoi5",
     from: /^https?:\/\/(.*)?(76\.164\.232\.(68|70)|5isotoi5\.org)\/(.*)$/i,
     exclude:/^https:\/\/5isotoi5\.org/i,
