@@ -1141,6 +1141,7 @@ hk.yahoo.com###mntl1
 ||zp265.com^$third-party
 .189.gd^*.html?p=$popup,third-party
 .com/?Intr=$popup
+||1.baidu.com^$popup,domain=douban.com
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushstart.aspx?$popup,third-party
@@ -2410,7 +2411,6 @@ _vmind.qqvideo.tc.qq.com^
 ||feng.com/aoodoo/
 ||feng.com^*/index_treasure/
 ||fengbuy.com/recommend-new.php
-||fftxt.net/js/baidu
 ||fg.cc/logo/xierguanggao.
 ||fhm.com.tw/fhm_upload/full_ad_
 ||fhm.com.tw/fhm_upload/img1414750679.jpg
@@ -4413,6 +4413,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+fengyunzhibo.com,kukuplay.com##.tipadds
 kekenet.com##.h_news_c
 kekenet.com##.lp_r_bar:first-child
 free.com.tw###text-94
