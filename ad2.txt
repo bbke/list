@@ -3001,7 +3001,10 @@ zhidao.baidu.com##div#left-promotion,div#ui-tooltip-0,div.cms-slide.cms-slide-op
 zhidao.baidu.com##div.cms-slide.cms-slide-lazy
 ~bbs.theworld.cnxxxxxxxxxxxxxxxxxxx##div.ad960-90,div.ad-side,table.adtable,div.a_mu,div.a_h,ins.adsbygoogle,div.ad_pic,div#ggPar,div.wp.a_f,div.wp.a_t,div.a_pb,div.a_pt,div.a_pr,div#preAdContent,div.a_cn,div.bm.a_c
 
-|http://www.gamersky.com/ad/openad.js
+
+@@|http://acs.stat.v-56.com/vml/*/ac/ac_111.xml?duration=
+|http://acs.
+|http://www.gamersky.com/ad/openad.js$script
 ||9115.na.tl/addc/
 |http://*/9115gg/dd1.js
 |http://*/aaadddd/2.js$script
@@ -3048,6 +3051,10 @@ zhidao.baidu.com##div.cms-slide.cms-slide-lazy
 |http://*.hk/ads/
 |http://*.info/ads/
 |http://*.net/ads/
+|http://*.tw/ads/
+|http://jingyan.baidu.com/event/img/hb92X240.gif$image
+||pub.funshion.com
+|http://gg.pinggu.name/
 
 
 www.eeyy.com##div.topads_box2,div.gg_top,a.gg_bg,div.tjbox.tjbox_new,div.tjs_wrap,div.ads960
@@ -3065,19 +3072,15 @@ www.lrshare.com##img.wp-image-2587
 www.macx.cn##div#diynavtop.area,ins.adsbygoogle
 www.7ibbs.com##div.hdc.cl
 92shengtang.com##div#ad_text.ad_text,div#ad_headerbanner
-
-
+www.bt49.com##div.wp.a_t,div#topwarning_7ree
+jingyan.baidu.com##div.left-promotion
 yyets.com##ul.room
-
-
+sina.com.cn##div.sinaad-toolkit-box
+bbs.pinggu.org##div#mama_tips_right_bottom
 
 @@|http://p0.qhimg.com/s/*.css
 @@|http://cdn4.v.17173.com/advideo/csyx-1112-kz.swf
 
-||livem.l.qq.com
-||livep.l.qq.com
-||lives.l.qq.com
-||livew.l.qq.com
 
 @@|http://cbjs.baidu.com/js/m.js$domain=baidu.hz.letv.com|baidu.v.ifeng.com|baidu.56.com,third-party
 @@||a.alimama.cn$domain=meidebi.com
