@@ -4411,9 +4411,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||btkitty.org/static/images/*.gif
+||mp3.haogeba.com^$image,object
+||taoyoudu.com/img/top.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+taoyoudu.com###left_layer
+cha.haogeba.com,taoyoudu.com##.xinyongBox > :not(dd)
+haogeba.com,taoyoudu.com##.searchTaobaoAccountInfo
+taoyoudu.com##BR + .k_serach
 fengyunzhibo.com,kukuplay.com##.tipadds
 kekenet.com##.h_news_c
 kekenet.com##.lp_r_bar:first-child
