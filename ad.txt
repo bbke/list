@@ -2440,7 +2440,6 @@ _vmind.qqvideo.tc.qq.com^
 ||forum.techweb.com.cn/advtcnt.php
 ||fragment.firefoxchina.cn/html/
 ||free9.net/myc/myc.js
-||freegroup.org/images/sien-banner-
 ||freep.cn/3tb_1408171239008bu7512293.jpg
 ||freep.cn/lianjie/xuanfuwang.js
 ||fsehome.com/images/ad_tan.js
@@ -4413,6 +4412,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+free.com.tw###text-94
 bbs.fobshanghai.com##.t_infoline
 yaolan.com###AD
 21yq.com###AD1
@@ -5325,7 +5325,7 @@ weibo.com##.ad-adidas
 baofeng.com##.ad-bar-l
 baofeng.com##.ad-bar-r
 html-js.com##.ad-blank
-bookshi.com,freegroup.org,iwan.baidu.com,qq.com,zol.com.cn##.ad-box
+bookshi.com,free.com.tw,iwan.baidu.com,qq.com,zol.com.cn##.ad-box
 bilibili.com##.ad-c4
 nanrenwo.net##.ad-container
 cqmmgo.com##.ad-cycle
