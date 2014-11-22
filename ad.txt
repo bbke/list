@@ -3048,8 +3048,9 @@ _vmind.qqvideo.tc.qq.com^
 ||kan300.com/js/union/
 ||kangxitv.com/click.js
 ||kbcool.com/other/yytf/
-||kekenet.com/images/2014/
-||kekenet.com/images/kekepic/tom468X60.gif
+||kekenet.com/images/2014/weibo960.jpg
+||kekenet.com/images/2014/akasuo
+||kekenet.com/images/*/tom468X60.gif
 ||key8.com/cache/www/banner_
 ||keyan.cc/data/bcs/
 ||keywin.org/templates/kw_v2/images/youbianad.png
@@ -4412,6 +4413,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+kekenet.com##.h_news_c
+kekenet.com##.lp_r_bar:first-child
 free.com.tw###text-94
 bbs.fobshanghai.com##.t_infoline
 yaolan.com###AD
