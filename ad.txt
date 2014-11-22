@@ -4413,6 +4413,7 @@ _vmind.qqvideo.tc.qq.com^
 ||btkitty.org/static/images/*.gif
 ||mp3.haogeba.com^$image,object
 ||taoyoudu.com/img/top.jpg
+/luoliao.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
