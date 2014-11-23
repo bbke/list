@@ -1628,6 +1628,7 @@ _vmind.qqvideo.tc.qq.com^
 ||576tv.com/Scripts/home.js
 ||58.com/ds/jinrong/ban/
 ||58.com/ds/tgbrand/
+||58cdn.com.cn/ds/tgbrand/
 ||58.com/ui7/*banner_
 ||591.xxx/images/*.gif
 ||591hx.com/images/0000.jpg
@@ -4423,9 +4424,12 @@ _vmind.qqvideo.tc.qq.com^
 ||sx566.com^*/zsz
 ||vvpan.com^*/zsz
 ||182.92.234.239^*.html
+||z4bbs.com/adst/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+qq.com##.sider_ad
+qq.com##.tl_ad
 house365.com##.handsome
 g138.com###gg_head
 spbonow.com##.floatAD
@@ -7063,7 +7067,7 @@ house.shangdu.com#@#.top_ad
 /jsc/stat.js$domain=99770.cc|99comic.com|99manga.com
 /mysql/count/*$script,domain=ts.cn
 /shortcounter.jsp$domain=ref.so
-@@||pingjs.qq.com/ping.js$domain=tq.qq.com|xiaoyuan.qq.com
+@@||pingjs.qq.com/ping.js
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com
 @@||tajs.qq.com/stats?$domain=qq.com
 @@||tbcdn.cn^*/click_track.js
