@@ -2863,7 +2863,8 @@ _vmind.qqvideo.tc.qq.com^
 ||img2.www.fmdisk.com^
 ||img3.longyu.cc/topic/201312/980-6000.jpg
 ||imgad0.pconline.com.cn/ivy/image/
-||imgchr.com/images/1200.gif
+||imgchr.com^$domain=iyejie.com
+||sinaimg.cn/large/005yyi5J*30qo01ok
 ||imgf.gamersky.com^$image
 ||imgn.jiatx.com/jiatx/mall/outer/
 ||imgs.cc/images/ad_
@@ -4420,6 +4421,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+iyejie.com###sidebar > .widget:first-child
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
