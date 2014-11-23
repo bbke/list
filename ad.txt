@@ -822,6 +822,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||baodaozhan.cn^$third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -4421,9 +4422,11 @@ _vmind.qqvideo.tc.qq.com^
 ||sx566.com/ads/
 ||sx566.com^*/zsz
 ||vvpan.com^*/zsz
+||182.92.234.239^*.html
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+house365.com##.handsome
 g138.com###gg_head
 spbonow.com##.floatAD
 iyejie.com###sidebar > .widget:first-child
@@ -7186,6 +7189,8 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||house365.com/js/analyze.js
+||stat.house365.com^
 &ad_type=
 &ad_url=
 &ad_zones=
