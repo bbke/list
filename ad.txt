@@ -1286,7 +1286,6 @@ hk.yahoo.com###mntl1
 /ykyy.gif$domain=qzntv.com|qzwb.com
 /ysm.ezprice.net/*
 /ysm/ewdna/*
-/zsz*.gif|$domain=lepan.cc|sx566.com|vvpan.com
 :88/lighttpd/default/
 ?method=baidu.ting.commercial.material&
 ?method=baidu.ting.commercial.tactics&
@@ -4418,9 +4417,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||hkgolden.com/yahoo_ad
+||spbonow.com/js/float.js
+||sx566.com/ads/
+||sx566.com^*/zsz
+||vvpan.com^*/zsz
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+g138.com###gg_head
+spbonow.com##.floatAD
 iyejie.com###sidebar > .widget:first-child
 yaolan.com###AD
 21yq.com###AD1
