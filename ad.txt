@@ -821,6 +821,7 @@ hk.yahoo.com###mntl1
 ##.wumii-bottom-popup
 ##.wumii-widget-ad
 ##.wzad
+###tanx-con-1
 /99vjj/*$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -4435,6 +4436,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+fun.tv###network-mobile
 firefoxchina.cn##.module-banner
 fancai.com###ft_right_bottom
 tianya.cn##.ads-loc-holder
@@ -5170,7 +5172,6 @@ sg169.com###tab1
 174.123.15.33,70.86.24.117,mayahh.com,mimiok.com###table1
 bbs.hiapk.com###tag_1_7
 zymk.cn###tanchuang
-daqi.com###tanx-con-1
 e23.cn###taobaorba
 findprice.com.tw###tb_ad
 23zw.com###tbad
