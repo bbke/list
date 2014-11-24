@@ -2579,7 +2579,7 @@ _vmind.qqvideo.tc.qq.com^
 ||gusuwang.com/api/gsw_
 ||gusuwang.com/ymsextweb/fullggw/
 ||gusuwang.com/ymsextweb/javascript/gs
-||guyizhou.cn/temp/pix/tuijian/topbanner.js
+||guyizhou.cn/temp/top_banner_
 ||gx.xinhuanet.com/images2007/banner.htm
 ||gxnews.com.cn/cache/wwwads.js
 ||gxnews.com.cn/clientscript/index_duilian_
@@ -4433,6 +4433,9 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||dol.tianya.cn/s?z=tianya&c=
 ||fancai.com/Images/2014*.gif
+||gameapps.hk/js/content_
+||gameapps.hk/js/determine_page_
+||goods.tudou.com/api?
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
