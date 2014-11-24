@@ -1828,6 +1828,7 @@ tieba.baidu.com###sofa_post
 |http://www.qidian.com/javascript/ppccload.js
 |http://www.qidian.com/javascript/qdad1.js
 |http://www.qidian.com/javascript/ssos.js
+|http://www.qidian.com/Javascript/luaiwyuui.js
 |http://www.qitete.com/sp/ad.js$script
 |http://www.qqxs.cc/neixiong/js/neirongye300-250.js$script
 |http://www.qqzhibo.net/res/zhibo/js/floatad.js?r=
