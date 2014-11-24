@@ -4066,7 +4066,6 @@ _vmind.qqvideo.tc.qq.com^
 ||voc.com.cn/adsClick/
 ||voc.com.cn/Frame/qqms_cs.html
 ||vupload.duowan.com^
-||vvic.com/images/pi/*.jpg
 ||vvpan.com/templates/32666/imgs/down001.gif
 ||vvpan.com^*/zsz
 ||vvtor.com/wordpress/wp-content/themes/NewsPro2/images/youbo.gif
@@ -4431,9 +4430,11 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||dol.tianya.cn/s?z=tianya&c=
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+tianya.cn##.ads-loc-holder
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -6428,7 +6429,6 @@ ruten.com.tw##.side-advertise
 i.firefoxchina.cn##.side-notice
 firefoxchina.cn##.side-recommend
 niutuku.com##.sideAD
-vvic.com##.sidePI
 businessweekly.com.tw##.side_slidebox
 qzone.qq.com##.side_wrapper.side_wrapper_v3
 cjn.cn##.sidebar
@@ -6448,7 +6448,6 @@ kocpc.com.tw##.single_ads
 findprice.com.tw##.sitemajiad
 soku.com##.sk_banner
 club.kdnet.net##.slide-banner
-vvic.com##.slide-img
 hao.360.cn##.small-obj
 33lc.com##.soft-info:first-child
 33lc.com##.soft-show2
