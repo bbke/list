@@ -2432,7 +2432,7 @@ _vmind.qqvideo.tc.qq.com^
 ||firefox.com.cn/gfox/ad/
 ||firefoxchina.cn/2014/*_foxphone.png
 ||firefoxchina.cn/res/js/fchina_video-min.js
-||firefoxchina.cn^*_bmwbanner.gif
+||firefoxchina.cn^*_topbanner
 ||firefoxchina.cn^*_couplet
 ||fj.sina.com.cn/iframe/63/
 ||fj007.com/money/
@@ -4431,9 +4431,12 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||dol.tianya.cn/s?z=tianya&c=
+||fancai.com/Images/2014*.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+firefoxchina.cn##.module-banner
+fancai.com###ft_right_bottom
 tianya.cn##.ads-loc-holder
 yaolan.com###AD
 21yq.com###AD1
