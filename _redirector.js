@@ -69,8 +69,13 @@ rules = [{
     to: "http://$1.baidu.com/$2/pic/item$3.jpg",
     regex: true
 },{
+    name: "优酷视频 >> id97",
+    from: /^http:\/\/v\.youku\.com\/v_show\/([\w]+)\.html(\?.*)?$/i,
+    to: "http://www.id97.com/videos/play/$1.html",
+    regex: true
+},{
     name: "AcFun >> 网页全屏",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(b|c)([\w]+)(#album=.*)?((#|;)autoplay=1)?/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(b|c)([\w]+)(#.*)?$/i,
     exclude: /acfun\.tv\/(a|v)\/a(b|c)(.*)#fullscreen=1/i,
     to: "http://www.acfun.tv/$1/a$2$3#fullscreen=1", 
     regex: true
@@ -79,11 +84,6 @@ rules = [{
     from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?(\?[\w]+)?(##alist)?/i,
     exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?#alist/i,
     to: "http://www.bilibili.com/video/av$1/$2#alist",
-    regex: true
-},{
-    name: "优酷电影 >> 免费√",
-    from: /^http:\/\/v\.youku\.com\/v_show\/id_([0-9a-zA-Z]{13})\.html$/i,
-    to: "http://www.id97.com/videos/play/id_$1.html",
     regex: true
 },{
     name: "【https】google",

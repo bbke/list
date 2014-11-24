@@ -823,6 +823,7 @@ hk.yahoo.com###mntl1
 ###tanx-con-1
 ||doubleadv.com^$third-party
 /99vjj/*$third-party
+||elsad.tw^$third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -1151,7 +1152,6 @@ hk.yahoo.com###mntl1
 ||133gp.com^$popup
 ||90hnbb.pw^$popup,script
 ||ad.189so.cn^$popup
-||ad1111.com^$popup
 ||aiwanma99.com^$popup
 ||ashleymadison.com/app/public/index.p$popup
 ||cnyjk.com^$popup,third-party
@@ -3953,8 +3953,6 @@ _vmind.qqvideo.tc.qq.com^
 ||tk001.com/quote$subdocument
 ||tntdown.com/News/js/C_
 ||tom.com/templets/tomwq/ad/
-||tom365.com/js/*0
-||tom365.com/newjs/
 ||tom61.com/style2012/gamead.html
 ||tompda.com/images/2014/800*.gif
 ||tompda.com/static/soft/fav/fav_shop.js
@@ -4433,9 +4431,11 @@ _vmind.qqvideo.tc.qq.com^
 ||goods.tudou.com/api?
 ||ziranzhi.com/wp-content/themes/ziranzhi/add/shicha.jpg
 ||gywb.cn/content/attachement/jpg/site2/20140901/50465d69af2b156e340c09.jpg
+||aipai.com/common/i0uat4jq/play/item.html
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+aipai.com###videosRightDown
 acfun.com,acfun.tv###block-recom-film + .ad
 acfun.com,acfun.tv###block-anime-index + .ad
 ziranzhi.com##.shicha
@@ -4666,7 +4666,7 @@ baidu.com###asideRight
 cucn.com###bad
 chinaiiss.com###baidu_300_250
 jump.bdimg.com,tieba.baidu.com###baiduweishiDown
-adultwefong.com,aitxt.com,gxorg.com,huacolor.com,news.shangdu.com,qiwen999.com,steachs.com,suopao.org,youxi.baidu.com###banner
+adultwefong.com,aijiatxt.com,gxorg.com,huacolor.com,news.shangdu.com,qiwen999.com,steachs.com,suopao.org,youxi.baidu.com###banner
 cwyuni.tw###banner > h2
 xpghost.com###banner-1
 shangdu.com###banner960
@@ -5090,7 +5090,7 @@ tw.msn.com###promotionlink
 bt49.com###pt + center
 langxi.org###pt + div > table
 23zw.com###ptopad
-aitxt.com###pwSlidePlayer
+aijiatxt.com###pwSlidePlayer
 tianya.cn###q_topbanner_950_90
 qdmm.com###qdass_news_pop
 so.360.cn,so.com###qiyu-brand-container
@@ -5170,7 +5170,7 @@ heartinkstone.pixnet.net###spotlight
 srzc.com###srzcad
 114la.com###sw
 k7mm.com###t2 + a
-skyme.com,tom365.com,tom365.net,tw116.com###t365
+skyme.com,tom365.com,tw116.com###t365
 sg169.com###tab1
 174.123.15.33,70.86.24.117,mayahh.com,mimiok.com###table1
 bbs.hiapk.com###tag_1_7
