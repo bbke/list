@@ -72,7 +72,8 @@ rules = [{
     name: "优酷视频 >> id97",
     from: /^http:\/\/v\.youku\.com\/v_show\/([\w]{16})(_ev_[\d]+)?\.html(\?.*)?$/i,
     to: "http://www.id97.com/videos/play/$1.html",
-    regex: true
+    regex: true,
+    state: false
 },{
     name: "AcFun >> 网页全屏",
     from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(b|c)([\w]+)(#.*)?$/i,
@@ -81,8 +82,8 @@ rules = [{
     regex: true
 },{
     name: "BiliBili",
-    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?(\?[\w]+)?(##alist)?/i,
-    exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.[\w]+)?#alist/i,
+    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?((\?|##).*)?$/i,
+    exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?#alist/i,
     to: "http://www.bilibili.com/video/av$1/$2#alist",
     regex: true
 },{
