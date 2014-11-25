@@ -1994,7 +1994,6 @@ _vmind.qqvideo.tc.qq.com^
 ||bjmxw.net/bd/
 ||bjxxw.com/themes/portal/local/special_*.swf
 ||bkill.com/css/abc/
-||bkill.com/css/js/bkill.js
 ||bkill.com/images/di.js
 ||bkjia.com/bkjia/js/art_rightad
 ||bkjia.com/bkjia/js/banner
@@ -4436,6 +4435,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||zgsyb.com/gb/ad/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -6245,7 +6245,6 @@ sdo.com##.mod-public-ads
 www.shupeng.com##.mod.msg-mod.msg-notice + .mod
 pptv.com##.mod_960x90
 qq.com##.mod_custom_ad
-btspread.com,javzoo.com##.modal-backdrop.fade.in
 37.com##.moduel-pub
 firefoxchina.cn##.module-banner
 hrb.house.163.com##.move-img
@@ -6897,7 +6896,6 @@ house.shangdu.com#@#.top_ad
 @@||chinahr.com/images/phpads/
 @@||citysbs.com^*/swfupload/
 @@||click.union.jd.com^
-@@||clkrev.com/adServe/banners?$domain=btspread.com
 @@||cmbchina.com/ads/
 @@||cnr.cn/gg/
 @@||cntv.cn^*_ad.js
@@ -6925,7 +6923,6 @@ house.shangdu.com#@#.top_ad
 @@||eden.org.tw/themes/liger/images/banner_
 @@||edgesuite.net^*/ad.css?
 @@||emome.net/files/advertising/
-@@||exoclick.com/ads.js$domain=javzoo.com
 @@||feng.com/aoodoo/*logo.png
 @@||feng.com/aoodoo/view.php?what=zone:93&
 @@||fmdisk.com/ima/ads/ad/
