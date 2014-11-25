@@ -823,6 +823,7 @@ hk.yahoo.com###mntl1
 ##.wumii-bottom-popup
 ##.wumii-widget-ad
 ##.wzad
+##.kf_qycn_com_cckf_welcomebox
 /99vjj/*$third-party
 /adscpv/*
 /AShow.aspx?AID=
@@ -1290,7 +1291,6 @@ hk.yahoo.com###mntl1
 /ysm.ezprice.net/*
 /ysm/ewdna/*
 :88/lighttpd/default/
-?method=baidu.ting.commercial.material&
 ?method=baidu.ting.commercial.tactics&
 _iframe.htm|$domain=news.cn|xinhuanet.com
 _vmind.qqvideo.tc.qq.com^
@@ -4436,6 +4436,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||zgsyb.com/gb/ad/
+||wbzol.com/show/images/show.htm
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
