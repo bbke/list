@@ -4444,9 +4444,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 /www.kocpc.com.tw/wp-content/uploads/*.gif
+||linuxdiyf.com/it/enkj.gif
+||linuxdiyf.com/it/magedu.gif
+||linuxdiyf.com/it/yutianedu.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+chinaqking.com###cnt-ad
 kocpc.com.tw###scroll_div
 yaolan.com###AD
 21yq.com###AD1
