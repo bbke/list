@@ -11,7 +11,6 @@
 (function() {
     // YoukuAntiADs, request observer
     function YoukuAntiADs() {};
-    var refD = 'http://www.minggo.tk/swf/';
     YoukuAntiADs.prototype = {
     SITES: {
         'youku_loader': {
@@ -53,7 +52,7 @@
             're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/((?!(Live|seed|Disk))(S[\w]{2,3})?(?!Live)[\w]{4}|swf))Player*\.swf/i
         },
         'letv_live': {
-            'player': refD + 'letvlive.swf',
+            'player': 'http://www.minggo.tk/swf/letvlive.swf',
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/\d+\/newplayer\/LivePlayer\.swf/i
         },
         'letvskin': {
@@ -81,7 +80,7 @@
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(live\/|)\d+\/(main|PlayerShell)\.swf/i
         },
 		'pps': {
-            'player': refD + 'pps.swf',
+            'player': 'http://www.minggo.tk/swf/pps.swf',
             're': /http:\/\/www\.iqiyi\.com\/player\/cupid\/.*\/pps[\w]+.swf/i
         },
 		'ppsiqiyi': {
