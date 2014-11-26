@@ -4445,6 +4445,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+huikon.cn##.ad
 chinaqking.com###cnt-ad
 kocpc.com.tw###scroll_div
 yaolan.com###AD
