@@ -2825,7 +2825,6 @@ _vmind.qqvideo.tc.qq.com^
 ||images-amazon.com/images/G/28/book/jiangwei/201404/b100g50b200g120_30075._V337998063_.png
 ||images.china.cn^*first/$subdocument
 ||images.chinaz.com^
-||images.csdn.net/20*-300-200-
 ||images.daynews.com.cn/zzbframe/2008daynews/ad/
 ||images.dayoo.com/dywimg/
 ||images.gxsky.com^
@@ -3244,7 +3243,6 @@ _vmind.qqvideo.tc.qq.com^
 ||meitu.com/js/floatxiuxiu.js
 ||meizhou.com/data/attachment/portal/
 ||meizhou.com/images/topbanner
-||message.csdn.net/msg.popup.js
 ||mfcad.com/images/footer_tupian/5.gif
 ||mfxk.com^$subdocument
 ||mfxp.com/images/
@@ -4627,7 +4625,7 @@ tw.msn.com###adgrouponca2
 ceil.me,rrting.net###adindex
 dgmei.com###admhdiv_abc
 tw.msn.com###admomoca2
-bejson.com,chuchushoe.blogspot.com,frdic.com,gnhome.com,it168.com,lol.moa.cse.tw,piao.com.cn,udn.com###ads
+bejson.com,chuchushoe.blogspot.com,frdic.com,gnhome.com,it168.com,lol.moa.tw,piao.com.cn,udn.com###ads
 danyang.com###ads-hd
 njdaily.cn###ads-qadjs-link
 dmfans.net###ads_250_250
@@ -5953,7 +5951,6 @@ dj97.com##.g96060
 dj97.com##.g96090
 gezila.com##.g980_90
 265g.com##.g_box
-coolapk.com##.ga200
 233.com,rrting.net##.gads
 233.com##.gads2
 u77.com##.game-ad-item
@@ -6759,6 +6756,7 @@ sohu.com#@#.label-ad
 tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
+csdn.net#@#.ad_news
 @@&ad_type=$domain=x.jd.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
