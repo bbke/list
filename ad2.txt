@@ -27,6 +27,7 @@ cam4.com##.removeAds
 celebspank.com,chaturbate.com,cliphunter.com,gamcore.com,playboy.com,signbucks.com,tehvids.com,uflash.tv,wankoz.com,yobt.tv##.ad
 chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.com,vidxnet.com,wanknews.com,watchhentaivideo.com,xbabe.com,yourdailygirls.com##.banner
 ||untitled.dwstatic.com/fodder/*$object-subrequest
+||cdn.optimizely.com^
 ||doubleclick.net^
 ||hm.baidu.com^
 ||connect.facebook.net^
