@@ -829,6 +829,8 @@ hk.yahoo.com###mntl1
 ##.wzad
 ###snActive-wrap
 /99vjj/*$third-party
+||humanding.com^
+/adscpc/*
 ||f.sgbfjs.info^
 ||91zgm.com^
 ||jwqj.net^
@@ -2602,7 +2604,7 @@ _vmind.qqvideo.tc.qq.com^
 ||gzcol.com/uploads/ad/
 ||gzdaily.dayoo.com/tpl/banner$object
 ||hackbase.com/vip/topbanner.html
-||hackp.com/images/ab.js
+||hackp.com^*/ab.js
 ||hackp.com/images/dibu.js
 ||haha.mx/upload/data/*_banner.html
 ||haha.mx/upload/data/list_sidebar_
@@ -4201,7 +4203,6 @@ _vmind.qqvideo.tc.qq.com^
 ||xiaav.cc/js/float.js
 ||xiancn.com^*/adv_content/
 ||xiangai365.com/ad_js/
-||xiaoliaolianmeng.com/Data/Static/image/lzujob_
 ||xiaolushu.com/js/
 ||xiaoma.com/xiaoma/www/images/nav/gre_max.jpg
 ||xiazaiba.com/uploadfiles/2013/1230/2014031213430294297.gif
@@ -4459,9 +4460,14 @@ _vmind.qqvideo.tc.qq.com^
 ||tigtag.com/ttad/
 ||stheadline.com/js/dfp_ads/
 ||tigtag.com/styles/phpcms/js/tigtag/ads.js
+||shangdu.com/tpnews/dazhe.gif
+||shangdu.com/2013pic/kuahailong.jpg
+||yyets.tk/public/rooms?
+||xiaoliaolianmeng.com/pic/weipinhui/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+xiaoliaolianmeng.com##.side-sponer
 kan7.com##.indexad2
 kan7.com##.indexad3
 kan7.com##.indexad4
@@ -5318,7 +5324,7 @@ sznews.com###yindao05 + .indexcon07
 starbaby.cn###yindex_ads
 hk.yahoo.com###ysm-ad
 yaolan.com###yuer_top
-yyets.com###yyets_slide_ad
+yyets.com,yyets.tk###yyets_slide_ad
 51.la###zanzhu
 httpcn.com###zhen_pic_one
 zjg.js.cn###zjgjs_banner
@@ -5350,7 +5356,7 @@ juqingba.cn##.Ad_300_2
 xinhuanet.com##.AdvColumn1
 js0573.com##.Adv_banner
 feixiangtv.com##.Advertisement
-yyets.com##.AreaR2 > .box_4:first-child + .clearfix + .box_4
+yyets.com,yyets.tk##.AreaR2 > .box_4:first-child + .clearfix + .box_4
 tiexue.net##.AreaR_ad
 qiwen999.com##.Axing_add_Page
 jump.bdimg.com,tieba.baidu.com##.BAIDU_CLB_AD
@@ -5767,7 +5773,7 @@ gdzjdaily.com.cn##.big_news + div
 bbs.cs090.com,bbs.wm090.com,rkanr.com,weiqitv.com##.bill
 chinairn.com##.bizrpt
 kaifu.com##.bk_ad
-yyets.com##.block > .box_4:only-child
+yyets.com,yyets.tk##.block > .box_4:only-child
 baihe.com##.blockUI
 daqi88.com##.blog_content_ad
 oogps.com##.bnn
@@ -5992,7 +5998,7 @@ jump.bdimg.com,tieba.baidu.com##.game_list_and_rank
 jump.bdimg.com,tieba.baidu.com##.game_spread_thread
 jump.bdimg.com,tieba.baidu.com##.game_tab
 qidian.com##.game_tj
-yyets.com##.games-rec-list
+yyets.com,yyets.tk##.games-rec-list
 zymk.cn##.ganggao_top
 so.com##.garllery_ad
 115.com##.gb-advs
@@ -6608,7 +6614,7 @@ qidian.com##.top_game_info
 xizi.com##.top_gg
 warting.com##.top_index_ad
 5iyq.com##.top_l
-yyets.com##.top_log_news
+yyets.com,yyets.tk##.top_log_news
 5iyq.com##.top_r
 xinminweekly.com.cn##.top_xt
 changsha.cn,kekenet.com,lady8844.com,neotv.com.cn,sina.com.cn,xinhuanet.com##.topad
