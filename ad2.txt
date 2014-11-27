@@ -1144,7 +1144,7 @@ tieba.baidu.com###sofa_post
 |http://*_index_ad_
 |http://*_index_banner$script
 |http://*_right_ad.$domain=~dzwww.com
-|http://*_union$domain=~bitauto.com
+|http://*_union$domain=~bitauto.com,~stylesheet
 |http://1-ps.googleusercontent.com/x/portable.easylife.tw/adsense.scupio.com/adpinline/ADmediaJS/
 |http://11.mydrivers.com/002f
 |http://11.mydrivers.com/drivers
@@ -2388,7 +2388,6 @@ tieba.baidu.com###sofa_post
 ||ppsimg.com/apd/img/
 ||propellerads.com
 ||ptfish.com/08html/ggf/cptdgg.html$subdocument
-||pub.mop.com/*.jsp?
 ||pub.mop.com/show_script.jsp
 ||qidian.com/javascript/_QIDIAN_.js$script
 ||qidian.com/javascript/SNDAADAltern.js$script
@@ -3085,7 +3084,13 @@ bbs.pinggu.org##div#mama_tips_right_bottom
 
 @@|http://p0.qhimg.com/s/*.css
 @@|http://cdn4.v.17173.com/advideo/csyx-1112-kz.swf
+@@|http://www.spbonow.com/images/ads/logo.gif$image
+||goods.tudou.com/
+|http://www.totuwo.com/wp-content/uploads/201*/250x250_$image
+|http://www.totuwo.com/wp-content/uploads/201*/999x70_$image
+|http://y0.ifengimg.com/1d124ac5e89463af/2014/0529/sparta.js$script
 
+www.g138.com##div.gg_head,div#ad_text.ad_text
 
 @@|http://cbjs.baidu.com/js/m.js$domain=baidu.hz.letv.com|baidu.v.ifeng.com|baidu.56.com,third-party
 @@||a.alimama.cn$domain=meidebi.com
