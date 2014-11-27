@@ -730,6 +730,7 @@ hk.yahoo.com###mntl1
 /tuiguang/*
 /u/_sponsor/*
 :1010/openV5.js
+/a/p?adid=
 ?adid=*&tcca=$script
 |http://*.cc/ad/
 |http://*.cn/ad/
@@ -824,7 +825,9 @@ hk.yahoo.com###mntl1
 ##.wumii-bottom-popup
 ##.wumii-widget-ad
 ##.wzad
+###snActive-wrap
 /99vjj/*$third-party
+/util.js|$third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -4450,7 +4453,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||cj.qidian.com/Picture/$domain=forum.qidian.com
-||123.139.0.131/util.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -5183,7 +5185,6 @@ imanhua.com###sider-left
 imanhua.com###sider-right
 pchome.com.tw###sixi
 cjn.cn###slidelr
-aijiatxt.com###snActive-wrap
 namipan.cc###somenu
 hc360.com###spad1
 hc360.com###spad2
