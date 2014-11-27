@@ -827,7 +827,6 @@ hk.yahoo.com###mntl1
 ##.wzad
 ###snActive-wrap
 /99vjj/*$third-party
-/util.js|$third-party
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -2226,7 +2225,6 @@ _vmind.qqvideo.tc.qq.com^
 ||danlan.org/KFC/
 ||danyang.com/statics/banner.swf
 ||daqianduan.com/wp-content/uploads/*/ads*.jpg
-||daqianduan.com/wp-content/uploads/2014/11/1111.jpg
 ||dasai8.com/js/duilianjs.js
 ||dashi.com/static/images/jiaocheng_ad.jpg
 ||dashuye.com/data/cache/myad*.htm
@@ -2248,7 +2246,6 @@ _vmind.qqvideo.tc.qq.com^
 ||de.as.pptv.com^
 ||dealmoon.com/data/app/banners/
 ||dealmoon.com/hotdeals/
-||dealmoon.com/images/n/*250.
 ||dealmoon.com/images/ul/13/09/30/2qHlKwU.jpg
 ||deyangs.com/img/
 ||dfad.dfdaily.com^
@@ -2295,7 +2292,6 @@ _vmind.qqvideo.tc.qq.com^
 ||doguo.com/api/vip_discount.js
 ||dol.tianya.cn/s?z=tianya&c=
 ||domeng.cn/js/index_
-||donews.com/special/yixin/a_scene.swf
 ||dospy.com/hezuo/
 ||dota2.uuu9.com^$subdocument
 ||douban.com/?unit=dale_movie_trailer_after_play&
@@ -2332,9 +2328,6 @@ _vmind.qqvideo.tc.qq.com^
 ||dwstatic.com^*/p/livetip/
 ||dxrc.cn/ad1/
 ||dxrc.cn/images/sy.gif
-||dychao.com/movie/static/swf/250-250.swf
-||dychao.com/movie/static/swf/336-280.swf
-||dychao.com/movie/static/swf/970-90.swf
 ||dyhjw.com/dyhjw/1.htm
 ||dyhjw.com/dyhjw/1/3/471.gif
 ||dyhjw.com/dyhjw/4.htm
@@ -4453,9 +4446,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||cj.qidian.com/Picture/$domain=forum.qidian.com
+||123.139.0.131/util.js
+||daqianduan.com/wp-content/uploads/*/ad-
+||daqianduan.com/wp-content/uploads/*lagou
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+daqianduan.com##.widget_ui_ads
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -7243,6 +7240,7 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||dianping.com/hippo.gif?
 
 &ad_type=
 &ad_url=
