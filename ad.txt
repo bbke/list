@@ -829,6 +829,8 @@ hk.yahoo.com###mntl1
 ##.wzad
 ###snActive-wrap
 /99vjj/*$third-party
+||91zgm.com^
+||jwqj.net^
 /adscpv/*
 /AShow.aspx?AID=
 /code/cpc.asp?
@@ -4451,6 +4453,8 @@ _vmind.qqvideo.tc.qq.com^
 ||daqianduan.com/wp-content/uploads/*/ad-
 ||daqianduan.com/wp-content/uploads/*lagou
 ||sharewa.com/themes/*.fancybox.
+||bz55.com/bz55/tc.htm
+||tigtag.com/r/Adv/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
