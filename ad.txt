@@ -63,6 +63,8 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||static.pay.baidu.com^
 ||tb1.bdstatic.com/tb/static-common/js/pic_share/*
 ||jiaoyu.baidu.com/tieba/*
+||static.youku.com/*/index/js/popup.js
+||static.youku.com/*/index/js/qwindow.js
 
 
 @@*/tb/_/repost_*.js
