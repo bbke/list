@@ -4455,9 +4455,18 @@ _vmind.qqvideo.tc.qq.com^
 ||sharewa.com/themes/*.fancybox.
 ||bz55.com/bz55/tc.htm
 ||tigtag.com/r/Adv/
+||tigtag.com/ttad/
+||tigtag.com/styles/phpcms/js/tigtag/ads.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+kan7.com##.indexad2
+kan7.com##.indexad3
+kan7.com##.indexad4
+tigtag.com###Home1000x70_A29
+tigtag.com###Home942x70_A1
+tigtag.com##.couplet_l
+tigtag.com##.couplet_r
 daqianduan.com##.widget_ui_ads
 yaolan.com###AD
 21yq.com###AD1
@@ -5527,7 +5536,6 @@ letv.com##.ad_layer
 188bifen.com,zhibo8.cc##.ad_left
 66rd.cn##.ad_list
 luo.bo##.ad_logobanner
-tigtag.com##.ad_lr
 sina.com.cn##.ad_main_top
 hb163.cn##.ad_panel_980
 letv.com##.ad_pop
