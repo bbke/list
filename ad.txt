@@ -744,7 +744,7 @@ hk.yahoo.com###mntl1
 |http://*/ad.js?sn=
 |http://*/ad.js?v=
 |http://*/gg/
-|http://*/i.js$third-party,domain=~liuyanbaike.com
+|http://*/i.js$third-party
 |http://*/js/ad.
 |http://*/js/ad/
 |http://*/js/tc.js
@@ -2976,7 +2976,6 @@ _vmind.qqvideo.tc.qq.com^
 ||jirou.com/plus/mytag_js.php
 ||jisuxz.com/2747/
 ||jitapu.com/inc/adv
-||jiyun360.com/content/js/aqiooad.min.js
 ||jj.5ccc.net/scripts/new/
 ||jj59.com/sy/banner.js
 ||jj59.com/sy/ibanner.js
@@ -4449,6 +4448,7 @@ _vmind.qqvideo.tc.qq.com^
 ||123.139.0.131/util.js
 ||daqianduan.com/wp-content/uploads/*/ad-
 ||daqianduan.com/wp-content/uploads/*lagou
+||sharewa.com/themes/*.fancybox.
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -7241,6 +7241,9 @@ house.shangdu.com#@#.top_ad
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
 ||dianping.com/hippo.gif?
+||msg.71.am^
+||msg.video.qiyi.com^
+||iqiyi.com/js/pingback/
 
 &ad_type=
 &ad_url=
