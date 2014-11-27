@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.11.26.17
+// @version         14.11.27.21
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs.uc.js
 // ==/UserScript==
 (function() {
@@ -36,7 +36,7 @@
             're': /https?:\/\/www\.iqiyi\.com\/(player\/\d+\/Player|common\/flashplayer\/\d+\/(Main|Coop|Share)?Player_?.*)\.swf/i
         },
         'tudou': {
-            'player': 'http://noads.aliapp.com/swf/tudou.swf',
+            'player': 'http://no_ads.jd-app.com/tudou.swf',
             're': /http:\/\/js\.tudouui\.com\/.*portalplayer[^\.]*\.swf/i
         },
         'tudou_olc': {
@@ -52,7 +52,7 @@
             're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/((?!(Live|seed|Disk))(S[\w]{2,3})?(?!Live)[\w]{4}|swf))Player*\.swf/i
         },
         'letv_live': {
-            'player': 'http://www.minggo.tk/swf/letvlive.swf',
+            'player': 'http://no_ads.jd-app.com/letvlive.swf',
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/\d+\/newplayer\/LivePlayer\.swf/i
         },
         'letvskin': {
@@ -80,7 +80,7 @@
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(live\/|)\d+\/(main|PlayerShell)\.swf/i
         },
 		'pps': {
-            'player': 'http://www.minggo.tk/swf/pps.swf',
+            'player': 'http://no_ads.jd-app.com/pps.swf',
             're': /http:\/\/www\.iqiyi\.com\/player\/cupid\/.*\/pps[\w]+.swf/i
         },
 		'ppsiqiyi': {
