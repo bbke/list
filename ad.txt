@@ -65,6 +65,9 @@ chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.
 ||jiaoyu.baidu.com/tieba/*
 ||static.youku.com/*/index/js/popup.js
 ||static.youku.com/*/index/js/qwindow.js
+||utrack.hexun.com^
+||img.hexun.com/app*
+||img.hexun.com/2014/app/*
 
 
 @@*/tb/_/repost_*.js
