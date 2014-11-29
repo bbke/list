@@ -832,6 +832,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||jsjxhd.com^$third-party
 ||ju33.com^$third-party
 /adscpc/*
 /adscpv/*
@@ -4469,9 +4470,16 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||51cto.com/js/blog_top_list.php
 ||firefoxchina.cn^*49560.
+||ganji.com/content.php
+||pc141.com/statics/new_img/info_left.png
+||pc141.com/statics/new_img/jianjie.png
+||hur.cn/AhurD/$image
+||33cfcf.com/js/config.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+hur.cn###ad810_2
+hur.cn###ad810_6
 firefox.com.cn###promote-top-list
 firefox.com.cn##.main-promote-sites
 firefox.com.cn##.side-notice
