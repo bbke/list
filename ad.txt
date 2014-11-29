@@ -231,7 +231,6 @@ tieba.baidu.com###sofa_post
 ||jxad.jx163.com^
 ||kdly.net^$third-party
 /js/utils51.js
-/js/utils78.js
 ||100tjs.com^$popup,third-party
 ||114zhaofang.com^$popup,third-party
 ||116b.com^$popup,third-party
@@ -718,6 +717,7 @@ hk.yahoo.com###mntl1
 /ina_ad_
 /j/Lad6_2.js
 /jsadv/*
+/js/utils78.js
 /lenovo/pc/all.js
 /module/adsview/*
 /paypic/*
@@ -832,6 +832,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||ju33.com^$third-party
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
