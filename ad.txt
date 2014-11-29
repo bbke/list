@@ -2776,7 +2776,7 @@ _vmind.qqvideo.tc.qq.com^
 ||i-part.com.tw/images2/index/HouseStar/
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
 ||i.fgi.tw/images/survey_of_woman
-||i.firefoxchina.cn/html/taobao_focus_250x250.html
+/html/taobao_focus_
 ||i548.com/ad46860/
 ||iads.xinmin.cn^
 ||iapolo.com/myjs/
@@ -4467,9 +4467,17 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||51cto.com/js/blog_top_list.php
+||firefoxchina.cn^*49560.
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+firefox.com.cn###promote-top-list
+firefox.com.cn##.main-promote-sites
+firefox.com.cn##.side-notice
+i.firefoxchina.cn##.sp-content
+sina.com.hk###pinp
+sina.com.hk###pinp2
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
