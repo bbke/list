@@ -69,7 +69,7 @@ rules = [{
     to: "http://$1.baidu.com/$2/pic/item$3.jpg",
     regex: true
 },{
-    name: "优酷视频 >> id97",
+    name: "优酷收费视频 >> id97免费看",
     from: /^http:\/\/v\.youku\.com\/v_show\/([\w]{16})(_ev_[\d]+)?\.html(\?.*)?$/i,
     to: "http://www.id97.com/videos/play/$1.html",
     regex: true,
@@ -85,6 +85,12 @@ rules = [{
     from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?((\?|##).*)?$/i,
     exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?#alist/i,
     to: "http://www.bilibili.com/video/av$1/$2#alist",
+    regex: true
+},{
+    name: "tumblr看视频",
+    from: /^https?:\/\/.*\.tumblr\.com\/video_file\/(.*)/i,
+    exclude:/^https?:\/\/www\.tumblr\.com\/video_file\/(.*)/i,
+    to: "https://www.tumblr.com/video_file/$1",
     regex: true
 },{
     name: "【https】google",
@@ -109,7 +115,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|livestream|evozi|imgur|redditmedia|googleusercontent|googlecode|cam4s|filesmonster)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|cam4s|filesmonster)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{
