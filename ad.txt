@@ -207,7 +207,7 @@ tieba.baidu.com##.pre_icon_wrap
 tieba.baidu.com##.icon_wrap
 tieba.baidu.com##.p_props_tail
 tieba.baidu.com###j_ten_years
-tieba.baidu.com##.u_mytbmall
+
 tieba.baidu.com##.u_tshow
 tieba.baidu.com##.split
 tieba.baidu.com##.profile_right.user_tbmall
@@ -218,7 +218,7 @@ tieba.baidu.com##.u_app
 tieba.baidu.com###tbmall_score_region
 tieba.baidu.com##.onekey_btn
 tieba.baidu.com##.reward_frs_list
-tieba.baidu.com##.nav_icon.nav_achieve
+
 tieba.baidu.com##.fMember_cnt
 tieba.baidu.com##.u_joinvip
 tieba.baidu.com###encourage_entry
