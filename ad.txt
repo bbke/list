@@ -4475,9 +4475,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||17173cdn.com/css/live/business
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+17173.com##.business
+17173.com##.minigame
+17173.com##.shadowPage
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -7286,6 +7290,10 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||log1.17173.com^
+||stat.v.17173.com^
+||itc.cn/cache/lib/v2/odvmonitor/
+||17173.com/live/stat_
 
 &ad_type=
 &ad_url=
