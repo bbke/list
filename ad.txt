@@ -2071,7 +2071,7 @@ _vmind.qqvideo.tc.qq.com^
 ||c4d.cn/api.php?mod=ad&adid=
 ||caamei.com/k.js
 ||cachead.com^
-||caikuu.com/ckimages/js/*_gg_
+||caikuu.com/ckimages/*_gg
 ||caipiao.cntv.cn/website/cntv/box_news.shtml
 ||caoimg.com/images/
 ||caomeinv.info/images/*.gif
@@ -4483,6 +4483,7 @@ _vmind.qqvideo.tc.qq.com^
 ||pongo.cn/Job/GetAdForCallBack?
 ||dolphin.ftimg.net/s?
 ||zsg.kimi.com.tw^$domain=www.gamer.com.tw
+||114la.com/static4/public4/rebuild/css/skin/20141212.css
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -7304,6 +7305,9 @@ house.shangdu.com#@#.top_ad
 ||stat.v.17173.com^
 ||itc.cn/cache/lib/v2/odvmonitor/
 ||17173.com/live/stat_
+||gridsumdissector.cn/gs.gif?
+||stat.cutv.com^
+||static.gridsumdissector.com^
 
 &ad_type=
 &ad_url=
