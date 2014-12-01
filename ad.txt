@@ -4484,9 +4484,18 @@ _vmind.qqvideo.tc.qq.com^
 ||dolphin.ftimg.net/s?
 ||zsg.kimi.com.tw^$domain=www.gamer.com.tw
 ||114la.com/static4/public4/rebuild/css/skin/20141212.css
+||caikuu.com/ckimages/*_zg
+||51ape.com/d/js/
+||81qi.com/d/js/
+||ok.432kkk.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+51ape.com##.h250.w300
+51ape.com##DIV.mt_1.blue.f_22.yh
+jinghua.cn##.banner_main
+caikuu.com##.clearfix + .recommend
+caikuu.com##.photo_abv
 xinjunshi.com##.rt_jph
 haodu5.com###ad_c_top
 17173.com##.business
