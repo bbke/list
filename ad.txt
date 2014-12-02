@@ -2344,8 +2344,6 @@ _vmind.qqvideo.tc.qq.com^
 ||doyo.cn/Tpl/web/Public/images/material/www_couplets/
 ||dpfile.com/pc/trip/*(600x400)
 ||drivergenius.com/inc/driverwwwad.js
-||duba.com/images/*960_60.jpg
-||duba.com/info/images/ycepf06.gif
 ||duowan.com/img/ad/
 ||duowan.com/lgn/x/images/lgnadv/
 ||duowan.com/public/s/market_count.js
@@ -4501,6 +4499,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+duba.com###fixedad
 duote.com###J_ipo_banner_close
 dayoo.com###diy1
 eol.cn##.ad_490
@@ -4679,7 +4678,6 @@ qidian.com###ad_yxword
 yxdown.com###adbg
 voc.com.cn###adbody_hidden
 voc.com.cn###adbody_show
-dm456.com###addToFav
 17yy.com###addiv
 iqiyi.com###adflash
 eol.cn###adfloat_l
@@ -5719,7 +5717,7 @@ portablesoft.org##.bad
 quumii.com##.baidu960
 17k.com##.baiduBox
 2345.com##.baiduHotWordsR
-aibang.com,duba.com##.baidu_ad
+aibang.com##.baidu_ad
 ucbug.com##.baidu_fx
 game.9724.com##.baidu_left
 inpai.com.cn##.baiduad3
@@ -5858,7 +5856,6 @@ hunantv.com##.click-s-r1
 hunantv.com##.click-t
 bbs.xmfish.com##.cmp_v
 24en.com##.cnt_banner
-duba.com##.code_yx
 114la.com##.col-row01 > dt
 gamefy.cn##.col-vlist-l > span
 xdkb.net##.col0b
@@ -6369,7 +6366,6 @@ cnhan.com,longhoo.net##.news-5
 xdkb.net##.news-l-yg
 ifeng.com##.news_ADbox
 m.baidu.com##.news_ad
-news.duba.com##.news_ad > .hot_list:first-child
 acousticguitar.com.cn##.news_b
 zhcw.com##.news_blanck
 tianqi.com##.news_ggimg
@@ -6591,7 +6587,6 @@ bbs.fobshanghai.com##.t_infoline
 sina.com##.tad
 8684.cn##.taoAbox
 7y7.com##.taobao-fanli-side-warp
-duba.com##.taobao_ad
 hushiwin.com##.taobaoad
 yesky.com##.tb_adv
 jump.bdimg.com,tieba.baidu.com##.tb_poster_info.poster_success
@@ -7331,6 +7326,7 @@ house.shangdu.com#@#.top_ad
 ||zdnet.com.cn/js/pv.js
 ||zdw.*/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||stat.ijinshan.com^
 
 &ad_type=
 &ad_url=
