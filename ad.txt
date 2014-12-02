@@ -4495,10 +4495,14 @@ _vmind.qqvideo.tc.qq.com^
 ||dvbcn.com/yinyong/show/news_right_
 ||wumii.com/ext/widget/hot.htm
 ||id97.com/view/ad/
+||niwozhi.net/960x90.gif
+||beiwo.tv/Runtime/js/list01.js
+||77kp.com/bd/
 ||2345.com/duoteimg/images/index/shangshi_bannerpack_red.png
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+ezvivi.com###marsk
 duba.com###fixedad
 duote.com###J_ipo_banner_close
 dayoo.com###diy1
