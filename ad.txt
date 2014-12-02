@@ -4498,6 +4498,7 @@ _vmind.qqvideo.tc.qq.com^
 ||niwozhi.net/960x90.gif
 ||beiwo.tv/Runtime/js/list01.js
 ||77kp.com/bd/
+||sinaimg.cn/large/ed5e6a1d*.gif
 ||2345.com/duoteimg/images/index/shangshi_bannerpack_red.png
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
