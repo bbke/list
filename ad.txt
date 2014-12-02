@@ -694,6 +694,7 @@ hk.yahoo.com###mntl1
 /adintrs/*
 /AdPreview/*
 /adpuba/*
+/adpfile/*
 /advpic/*
 /ajds/*
 /cache/ad_js/*
@@ -3678,7 +3679,7 @@ _vmind.qqvideo.tc.qq.com^
 ||rm.sina.com.cn^$domain=~lady.weibo.com
 ||rosmm.com/ad_js/
 ||rosmm.com/chat/xxx/
-||rrys123.com/public/rooms?
+||rrys.tv/public/rooms?
 ||rsccs.com/code/
 ||rsdown.cn/static/t/
 ||ruan8.com/img/foot.js
@@ -4490,6 +4491,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||hbrc.com/bd1.html
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -5343,7 +5345,7 @@ sznews.com###yindao05 + .indexcon07
 starbaby.cn###yindex_ads
 hk.yahoo.com###ysm-ad
 yaolan.com###yuer_top
-rrys123.com###yyets_slide_ad
+rrys.tv###yyets_slide_ad
 51.la###zanzhu
 httpcn.com###zhen_pic_one
 zjg.js.cn###zjgjs_banner
@@ -5375,7 +5377,7 @@ juqingba.cn##.Ad_300_2
 xinhuanet.com##.AdvColumn1
 js0573.com##.Adv_banner
 feixiangtv.com##.Advertisement
-rrys123.com##.AreaR2 > .box_4:first-child + .clearfix + .box_4
+rrys.tv##.AreaR2 > .box_4:first-child + .clearfix + .box_4
 tiexue.net##.AreaR_ad
 qiwen999.com##.Axing_add_Page
 jump.bdimg.com,tieba.baidu.com##.BAIDU_CLB_AD
@@ -5793,7 +5795,7 @@ gdzjdaily.com.cn##.big_news + div
 bbs.cs090.com,bbs.wm090.com,rkanr.com,weiqitv.com##.bill
 chinairn.com##.bizrpt
 kaifu.com##.bk_ad
-rrys123.com##.block > .box_4:only-child
+rrys.tv##.block > .box_4:only-child
 baihe.com##.blockUI
 daqi88.com##.blog_content_ad
 oogps.com##.bnn
@@ -6022,7 +6024,7 @@ jump.bdimg.com,tieba.baidu.com##.game_list_and_rank
 jump.bdimg.com,tieba.baidu.com##.game_spread_thread
 jump.bdimg.com,tieba.baidu.com##.game_tab
 qidian.com##.game_tj
-rrys123.com##.games-rec-list
+rrys.tv##.games-rec-list
 zymk.cn##.ganggao_top
 so.com##.garllery_ad
 115.com##.gb-advs
@@ -6646,7 +6648,7 @@ qidian.com##.top_game_info
 xizi.com##.top_gg
 warting.com##.top_index_ad
 5iyq.com##.top_l
-rrys123.com##.top_log_news
+rrys.tv##.top_log_news
 5iyq.com##.top_r
 xinminweekly.com.cn##.top_xt
 changsha.cn,kekenet.com,lady8844.com,neotv.com.cn,sina.com.cn,xinhuanet.com##.topad
