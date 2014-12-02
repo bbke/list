@@ -3293,6 +3293,7 @@ _vmind.qqvideo.tc.qq.com^
 ||miljinhua.com/GD/
 ||mimg.127.net/ggimg/all/img18/140218_yixin_780x96.jpg
 ||mimg.127.net/m/smartad/img/
+||mingxing.com/js/index_banner.js
 ||mingxing.com/js/tuku/_banner.js
 ||missyuan.com/sy/
 ||mitbbs.com/ad_
@@ -3680,6 +3681,7 @@ _vmind.qqvideo.tc.qq.com^
 ||rosmm.com/ad_js/
 ||rosmm.com/chat/xxx/
 ||rrys.tv/public/rooms?
+||rrys123.com/public/rooms?
 ||rsccs.com/code/
 ||rsdown.cn/static/t/
 ||ruan8.com/img/foot.js
@@ -5345,7 +5347,6 @@ sznews.com###yindao05 + .indexcon07
 starbaby.cn###yindex_ads
 hk.yahoo.com###ysm-ad
 yaolan.com###yuer_top
-rrys.tv###yyets_slide_ad
 51.la###zanzhu
 httpcn.com###zhen_pic_one
 zjg.js.cn###zjgjs_banner
@@ -5377,7 +5378,7 @@ juqingba.cn##.Ad_300_2
 xinhuanet.com##.AdvColumn1
 js0573.com##.Adv_banner
 feixiangtv.com##.Advertisement
-rrys.tv##.AreaR2 > .box_4:first-child + .clearfix + .box_4
+rrys.tv,rrys123.com##.AreaR2 > .box_4:first-child + .clearfix + .box_4
 tiexue.net##.AreaR_ad
 qiwen999.com##.Axing_add_Page
 jump.bdimg.com,tieba.baidu.com##.BAIDU_CLB_AD
@@ -5795,7 +5796,7 @@ gdzjdaily.com.cn##.big_news + div
 bbs.cs090.com,bbs.wm090.com,rkanr.com,weiqitv.com##.bill
 chinairn.com##.bizrpt
 kaifu.com##.bk_ad
-rrys.tv##.block > .box_4:only-child
+rrys.tv,rrys123.com##.block > .box_4:only-child
 baihe.com##.blockUI
 daqi88.com##.blog_content_ad
 oogps.com##.bnn
@@ -6024,7 +6025,7 @@ jump.bdimg.com,tieba.baidu.com##.game_list_and_rank
 jump.bdimg.com,tieba.baidu.com##.game_spread_thread
 jump.bdimg.com,tieba.baidu.com##.game_tab
 qidian.com##.game_tj
-rrys.tv##.games-rec-list
+rrys.tv,rrys123.com##.games-rec-list
 zymk.cn##.ganggao_top
 so.com##.garllery_ad
 115.com##.gb-advs
@@ -6648,7 +6649,7 @@ qidian.com##.top_game_info
 xizi.com##.top_gg
 warting.com##.top_index_ad
 5iyq.com##.top_l
-rrys.tv##.top_log_news
+rrys.tv,rrys123.com##.top_log_news
 5iyq.com##.top_r
 xinminweekly.com.cn##.top_xt
 changsha.cn,kekenet.com,lady8844.com,neotv.com.cn,sina.com.cn,xinhuanet.com##.topad
