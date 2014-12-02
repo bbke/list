@@ -595,7 +595,6 @@ tieba.baidu.com###sofa_post
 ||youzhi.cc^$third-party
 ||yoyocm.com^$third-party
 ||ysm-advertising.tw^$third-party
-||ysm.ezprice.net^$third-party
 ||ytunion.com^$third-party
 ||yuunion.com^$third-party
 ||yx4449.com^$third-party
@@ -837,6 +836,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||ysm.ezprice.net^$third-party
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -2347,10 +2347,8 @@ _vmind.qqvideo.tc.qq.com^
 ||duba.com/images/*960_60.jpg
 ||duba.com/info/images/ycepf06.gif
 ||duowan.com/img/ad/
-||duowan.com/index.php?r=anuncio/getanuncio
 ||duowan.com/lgn/x/images/lgnadv/
 ||duowan.com/public/s/market_count.js
-||duowan.com/s/v2/topHeziAd.js
 ||duowan.com/s/yuanbao-entrance.js
 ||duoxiai.com.cn/imgad/
 ||dup.baidustatic.com/js/zm.js
@@ -2363,7 +2361,7 @@ _vmind.qqvideo.tc.qq.com^
 ||dyhjw.com/dyhjw/4.htm
 ||dyhjw.com/dyhjw/left/new.js
 ||dytt8.net/js2/
-||dz320.com/desktop$subdocument
+||dz320.com/desktop
 ||dzwww.com/data/js/asp_$script
 ||e.hnr.cn/choose/view/%7B*%7D.js^
 ||e0421.com/*tj.js
@@ -4499,9 +4497,11 @@ _vmind.qqvideo.tc.qq.com^
 ||dvbcn.com/yinyong/show/news_right_
 ||wumii.com/ext/widget/hot.htm
 ||id97.com/view/ad/
+||2345.com/duoteimg/images/index/shangshi_bannerpack_red.png
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+duote.com###J_ipo_banner_close
 dayoo.com###diy1
 eol.cn##.ad_490
 v.ifeng.com##.keyword
@@ -5180,7 +5180,6 @@ chinanews.com###qizhi_div980
 bbs.xineurope.com###qmenu_menu + .wp
 hbzkw.com###qq-bottom
 gdtv.cn###qrcode
-duowan.com###qrcodeDownloadBar
 game2.cn###rb
 u17.com###rdpop
 chinaqking.com###readerServiceDIV
@@ -5424,7 +5423,6 @@ dfdaily.com##.WEB1_TOPBANNER
 pbhz.com##.a-ds-post
 55188.com##.a1_gg
 tucao.cc##.a2013d
-dj520.com##.a304
 yaolan.com##.abstract_ad
 jiaju.shangdu.com##.accordion
 qq.com##.action_ad
@@ -6397,7 +6395,6 @@ actoys.net##.p_top_ad
 tw.yahoo.com##.pa-banner
 cjdby.net##.page_right_ad
 bxwx.org,u8xs.com##.pagead_3
-dj520.com##.pal
 qqyy.com##.par-ad336
 www.sina.com.cn##.part-k-l > .mod-13
 www.sina.com.cn##.part-l > :nth-child(n+2)
