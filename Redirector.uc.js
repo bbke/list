@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.11.30.16
+// @version         14.12.03.17
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -95,14 +95,14 @@
     state: false
 },{
     name: "AcFun >> 网页全屏",
-    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(b|c)([\w]+)(#.*)?$/i,
-    exclude: /acfun\.tv\/(a|v)\/a(b|c)(.*)#fullscreen=1/i,
+    from: /^http:\/\/www\.acfun\.tv\/(a|v)\/a(b|c)([\w]+)(.*)?/i,
+    exclude: /acfun\.tv\/(a|v)\/a(b|c).*#fullscreen=1$/i,
     to: "http://www.acfun.tv/$1/a$2$3#fullscreen=1", 
     regex: true
 },{
     name: "BiliBili",
-    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?((\?|##).*)?$/i,
-    exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?#alist/i,
+    from: /^http:\/\/www\.bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?(.*)?/i,
+    exclude: /bilibili\.com\/video\/av([\d]+)\/([\w]+\.html)?#alist$/i,
     to: "http://www.bilibili.com/video/av$1/$2#alist",
     regex: true
 },{
