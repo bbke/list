@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412032028
-! Last Modified: 2014年12月03日 20:28
+! Version: 201412032101
+! Last Modified: 2014年12月03日 21:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
