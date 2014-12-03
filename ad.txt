@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412031201
-! Last Modified: Wed Dec  3 12:01:28 UTC 2014
+! Version: 201412031221
+! Last Modified: Wed Dec  3 12:21:13 UTC 2014
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -14,6 +14,7 @@
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 ||js.tudouui.com/bin/lingtong/app
 |http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
+tieba.baidu.com###game_frs_head,#game_forum,#lecai_lottery,.clear+.game_spread_thread,.game_rank, #ueg_policy_open, .aside_album_good_main>.aagm_a_img, .edui-container>.tb_poster_placeholder, .cont_sign_banner,.worldcup_rank,.game_content,.game_tab,[class^=fifa_card],#tbmall_score_region,#aside_ad, .doupiao_offline, #encourage_entry,#thread_list>li[data-daid], body>div[data-daid]
 tieba.baidu.com##.reward_btn.j_reward_btn
 tieba.baidu.com###j_navtab_game
 www.ithome.com###qrcode
@@ -872,7 +873,7 @@ hk.yahoo.com###mntl1
 ||1lo0.net^$third-party
 ||211.167.105.131^
 ||2155ec.com^$third-party
-||218.26.217.88^
+||218.26.217.*.html
 ||220.115.251.25^
 ||221.204.213.222^
 ||235123.net^$third-party
@@ -2990,7 +2991,8 @@ _vmind.qqvideo.tc.qq.com^
 ||jiaodong.net/a/js/
 ||jiaonan.net/image/news/news
 ||jiaoyou8.com^$domain=mitbbs.com
-||jiaoyu.baidu.com/tieba/getindexdata?$domain=jump.bdimg.com|tieba.baidu.com
+||jiaoyu.baidu.com/tieba/
+||baidu.com/tb/zt/spread/
 ||jiasuba.com/js/jjrjtg.js
 ||jiasule.com/lianmeng/images/jiasule_d.gif
 ||jiasule.com/static/js/http_error.js
