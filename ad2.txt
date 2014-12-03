@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412031045
-! Last Modified: Wed Dec  3 10:45:42 UTC 2014
+! Version: 201412031201
+! Last Modified: Wed Dec  3 12:01:28 UTC 2014
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -17,7 +17,6 @@
 |http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
 tieba.baidu.com##.reward_btn.j_reward_btn
 tieba.baidu.com###j_navtab_game
-www.ithome.com###side_func
 www.ithome.com###qrcode
 cam4.com###headerBanner
 cam4.com###subfoot
