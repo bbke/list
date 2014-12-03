@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412032301
-! Last Modified: 2014年12月03日 23:01
+! Version: 201412032352
+! Last Modified: 2014年12月03日 23:52
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
