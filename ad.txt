@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412031221
-! Last Modified: Wed Dec  3 12:21:13 UTC 2014
+! Version: 201412032028
+! Last Modified: 2014年12月03日 20:28
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -4494,6 +4494,7 @@ _vmind.qqvideo.tc.qq.com^
 ||bdstatic.com/tb/cms/ngmis/file_1417585294569.jpg
 ||huaxieyu.com/wp-content/themes/HotNewspro20140605/images/default.jpg
 ||zzsky.cn/images/zzskycom_
+||zt.chuanke.com/?mod=
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
 frdic.com##.alert
