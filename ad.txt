@@ -2388,7 +2388,7 @@ _vmind.qqvideo.tc.qq.com^
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/newsf/js/inpic.js
 ||ebiotrade.com/newsf/js/news_top_banner.js
-||ebiotrade.com/web_images/$object
+||ebiotrade.com/web_images/*.swf
 ||ebp.renren.com^
 ||ebrun.com/jfile/lagou.js
 ||ebrun.com/jfile/position/js/*.js
@@ -5961,7 +5961,7 @@ ncno1.playno1.com##.eis_box_s > div:first-child
 fuyang.net##.eis_fbox_260:nth-child(n+3)
 fuyang.net##.eis_fbox_980
 winning11cn.com##.eis_topad
-eastmoney.com##.emhqbanr
+eastmoney.com##.adbox
 liulanmi.com##.endads
 epinv.com##.epinv_f
 1lou.com##.error
