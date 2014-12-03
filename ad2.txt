@@ -2,6 +2,8 @@
 
 ! Title: My AdFilters Lite
 ! Expires: 4 hours
+! Version: 201412031045
+! Last Modified: Wed Dec  3 10:45:42 UTC 2014
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -191,7 +193,6 @@ tieba.baidu.com###plat_act_wrapper
 tieba.baidu.com##div.ui_bubble_wrap:nth-child(4)
 tieba.baidu.com##.profile_right.user_score
 tieba.baidu.com###aside_ad
-tieba.baidu.com##.tbui_aside_float_bar
 tieba.baidu.com##.lot_wrap
 tieba.baidu.com##.u9_aside
 tieba.baidu.com##.item.live_show_aside
