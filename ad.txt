@@ -4506,6 +4506,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+educity.cn##.content_relate:nth-child(5)
+mengmao.org###ad3
 g138.com##.a1_gg
 55188.com##.a1_gg
 g138.com##.ggtishiall
@@ -6834,6 +6836,8 @@ sohu.com#@#.label-ad
 tiancity.com#@#.main_ad
 mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
+wangnba.com#@##adSet
+wangnba.com#@##showAd
 @@&ad_type=$domain=x.jd.com
 @@||xintaoke.com/images/gg/*.jpg
 @@&ad_width=590&$domain=jd.com
