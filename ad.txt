@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412032101
-! Last Modified: 2014年12月03日 21:01
+! Version: 201412032201
+! Last Modified: 2014年12月03日 22:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -14,19 +14,14 @@
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 ||js.tudouui.com/bin/lingtong/app
 |http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
-tieba.baidu.com###game_frs_head,#game_forum,#lecai_lottery,.clear+.game_spread_thread,.game_rank, #ueg_policy_open, .aside_album_good_main>.aagm_a_img, .edui-container>.tb_poster_placeholder, .cont_sign_banner,.worldcup_rank,.game_content,.game_tab,[class^=fifa_card],#tbmall_score_region,#aside_ad, .doupiao_offline, #encourage_entry,#thread_list>li[data-daid], body>div[data-daid]
-tieba.baidu.com##.reward_btn.j_reward_btn
-tieba.baidu.com###j_navtab_game
+tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid]
+tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
 www.ithome.com###qrcode
-cam4.com###headerBanner
-cam4.com###subfoot
-analtubegirls.com,cam4.com,djs-teens.net,free-celebrity-tube.com,glarysoft.com,hardsextube.com,hdporn.in,nsfwyoutube.com,onlyhot.biz,pornshaft.com,porntalk.com,ratemypeach.com,springbreaktubegirls.com,teentube18.com##.ads
-cam4.com##.removeAds
+cam4.com,cam4.tw###headerBanner, #subfoot, .removeAds, .ads
 @@||cam4.*/ads/directory/$xmlhttprequest
 ||chaturbate.com/affiliates/
 ||chaturbate.com/sitestats/openwindow/$popup
-celebspank.com,chaturbate.com,cliphunter.com,gamcore.com,playboy.com,signbucks.com,tehvids.com,uflash.tv,wankoz.com,yobt.tv##.ad
-chaturbate.com,dansmovies.com,fecaltube.com,imageporter.com,private.com,videarn.com,vidxnet.com,wanknews.com,watchhentaivideo.com,xbabe.com,yourdailygirls.com##.banner
+chaturbate.com##.banner, .ad
 ||untitled.dwstatic.com/fodder/*$object-subrequest
 ||cdn.optimizely.com^
 ||doubleclick.net^
