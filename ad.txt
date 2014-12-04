@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412041601
-! Last Modified: 2014年12月04日 16:01
+! Version: 201412041701
+! Last Modified: 2014年12月04日 17:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -4472,6 +4472,7 @@ _vmind.qqvideo.tc.qq.com^
 ||d.pixiv.org/show?zone_id=
 ||advideoadmin.appledaily.com.tw^
 ||xyzc.cn/js/pfgg.js
+/jsc/stat.js$domain=99770.cc|99comic.com|99manga.com
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
@@ -7153,7 +7154,6 @@ comefromchina.com#@#.ad-block
 @@||zhibowu.com/ad2.htm
 ||hexun.com/js/att_count.js
 /cv/*&uuid=$object-subrequest
-/jsc/stat.js$domain=99770.cc|99comic.com|99manga.com
 /mysql/count/*$script,domain=ts.cn
 /shortcounter.jsp$domain=ref.so
 @@||guahao.cn/common/js/plugins/fingerprint.js
@@ -7192,14 +7192,12 @@ comefromchina.com#@#.ad-block
 ||click.tianyaui.com^
 ||cnmo.com/pv.js
 ||count.enet.com.cn^
-||counter.pixplug.in/count.php
 ||countpage.sznews.com^
 ||data.xici.net^
 ||dianping.com/hippo.gif?
-||doc88.com/js/count.js
+||doc88.com^*/count.js
 ||dw.xcar.com.cn^*.gif?
 ||ea3w.com/pv.js
-||error.pixplug.in^
 ||fengniao.com/pv.js
 ||frame.enet.com.cn/a.php
 ||g.yccdn.com^
@@ -7243,7 +7241,6 @@ comefromchina.com#@#.ad-block
 ||msg.video.qiyi.com^
 ||msn.ynet.com/c/stat/uv.js
 ||msn.ynet.com/c/tj_comm.js
-||news.baidu.com/nocache/mp/b.jpg
 ||news.sina.com.cn/pvcounter/
 ||newspage.xilu.com/model/visitlog.js
 ||play.bokecc.com/servlet/PlayVideo?
@@ -7251,7 +7248,6 @@ comefromchina.com#@#.ad-block
 ||qhimg.com/js/iwt.js
 ||qq.com/livemsg?
 ||record.kuai.xunlei.com^
-||referer.pixplug.in^
 ||rs.sinajs.cn^
 ||s.360.cn^
 ||s.so.360.cn^
@@ -7282,7 +7278,6 @@ comefromchina.com#@#.ad-block
 ||tajs.qq.com^
 ||tcss.qq.com^
 ||tf.360.cn^
-||tongji.500wan.com^
 ||tw.rd.yahoo.com^$image
 ||uuu9.com/photolog.html
 ||wit.qq.com^$third-party
@@ -7294,6 +7289,8 @@ comefromchina.com#@#.ad-block
 ||zdnet.com.cn/js/pv.js
 ||zdw.w8.com.cn/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||56img.com/script/fn/stat/
+||pv.hd.sohu.com^
 
 &ad_type=
 &ad_url=
