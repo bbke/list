@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412041101
-! Last Modified: 2014年12月04日 11:01
+! Version: 201412041201
+! Last Modified: 2014年12月04日 12:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -2508,7 +2508,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gamersky.com^$subdocument
 ||games.ifeng.com^$subdocument
 ||gamme.com.tw/ga/
-||gamme.com.tw/uploads/2014/45/387c93d820c5d219e49acc49eb2a8119.jpg
 ||ganji.com/content.php
 ||ganjistatic1.com^*-banner-
 ||ganjistatic1.com^*/adm/
@@ -2533,7 +2532,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gg.yxdown.com^
 ||gg163.net/2014ad/
 ||gg163.net/js/gg163ad.js
-||gg1z.com/pic/hengfu.gif
 ||ggg.zj.com^
 ||ggmee.com/files/img/ad/
 ||ggw.gusuwang.com^
@@ -2559,7 +2557,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gohubei.com/img/zhuna.gif
 ||good.gd/good.gd/js/downloadPrograss.js
 ||good.gd/js/loadpopads.aspx
-||goodlife.tw/system/banners/
 ||goods.tudou.com/api?
 ||goto.www.iciba.com^
 ||goyeah.com/homepage.html
@@ -4484,9 +4481,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||d.pixiv.org/show?zone_id=
 ||advideoadmin.appledaily.com.tw^
+||xyzc.cn/js/pfgg.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+xyzc.cn###msg_win
+xyzc.cn##.xyzc_ad
+xyzc.cn##.xyzc_rightad
 54xr.com,xr8.me,xrba.net##.widget:first-child
 manhuadao.com###bd1
 yaolan.com###AD
