@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412040045
-! Last Modified: 2014年12月04日 00:45
+! Version: 201412041101
+! Last Modified: 2014年12月04日 11:01
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -49,6 +49,7 @@ chaturbate.com##.banner, .ad
 ||irs01.com^$third-party
 ||irs01.net^$third-party
 ||jiathis.com^$third-party
+||imlive.com^$third-party
 ||projectwonderful.com^$third-party
 ||wrating.com^$third-party
 ||qpic.cn^$domain=www.ithome.com

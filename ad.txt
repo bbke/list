@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412041001
-! Last Modified: 2014年12月04日 10:01
+! Version: 201412041101
+! Last Modified: 2014年12月04日 11:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -48,6 +48,7 @@ chaturbate.com##.banner, .ad
 ||irs01.com^$third-party
 ||irs01.net^$third-party
 ||jiathis.com^$third-party
+||imlive.com^$third-party
 ||projectwonderful.com^$third-party
 ||wrating.com^$third-party
 ||qpic.cn^$domain=www.ithome.com
@@ -825,6 +826,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||jdlhg.com^
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -1249,7 +1251,6 @@ hk.yahoo.com###mntl1
 /jsc/book_$domain=99770.cc|99comic.com|99manga.com
 /jsc/Copy.js$domain=99770.cc|99comic.com|99manga.com
 /kocpc.myweb.hinet.net^
-/luoliao.gif
 /modules/46/js/*$domain=mzyfz.com
 /modules/video/player/nuevo/midroll.php?
 /moneymaker/js/piaopp.js
@@ -4302,7 +4303,6 @@ _vmind.qqvideo.tc.qq.com^
 ||xp911.com/img/xitong.gif
 ||xpgod.com/bui/
 ||xpgod.com/UploadPic/xpgod/
-||xrba.net/9kba
 ||xs.houyi.baofeng.net^
 ||xs8.cn/xs8_stat.js
 ||xsduo.com/js/
@@ -4487,6 +4487,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+54xr.com,xr8.me,xrba.net##.widget:first-child
 manhuadao.com###bd1
 yaolan.com###AD
 21yq.com###AD1
@@ -6583,7 +6584,6 @@ startos.com##.test-240
 xiazaiba.com##.test-90
 baidu.com##.text-advertise
 e0575.cn,ghoffice.com,mgbbs.cn##.textMes
-54xr.com,xrba.net##.textwidget
 zyy123.com##.tg250x250-1
 zyy123.com##.tg250x250-2
 putclub.com##.the_ad
