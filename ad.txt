@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412041701
-! Last Modified: 2014年12月04日 17:01
+! Version: 201412041801
+! Last Modified: 2014年12月04日 18:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -824,6 +824,7 @@ hk.yahoo.com###mntl1
 ##.wumii-widget-ad
 ##.wzad
 /99vjj/*$third-party
+||mediav.com^$third-party
 ||jdlhg.com^
 /adscpc/*
 /adscpv/*
@@ -3556,7 +3557,7 @@ _vmind.qqvideo.tc.qq.com^
 ||qianlong.com/vda/$script
 ||qidian.com/javascript/abc.htm
 ||qidian.com/Javascript/DoublePop.js
-||qidian.com/Javascript/luaiwyuui.js
+||qidian.com/Javascript/kiywyq_
 ||qidian.com/Javascript/NewSNDAPop.js
 ||qidian.com/javascript/ppccload.js
 ||qidian.com/javascript/SNDAADAltern.js
@@ -7173,7 +7174,6 @@ comefromchina.com#@#.ad-block
 ||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
 ||analytics.tv189.cn^
-||api.pixnet.tv/count^
 ||atpanel.com^$image
 ||baidu.com/game/asset/common/performance.js
 ||baidu.com/hunter/alog/
@@ -7213,7 +7213,6 @@ comefromchina.com#@#.ad-block
 ||ifengimg.com^*/sta_collection.
 ||ifengimg.com^*/staytime.
 ||ifengimg.com^*/wrating.js
-||imedia.bokecc.com^
 ||img.kuai.xunlei.com/js/statistics.js
 ||imp.zol.com.cn^
 ||iqiyi.com/js/pingback/
@@ -7234,7 +7233,6 @@ comefromchina.com#@#.ad-block
 ||log1.17173.com^
 ||login.sdo.com/sdo/PRes/js/sdo_beacon.js
 ||logs.51cto.com^
-||mediav.com^$third-party
 ||msg.71.am^
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
@@ -7243,7 +7241,6 @@ comefromchina.com#@#.ad-block
 ||msn.ynet.com/c/tj_comm.js
 ||news.sina.com.cn/pvcounter/
 ||newspage.xilu.com/model/visitlog.js
-||play.bokecc.com/servlet/PlayVideo?
 ||pvtest.zol.com.cn^
 ||qhimg.com/js/iwt.js
 ||qq.com/livemsg?
@@ -7253,7 +7250,6 @@ comefromchina.com#@#.ad-block
 ||s.so.360.cn^
 ||shrek.6.cn^
 ||sogou.com/js/pb_*.js
-||sstat.jd.com/scslog?
 ||stat.2u.com.cn/ol_2u.js
 ||stat.55bbs.com^
 ||stat.baike.com^
