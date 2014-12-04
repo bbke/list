@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412041301
-! Last Modified: 2014年12月04日 13:01
+! Version: 201412041601
+! Last Modified: 2014年12月04日 16:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -391,7 +391,6 @@ tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
 ||dilingling.com^$third-party
 ||dingge.cc^$third-party
 ||diyiunion.com^$third-party
-||dmclick.cn^$third-party
 ||down.jialichuang.com^$third-party
 ||e.phpwind.com^$third-party
 ||ee4kdushuba.com^$third-party
@@ -457,7 +456,6 @@ tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
 ||lianjie.phpwind.com^$third-party
 ||link.ad966.com^$third-party
 ||lm.35.com^$third-party
-||log.hiiir.com^
 ||love12.tw^$third-party
 ||lrswl.com^$third-party
 ||maxreturn.cn^$third-party
@@ -965,7 +963,6 @@ hk.yahoo.com###mntl1
 ||cpva.cc^
 ||crazymike.tw^$third-party
 ||crdrjs.info^
-||crwdcntrl.net^
 ||csbew.com^$third-party
 ||cyacc.com^
 ||czpush.com^
@@ -993,7 +990,6 @@ hk.yahoo.com###mntl1
 ||ejin56.com^$third-party
 ||elsad.tw^$third-party
 ||emarbox.com^$third-party
-||eyeota.net^$third-party
 ||eyouv.cn^$third-party
 ||f.sgbfjs.info^
 ||f1190.com^
@@ -1072,7 +1068,6 @@ hk.yahoo.com###mntl1
 ||p0y.cn^$image
 ||p0y.cn^*.swf
 ||pagechoice.net^$third-party
-||pixelinteractivemedia.com^$third-party
 ||pos.baidu.com/acom?
 ||pos.baidu.com/ecom?
 ||poxzyu.com^$third-party
@@ -2256,7 +2251,6 @@ _vmind.qqvideo.tc.qq.com^
 ||dbw.cn/0/07/18/40/7184029_146090.jpg
 ||dbw.cn/eap/js/db/dbwad_
 ||dbw.cn/js/cp.js
-||dc.letv.com^
 ||dcfever.com/campaigns/
 ||dclick.autonet.com.tw/90/AC_RunActiveContent.js
 ||dd.xdnice.com^
@@ -2340,7 +2334,6 @@ _vmind.qqvideo.tc.qq.com^
 ||drivergenius.com/inc/driverwwwad.js
 ||duowan.com/img/ad/
 ||duowan.com/lgn/x/images/lgnadv/
-||duowan.com/public/s/market_count.js
 ||duowan.com/s/yuanbao-entrance.js
 ||duoxiai.com.cn/imgad/
 ||dup.baidustatic.com/js/zm.js
@@ -2804,7 +2797,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ifeng.com/tres/recommend/
 ||ifeng.com^*&ADUNITID=
 ||ifengimg.com/*/taobaopudi/
-||ifengimg.com/61dc05d2dbce10c0/2014/0818/646500af4b561264917217ec1b75ce89.gif
 ||ifengimg.com/ifeng/sources/
 ||ifengimg.com/mappa/
 ||ifengimg.com/static/news/js/advtrack_
@@ -4483,6 +4475,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+finance.ifeng.com##.lccs
 gminfo.cn##.ad
 comefromchina.com##.ad_message
 gminfo.cn##.container > P
@@ -6991,7 +6984,6 @@ comefromchina.com#@#.ad-block
 @@||down.cc/down/js/ad.js
 @@||downbank.cn/s1/yl.js
 @@||dvbcn.com/caches/poster_js/23.js
-@@||dw.xcar.com.cn/analytics.php
 @@||ebiotrade.com/jslibrary/js44.js
 @@||ecitic.com/ads_
 @@||ecitic.com/eshop/advertise/
@@ -7110,7 +7102,6 @@ comefromchina.com#@#.ad-block
 @@||sinaimg.cn^*/deco/*/sinaObj.js
 @@||snh48.com/images/ad/
 @@||spbonow.com/images/ads/logo.gif
-@@||static.csbew.com^$domain=cankaoxiaoxi.com
 @@||static.hdslb.com/ad-images/$image
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
 @@||sx566.com/templates/default/images/ad
@@ -7160,9 +7151,7 @@ comefromchina.com#@#.ad-block
 @@||zhaopin.cn^*/adbox_
 @@||zhaozi.cn/d/js/acmsd/ggao5$script
 @@||zhibowu.com/ad2.htm
-/1.gif?$domain=scol.com.cn
-/atcount.php?$domain=178.com
-/att_count.js
+||hexun.com/js/att_count.js
 /cv/*&uuid=$object-subrequest
 /jsc/stat.js$domain=99770.cc|99comic.com|99manga.com
 /mysql/count/*$script,domain=ts.cn
@@ -7200,9 +7189,7 @@ comefromchina.com#@#.ad-block
 ||chinatimes.com/analytics/
 ||chinauma.net^$third-party
 ||cig.com.cn^$third-party
-||click.bokecc.com^
 ||click.tianyaui.com^
-||cloudfront.net/atrk.js
 ||cnmo.com/pv.js
 ||count.enet.com.cn^
 ||counter.pixplug.in/count.php
@@ -7210,7 +7197,7 @@ comefromchina.com#@#.ad-block
 ||data.xici.net^
 ||dianping.com/hippo.gif?
 ||doc88.com/js/count.js
-||dw.xcar.com.cn^
+||dw.xcar.com.cn^*.gif?
 ||ea3w.com/pv.js
 ||error.pixplug.in^
 ||fengniao.com/pv.js
@@ -7221,7 +7208,7 @@ comefromchina.com#@#.ad-block
 ||guahao.cn/blank.gif?
 ||haostat.qihoo.com^
 ||hd.sohu.com.cn^$object-subrequest
-||hm.baidu.com^$third-party,domain=~cankaoxiaoxi.com|~ihome99.com
+@@||hm.baidu.com^$domain=ihome99.com
 ||house365.com/js/analyze.js
 ||hz.youku.com/red/
 ||icon.zol-img.com.cn/mainpage/js/click.js
@@ -7239,7 +7226,6 @@ comefromchina.com#@#.ad-block
 ||itc.cn^*/tracker.js
 ||js.17173.com/ping.js
 ||kkpgv2.xunlei.com^
-||l.qq.com/p?
 ||l.ykimg.com^
 ||log.51cto.com^
 ||log.daqi.com^
@@ -7251,7 +7237,6 @@ comefromchina.com#@#.ad-block
 ||login.sdo.com/sdo/PRes/js/sdo_beacon.js
 ||logs.51cto.com^
 ||mediav.com^$third-party
-||mmstat.com^$third-party
 ||msg.71.am^
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
@@ -7261,12 +7246,10 @@ comefromchina.com#@#.ad-block
 ||news.baidu.com/nocache/mp/b.jpg
 ||news.sina.com.cn/pvcounter/
 ||newspage.xilu.com/model/visitlog.js
-||pb.sogou.com^$image
 ||play.bokecc.com/servlet/PlayVideo?
 ||pvtest.zol.com.cn^
 ||qhimg.com/js/iwt.js
 ||qq.com/livemsg?
-||ranking.ynet.com^
 ||record.kuai.xunlei.com^
 ||referer.pixplug.in^
 ||rs.sinajs.cn^
@@ -7288,7 +7271,6 @@ comefromchina.com#@#.ad-block
 ||stat.v.17173.com^
 ||stat.ws.126.net^
 ||stat.xgo.com.cn^
-||stat.zol.com.cn^
 ||static.gridsumdissector.com^
 ||static.hd.baofeng.com/script/baidu_
 ||static.youku.com/*/index/js/iresearch.js
@@ -7310,7 +7292,7 @@ comefromchina.com#@#.ad-block
 ||youdao.com/ctlog?
 ||youdao.com/tl?
 ||zdnet.com.cn/js/pv.js
-||zdw.*/p.ht?
+||zdw.w8.com.cn/p.ht?
 ||zol.com.cn/cgimp/zc.js
 
 &ad_type=
