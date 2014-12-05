@@ -36,7 +36,12 @@ rules = [{
 },{
     name: "Google统计和tag >> mingto.tk",
     from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices)\.com\/([\w]+\/)*([\w]+\.js)/i,
-    to: "http://www.minggo.tk/etc/$4",
+    to: "http://www.minggo.tk/cdn/google/$4",
+    regex: true
+},{
+    name: "Cam4s >> mingto.tk",
+    from: /^https?:\/\/edgecast\.cam4s\.com\/(.*)/i,
+    to: "http://www.minggo.tk/cdn/edgecast.cam4s.com/$1",
     regex: true
 },{
     name: "Gravatar头像 >> 多说",
@@ -115,7 +120,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|cam4s|filesmonster)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|filesmonster)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{

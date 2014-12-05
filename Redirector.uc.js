@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.12.05.20
+// @version         14.12.06.06
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -55,7 +55,12 @@
 },{
     name: "Google统计和tag >> mingto.tk",
     from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices)\.com\/([\w]+\/)*([\w]+\.js)/i,
-    to: "http://www.minggo.tk/etc/$4",
+    to: "http://www.minggo.tk/cdn/google/$4",
+    regex: true
+},{
+    name: "Cam4s >> mingto.tk",
+    from: /^https?:\/\/edgecast\.cam4s\.com\/(.*)/i,
+    to: "http://www.minggo.tk/cdn/edgecast.cam4s.com/$1",
     regex: true
 },{
     name: "Gravatar头像 >> 多说",
@@ -134,7 +139,7 @@
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|cam4s|filesmonster)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|filesmonster)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{
