@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412051701
-! Last Modified: 2014年12月05日 17:01
+! Version: 201412051801
+! Last Modified: 2014年12月05日 18:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -2573,9 +2573,8 @@ _vmind.qqvideo.tc.qq.com^
 ||gdtv.cn/2014/0616/1402914668473.png
 ||geiliwx.com/read/ad$script
 ||get.766.com^
-||gexing.com.cn/statics/images/1a.jpg
-||gexing.com.cn/statics/images/250x200.jpg
-||gexing.com.cn/statics/images/jr.jpg
+||gexing.com.cn^*/images/1a.jpg
+||gexing.com.cn^*/images/jr.jpg
 ||gexing.com/api/api_get_tankuang.php?
 ||gezila.com/gimg/yinsu
 ||gfan.com/plugin.php?id=gfan_viewpic:gfan_adView
@@ -4540,6 +4539,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ganji.com##DIV[class*="-recommend"]
 jd-bbs.com##TABLE[cellspacing="5"][bordercolor="#9dbedd"]
 360che.com##DIV[style$="width:960px;height:60px;"]
 360che.com##DIV[style*="950"][style*="90"]
@@ -5971,8 +5971,7 @@ qingdaonews.com##.commonrightad
 gamefy.cn##.con + div[style="float:right; width:326px;"]
 gamefy.cn##.con > a:last-child
 haotui.com,ithome.com##.con-recom
-gaominews.com##.con3-c
-gaominews.com##.con7-c
+gaominews.com##.con8-c
 ifeng.com##.conRgg
 360che.com##.con_banner
 u-car.com.tw##.contad
@@ -7079,7 +7078,6 @@ junshigang.com##div[class^="ww300"]
 d586.com##div[class^="yd_ad"]
 jump.bdimg.com,tieba.baidu.com##div[data-daid]
 sina.com.cn##div[data-sudaclick="ad_ppzq"]
-ganji.com##div[data-widget="app/ms_v2/common/base_page.js#selfDirectionBind"]
 txooo.com##div[duilian]
 weibo.com##div[feedtype="ad"]
 qvodsou.com##div[id$="-union"]
