@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412051901
-! Last Modified: 2014年12月05日 19:01
+! Version: 201412052001
+! Last Modified: 2014年12月05日 20:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -1139,6 +1139,7 @@ hk.yahoo.com###mntl1
 ||sharedaddomain.com^
 ||sharele.cn^$third-party
 ||show.kc.taotaosou.com^
+||re.taotaosou.com^
 ||sin114.com^$third-party
 ||snyu.com^$third-party
 ||spcode.baidu.com^
@@ -2671,7 +2672,7 @@ _vmind.qqvideo.tc.qq.com^
 ||hackp.com^*/ab.js
 ||haha.mx/upload/data/*_banner.html
 ||haha.mx/upload/data/list_sidebar_
-||hahade.com/tpl/5/loading.html
+||hahade.com/tpl/*.html
 ||hanfanba.com/template/hanfanba/img/tb-
 ||hangzhou.com.cn/extra/flash/hzwarticle300.swf
 ||hangzhou.com.cn/images/flashyingpian.swf
@@ -4535,6 +4536,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 /uniontgm.cmb.
+||howbbs.net^$domain=ref.so
 ||gusuwang.com/ymsextweb/images/index/ist_t.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
