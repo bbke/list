@@ -11,48 +11,49 @@
 (function() {
     // YoukuAntiADs, request observer
     function YoukuAntiADs() {};
+    var refD = 'http://www.minggo.tk/swf/';
     YoukuAntiADs.prototype = {
     SITES: {
         'youku_loader': {
-            'player': 'http://www.minggo.tk/swf/loader.swf',
+            'player': refD + 'loader.swf',
             're': /http:\/\/static\.youku\.com(\/v[\d\.]+)?\/v\/swf\/loaders?\.swf/i
         },
         'youku_player': {
-            'player': 'http://www.minggo.tk/swf/player.swf',
+            'player': refD + 'player.swf',
             're': /http:\/\/static\.youku\.com(\/v[\d\.]+)?\/v\/swf\/q?player[^\.]*\.swf/i
         },
         'ku6': {
-            'player': 'http://www.minggo.tk/swf/ku6.swf',
+            'player': refD + 'ku6.swf',
             're': /http:\/\/player\.ku6cdn\.com\/default\/common\/player\/\d{12}\/player\.swf/i
         },
         'ku6_out': {
-            'player': 'http://www.minggo.tk/swf/ku6_out.swf',
+            'player': refD + 'ku6_out.swf',
             're': /http:\/\/player\.ku6cdn\.com\/default\/out\/\d{12}\/player\.swf/i
         },
         'iqiyi': {
-            'player0': 'http://www.minggo.tk/swf/iqiyi_out.swf',
-            'player1': 'http://www.minggo.tk/swf/iqiyi5.swf',
-            'player2': 'http://www.minggo.tk/swf/iqiyi.swf',
+            'player0': refD + 'iqiyi_out.swf',
+            'player1': refD + 'iqiyi5.swf',
+            'player2': refD + 'iqiyi.swf',
             're': /https?:\/\/www\.iqiyi\.com\/(player\/\d+\/Player|common\/flashplayer\/\d+\/(Main|Coop|Share)?Player_?.*)\.swf/i
         },
         'tudou': {
-            'player': 'http://www.minggo.tk/swf/tudou.swf',
+            'player': refD + 'tudou.swf',
             're': /http:\/\/js\.tudouui\.com\/.*portalplayer[^\.]*\.swf/i
         },
         'tudou_olc': {
-            'player': 'http://www.minggo.tk/swf/olc_8.swf',
+            'player': refD + 'olc_8.swf',
             're': /http:\/\/js\.tudouui\.com\/.*olc[^\.]*\.swf/i
         },
         'tudou_sp': {
-            'player': 'http://www.minggo.tk/swf/sp.swf',
+            'player': refD + 'sp.swf',
             're': /http:\/\/js\.tudouui\.com\/.*\/socialplayer[^\.]*\.swf/i
         },
         'letv': {
-            'player': 'http://www.minggo.tk/swf/letv.swf',
+            'player': refD + 'letv.swf',
             're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/((?!(Live|seed|Disk))(S[\w]{2,3})?(?!Live)[\w]{4}|swf))Player*\.swf/i
         },
 		'letv_live': {
-            'player': 'http://www.minggo.tk/swf/letvlive.swf',
+            'player': refD + 'letvlive.swf',
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/\d+\/newplayer\/LivePlayer\.swf/i
         },
         'letvskin': {
@@ -60,31 +61,31 @@
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/(?!15)\d*\/newplayer\/\d+\/S?SLetvPlayer\.swf/i
         },
         'pptv': {
-            'player': 'http://www.minggo.tk/swf/pptv.swf',
+            'player': refD + 'pptv.swf',
             're': /http:\/\/player.pplive.cn\/ikan\/.*\/player4player2\.swf/i
         },
 		'pplive': {
-            'player': 'http://www.minggo.tk/swf/pptvLive.swf',
+            'player': refD + 'pptvLive.swf',
             're': /http:\/\/player.pplive.cn\/live\/.*\/player4live2\.swf/i
         },
 		'sohu': {
-           'player': 'http://www.minggo.tk/swf/sohu.swf',
+           'player': refD + 'sohu.swf',
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(?!(live|\d+)).*\d+\/(main|PlayerShell)\.swf/i
         },
         'sohu_liv': {
-           'player': 'http://www.minggo.tk/swf/sohulive.swf',
+           'player': refD + 'sohulive.swf',
            're': /http:\/\/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}(:[0-9]{2,5})?(\/test)?\/(player|webplayer)\/(main|playershell)\.swf/i
         },
         'sohu_live': {
-           'player': 'http://www.minggo.tk/swf/sohulive.swf',
+           'player': refD + 'sohulive.swf',
            're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(live\/|)\d+\/(main|PlayerShell)\.swf/i
         },
 		'pps': {
-            'player': 'http://www.minggo.tk/swf/pps.swf',
+            'player': refD + 'pps.swf',
             're': /http:\/\/www\.iqiyi\.com\/player\/cupid\/.*\/pps[\w]+.swf/i
         },
 		'ppsiqiyi': {
-            'player': 'http://www.minggo.tk/swf/iqiyi.swf',
+            'player': refD + 'iqiyi.swf',
             're': /http:\/\/www\.iqiyi\.com\/common\/flashplayer\/\d+\/PPSMainPlayer.*\.swf/i
 		},	
 		'ppslive': {
@@ -96,23 +97,23 @@
             're': /http:\/\/assets\.dwstatic\.com\/.*\/vppp\.swf/i
         },
         '17173': {
-            'player': 'http://www.minggo.tk/swf/17173_Player_file.swf',
+            'player': refD + '17173_Player_file.swf',
             're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_file\.swf/i			                
 		},
         '17173_out': {
-            'player': 'http://www.minggo.tk/swf/17173_Player_file_out.swf',
+            'player': refD + '17173_Player_file_out.swf',
   	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_file_(custom)?out\.swf/i
      	},			
 	    '17173_stream_customOut': {
-            'player': 'http://www.minggo.tk/swf/17173_Player_stream_out.swf',
+            'player': refD + '17173_Player_stream_out.swf',
   	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_stream_(custom)?Out\.swf/i
 	    },			
         '17173_live': {
-            'player': 'http://www.minggo.tk/swf/17173_Player_stream.swf',
+            'player': refD + '17173_Player_stream.swf',
             're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_stream(_firstpage)?\.swf/i
         },
 		'baiduAD': {
-            'player': 'http://www.minggo.tk/swf/baiduAD.swf',
+            'player': refD + 'baiduAD.swf',
 		    're': /http:\/\/list\.video\.baidu\.com\/swf\/advPlayer\.swf/i
 		}
     },

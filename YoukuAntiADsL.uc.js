@@ -6,7 +6,7 @@
 // @author          harv.c
 // @homepage        http://haoutil.tk
 // @version         14.12.05.16
-// @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs（本地版）.uc.js
+// @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADsL.uc.js
 // ==/UserScript==
 (function() {
     // YoukuAntiADs, request observer
