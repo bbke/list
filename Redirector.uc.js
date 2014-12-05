@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.12.03.17
+// @version         14.12.05.20
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -33,14 +33,14 @@
     to: "$1/zh-cn/$4",
     regex: true,
 },{
-    name: "Google公共库 http >> 360公共库",
-    from: /^http:\/\/(.*?)googleapis\.com\/(.*)$/i,
-    to: "http://$1useso.com/$2",
+    name: "Google Ajax/Fonts http >> 360公共库",
+    from: /^http:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
+    to: "http://$1.useso.com/$2",
     regex: true
 },{
-    name: "Google Fonts https >> 科大博客",
+    name: "Google Ajax/Fonts https >> 科大博客",
     from: /^https:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
-    to: "http://$1.lug.ustc.edu.cn/$2",
+    to: "https://$1.lug.ustc.edu.cn/$2",
     regex: true
 },{
     name: "Google Themes >> 科大博客",
@@ -48,7 +48,7 @@
     to: "http://google-themes.lug.ustc.edu.cn/$1",
     regex: true
 },{
-    name: "Google fonts-gstatic >> 科大博客",
+    name: "Google Fonts-Gstatic >> 科大博客",
     from: /\:\/\/fonts\.gstatic\.com\/(.*)$/,
     to: "://fonts-gstatic.lug.ustc.edu.cn/$1",
     regex: true
