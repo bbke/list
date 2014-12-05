@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412051201
-! Last Modified: 2014年12月05日 12:01
+! Version: 201412051301
+! Last Modified: 2014年12月05日 13:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -991,7 +991,7 @@ hk.yahoo.com###mntl1
 ||elsad.tw^$third-party
 ||emarbox.com^$third-party
 ||eyouv.cn^$third-party
-||f.sgbfjs.info^
+||sgbfjs.info^
 ||f1190.com^
 ||f8272.com^$third-party
 ||fanhao123.com^
@@ -2964,7 +2964,7 @@ _vmind.qqvideo.tc.qq.com^
 ||jbtalks.cc/static/image/custom/sme-web-hosting-splash.jpg
 ||jbyf.net/2011_Ad/
 ||jbyf.net/JS/1
-||jd-bbs.com^$object
+||pic.jd-bbs.com^*.swf
 ||jd.com/exsites?spread_type=
 ||jdcjsr.com/images/zzgg/
 ||jdcjsr.com^*/jdcgg/
@@ -7001,7 +7001,6 @@ house.shangdu.com#@#.top_ad
 @@||g.163.com/jr?site=netease&affiliate=freemail
 @@||game.sina.com.tw/game_data/advertise/
 @@||gamersky.com^*/dhgame_
-@@||ganji.com/findjob/send_resume.php?$subdocument
 @@||gg.5173.com/adpolestar/5173/$script
 @@||gg.woniu.com^$domain=snail.com
 @@||gg1z.com/statics/gg/greendown/logo.gif
