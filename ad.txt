@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412052001
-! Last Modified: 2014年12月05日 20:01
+! Version: 201412052101
+! Last Modified: 2014年12月05日 21:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -1289,7 +1289,6 @@ hk.yahoo.com###mntl1
 /gyw_index/*/images/ad_
 /house/images/*$domain=bbs.linyiren.com
 /html/taobao_focus_
-/hushiwin/images/gouqi.jpg
 /ifengRotatorAd.js
 /images/*.gif$domain=174.37.129.197|174.37.147.136|iu91.co|sejie.com|ukhuaren.co
 /Images/ak47/*$domain=hanzify.net|hanzify.org
@@ -4538,10 +4537,14 @@ _vmind.qqvideo.tc.qq.com^
 /uniontgm.cmb.
 ||howbbs.net^$domain=ref.so
 ||gusuwang.com/ymsextweb/images/index/ist_t.jpg
+||aituan.com/at/bbs_gg/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+hlgnet.com##.co_ad
+hlgnet.com##.co_ad3
+hlgnet.com##.tad
 gusuwang.com##.business
 ganji.com##DIV[class*="-recommend"]
 jd-bbs.com##TABLE[cellspacing="5"][bordercolor="#9dbedd"]
