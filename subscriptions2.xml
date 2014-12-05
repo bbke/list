@@ -11,7 +11,7 @@
   <subscription title="广告过滤规则推荐" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
     <variants>
       <variant title="iFL" url="https://code.csdn.net/i_square/i/blob/master/iFL.txt" complete="true"/>
-      <variant title="cjxlist" url="http://cjxlist1.googlecode.com/svn/cjxlist.txt"/>
+      <variant title="cjxlist" url="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"/>
       <variant title="xwhycadblock" url="http://bbs.theworld.cn/attachment.php?aid=MTE0NDQ4fDUyZjc3Mjc3fDEzOTc5MTM1OTh8NDczMHBuYytiNk1yR0dQa2lqdGFyOXg1R29QNEVaUjJoYTNIb0U4bXFHeVM0eGM%3D"/>
       <variant title="easylistchina" url="https://easylist-downloads.adblockplus.org/easylistchina.txt" complete="true"/>
       <variant title="easylist" url="https://easylist-downloads.adblockplus.org/easylist.txt"/>
