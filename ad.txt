@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412052101
-! Last Modified: 2014年12月05日 21:01
+! Version: 201412052201
+! Last Modified: 2014年12月05日 22:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -2414,7 +2414,7 @@ _vmind.qqvideo.tc.qq.com^
 ||dytt8.net/js2/
 ||dz320.com/desktop
 ||dzwww.com/data/js/asp_$script
-||e.hnr.cn/choose/view/%7B*%7D.js^
+||e.hnr.cn/choose/view/
 ||e0421.com/*tj.js
 ||e0421.com/css/js/bd
 ||e0421.com/css/js/tl
@@ -2795,7 +2795,7 @@ _vmind.qqvideo.tc.qq.com^
 ||httpcn.com/images/adpic2014/ad
 ||httpcn.com/images/fangxiaosan.jpg
 ||httpcn.com/tg/
-||httpcn.com^*950_120.jpg
+||httpcn.com^*950_120
 ||huacolor.com/all/
 ||huacolor.com/attachment/Mon_1303/68_1353_6a7de60968dafb9.gif
 ||huacolor.com/daocaoren/
@@ -3453,7 +3453,7 @@ _vmind.qqvideo.tc.qq.com^
 ||nychinaren.com/sda/
 ||oa.hinews.cn/work/img/
 ||ok.432kkk.com^
-||okbmf.com^*950_120.jpg
+||okbmf.com^*950_120
 ||on.cc/js/v2/iframe_ysm_
 ||onegreen.net/MyFile/
 ||onlinedown.net/newhuagg/*_pic_$script
@@ -4542,6 +4542,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+hnr.cn###header_banner_list
 hlgnet.com##.co_ad
 hlgnet.com##.co_ad3
 hlgnet.com##.tad
