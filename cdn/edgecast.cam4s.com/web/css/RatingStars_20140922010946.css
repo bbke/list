@@ -1,0 +1,11 @@
+.ratingStarsItem{position:relative;background:url(../images/RatingStars/starAlpha.png) repeat-x;height:20px;width:100px}
+.ratingStarsItemBack{position:absolute;left:0;height:20px;background:url(../images/RatingStars/starOn.png) repeat-x;width:0}
+.ratingStarsItem span,.ratingStarsItem a{position:absolute;left:0;display:inline-block;height:20px;width:20px;margin:0;padding:0;float:left;cursor:hand;cursor:pointer}
+.ratingStarsItem .limit{background:url(../images/RatingStars/starOn.png) repeat-x}
+.ratingStarsItem span:hover{background:url(../images/RatingStars/starContrast.png) repeat-x}
+.ratingStarsItem .a4{width:100px}
+.ratingStarsItem .a3{width:80px}
+.ratingStarsItem .a2{width:60px}
+.ratingStarsItem .a1{width:40px}
+.ratingStarsItem .a0{width:20px}
+#mainContentAreaReceipt .miniBio{display:block;float:none;padding:5px;background:#f5f5f5}

@@ -1,0 +1,408 @@
+#admin-dark .gold-r{width:18px;height:40px;position:absolute;top:0;left:3px;z-index:100}
+#admin-dark img{margin:0;float:none}
+#admin-dark p{line-height:12px;margin-top:0;margin-bottom:3px;color:#c4c4c4}
+#admin-dark a{color:#fff}
+#admin-dark .ornge{color:#fb971d!important}
+#admin-dark .green1{color:#83c30c!important}
+#admin-dark .green1:hover{color:#fff!important}
+#admin-dark .green-btn3{background-color:#70a60b;padding:3px 7px;color:#fff;font-size:90%;line-height:20px;font-weight:bold;text-transform:uppercase;font-size:9px!important}
+#admin-dark .green-btn3:hover{text-decoration:none;cursor:pointer;color:#fff;background-color:#ffca27;color:#333}
+#admin-dark .prof-pic{width:50px;height:58px;overflow:hidden;border:2px solid #f0f0f0}
+#admin-dark .member-title{background-color:#ffca27;float:left;font-size:8px;font-weight:bold;height:13px;line-height:12px;margin-top:0;text-align:center;width:50px;text-transform:uppercase;color:#666}
+#admin-dark .basic{background-color:#f0f0f0!important}
+#admin-dark .prof-info{float:left;margin-left:12px;width:194px;height:64px;font-size:11px;color:#f0f0f0}
+#admin-dark .account{float:left;border:0;height:22px;width:260px;margin:2px 10px 0 8px;line-height:18px;color:#f0f0f0;text-align:right;white-space:nowrap}
+#admin-dark .acnt{font-size:11px;line-height:30px;font-weight:bold}
+#admin-dark .login{background-color:#fc531d;padding:3px 8px;font-weight:bold}
+#admin-dark .login:hover{background-color:#fb971d;text-decoration:none}
+#admin-dark .prof-info .user-info{width:100%;height:15px}
+#admin-dark .prof-info .usrmain{float:left;margin-right:8px}
+#admin-dark .prof-info .icon-info{float:left;width:50px;line-height:10px;font-size:10px}
+#admin-dark .prof-info .icon-info img{float:left;margin:2px 3px 0 0}
+.upgrade-btn{height:18px}
+#logo-area{float:left;height:62px;position:relative;width:260px}
+#logo-flag{float:left;width:16px;overflow:hidden;margin-top:4px}
+#logo-flag span.country{display:block;float:left;height:11px;width:16px}
+#logo-flag img{border:0 none;margin:0;padding:0;box-shadow:none}
+#content{margin:0;width:auto}
+#main-content{padding-right:30px}
+#directoryDiv{margin-left:0;background-color:#f0f0f0;min-height:500px;margin-bottom:30px}
+#right-content{background:none repeat scroll 0 0 transparent;width:250px;display:block;float:right;margin:0;top:0;height:100%;margin-right:10px}
+.feed-hub{float:left;width:230px;background-color:#f0f0f0;text-align:left;padding:10px;margin:12px 20px 10px 0}
+.feed-hub h4{margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#0a5079;font-weight:bold;border-bottom:1px solid #c4c4c4;padding-bottom:4px;border-bottom:1px solid #c4c4c4;box-shadow:0 1px 0 #fff}
+.feed-hub a{color:#555}
+.feed-hub a:hover{color:#fc531d}
+.feed-hub p{margin:0;color:#555;font-size:11px;margin:8px 0;line-height:16px}
+.feed-row{float:left;width:230px;height:30px;margin:10px 0 5px 0}
+.feed-row .tbnl{width:20px;height:20px;float:left;background-color:#fcfcfc;margin-right:10px;padding:5px}
+.feed-row .tbnl img{margin:0}
+.feed-hub ul{margin:15px 0 3px 0;padding-bottom:10px;border-bottom:1px solid #c4c4c4;box-shadow:0 1px 0 #fff}
+.feed-hub ul li{list-style-type:circle;padding-left:8px;margin-left:18px;margin-bottom:8px}
+.feed-hub .post{width:89%;height:auto;padding-left:11%}
+.feed-hub .cst{background:url("../images/profile_header/medal15.png") no-repeat left center}
+.feed-hub .rffl{background:url("../images/profile_header/raffle15.png") no-repeat left center}
+.feed-hub .mic{background:url("../images/profile_header/mic15.png") no-repeat left center}
+.feed-hub .scl{background:url("../images/profile_header/tw15.png") no-repeat left center}
+.feed-hub .vid{background:url("../images/profile_header/vid15.png") no-repeat left center}
+.feed-hub .gft{background:url("../images/profile_header/gift15.png") no-repeat left center}
+.feed-hub .per{background:url("../images/profile_header/star15.png") no-repeat left center}
+.feed-hub .tg{background:url("../images/profile_header/tranny15.png") no-repeat left center}
+.feed-hub .vid{background:url("../images/profile_header/play15.png") no-repeat left center}
+#base{float:none}
+#base h1{font-size:13px;line-height:19px;font-weight:normal;text-align:left;text-indent:0;text-transform:none;font-family:Arial,Helvetica,sans-serif!important;color:#848484}
+.bannerTop{float:left;margin-top:2px;min-height:60px}
+#header .hmenu{-moz-user-select:none;cursor:default;height:30px;margin-top:2px;margin-left:0}
+#header .hmenu ul li a{color:#fff;font-size:14px;margin:0;padding:8px 12px;text-transform:capitalize}
+#header .optionsBar a{background:none repeat scroll 0 center transparent;border-bottom-style:none;color:#fff;font-weight:normal;line-height:28px;margin:0;padding:6px}
+#C4Logo .introTxt{clear:both;color:#949494;display:block;font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;height:14px;line-height:11px;margin:0 auto;overflow:hidden;width:210px;text-align:center}
+#pageTitle h1{background:none repeat scroll #f0f0f0;background:none repeat scroll #ffe1d7;clear:both;color:#747474;font-size:16px;font-weight:bold;line-height:1.3em;margin:0 0 1px;padding:5px 0;text-align:left;text-indent:4px;text-transform:capitalize;font-size:10px;padding:2px 0;color:#848484;font-weight:400!important;line-height:15px;letter-spacing:normal;font-family:Arial,Helvetica,sans-serif}
+#pageTitle h1 span{float:left;padding-left:5px;padding-top:0}
+#pageTitle .hme{font-size:10px;padding:2px 0;color:#848484;font-weight:400!important;line-height:15px;letter-spacing:normal;font-family:Arial,Helvetica,sans-serif}
+#C4Logo{height:62px;margin:-2px 2px 0 0;padding:0 4px;position:relative;width:210px}
+.language{float:left;margin:5px 15px 0 0}
+.language select{color:#333;border:1px solid #a4a4a4;-webkit-appearance:none;width:100px;height:16px;padding-left:2px;background:url("../images/profile_header/dwn-arw.png") no-repeat right #f0f0f0!important;font-size:9px;line-height:16px;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;margin:0;text-transform:uppercase!important}
+.language option{background:transparent}
+.language form{margin:0;padding:0;border:0}
+.language fieldset{background:0;margin:0;padding:0;border:0}
+.maintabs li.selected a,.maintabsIE6 li.selected a{border:1px solid #fc531d;color:#fc531d;font-size:13px;margin:0;padding:3px 8px}
+.maintabs li a:hover,.maintabsIE6 li a:hover,.maintabs li.highlight a:hover{background:none repeat scroll 0 0 #fc531d;border-color:#fc531d;color:#fff;text-decoration:none}
+.maintabs li.highlight{background:0;border-color:#fff;float:left;margin:0 2px -3px 0;overflow:hidden;padding:0;position:relative;text-align:center}
+.maintabs li.highlight a{color:#0087ff;border-color:#fff;font-size:13px}
+#main-content-cams{background:repeat-x scroll center top transparent;float:none;margin-right:1px;overflow:hidden;width:auto;z-index:10;background-color:#f0f0f0;padding-top:8px;margin-bottom:30px}
+*/#right-content.new_colWrap{font-family:Arial,Helvetica,sans-serif;height:auto;padding-right:8px;padding-top:2px;width:250px;margin-left:20px}
+.pager{clear:both;font-family:Arial,Helvetica,sans-serif;font-size:16px;height:38px;line-height:38px;text-align:center;text-decoration:none;width:100%;padding:10px 0 0}
+.pager span{border-left:1px solid #fc531d;color:#333;font-size:14px;font-weight:bold;padding:0 10px}
+.newjoin{color:#fff;display:block;float:left;font:12px/13px Arial,Helvetica,sans-serif;height:59px;margin-bottom:5px;text-align:center}
+.newjoin a.submit{color:#fff;display:block;float:none;font-size:22px;font-weight:bold;height:37px;letter-spacing:-1px;line-height:37px;margin-top:6px;padding:0 10px;text-align:center;text-decoration:none;background-color:#70a60b;border:1px solid #8bd00a;text-shadow:0 -1px 0 #3b960c;background-color:#83c30c;background-image:-moz-linear-gradient(center top,#83c30c,#70a60b)}
+.newjoin a.submit:hover{background-color:#7ab50b;background-image:-moz-linear-gradient(center top,#8bd00a,#7ab50b)}
+.newProfileHeader{width:100%;height:72px;position:relative;margin-bottom:0}
+.newProfileHeader .headerLeftCol{float:left;height:auto;min-width:260px}
+.newProfileHeader h1.profileName{font-size:30px;letter-spacing:-1px;line-height:38px;display:inline;float:left;margin-right:16px}
+#profileHeaderShare{float:right;margin-top:6px;margin-bottom:6px;width:auto}
+.newProfileHeader .profileSubInfo{display:block;float:left;padding-left:0;margin:0;margin-top:5px;clear:both}
+.newProfileHeader span.orientation{color:#9b9b9b;display:block;float:left;font-size:11px;height:14px;line-height:16px;margin-top:-3px;position:relative;text-transform:capitalize}
+.fakeWhite .fakeWrap .fakeWrapInner{height:auto;padding:0 0 0 15px}
+.pinkBorder{background:none repeat scroll 0 0 #fae3d8;height:1px;margin-bottom:5px;width:100%}
+#footer{background:url("../images/profile_header/footer_bg3.png") no-repeat scroll right top #333;clear:both;float:none;font-size:.9em;margin:10px 0 0 0;text-align:left;width:100%;border-top:3px solid #fc531d}
+#footer img{margin:0!important}
+#footer-main{float:left;width:99%;padding:5px 0 12px 0;padding-left:1%;margin:0;text-align:left;vertical-align:top}
+#footer-main a{color:#b4b4b4;text-decoration:none}
+#footer-main a:hover{color:#f0f0f0}
+#footer #social{float:left;width:95%;height:36px;padding:15px 0 15px 15px;margin:0;text-align:left}
+#footer #social .logoSm{float:left;margin-right:30px}
+#footer #disclaim{background-color:#121212;color:#ccc;float:left;padding:8px 0;width:100%}
+#footer #disclaim .left{float:left;margin:0 15px}
+#footer #disclaim .left p{font-size:9px;line-height:16px;color:#747474;margin-bottom:0}
+#footer #disclaim .left a{color:#747474}
+#footer #disclaim .badges{float:right;padding-right:10px}
+#footer #disclaim .badges img{margin-left:8px!important}
+.footer-col{float:left;width:10%;min-width:174px;margin-right:1%}
+.footer-col h5{font-size:13px;color:#f0f0f0;margin:12px 0;line-height:17px;text-indent:0;text-align:left;font-family:Arial,Helvetica,sans-serif;font-weight:bold}
+.footer-col p{font-size:11px;color:#c4c4c4;border:none!important;margin-bottom:3px;line-height:14px}
+.newProfileHeader .btn-wrap{position:relative;float:left;margin-left:4px;display:inline-block;vertical-align:middle}
+.newProfileHeader .btn-wrap ul,li{list-style:none}
+.join-bl{float:left;margin-left:0;border-left:1px solid #659df1}
+.bttn{display:inline-block;cursor:pointer;vertical-align:middle;text-align:center;margin:0;border:1px solid;border-radius:2px}
+.bttn:hover{text-decoration:none!important}
+.bttn:active{box-shadow:0 3px 5px rgba(0,0,0,0.125) inset}
+.btn-med{padding:0 12px;font-size:13px;line-height:25px}
+.btn-med .icon{position:relative;top:3px;left:-2px}
+.attch{border-left:1px solid #e83c00}
+a.btn-wh{background-color:#fff;color:#555;border-color:#c4c4c4}
+a.btn-wh:hover{background-color:#fff;border-color:#121212!important;color:#121212!important}
+a.btn-blueLight{background-color:#6fb7ec;color:#fff!important;border-color:#6fb7ec}
+a.btn-blueLight:hover{background-color:#3772ba}
+a.btn-orange{background-color:#fc531d;color:#fff!important;border-color:#fc531d}
+a.btn-orange:hover{background-color:#e83c00}
+.btn-social{padding:1px 5px}
+.btn-social img{display:block}
+.btn-set-right{float:right;width:auto;margin-left:20px}
+.btn-set-left{float:left;width:auto;margin-right:20px}
+.icn{font-size:100%;position:relative;top:1px}
+.ph-row{float:right;width:auto;height:29px;margin:0}
+.btn-set{float:left;width:auto;margin-left:20px}
+a.done{background-color:#6fb7ec!important;border-color:#6fb7ec;color:#fff!important}
+a.done:hover{background-color:#3772ba!important;color:#fff!important;border-color:#6fb7ec!important}
+.st-wrap{float:right}
+.st-point{float:right;border-right:1px dotted #fc531d;border-bottom:1px dotted #fc531d;width:16px;height:18px;margin-right:14px}
+.showtime{float:right;border:1px dotted #fc531d;padding:9px;display:inline-block;width:auto;margin-top:6px}
+.showtime p{text-align:right;font-size:13px;line-height:3px}
+.dropdown{color:#555;margin:0;width:auto;position:relative;height:18px;text-align:left}
+.submenu{background:#fff;position:absolute;top:32px;left:-10px;z-index:100;width:auto;display:none;margin-left:10px;box-shadow:0 2px 8px rgba(0,0,0,0.45);border:1px solid #c4c4c4}
+.dropdown li a{color:#555;display:block;font-family:arial;font-weight:bold;padding:6px 15px;cursor:pointer;text-decoration:none;font-size:13px;padding-left:32px}
+.dropdown li a:hover{color:#fc531d;text-decoration:none}
+a.account{font-size:11px;line-height:16px;color:#555;position:absolute;z-index:110;display:block;padding:11px 0 0 20px;height:28px;width:121px;margin:-11px 0 0 -10px;text-decoration:none;background:url("") 116px 17px no-repeat;cursor:pointer}
+.root{list-style:none;margin:0;padding:0}
+.fb2{background:url("../images/profile_header/fb-sm.png") no-repeat left center}
+.gp2{background:url("../images/profile_header/gp-sm.png") no-repeat left center}
+.twt2{background:url("../images/profile_header/tw-sm.png") no-repeat left center}
+#header .dropit{list-style:none;padding:0;margin:0}
+#header .dropit .dropit-trigger{position:relative}
+#header .menu li a:focus{background-color:#e83c00}
+#header .menu ul.submenu{background-color:#fff;border:1px solid #c4c4c4;box-shadow:0 2px 3px 1px #a5a5a5;margin:3px 0 0 1px;left:0;top:28px}
+#header .menu ul.submenu li{display:block!important}
+#header .menu ul.submenu li a{color:#121212!important;background-color:transparent;padding:2px 24px 2px 12px;display:block!important;min-width:100px}
+#header .menu ul.submenu li a:hover{color:#fff!important;background-color:#3772ba}
+#header .menu .dropit-open .drop-menu{background-color:#e83c00!important;border:0}
+#header .menu ul.submenu li a.srch{background-color:#fff;border-top:1px solid #c4c4c4}
+#header .menu ul.submenu li a.srch:hover{color:#fff;background-color:#fc531d}
+#share ul li a{color:#555!important}
+#share ul li a:hover{color:#fff!important}
+#profileHeaderShare #share{display:inline-block}
+#share li.dropit-trigger{position:relative}
+#share ul.dropit-submenu{background-color:#fff;border:0 solid #3772ba;box-shadow:0 2px 4px 1px #aaa;margin:0;left:0;top:100%;z-index:999;position:absolute;border:1px solid #f0f0f0}
+#share ul.dropit-submenu li a{color:#3772ba;background-color:transparent;padding:3px 20px 3px 10px;display:block!important;font-size:12px;line-height:22px;min-width:80px;font-weight:bold}
+#share ul.dropit-submenu li a:hover{text-decoration:none;color:ffffff!important}
+#share li ul li{margin:5px}
+#share li ul li a img{float:left;display:inline-block;margin-right:4px}
+.fb .icn{color:#3b5886}
+.tw .icn{color:#00aced}
+.gp .icn{color:#dd4b39}
+.fb:hover .icn,.tw:hover .icn,.gp:hover .icn{color:#fff}
+#share .fb:hover{background-color:#3b5886;color:#fff}
+#share .tw:hover{background-color:#00aced;color:#fff}
+#share .gp:hover{background-color:#dd4b39}
+#profileHeaderShare .fav{display:inline-block}
+#profileHeaderShare .fav li.dropit-trigger{position:relative}
+#profileHeaderShare .fav ul.dropit-submenu{background-color:#fff;border:0 solid #3772ba;box-shadow:0 2px 4px 1px #aaa;margin:0;left:0;top:104%;z-index:999;position:absolute;border-left:2px solid #3772ba}
+#profileHeaderShare .fav ul.submenu li a{color:#3772ba;background-color:transparent;padding:3px 20px 3px 10px;display:block!important;font-size:13px;line-height:22px;min-width:80px}
+#profileHeaderShare .fav ul.submenu li a:hover{color:#fff;background-color:#3772ba;text-decoration:none}
+.caret{border-color:#fff transparent -moz-use-text-color;border-style:solid solid dotted;border-width:4px 4px 0;content:"";display:inline-block;height:0;margin-left:2px;vertical-align:middle;width:0;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box}
+.drop-sy{background:url("../images/profile_header/down-wh.png") center right;background-repeat:no-repeat;display:inline-block;width:14px;height:12px}
+.hmenu img{float:none;display:inline-block;line-height:40px}
+#share li:hover>ul{display:block}
+a.waitingApprove{background-color:#c4c4c4!important;border-color:#c4c4c4;color:#fff!important}
+#regFunnel a{color:#fc531d;text-decoration:underline}
+#regFunnel a:hover{text-decoration:none}
+#regFunnel #wrap1{width:996px;height:auto;font:normal 14px/normal Arial,Helvetica,"sans-serif;";color:#333}
+#regFunnel #col1{width:50%;float:left;height:auto;overflow:hidden}
+#regFunnel #col2{width:50%;float:left;height:auto;overflow:hidden}
+#regFunnel .content{height:auto;padding:20px;overflow:hidden}
+#regFunnel #formWrap{height:auto;overflow:hidden;border:1px solid #d9d9d9;background:#f0f0f0;padding:20px}
+#regFunnel #formWrap.arrow444{background-image:url(/images/registration_funnel/triangle-444.png);background-repeat:no-repeat;background-position:center top;border-top:0;padding-top:32px}
+#regFunnel #formTitle{height:auto;overflow:hidden;font-size:32px;font-weight:bold;color:#000;letter-spacing:-2px;text-align:center}
+#regFunnel #formTitle .smText{font-size:14px;font-weight:normal;letter-spacing:normal;display:block}
+#regFunnel #formTitlePromo{height:auto;overflow:hidden;letter-spacing:0;font-size:12px;padding-top:15px;text-align:center;background:url(/images/registration_funnel/red_triangle.png) no-repeat center 5px}
+#regFunnel #formTitlePromo p{color:#FFF;background:#e11f26;display:block;padding:5px;font-weight:bold}
+#regFunnel #form{height:auto;overflow:hidden}
+#regFunnel #switchForm{height:auto}
+#regFunnel #disclaimer-gold{height:auto;overflow:hidden;color:#7b7b7b;font-size:11px}
+#regFunnel #customerService{height:auto;overflow:hidden}
+#regFunnel #featureHead{height:auto;overflow:hidden}
+#regFunnel #featureHead-pic{height:auto;overflow:hidden;white-space:nowrap}
+#regFunnel #featureHead-pic img.featurePic{width:100%;height:186px;display:block}
+#regFunnel #featureHead-pic img.featurePic#camPic1,#regFunnel #featureHead-pic img.featurePic#camPic2{width:50%;height:186px;float:left}
+#regFunnel #featureHead-pic img.featurePic#camPic1{background:transparent url(http://wac.9218.systemcdn.net/809218/content/CDN/profile/7992013.jpg) no-repeat scroll center center;background-size:cover}
+#regFunnel #featureHead-pic img.featurePic#camPic2{background:transparent url(http://wac.9218.systemcdn.net/809218/content/CDN/snap/1567867170.jpg) no-repeat scroll center center;background-size:cover}
+#regFunnel #featureHead-textTitle{height:auto;overflow:hidden;font-weight:bold;color:#fc531d;font-size:24px;letter-spacing:-1px}
+#regFunnel #featureHead-text{height:auto;overflow:hidden}
+#regFunnel .subFeature{height:auto;overflow:hidden;margin-bottom:20px}
+#regFunnel .subFeature-pic{width:140px;height:120px;overflow:hidden;float:left}
+#regFunnel .subFeature-text{margin-left:150px;height:auto;overflow:hidden;padding-top:20px}
+#regFunnel .subFeature-textTitle{display:block;margin-bottom:10px;font-weight:bold;color:#fc531d;font-size:18px;letter-spacing:-1px}
+#regFunnel #welcomeHeader{font-size:36px;letter-spacing:-2px;font-weight:bold;padding:20px}
+#regFunnel #welcomeHeader .smText{font-size:24px;color:#666;letter-spacing:-1px}
+#regFunnel #welcomePromo{height:auto;overflow:hidden;letter-spacing:0;font-size:12px;text-align:center;margin-top:-8px}
+#regFunnel #welcomePromo .boxWrap{background:#444;padding:10px;height:auto;overflow:hidden}
+#regFunnel #welcomePromo .boxWrap p{color:#FFF;display:block}
+#regFunnel .basicFeature{height:auto;overflow:hidden;padding:20px;border-bottom:1px solid #d9d9d9}
+#regFunnel .basicFeature-text{height:auto;overflow:hidden}
+#regFunnel .basicFeature-textTitle{display:block;margin-bottom:10px;font-weight:bold;color:#000;font-size:18px;letter-spacing:-1px}
+#regFunnel .basicFeature .bttnWrap,#regFunnel #featuredCams .bttnWrap{height:auto;overflow:hidden;text-align:right}
+#regFunnel #featuredCams{height:auto;overflow:hidden;padding:20px}
+#regFunnel #showCams{overflow:hidden;width:956px;height:235px}
+#regFunnel .splitFeatures .subFeature{width:140px;float:left;text-align:center}
+#regFunnel .splitFeatures .subFeature-text{margin:0;padding:0 10px;clear:both}
+#regFunnel .splitFeatures .subFeature .subFeature-pic{position:relative}
+#regFunnel .splitFeatures .subFeature .subFeature-pic .subFeatureValue{position:absolute;top:8px;left:30px;font-size:48px;font-weight:bold;color:#fc531d}
+#regFunnel .bttn{display:inline-block;cursor:pointer;vertical-align:middle;text-align:center;margin:0;border:1px solid;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;text-decoration:none}
+#regFunnel .bttn-full{display:block!important}
+#regFunnel .bttn:hover{text-decoration:none!important}
+#regFunnel .bttn:active{box-shadow:0 3px 5px rgba(0,0,0,0.125) inset}
+#regFunnel .btn-med{padding:6px 12px;font-size:13px;line-height:normal}
+#regFunnel .btn-lrg{padding:6px 12px;font-size:18px;line-height:normal;letter-spacing:-1px;font-weight:bold}
+#regFunnel .btn-xlrg{padding:6px 12px;font-size:24px;line-height:normal;letter-spacing:-1px;font-weight:bold}
+#regFunnel a.btn-wh{background-color:#fff;color:#555;border-color:#c4c4c4}
+#regFunnel a.btn-wh:hover{background-color:#fff;border-color:#121212!important;color:#121212!important}
+#regFunnel a.btn-upgrade{background-color:#70a60b;color:#fff;border-color:#70a60b}
+#regFunnel a.btn-upgrade:hover{background-color:#ffca27;border-color:#ffca27!important;color:#333!important}
+#regFunnel a.btn-green{background-color:#70a60b;color:#fff;border-color:#70a60b}
+#regFunnel a.btn-green:hover{background-color:#608e0b;border-color:#608e0b!important;color:#fff!important}
+#regFunnel a.btn-blueLight{background-color:#6fb7ec;color:#fff!important;border-color:#6fb7ec}
+#regFunnel a.btn-blueLight:hover{background-color:#3772ba}
+#regFunnel a.btn-orange{background-color:#fc531d;color:#fff!important;border-color:#fc531d}
+#regFunnel a.btn-orange:hover{background-color:#e83c00}
+#regFunnel #newJoin2013{list-style-type:none;width:100%;height:auto;overflow:hidden}
+#regFunnel #newJoin2013 li{display:block;height:auto;overflow:hidden}
+#regFunnel #newJoin2013 input{height:38px;border:1px solid #333;background-color:#fff;line-height:38px;font-size:14px;width:99%;color:#000;display:block;text-indent:30px}
+#regFunnel #newJoin2013 li.submit{float:none;clear:both}
+#regFunnel #newJoin2013 .helperInfoField{color:#693;font-size:11px}
+#regFunnel #newJoin2013 .error{color:red}
+#regFunnel .verify_disclaimer{font-size:11px;width:auto;margin:0}
+#regFunnel .sprite-username_icon{background-image:url(/images/registration_funnel/form_icons.png);background-repeat:no-repeat;background-position:0 -48px}
+#regFunnel .sprite-password_icon{background-image:url(/images/registration_funnel/form_icons.png);background-repeat:no-repeat;background-position:0 -20px}
+#regFunnel .sprite-email_icon{background-image:url(/images/registration_funnel/form_icons.png);background-repeat:no-repeat;background-position:0 9px}
+#regFunnel #waitTxt{text-align:center;font-size:36px;letter-spacing:-2px;font-weight:bold}
+#regFunnel .sexicon{width:140px;height:120px;display:block;background-color:transparent;background-image:url(/images/registration_funnel/subfeatured_icons.png);background-repeat:no-repeat;background-attachment:scroll}
+#regFunnel .sexicon_25tokens{background-position:0 0;width:140px;height:120px}
+#regFunnel .sexicon_broadcast{background-position:0 -130px;width:140px;height:120px}
+#regFunnel .sexicon_browse_female{background-position:0 -260px;width:140px;height:120px}
+#regFunnel .sexicon_browse_male{background-position:0 -390px;width:140px;height:120px}
+#regFunnel .sexicon_browse_mixed{background-position:0 -520px;width:140px;height:120px}
+#regFunnel .sexicon_chat{background-position:0 -650px;width:140px;height:120px}
+#regFunnel .sexicon_enhanced_chat{background-position:0 -780px;width:140px;height:120px}
+#regFunnel .sexicon_fullscreen{background-position:0 -910px;width:140px;height:120px}
+#regFunnel .sexicon_gifts{background-position:0 -1040px;width:140px;height:120px}
+#regFunnel .sexicon_multicam{background-position:0 -1170px;width:140px;height:120px}
+#regFunnel .sexicon_no_ads{background-position:0 -1300px;width:140px;height:120px}
+#regFunnel .sexicon_private_messaging{background-position:0 -1430px;width:140px;height:120px}
+#regFunnel .sexicon_private_show{background-position:0 -1560px;width:140px;height:120px}
+#regFunnel .sexicon_superchat{background-position:0 -1690px;width:140px;height:120px}
+#regFunnel .sexicon_tips{background-position:0 -1820px;width:140px;height:120px}
+#regFunnel .goldTxt{color:#f6b11a!important}
+#regFunnel .yellowGoldTxt{color:#ffca27!important}
+#regFunnel .blueTxtMed{color:#3772ba!important}
+#regFunnel .grey7b7b7b{color:#7b7b7b!important}
+#regFunnel .grey444{color:#444!important}
+#regFunnel .blckTxt{color:#000!important}
+#regFunnel .mgnBottom5{margin-bottom:5px}
+#regFunnel .mgnBottom10{margin-bottom:10px}
+#regFunnel .mgnBottom20{margin-bottom:20px}
+#regFunnel .mgnBottom30{margin-bottom:30px}
+#regFunnel .mgnBottom40{margin-bottom:40px}
+#regFunnel .mgnRight20{margin-right:20px}
+#regFunnel .mgnRight15{margin-right:15px}
+#regFunnel .mgnRight10{margin-right:10px}
+#regFunnel .mgnSide20{margin-left:20px;margin-right:20px}
+#regFunnel .mgnSide30{margin-left:30px;margin-right:30px}
+#regFunnel .mgn0{margin:0}
+#regFunnel .pdg5{padding:5px}
+#regFunnel .pdg10{padding:10px}
+#regFunnel .pdg20{padding:20px}
+#regFunnel .pdgTop20{padding-top:20px}
+#regFunnel .pdg0{padding:0}
+#regFunnel .txtCenter{text-align:center}
+#regFunnel .left{float:left}
+#regFunnel .right{float:right}
+#regFunnel .autoHeight{height:auto;overflow:hidden}
+#regFunnel .clear{clear:both}
+#regFunnel .featured{background:url(/images/registration_funnel/featured_pics.png) no-repeat top left}
+#regFunnel .feature_awards-male{background-position:0 -196px;width:460px;height:190px}
+#regFunnel .feature_awards-female{background-position:0 -392px;width:460px;height:190px}
+#regFunnel .feature_browse-male{background-position:0 -784px;width:460px;height:190px}
+#regFunnel .feature_browse-female{background-position:0 -980px;width:460px;height:190px}
+#regFunnel .feature_gifts-male{background-position:0 -1372px;width:460px;height:190px}
+#regFunnel .feature_gifts-female{background-position:0 -1568px;width:460px;height:190px}
+#regFunnel .feature_gold-male{background-position:0 -1960px;width:460px;height:190px}
+#regFunnel .feature_gold-female{background-position:-468px 0;width:460px;height:190px}
+#regFunnel .feature_tokens-male{background-position:-468px -392px;width:460px;height:190px}
+#regFunnel .feature_tokens-female{background-position:-468px -588px;width:460px;height:190px}
+#regFunnel .feature_superchat-male{background-position:-468px -784px;width:460px;height:190px}
+#regFunnel .feature_superchat-female{background-position:-468px -1176px;width:460px;height:190px}
+#regFunnel .feature_fullscreen-male{background-position:-468px -1568px;width:460px;height:190px}
+#regFunnel .feature_fullscreen-female{background-position:-468px -1372px;width:460px;height:190px}
+#regFunnel .feature_multicam-male{background-position:-468px -1764px;width:460px;height:190px}
+#regFunnel .feature_multicam-female{background-position:-468px -1960px;width:460px;height:190px}
+#regFunnel .feature_no_ads-male{background-position:0 -2352px;width:460px;height:190px}
+#regFunnel .feature_no_ads-female{background-position:0 -2156px;width:460px;height:190px}
+#regFunnel .feature_private_message-male{background-position:-468px -2548px;width:460px;height:190px}
+#regFunnel .feature_private_message-female{background-position:-468px -2156px;width:460px;height:190px}
+#regFunnel .feature_enhanced_chat-male{background-position:0 -2940px;width:460px;height:190px}
+#regFunnel .feature_enhanced_chat-female{background-position:0 -2744px;width:460px;height:190px}
+#regFunnel #upgradeButton ul li.submit a{height:39px;font-size:24px;line-height:39px;margin:0 auto;border:2px solid #ccc;background:#1f1f1f;font-weight:bold;color:#fc0;letter-spacing:-1px;padding:5px 20px;margin-left:30px;white-space:nowrap}
+#regFunnel #upgradeButton ul li.submit a:hover{background:#4b4b4b;text-decoration:none;color:#fff}
+#regFunnel #upgradeButton ul li.submit a span.arrow{color:#fc531c}
+#regFunnel #upgradeButton ul li.submit a.upgrade{width:260px}
+#regFunnelVerification #wrap1{width:996px;height:auto;font:normal 14px/normal Arial,Helvetica,"sans-serif;";color:#333}
+#regFunnelVerification #col1{width:50%;float:left;height:auto;overflow:hidden}
+#regFunnelVerification #col2{width:50%;float:left;height:auto;overflow:hidden}
+#regFunnelVerification .content{height:auto;padding:20px;overflow:hidden}
+#regFunnelVerification #featureHead{height:auto;overflow:hidden}
+#regFunnelVerification #featureHead-textTitle{height:auto;overflow:hidden;font-weight:bold;color:#fc531d;font-size:24px;letter-spacing:-1px}
+#regFunnelVerification #featureHead-text{height:auto;overflow:hidden}
+#regFunnelVerification .subFeature{height:auto;overflow:hidden;margin-bottom:20px}
+#regFunnelVerification .subFeature-pic{width:140px;height:120px;overflow:hidden;float:left}
+#regFunnelVerification .subFeature-text{margin-left:150px;height:auto;overflow:hidden;padding-top:20px}
+#regFunnelVerification .subFeature-textTitle{display:block;margin-bottom:10px;font-weight:bold;color:#fc531d;font-size:18px;letter-spacing:-1px}
+#regFunnelVerification #welcomeHeader{font-size:36px;letter-spacing:-2px;font-weight:bold;padding:20px}
+#regFunnelVerification #welcomeHeader .smText{font-size:24px;color:#666;letter-spacing:-1px}
+#regFunnelVerification #welcomeHeader .smText2{font-size:14px;color:#666;letter-spacing:normal;font-weight:normal}
+#regFunnelVerification .splitFeatures .subFeature{width:140px;float:left;text-align:center}
+#regFunnelVerification .splitFeatures .subFeature-text{margin:0;padding:0;clear:both}
+#regFunnelVerification #newJoin2013{list-style-type:none;width:100%;height:auto;overflow:hidden}
+#regFunnelVerification #newJoin2013 li{display:block;height:auto;overflow:hidden}
+#regFunnelVerification #newJoin2013 input{height:30px;border:1px solid #333;background-color:#fff;line-height:30px;font-size:14px;width:99%;min-width:250px;color:#000;display:block;text-indent:30px}
+#regFunnelVerification #newJoin2013 li.submit{float:none;clear:both}
+#regFunnelVerification #newJoin2013 .helperInfoField{color:#693;font-size:11px}
+#regFunnelVerification #newJoin2013 .error{color:red}
+#regFunnelVerification .verify_disclaimer{font-size:11px;width:auto;margin:0}
+.#regFunnelVerification sprite-username_icon{background-image:url(/images/registration_funnel/form_icons.png);background-repeat:no-repeat;background-position:0 -52px}
+#regFunnelVerification .sprite-password_icon{background-image:url(/images/registration_funnel/form_icons.png);background-repeat:no-repeat;background-position:0 -24px}
+#regFunnelVerification .sprite-email_icon{background-image:url(/images/registration_funnel/form_icons.png);background-repeat:no-repeat;background-position:0 5px}
+#regFunnelVerification #form-verification{height:auto;overflow:hidden}
+#regFunnelVerification .form-verify #newJoin2013 li,.form-verify #newJoin2013 li.submit-verification{float:left;display:block;padding-right:1px}
+#regFunnelVerification .form-verify #newJoin2013 li.label{height:32px;line-height:32px}
+#regFunnelVerification #verificationOptions{height:auto;overflow:hidden}
+#regFunnelVerification #verificationOptions #col1{width:35%}
+#regFunnelVerification #verificationOptions #col2{width:65%}
+#regFunnelVerification .envelope{background-image:url(/images/registration_funnel/envelope_animation.gif);background-repeat:no-repeat;background-color:transparent;background-attachment:scroll;width:260px;height:77px;display:block;margin:0 auto}
+#regFunnelVerification .loading{background-position:0 0}
+#regFunnelVerification .unsuccessful{background-position:0 -87px;height:100px}
+#regFunnelVerification .success{background-position:0 -197px;height:100px}
+#regFunnelVerification .bttn{display:inline-block;cursor:pointer;vertical-align:middle;text-align:center;margin:0;border:1px solid;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;text-decoration:none}
+#regFunnelVerification .bttn-full{display:block!important}
+#regFunnelVerification .bttn:hover{text-decoration:none!important}
+#regFunnelVerification .bttn:active{box-shadow:0 3px 5px rgba(0,0,0,0.125) inset}
+#regFunnelVerification .btn-med{padding:6px 12px;font-size:14px;line-height:normal}
+#regFunnelVerification .btn-lrg{padding:6px 12px;font-size:18px;line-height:normal;letter-spacing:-1px;font-weight:bold}
+#regFunnelVerification .btn-xlrg{padding:6px 12px;font-size:24px;line-height:normal;letter-spacing:-1px;font-weight:bold}
+#regFunnelVerification a.btn-wh{background-color:#fff;color:#555;border-color:#c4c4c4}
+#regFunnelVerification a.btn-wh:hover{background-color:#fff;border-color:#121212!important;color:#121212!important}
+#regFunnelVerification a.btn-upgrade{background-color:#70a60b;color:#fff;border-color:#70a60b}
+#regFunnelVerification a.btn-upgrade:hover{background-color:#ffca27;border-color:#ffca27!important;color:#333!important}
+#regFunnelVerification a.btn-green{background-color:#70a60b;color:#fff;border-color:#70a60b}
+#regFunnelVerification a.btn-green:hover{background-color:#608e0b;border-color:#608e0b!important;color:#fff!important}
+#regFunnelVerification a.btn-blueLight{background-color:#6fb7ec;color:#fff!important;border-color:#6fb7ec}
+#regFunnelVerification a.btn-blueLight:hover{background-color:#3772ba}
+#regFunnelVerification a.btn-blueMed{background-color:#3772ba;color:#fff!important;border-color:#3772ba}
+#regFunnelVerification a.btn-blueMed:hover{background-color:#0a5079;border-color:#0a5079}
+#regFunnelVerification a.btn-orange{background-color:#fc531d;color:#fff!important;border-color:#fc531d}
+#regFunnelVerification a.btn-orange:hover{background-color:#e83c00}
+#regFunnelVerification .goldTxt{color:#f6b11a!important}
+#regFunnelVerification .yellowGoldTxt{color:#ffca27!important}
+#regFunnelVerification .blueTxtMed{color:#3772ba!important}
+#regFunnelVerification .grey7b7b7b{color:#7b7b7b!important}
+#regFunnelVerification .grey333{color:#333!important}
+#regFunnelVerification .grey444{color:#444!important}
+#regFunnelVerification .blckTxt{color:#000!important}
+#regFunnelVerification .brdrL-1-d9d9d9{border-left:1px solid #d9d9d9}
+#regFunnelVerification .mgnBottom5{margin-bottom:5px}
+#regFunnelVerification .mgnBottom10{margin-bottom:10px}
+#regFunnelVerification .mgnBottom20{margin-bottom:20px;float:none}
+#regFunnelVerification .mgnBottom30{margin-bottom:30px}
+#regFunnelVerification .mgnBottom40{margin-bottom:40px}
+#regFunnelVerification .mgnRight20{margin-right:20px}
+#regFunnelVerification .mgnRight15{margin-right:15px}
+#regFunnelVerification .mgnRight10{margin-right:10px}
+#regFunnelVerification .mgnSide20{margin-left:20px;margin-right:20px}
+#regFunnelVerification .mgnSide30{margin-left:30px;margin-right:30px}
+#regFunnelVerification .mgn0{margin:0}
+#regFunnelVerification .pdg5{padding:5px}
+#regFunnelVerification .pdg10{padding:10px}
+#regFunnelVerification .pdg20{padding:20px}
+#regFunnelVerification .pdgTop20{padding-top:20px}
+#regFunnelVerification .pdgTop10{padding-top:10px}
+#regFunnelVerification .pdgRight40{padding-right:40px}
+#regFunnelVerification .pdgLeft40{padding-left:40px}
+#regFunnelVerification .pdg0{padding:0}
+#regFunnelVerification .txtCenter{text-align:center}
+#regFunnelVerification .txtRight{text-align:center}
+#regFunnelVerification .left{float:left}
+#regFunnelVerification .right{float:right}
+#regFunnelVerification .autoHeight{height:auto;overflow:hidden}
+#regFunnelVerification .clear{clear:both}
+#changeEmail #emailSpan{float:left}
+#regFunnel #backToBroadcaster{display:block;height:90px}
+#regFunnel #backToBroadcaster #image{float:left}
+#regFunnel #backToBroadcaster #info{margin-left:10px;float:left;font-weight:bold;color:black;font-size:18px;letter-spacing:-1px}
+#regFunnel #backToBroadcaster #button{float:right;padding-top:43px}
