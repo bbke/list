@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.12.06.06
+// @version         14.12.06.11
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -59,8 +59,8 @@
     regex: true
 },{
     name: "Cam4s >> mingto.tk",
-    from: /^https?:\/\/edgecast\.cam4s\.com\/(.*)/i,
-    to: "http://www.minggo.tk/cdn/edgecast.cam4s.com/$1",
+    from: /^https?:\/\/(edgecast\.cam4s\.com)\/(.*)/i,
+    to: "http://www.minggo.tk/cdn/$1/$2",
     regex: true
 },{
     name: "Gravatar头像 >> 多说",

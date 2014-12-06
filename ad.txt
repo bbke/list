@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412061001
-! Last Modified: 2014年12月06日 10:01
+! Version: 201412061101
+! Last Modified: 2014年12月06日 11:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -12,13 +12,6 @@
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 ||js.tudouui.com/bin/lingtong/app
 |http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
-www.ithome.com###qrcode
-cam4.com,cam4.tw###headerBanner, #subfoot, .removeAds, .ads
-@@||cam4.*/ads/directory/$xmlhttprequest
-||chaturbate.com/affiliates/
-||chaturbate.com/sitestats/openwindow/$popup
-chaturbate.com##.banner, .ad
-||untitled.dwstatic.com/fodder/*$object-subrequest
 ||cdn.optimizely.com^
 ||doubleclick.net^
 ||connect.facebook.net^
@@ -51,17 +44,30 @@ chaturbate.com##.banner, .ad
 ||imlive.com^$third-party
 ||projectwonderful.com^$third-party
 ||wrating.com^$third-party
-||qpic.cn^$domain=www.ithome.com
 */hezuo/*^$domain=bbs.gfan.com
 ||i.match.qq.com^
 ||js.aq.qq.com^
 ||member.jschina.com.cn/AD*
+!IT之家
+www.ithome.com###qrcode
+||qpic.cn^$domain=www.ithome.com
+!cam4
+cam4.com,cam4.tw###headerBanner, #subfoot, .removeAds, .ads
+@@||cam4.*/ads/directory/$xmlhttprequest
+!chaturbate
+||chaturbate.com/affiliates/
+||chaturbate.com/sitestats/openwindow/$popup
+chaturbate.com##.banner, .ad
+||untitled.dwstatic.com/fodder/*$object-subrequest
+!优酷
 ||static.youku.com/*/index/js/popup.js
 ||static.youku.com/*/index/js/qwindow.js
+!和讯
 ||utrack.hexun.com^
 ||img.hexun.com/app*
 ||img.hexun.com/2014/app/*
-
+!-------------iFL.txt部分--------------------
+! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
 @@*/tb/_/upload_*.js
 @@*/tb/_/pop_video_*.js
@@ -129,6 +135,7 @@ chaturbate.com##.banner, .ad
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
+! 推广
 tieba.baidu.com##.guessing_watermark
 tieba.baidu.com###pop_frame
 tieba.baidu.com##.download
@@ -149,13 +156,17 @@ tieba.baidu.com##.icon_yyshow
 tieba.baidu.com###j_navtab_wanle
 tieba.baidu.com###j_navtab_wanle
 tieba.baidu.com##.wanle_tab_tip
+! 右上角
 tieba.baidu.com##.u_mobile
 tieba.baidu.com##.u_tbmall
 tieba.baidu.com##.u_game
 tieba.baidu.com##.u_xiu8
 tieba.baidu.com###search_button
+! 普通回帖框
 tieba.baidu.com##.tb_poster_placeholder
+! 话题贴回帖框
 tieba.baidu.com##.editor_banned_tip_info
+! i贴吧&主页
 tieba.baidu.com##.tb_icon_base
 tieba.baidu.com##.ihome_hot_feed
 tieba.baidu.com##.ihome_aside_section.ihome_info_link
@@ -164,6 +175,7 @@ tieba.baidu.com##.userinfo_appraise
 tieba.baidu.com##.dialogJmodal
 tieba.baidu.com##.nav_item
 tieba.baidu.com##.ihome_aside_section.ihome_aside_first
+! 顶部
 tieba.baidu.com##.banner_post
 tieba.baidu.com###pb_adbanner
 tieba.baidu.com##.operation_item
@@ -178,10 +190,12 @@ tieba.baidu.com##.per_list
 tieba.baidu.com##.u_baiduPrivilege
 tieba.baidu.com###plat_act_wrapper
 tieba.baidu.com##div.ui_bubble_wrap:nth-child(4)
+! 右侧
 tieba.baidu.com##.profile_right.user_score
 tieba.baidu.com###aside_ad
 tieba.baidu.com##.u9_aside
 tieba.baidu.com##.item.live_show_aside
+! 底部
 tieba.baidu.com###footer
 tieba.baidu.com##.poster_head
 tieba.baidu.com##.p_sharebar
@@ -189,6 +203,7 @@ tieba.baidu.com##.edui-btn.edui-btn-medal
 tieba.baidu.com##.edui-icon-voice
 tieba.baidu.com##.edui-icon-new
 tieba.baidu.com##.share_btn_wrapper
+! T豆相关
 tieba.baidu.com##.d_icons
 tieba.baidu.com##.d_nameplate
 tieba.baidu.com##.pre_icon_wrap
@@ -4540,10 +4555,19 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||bmp.ali213.net/pubjs/SetScreen.js
+||bmp1.ali213.net/pubjs/index_sc_utf8.js
+||moe-acg.us/wp-content/uploads/2014/12/2014-12-0332.png
+||moe-acg.us/wp-content/uploads/2014/12/2014-12-0445.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+moe-acg.us##.banner
+hbrc.com##.show
+hbrc.com##DIV[style*="height:250px;"]
+hbrc.com##DIV[style*="height:260px;"]
+hbrc.com##DIV[style^="width:500px; height:200px;"]
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -7262,7 +7286,6 @@ ewdna.com##div[style="width:336px; height:280px; display:inline-block;"]
 niwota.com##div[style="width:365px;height:310px;border:0px solid #ccc;float:left; margin: 0px 10px 5px 0px;"]
 pengfu.com##div[style="width:500px; height:200px; background:#ccc; margin:0 auto 40px;"]
 jgtj.com.cn##div[style="width:500px; height:200px; margin:auto; margin-top:10px; margin-bottom:10px;"]
-hbrc.com##div[style="width:570px; height:250px; padding:20px 0;"]
 jgtj.com.cn##div[style="width:654px; height:300px; margin:auto; margin-top:10px;"]
 china.com##div[style="width:680px;height:90px;padding-left:10px"]
 vipyl.com##div[style="width:692px;height:282px;margin:0px 10px 0px 10px; padding:0px;float:right; overflow:hidden"]

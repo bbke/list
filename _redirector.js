@@ -40,8 +40,8 @@ rules = [{
     regex: true
 },{
     name: "Cam4s >> mingto.tk",
-    from: /^https?:\/\/edgecast\.cam4s\.com\/(.*)/i,
-    to: "http://www.minggo.tk/cdn/edgecast.cam4s.com/$1",
+    from: /^https?:\/\/(edgecast\.cam4s\.com)\/(.*)/i,
+    to: "http://www.minggo.tk/cdn/$1/$2",
     regex: true
 },{
     name: "Gravatar头像 >> 多说",

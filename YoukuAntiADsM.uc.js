@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.12.05.16
+// @version         14.12.06.11
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADsM.uc.js
 // ==/UserScript==
 (function() {
@@ -48,11 +48,11 @@
             'player': refD + 'sp.swf',
             're': /http:\/\/js\.tudouui\.com\/.*\/socialplayer[^\.]*\.swf/i
         },
-        'letv': {
+		'letv': {
             'player': refD + 'letv.swf',
             're': /http:\/\/.*letv[\w]*\.com\/(hz|.*\/((?!(Live|seed|Disk))(S[\w]{2,3})?(?!Live)[\w]{4}|swf))Player*\.swf/i
         },
-		'letv_live': {
+        'letv_live': {
             'player': refD + 'letvlive.swf',
             're': /http:\/\/.*letv[\w]*\.com\/p\/\d+\/\d+\/\d+\/newplayer\/LivePlayer\.swf/i
         },
@@ -70,7 +70,7 @@
         },
 		'sohu': {
            'player': refD + 'sohu.swf',
-           're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(?!(live|\d+)).*\d+\/(main|PlayerShell)\.swf/i
+           're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(?!(ap|live|\d+)).*\d+\/(main|PlayerShell)\.swf/i
         },
         'sohu_liv': {
            'player': refD + 'sohulive.swf',
