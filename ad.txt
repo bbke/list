@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412061201
-! Last Modified: 2014年12月06日 12:01
+! Version: 201412061601
+! Last Modified: 2014年12月06日 16:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -893,6 +893,8 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||chinauma.net^$third-party
+||wit.qq.com^$third-party
 ||sexy-more.com^$third-party
 /adscpc/*
 /adscpv/*
@@ -4563,10 +4565,12 @@ _vmind.qqvideo.tc.qq.com^
 ||alicdn.com^$domain=wangyueblog.com
 /wangyuedeux/imgs/youlian.png
 ||mcxiaobu.com/zb_users/theme/LuSongSong/style/ads/
+||twfuwu.info^*.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+rmdown.com##TABLE[bgcolor="#003366"]:nth-child(2)
 mcxiaobu.com###div_sidebar_ads
 mcxiaobu.com##DL[id^="divFunction"]
 moe-acg.us##.banner
@@ -7918,7 +7922,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||cdnlog.zhenai.com^
 ||cheshi-img.com/js/pv.min.js
 ||chinatimes.com/analytics/
-||chinauma.net^$third-party
 ||cig.com.cn^$third-party
 ||click.tianyaui.com^
 ||cnmo.com/pv.js
@@ -8008,7 +8011,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||tw.rd.yahoo.com^$image
 ||uuu9.com/photolog.html
 ||vm.aty.sohu.com^
-||wit.qq.com^$third-party
 ||xgo.com.cn/pv.js
 ||xls.go.sohu.com^
 ||youdao.com/ctlog?
