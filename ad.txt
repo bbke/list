@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412061101
-! Last Modified: 2014年12月06日 11:01
+! Version: 201412061201
+! Last Modified: 2014年12月06日 12:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -1226,6 +1226,7 @@ hk.yahoo.com###mntl1
 ||zp265.com^$third-party
 !---------------------------Popups--------------------------------------------!
 .189.gd^*.html?p=$popup,third-party
+||zhubajie.com/?fromcode=$popup
 .com/?Intr=$popup
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
@@ -4128,7 +4129,7 @@ _vmind.qqvideo.tc.qq.com^
 ||ucbug.com/templets/default/js/sharp.js
 ||udn.com/adpinline/
 ||udn.com/excluded/
-||udn.com/SSI/neckFrameFlash*.htm
+||udn.com/SSI/neckFrameFlash
 ||udn.com^*/ad/
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||union.china.com.cn^
@@ -4559,10 +4560,15 @@ _vmind.qqvideo.tc.qq.com^
 ||bmp1.ali213.net/pubjs/index_sc_utf8.js
 ||moe-acg.us/wp-content/uploads/2014/12/2014-12-0332.png
 ||moe-acg.us/wp-content/uploads/2014/12/2014-12-0445.gif
+||alicdn.com^$domain=wangyueblog.com
+/wangyuedeux/imgs/youlian.png
+||mcxiaobu.com/zb_users/theme/LuSongSong/style/ads/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+mcxiaobu.com###div_sidebar_ads
+mcxiaobu.com##DL[id^="divFunction"]
 moe-acg.us##.banner
 hbrc.com##.show
 hbrc.com##DIV[style*="height:250px;"]
