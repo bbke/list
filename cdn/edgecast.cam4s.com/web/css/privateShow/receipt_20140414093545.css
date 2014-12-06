@@ -1,6 +1,0 @@
-#black-overlay{display:block;position:absolute;top:-139px;height:107%}
-#black-overlay.hide{display:none}
-#mainContentAreaReceipt #rateWrap ul.starWrap{margin:0;padding:0}
-#mainContentAreaReceipt #rateWrap ul.starWrap li.rating_star{display:block;float:left;width:24px;height:24px;background-position:center center;background-image:url(../../images/star_big.png);background-repeat:no-repeat;cursor:pointer}
-#mainContentAreaReceipt #rateWrap ul.starWrap li.rating_starOff{display:block;float:left;width:24px;height:24px;background-position:center center;background-image:url(../../images/star_big_off.png);background-repeat:no-repeat;cursor:pointer}
-#showDuration,#showCost,#ticketCost,#tipsSent{color:#333;font-size:14px;font-weight:bold}
