@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412061601
-! Last Modified: 2014年12月06日 16:01
+! Version: 201412061701
+! Last Modified: 2014年12月06日 17:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -4566,10 +4566,13 @@ _vmind.qqvideo.tc.qq.com^
 /wangyuedeux/imgs/youlian.png
 ||mcxiaobu.com/zb_users/theme/LuSongSong/style/ads/
 ||twfuwu.info^*.gif
+||zmeve.com/y1.js
+||lepan.cc/images/yd/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dmzj.com##DIV[style="width:940px;height:60px;border:none;margin:auto;padding:0px;"]
 rmdown.com##TABLE[bgcolor="#003366"]:nth-child(2)
 mcxiaobu.com###div_sidebar_ads
 mcxiaobu.com##DL[id^="divFunction"]
@@ -6990,7 +6993,7 @@ lightnovel.cn##a[href^="http://t.cn/"]
 lightnovel.cn##a[href^="http://tb.cn/"]
 mop.com##a[href^="http://trackx.mop.com/"]
 chinaz.com##a[href^="http://ww.chinaz.com/goad.php?"]
-acgzone.us##a[href^="http://www.S99966.com/?aff="]
+acgzone.us##A[style=" font-size:18px; color:#FF0000; "]
 beephone.com.tw##a[href^="http://www.beephone.com.tw/adlink.php?id="]
 win007.com##a[href^="http://www.edewin.com/"]
 top81.com.cn##a[href^="http://www.junpinhui.com/goods."]
@@ -7545,6 +7548,7 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||ltxhcz.com/skin/default/images/
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
