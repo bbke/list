@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412062201
-! Last Modified: 2014年12月06日 22:01
+! Version: 201412062301
+! Last Modified: 2014年12月06日 23:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -4583,6 +4583,7 @@ _vmind.qqvideo.tc.qq.com^
 ||fx678.com/js/baidu_
 ||qianzhan.com/html/*_txtlinks.html
 ||chinayes.com/Include%5Cad%5C
+||v1.cn/cms/*/js/ad_new.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
