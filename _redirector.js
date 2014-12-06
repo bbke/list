@@ -39,11 +39,6 @@ rules = [{
     to: "http://minggo.coding.io/cdn/google/$4",
     regex: true
 },{
-    name: "Cam4s >> mingto.tk",
-    from: /^https?:\/\/(edgecast\.cam4s\.com)\/(.*)/i,
-    to: "http://minggo.coding.io/cdn/$1/$2",
-    regex: true
-},{
     name: "sourceforge >> 镜像站点",
     from: /^https?:\/\/sourceforge\.net\/projects\/(\w)([a-z0-9A-Z_\-\.])([a-z0-9A-Z_\-\.]*)(\/files(\/.*))?/i,
     to: "http://ftp.jaist.ac.jp/pub/sourceforge/$1/$1$2/$1$2$3$5",
@@ -120,7 +115,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|filesmonster)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|filesmonster|cam4s)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{

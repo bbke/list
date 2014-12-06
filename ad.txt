@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412062001
-! Last Modified: 2014年12月06日 20:01
+! Version: 201412062101
+! Last Modified: 2014年12月06日 21:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -893,6 +893,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||vamaker.com^$third-party
 ||chinauma.net^$third-party
 ||wit.qq.com^$third-party
 ||sexy-more.com^$third-party
@@ -4572,14 +4573,19 @@ _vmind.qqvideo.tc.qq.com^
 ||lanxicy.com/images/rili.gif
 ||paipai.fm/bans/
 ||ggyq.xdkb.net^
+||youth.cn/ggw/dep_ggw/
 ||mall.xinkuaituan.com/zhuanti/
 ||022net.com/upimages/201411/2014112616304159441.swf
 ||022net.com/js/mhtml/phtml03.html
 ||022net.com/js/mhtml/phtml04.html
+||youth.cn/images/c.js
+||youth.cn/images/m.js
+||lvseba.cn/gjx/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+youth.cn##IFRAME[width="200px"]
 022net.com##.newssidead
 022net.com###lsgg1
 022net.com###lsgg2
