@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412061801
-! Last Modified: 2014年12月06日 18:01
+! Version: 201412061901
+! Last Modified: 2014年12月06日 19:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -4570,10 +4570,16 @@ _vmind.qqvideo.tc.qq.com^
 ||lepan.cc/images/yd/
 ||gtimg.com/comic/js/ss/2014010003002a.js
 ||ucbug.com/js/tongl.js
+||yuqingcn.cn/file/upload/201403/06/22-18-34-82-1.gif
+||lanxicy.com/images/rili.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+fxingw.com##.artAdBox
+fxingw.com##.rightAD1
+fxingw.com##.banner
+yuqingcn.cn##.rboxad
 dmzj.com##DIV[style="width:940px;height:60px;border:none;margin:auto;padding:0px;"]
 rmdown.com##TABLE[bgcolor="#003366"]:nth-child(2)
 mcxiaobu.com###div_sidebar_ads
@@ -8025,6 +8031,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdw.w8.com.cn/p.ht?
 ||zol.com.cn/cgimp/zc.js
 ||n.yunshipei.com^
+@@||50bang.org/js/tianqiplugin
 
 &ad_type=
 &ad_url=

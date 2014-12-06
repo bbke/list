@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.12.06.18
+// @version         14.12.06.19
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -128,24 +128,14 @@
     to: "https://$1",
     regex: true
 },{
-    name: "【https】百度",
-    from: /^http:\/\/(www\.baidu\.com)(.*)/i,
+    name: "【https】常用网站（一）",
+    from: /^http:\/\/(www\.baidu\.com|upload\.wikimedia\.org|t\.williamgates\.net)(.*)/i,
     to: "https://$1$2",
     regex: true
 },{
-    name: "【https】Wiki Media",
-    from: /^http:\/\/(upload\.wikimedia\.org)(.*)/i,
-    to: "https://$1$2",
-    regex: true
-},{
-    name: "【https】williamgates",
-    from: /^http:\/\/(t\.williamgates\.net)(.*)/i,
-    to: "https://$1$2",
-    regex: true
-},{
-    name: "【https】m-team",
-    from: /^http:\/\/(.*?)m-team\.cc\/(.*)$/i,
-    to: "https://$1m-team.cc/$2",
+    name: "【https】常用网站（二）",
+    from: /^http:\/\/(.*?)(m-team\.cc)(.*)/i,
+    to: "https://$1$2$3",
     regex: true
 },{
     name: "【https】常用com网站",
