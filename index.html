@@ -1,71 +1,28 @@
-<!DOCTYPE html>
- 
-<html>
-<head>
-    <meta charset="utf-8">
-		<title>签到站导航页</title>
-		<link rel="icon" href="favicon.ico" mce_href="favicon.ico" type="image/x-icon" >
-		<link rel="shortcut icon" href="favicon.ico"/>
-		<link href="style.css" rel="stylesheet" />
-	</head>
-    <body>
-      <script type="text/javascript">
-        var bodyBgs = [];
-        bodyBgs[0] = "http://ww2.sinaimg.cn/large/6264a861jw1ejchnnu229j211y0lcdj7.jpg";
-        bodyBgs[1] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpk2r9rj21hc0u04mf.jpg";
-        bodyBgs[2] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpjbmaej21hc0xc4ac.jpg";
-        bodyBgs[3] = "http://ww3.sinaimg.cn/large/6264a861jw1ek4gpj5l0qj21hc0xc7fp.jpg";
-        bodyBgs[4] = "http://ww2.sinaimg.cn/large/6264a861jw1ek4gphcom9j21hc0xcwrn.jpg";
-        bodyBgs[5] = "http://ww1.sinaimg.cn/large/6264a861jw1ek4gpiaw6fj21hc0u0h7n.jpg";
-        bodyBgs[6] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpdz9csj21hc0u0aij.jpg";
-        bodyBgs[7] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpgt0yyj21hc0u045u.jpg";
-        bodyBgs[8] = "http://ww3.sinaimg.cn/large/6264a861jw1ek4gpfzlz5j21hc0u0tnc.jpg";
-        bodyBgs[9] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpdnc5pj21hc0u0k1c.jpg";
-        bodyBgs[10] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpc6de8j21hc0xcnpe.jpg";
-
-        var randomBgIndex = Math.round( Math.random() * 10 );
-        var currentImage=bodyBgs[randomBgIndex]; 
-
-    //输出随机的背景图
-        document.write('<style>body{background:url(' + currentImage + ') no-repeat 100% 0}</style>');
-    //]]>
-    </script>
-	<div id="Y_nav" class="nav">
-    <span id="Y_block" class="block"></span>
-    <ul class="nav-list">
-        <li class="item"><a href="http://code.minggo.tk" target="_blank">文件分享</a></li>
-        <li class="item"><a href="firefox.html" target="_blank">Firefox追新</a></li>
-        <li class="item"><a href="http://2.minggo.tk/Nexus4/" target="_blank">Nexus4 Rom（CM & Pa）</a></li>
-    	<li class="item"><a target="_blank" href="live1.html">直播一</a></li>
-    	<li class="item"><a target="_blank" href="live2.htm">直播二</a></li>
-    </ul>
-    </div>
-
-	 <div id="navs">	
-		<div id="title">
-		    <span>（旧）kk签到程序</span>
-			<div id="link">
-		    <p>【停止注册】<a href="http://sign1.minggo.tk">签到站①</a>
-		       <a href="http://sign3.minggo.tk">签到站③</a></p>
-		    </div>
-		</div>
-		<div id="title">	
-		    <span>stus签到程序【测试中】</span>
-		    <div id="link">
-		    <p>【停止注册】<a href="http://sign4.minggo.tk">签到站④</a>
-		    <a href="http://sign5.minggo.tk">签到站⑤</a></p>
-		    <p>【开放注册】<a href="http://sign6.minggo.tk">签到站⑥</a></p>
-		    </div>
-		</div>
-    </div>
-	<div id="ps">
-	    <p>注意：</p>
-		    <p>1.由于kk签到程序停止开发，签到站①、③继续使用有断签风险，②站已卒，不再另行通知！</p>
-		    <p>2.<a href="http://sign4.minggo.tk">签到站④</a>、<a href="http://sign5.minggo.tk">签到站⑤</a>、<a href="http://sign6.minggo.tk">签到站⑥</a>使用stus开源程序，稳定性有待验证，但持续更新中，欢迎测试。</p>
-		    <p>3.如有任何疑问、意见或建议，请反馈至：<a href="http://tieba.baidu.com/f?kw=halflife&ie=utf-8">HalfLife吧</a></p>
-    </div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>我的导航</title>
+		<link rel="shortcut icon" href="img/favicon.ico"  type="image/x-icon"/>
+	  <link href="css/bootstrap.min.css" rel="stylesheet">
+	  <link href="css/style.css" rel="stylesheet">
+	  <link href="css/navbar.css" rel="stylesheet" />
+	  <script type="text/javascript" src="js/jquery.min.js"></script>	
     <script src="http://a.tbcdn.cn/s/kissy/1.3.0/kissy-min.js"></script>
-    <script>
+	</head>
+	<body>
+    	<div id="Y_nav" class="nav">
+        <span id="Y_block" class="block"></span>
+        <ul class="nav-list">
+          <li class="item"><a href="./" target="_blank">我的导航</a></li>
+          <li class="item"><a href="http://code.minggo.tk" target="_blank">文件分享</a></li>
+          <li class="item"><a href="qd/firefox.html" target="_blank">Firefox追新</a></li>
+          <li class="item"><a href="http://2.minggo.tk/Nexus4/" target="_blank">Nexus4 Rom（CM & Pa）</a></li>
+          <li class="item"><a target="_blank" href="qd">签到吧！</a></li>
+         </ul>
+         </div>
+             <script>
     (function(S){
     var D = S.DOM, E = S.Event;
     var box = D.get("#Y_nav"), block = D.get("#Y_block"), eles = D.query(".item", "#Y_nav");
@@ -84,5 +41,221 @@
     });
     })(KISSY);
     </script>
-    </body>
+			<div class="nav-icons">
+			<ul>
+				<li data-type="web"   class="web current"><a >网页</a></li>
+				<li data-type="music" class="music"><a >音乐</a></li>
+				<li data-type="image" class="image"><a >图像</a></li>
+				<li data-type="news"  class="news"><a >新闻</a></li>
+				<li data-type="video" class="video"><a >视频</a></li>
+				<li data-type="map"   class="map"><a >地图</a></li>
+				<li data-type="forum" class="bbs"><a >论坛</a></li>
+			</ul>
+		</div>
+		<div class="input-group">
+			<span class="input-group-btn">
+				<button type="button" class="btn dropdown-toggle search" data-toggle="dropdown">
+					<span id="search-name">search</span><span class="caret"></span>
+				</button>
+				<ul id="search-list" class="dropdown-menu">
+				</ul>
+			</span>
+			<input id="search-word" type="text" maxlength="100" autofocus="autofocus" baiduSug="2" class="form-control search">
+			<span class="input-group-btn">
+				<button id="search-btn" type="button" class="btn search-btn"><span>&nbsp;</span></button>
+			</span>
+		</div>
+		<div id="navs">
+			<div id="navtitle">
+				<span>我的导航</span>
+			<iframe width="380" scrolling="no" height="20" frameborder="0" allowtransparency="true" src="http://i.tianqi.com/index.php?c=code&id=40&color=%23FFFFFF&icon=1&py=zhengzhou&num=3"></iframe>
+			</div>
+			<table id="navtable"></table>
+		</div>
+	</body>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/jquery.nicescroll.js"></script>
+  <script type="text/javascript" src="js/jquery.scrollUp.min.js"></script>
+	<script type="text/javascript" src="js/data.js"></script>
+	<script type="text/javascript" src="js/index.js"></script>
+	<script type="text/javascript" src="js/opensug.js"></script>
+	<script type="text/javascript" src="js/search.js"></script>
+<script type="text/javascript">	$(document).ready(function() {
+		var nicesx = $("body").niceScroll({touchbehavior:false,cursorcolor:"#0000FF",cursoropacitymax:0.6,cursorwidth:8});
+	});
+	$(function () {
+		$.scrollUp({
+			'scrollName': 'scrollUp', // Element ID
+			'topDistance': '300', // Distance from top before showing element (px)
+			'topSpeed': 300, // Speed back to top (ms)
+			'animation': 'fade', // Fade, slide, none
+			'animationInSpeed': 200, // Animation in speed (ms)
+			'animationOutSpeed': 200, // Animation out speed (ms)
+			'scrollText': '', // Text for element
+			'activeOverlay': false // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+		});
+	});
+	$(function(){
+		var nav = $(".nav-icons ul"),
+			list = $('ul#search-list'),
+			search_engine = $('span#search-name'),
+			search_word = $('input#search-word'),
+			search_btn = $('button#search-btn'),
+			links = $('.links-container .links');
+		 var search_engines_list = -1;
+		nav.click(function(e){
+			e.preventDefault();
+			if (e.target.tagName == 'LI' && ! $(e.target).hasClass('current')){
+				nav.children('.current').removeClass('current');
+				$(e.target).addClass('current');
+				changeSearchType();
+				search_word.focus();
+			}
+		});
+		list.click(function(e){
+			e.preventDefault();
+			if (e.target.tagName == 'A'){
+				var target = $(e.target),
+					type = nav.children('.current').data('type');
+				search_engine.text(target.text());
+				search_engine.data("url",target.attr("href"));
+				mStorage.setItem(type + ".sel", target.parent().index());
+				search_word.focus();
+			}
+		});
+		search_word.keypress(function(e){
+			if (e.keyCode == 13){
+				e.stopPropagation();
+				e.preventDefault();
+				search_btn.click();
+			}
+		});
+		search_btn.click(function(e){
+			var url = search_engine.data("url");
+			url += encodeURIComponent(search_word.val());
+			window.location.href = url;
+		});
+		function parseJson(s) {
+			if (/^(?:[[\]{},:+\-.\w$\s\u0100-\uffff]|"(?:[^"\\]|\\.)*"|'(?:[^'\\]|\\.)*')+$/.test(s)){
+				return eval('0,' + s);
+			}
+		};
+		// fix localStorage
+		try {
+			var mStorage = window.localStorage;
+		} catch(e) {
+			if (typeof Components != 'undefined') {
+				var mStorage = (function() {
+					var Cc = Components.classes;
+					var Ci = Components.interfaces;
+					var prefs = Cc["@mozilla.org/preferences-service;1"].getService(Ci.nsIPrefService);
+					function Prefs(str) {
+					    this.pref = prefs.getBranch(str || '');
+					}
+					Prefs.prototype = {
+					    getItem: function(name, defaultValue){
+					        var value = defaultValue;
+					        try {
+					            switch(this.pref.getPrefType(name)) {
+					                case Ci.nsIPrefBranch.PREF_STRING: value = this.pref.getComplexValue(name, Ci.nsISupportsString).data; break;
+					                case Ci.nsIPrefBranch.PREF_INT   : value = this.pref.getIntPref(name); break;
+					                case Ci.nsIPrefBranch.PREF_BOOL  : value = this.pref.getBoolPref(name); break;
+					            }
+					        } catch(e) { }
+					        return value;
+					    },
+					    setItem: function(name, value) {
+					        try {
+					            switch(typeof value) {
+					                case 'string' :
+					                    var str = Cc["@mozilla.org/supports-string;1"].createInstance(Ci.nsISupportsString);
+					                    str.data = value;
+					                    this.pref.setComplexValue(name, Ci.nsISupportsString, str);
+					                    break;
+					                case 'number' : this.pref.setIntPref(name, value); break;
+					                case 'boolean': this.pref.setBoolPref(name, value); break;
+					            }
+					        } catch(e) { }
+					    },
+					    removeItem: function(name) {
+					        try {
+					            this.pref.deleteBranch(name);
+					        } catch(e) { }
+					    }
+					};
+					return new Prefs('extensions.myNewTab.');
+				})();
+			}
+		}
+		var toJson = function() {
+			function fe(s) {
+				return function(c) {
+					return s + c.charCodeAt(0).toString(16);
+				};
+			}
+			var es = [
+			/(?=["\\])/g, '\\',
+			/\n/g, '\\n',
+			/\r/g, '\\r',
+			/\t/g, '\\t',
+			/[\x00-\x0f]/g, fe('\\x0'),
+			/[\x10-\x1f\x7f-\xff]/g, fe('\\x'),
+			/[\u0100-\u0fff]/g, fe('\\u0'),
+			/[\u1000-\u4dff\u9fa6-\uffff]/g, fe('\\u')
+			];
+			function encode_str(s) {
+				for (var i = 0; i < es.length; i += 2)
+					s = s.replace(es[i], es[i + 1]);
+				return '"' + s + '"';
+			}
+			function encode(a) {
+				var r, i;
+				switch (typeof a) {
+				case 'string':
+					return encode_str(a);
+				case 'number':
+				case 'boolean':
+					return a + '';
+				case 'object':
+					if (!a) return 'null';
+					r = [];
+					if (a instanceof Array) {
+						if (a.length == 1 && a[0] == null)
+							return '[null]';
+						for (i = 0; i < a.length; i++)
+							r[i] = a[i] == null ? '' : encode(a[i]);
+						return '[' + r.join() + ']';
+					}
+					else {
+						for (i in a)
+							r[r.length] = encode_str(i) + ':' + encode(a[i]);
+						return '{' + r.join() + '}';
+					}
+				case 'undefined':
+					return 'null';
+				default:
+					throw Error(typeof a);
+				}
+			}
+			return encode;
+		}();
+		function changeSearchType(){
+			var type = nav.children('.current').data('type');
+			list.children().remove();
+			for (var i in search_engines_list[type]){
+				var tpl = '<li><a href="#URL#">#NAME#</a></li>';
+				tpl = tpl.replace(/#URL#/g, search_engines_list[type][i]["url"]);
+				tpl = tpl.replace(/#NAME#/g, search_engines_list[type][i]["name"]);
+				list.append(tpl);
+			}
+			var sel = mStorage.getItem(type + ".sel");
+			if (sel === null || sel >= search_engines_list[type].length) sel = 0;
+			search_engine.text(search_engines_list[type][sel]["name"]);
+			search_engine.data("url",search_engines_list[type][sel]["url"]);
+		};
+		search_engines_list = search_zh_cn;
+		changeSearchType();
+	});
+</script>
+
 </html>
