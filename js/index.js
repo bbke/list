@@ -1,11 +1,5 @@
 var isNewTab = 1;  // 0：默认当前标签页打开导航链接或搜索结果  1：强制新标签页打开导航链接或搜索结果
 
-"use strict";
-
-var Ci = Components.interfaces;
-var Cc = Components.classes;
-var Cu = Components.utils;
-
 var NewTab = {
 	localLinkRegExp: /^[a-z]:\\[^ ]+$/i,  // windows 路径
 	get prefs() {
