@@ -7915,3 +7915,15 @@ static.ak.fbcdn.net		origincache-starfacebook-ai-01-05-ash3.facebook.com
 127.0.0.1	file.ipinyou.com.cn
 127.0.0.1	stats.ipinyou.com
 #AdBlock    END
+#cam4
+93.184.220.90	edgecast.cam4s.com
+93.184.220.90	wac.9218.systemcdn.net
+#minggo.tk
+23.21.27.78	my.minggo.tk
+54.83.78.255	code.minggo.tk
+203.189.105.215	2.minggo.tk
+203.189.105.216	sign1.minggo.tk
+203.189.105.216	sign3.minggo.tk
+203.189.105.215	sign4.minggo.tk
+203.189.105.216	sign5.minggo.tk
+203.189.105.215	sign6.minggo.tk
