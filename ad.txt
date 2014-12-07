@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412071001
-! Last Modified: 2014年12月07日 10:01
+! Version: 201412071101
+! Last Modified: 2014年12月07日 11:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -244,7 +244,7 @@ tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
 ||kdly.net^$third-party
 !gd.189.cn
 /js/utils51.js
-!--popup
+!popup
 ||100tjs.com^$popup,third-party
 ||114zhaofang.com^$popup,third-party
 ||116b.com^$popup,third-party
@@ -1229,6 +1229,7 @@ hk.yahoo.com###mntl1
 ||zp265.com^$third-party
 !---------------------------Popups--------------------------------------------!
 .189.gd^*.html?p=$popup,third-party
+||trade2345.cn.com^$popup,third-party
 .com/?Intr=$popup
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
@@ -3695,7 +3696,7 @@ _vmind.qqvideo.tc.qq.com^
 ||qjis.com/js/qjis_nr.js
 ||qm120.com/images/adZhayou.jpg
 ||qpic.cn/manhua_detail/$object-subrequest
-||qpic.cn/mblogpic/829ff64132ceec61b372/2000
+||qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 ||qpic.cn^$domain=360-bo.com|54xr.com|7958.com|pptiyu.com|xrba.net
 ||qq.com/bbs/bbs_topgg.htm
 ||qq.com/bqq_qfpic/$domain=keywin.org
@@ -4584,6 +4585,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||baixing.com/bb/*/?category=
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
