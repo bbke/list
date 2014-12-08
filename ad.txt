@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412082001
-! Last Modified: 2014年12月08日 20:01
+! Version: 201412082301
+! Last Modified: 2014年12月08日 23:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -2007,7 +2007,7 @@ _vmind.qqvideo.tc.qq.com^
 ||app.acm.dzwww.com^
 ||appinn.com^*/licaifan.
 ||aqlife.com/data/attachment/portal/
-||ark.letv.com/s?vid=
+||ark.letv.com/s?vid=&
 ||article.pchome.net/Index.php?c=Intel&
 ||as.sinahk.net^
 ||ashow.pcpop.com^
