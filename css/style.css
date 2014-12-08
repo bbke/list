@@ -12,7 +12,7 @@ img {max-width: 100%;}
 /* ===========搜索模块========= */
 /***搜索引擎类别按钮***/
 .nav-icons {
-	width: 470px;
+	width: 465px;
 	margin: auto;
 	height: 90px;
 }
@@ -41,7 +41,6 @@ img {max-width: 100%;}
 	position: relative;
 	background-repeat: no-repeat;
 	box-sizing: content-box;
-	-moz-box-sizing: content-box;
 	cursor: pointer;
 }
 
@@ -54,7 +53,6 @@ img {max-width: 100%;}
 	left: 7px;
 	visibility: hidden;
 	opacity: 0;
-	background: url('../img/bg_category.png') no-repeat;
 	color: #fff;
 	font-size: 15px;
 	line-height: 29px;
