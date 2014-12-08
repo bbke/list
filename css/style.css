@@ -1,7 +1,7 @@
 body {
     overflow:auto;
     background-color: #EDEDED;
-    background-image: url(../img/Bing.jpg);
+    background-image: url(../img/Bing/Bing0.jpg);
     background-repeat: no-repeat;
     background-size:cover; /* 如果屏幕没有铺满，请把auto改为你自己显示器分辨率 */
     font-family:'Microsoft YaHei';
@@ -284,6 +284,18 @@ button.search-btn:hover span {
     color:white;
     border-bottom: 0.1em solid #555;
 }
+/*设置切换按钮*/
+ #nav_random {
+    float:right;
+    position:relative;
+    padding:0em;
+    font-size:0.85em;
+    opacity:0.3;
+}
+ #nav_random:hover {
+    opacity:1;
+}
+/*天气*/
  #navtitle iframe {
     float:right;
     position:relative;
