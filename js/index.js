@@ -117,7 +117,7 @@ var NewTab = {
 };
 
 NewTab.init();
-//切换|下载背景图
+//切换背景图
 function changeImg() {
         var randomBgIndex = Math.round( Math.random() * 9 );
         var currentImage="img/Bing/Bing"+[randomBgIndex]+".jpg"; 
