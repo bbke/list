@@ -11,25 +11,10 @@
 	</head>
     <body>
       <script type="text/javascript">
-        var bodyBgs = [];
-        bodyBgs[0] = "http://ww2.sinaimg.cn/large/6264a861jw1ejchnnu229j211y0lcdj7.jpg";
-        bodyBgs[1] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpk2r9rj21hc0u04mf.jpg";
-        bodyBgs[2] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpjbmaej21hc0xc4ac.jpg";
-        bodyBgs[3] = "http://ww3.sinaimg.cn/large/6264a861jw1ek4gpj5l0qj21hc0xc7fp.jpg";
-        bodyBgs[4] = "http://ww2.sinaimg.cn/large/6264a861jw1ek4gphcom9j21hc0xcwrn.jpg";
-        bodyBgs[5] = "http://ww1.sinaimg.cn/large/6264a861jw1ek4gpiaw6fj21hc0u0h7n.jpg";
-        bodyBgs[6] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpdz9csj21hc0u0aij.jpg";
-        bodyBgs[7] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpgt0yyj21hc0u045u.jpg";
-        bodyBgs[8] = "http://ww3.sinaimg.cn/large/6264a861jw1ek4gpfzlz5j21hc0u0tnc.jpg";
-        bodyBgs[9] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpdnc5pj21hc0u0k1c.jpg";
-        bodyBgs[10] = "http://ww4.sinaimg.cn/large/6264a861jw1ek4gpc6de8j21hc0xcnpe.jpg";
-
-        var randomBgIndex = Math.round( Math.random() * 10 );
-        var currentImage=bodyBgs[randomBgIndex]; 
-
-    //输出随机的背景图
-        document.write('<style>body{background:url(' + currentImage + ') no-repeat 100% 0}</style>');
-    //]]>
+        var randomBgIndex = Math.round( Math.random() * 9 );
+        var currentImage="img/Bing/Bing"+[randomBgIndex]+".jpg"; 
+     	setAndSave: function(currentImage) {document.body.style.backgroundImage = 'url(' + currentImage + ')';
+	},
     </script>
 	<div id="Y_nav" class="nav">
     <span id="Y_block" class="block"></span>
