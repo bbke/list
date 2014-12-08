@@ -2,8 +2,10 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412081901
-! Last Modified: 2014年12月08日 19:01
+! Version: 201412082001
+! Last Modified: 2014年12月08日 20:01
+! Homepage: http://git.oschina.net/halflife/list
+! Homepage: https://github.com/523860169/list
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -163,6 +165,7 @@ tieba.baidu.com##.u_tbmall
 tieba.baidu.com##.u_game
 tieba.baidu.com##.u_xiu8
 tieba.baidu.com###search_button
+tieba.baidu.com##.u_appcenterEntrance
 ! 普通回帖框
 tieba.baidu.com##.tb_poster_placeholder
 ! 话题贴回帖框
