@@ -2,11 +2,6 @@ var isNewTab = 1;  // 0：默认当前标签页打开导航链接或搜索结果
 
 var NewTab = {
 	localLinkRegExp: /^[a-z]:\\[^ ]+$/i,  // windows 路径
-	get prefs() {
-	    delete this.prefs;
-	    return this.prefs = Services.prefs.getBranch("myNewTab.");
-	},
-
 	init: function() {
 		var table = document.getElementById("navtable");
 		if (table.children.lenth > 0) {
@@ -114,7 +109,18 @@ var NewTab = {
 		    uri = Services.io.newURI(obj.url, null, null);
 		} catch (e) { }
 		if (!uri) return;
-	}
+	},
+	// 设置背景图片并保存设置
+	setAndSave: function(currentImage) {
+		document.body.style.backgroundImage = 'url(' + currentImage + ')';
+	},
 };
 
 NewTab.init();
+//切换|下载背景图
+function changeImg() {
+        var randomBgIndex = Math.round( Math.random() * 9 );
+        var currentImage="img/Bing/Bing"+[randomBgIndex]+".jpg"; 
+		NewTab.setAndSave(currentImage);
+
+}
