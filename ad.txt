@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412081001
-! Last Modified: 2014年12月08日 10:01
+! Version: 201412081101
+! Last Modified: 2014年12月08日 11:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -793,6 +793,7 @@ hk.yahoo.com###mntl1
 |https://*/ad/
 !------------------------General element hiding rules-------------------------!
 ###MyMoveAd
+##.wf_ad_block
 ##SCRIPT + .sptable[cellpadding="5"]
 ###QQ_Full
 ###ad_box1
@@ -2754,7 +2755,7 @@ _vmind.qqvideo.tc.qq.com^
 ||hc360.com/js/hcpop_
 ||hc360.com/security/201311/201311151050289368.swf
 ||hc360.com/security/201409/201409021830024990.jpg
-||hdad.baike.com^$subdocument
+||hdad.baike.com^
 ||hdad.hudong.com/hdad/
 ||hdpfans.com/images/hotapp/
 ||hdpfans.com/images/icons/*x60.
@@ -4605,6 +4606,7 @@ _vmind.qqvideo.tc.qq.com^
 ||haha.mx/images/market/
 ||fx678.com/proxy
 ||yunupload.net/jsa/
+||hx95.com/images/vip.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!

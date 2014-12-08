@@ -36,7 +36,7 @@ rules = [{
 },{
     name: "Google统计和tag >> mingto.tk",
     from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices)\.com\/([\w]+\/)*([\w]+\.js)/i,
-    to: "http://minggo.coding.io/cdn/google/$4",
+    to: "http://www.minggo.tk/cdn/google/$4",
     regex: true
 },{
     name: "sourceforge >> 镜像站点",
