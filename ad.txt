@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412081101
-! Last Modified: 2014年12月08日 11:01
+! Version: 201412081201
+! Last Modified: 2014年12月08日 12:01
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -4607,10 +4607,13 @@ _vmind.qqvideo.tc.qq.com^
 ||fx678.com/proxy
 ||yunupload.net/jsa/
 ||hx95.com/images/vip.gif
+.gif|$domain=happytogether2015.com
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+hepuwang.com##.teshu_header
+hk3318.net##.ad990x130
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
