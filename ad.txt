@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412091901
-! Last Modified: 2014年12月09日 19:01
+! Version: 201412092001
+! Last Modified: 2014年12月09日 20:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -490,7 +490,6 @@ tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
 ||mylovewebs.com^$third-party
 ||netgy.com^$third-party
 ||newwang.com^$third-party
-||niurenw.com^$third-party
 ||niux88.com^$third-party
 ||niwota.com^$third-party
 ||now.cn^$third-party
@@ -634,9 +633,6 @@ cet.99sushe.com###div_bottom
 ||img.99sushe.com/*/buttom_
 ||img.99sushe.com/cet/$object
 ||img.99sushe.com/cet/banner
-!taobao
-||a.tbcdn.cn/s/ac.js
-||a.tbcdn.cn/s/atp.js
 !---bokecc
 @@||union.bokecc.com/crossdomain.xml
 @@||union.bokecc.com/js/player/
@@ -906,6 +902,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||niurenw.com^$third-party
 ||3alian.net^$third-party
 /adscpc/*
 /adscpv/*
@@ -2781,7 +2778,6 @@ _vmind.qqvideo.tc.qq.com^
 ||henan.sina.com.cn/iframe/7/
 ||heshan.gov.cn/JS/ddgg.js
 ||hexun.com*/hx_news/hx_news_finalpage.js
-||hexun.com*/shicaidai/
 ||hf365.com/0/13/79/87/13798795_912593.jpg
 ||hf365.com/0/14/31/00/14310068_933922.png
 ||hf365.com/0/14/60/93/14609355_921128.jpg
@@ -2796,7 +2792,8 @@ _vmind.qqvideo.tc.qq.com^
 ||hifidiy.net/www/2014/05/30/hivi_DIY3.1.jpg
 ||hinews.cn/js/09page/10pagesjbtj
 ||hinews.cn/out/$script
-||hinews.cn/swf/0/$object
+||hinews.cn/swf/0/*.swf
+||nanhai.hinews.cn/zt/img/
 ||hipowerd.com/outbound/images/*_banner.
 ||hjav.org/ads.js
 ||hjav.org/wp-content/themes/iMovies/js/tc_
@@ -2848,7 +2845,6 @@ _vmind.qqvideo.tc.qq.com^
 ||hrtsea.com/936x90.gif
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||htpc1.com/iBT/tools/
-||htpc1.com/newfolder/news/2012-12-21-M%
 ||httpcn.com/images/ad_
 ||httpcn.com/images/adpic2014/ad
 ||httpcn.com/tg/
@@ -2861,7 +2857,6 @@ _vmind.qqvideo.tc.qq.com^
 ||hualady.com/static/
 ||huanqiu.com/script/HuanQiuAllBottom.Js
 ||huanqiukexue.com/uploads/images/hqkx_11.jpg
-||huarenjie.com/files/140257728854.jpg
 ||huaxieyu.com/wp-content/themes/HotNewspro20140605/images/default.jpg
 ||hudong.pl.youku.com/interact/player/get/plugins?
 ||hudong.pl.youku.com/QVideoPlugin/
@@ -2877,8 +2872,6 @@ _vmind.qqvideo.tc.qq.com^
 ||hx95.com/images/vip.gif
 ||hx9m.com/ggtp/
 ||hxjs.tool.hexun.com
-||hxland.com/bbs/static/image/A*.gif
-||hxland.com/static/image/TOP1.png
 ||hxsame.hexun.com
 ||hxsd.com/templets/js/looyu_pop.js
 ||hxsxw.com/gg*.gif
@@ -4621,10 +4614,15 @@ _vmind.qqvideo.tc.qq.com^
 ||fuli2.com/wp-content/plugins/ad-blocking-detector/
 ||eprice.cn/image/upload/ad/
 ||yyets.com/public/rooms?
+||cdn.wdlm.cn^
+||wdlm.cn/img/ad1/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wdlm.cn###ad_coupleleft
+wdlm.cn###ad_coupleright
+wdlm.cn##.tonglanbanner
 jump.bdimg.com,tieba.baidu.com###game_cover_head_wrapper
 eprice.cn##DIV[style="width: 1094px; height: 80px; margin: 10px auto; border: 1px solid #e5e5e5; padding: 2px;"]
 hanzify.org##SPAN[style^="float:right;"]
@@ -7616,6 +7614,7 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||cdn.wdlm.cn^*/
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -8093,6 +8092,8 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdnet.com.cn/js/pv.js
 ||zdw.w8.com.cn/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||a.tbcdn.cn/s/ac.js
+||a.tbcdn.cn/s/atp.js
 
 &ad_type=
 &ad_url=
