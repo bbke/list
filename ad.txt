@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412092001
-! Last Modified: 2014年12月09日 20:01
+! Version: 201412092201
+! Last Modified: 2014年12月09日 22:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -9599,7 +9599,6 @@ yahoo.com#@#.type_ads_default
 !----------------------Specific advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_specific_block.txt ***
 .com/jquery/static.js?*Math.floor$script,third-party
-|http:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adv.li|allmyvideos.net|j.gs|linkbucksmedia.com|q.gs|shr77.com|tigerleech.com|u.bb|vidspot.net
 ||acs86.com/a.htm?
 ||ads-*.hulu.com^
 ||ads.zynga.com^
@@ -10073,3 +10072,58 @@ youtube.com,youtubeproxy.pk###feed-pyv-container
 _home_ad_
 ||kukuplay.com/upload/*.swf
 ||ssl-images-amazon.com/images/*/traffic/$image
+!---141209
+###AdDiv
+###Ads_google_04
+###Ads_google_05
+###ad_728
+###ad_LargeRec01
+###ad_Pushdown
+###ad_box02
+###ad_topbanner
+###ads_banner
+###adv_6
+###adv_7
+###bottom_ads
+###singlead
+###wide_ad_unit2
+##.ad-bline
+##.ad160x600
+##.adBox2
+##.adLargeRect
+##.adTitle
+##.ad_728_90
+##.ad_bar
+##.ad_links
+##.ad_url
+##.ads970
+##.adsdiv
+##.adunit
+##.adv-top
+##.chartad
+##.gAdsBlock
+##.gads300x250
+##.left-ads
+##.premium-ad
+##.section_ad
+##.top_adv
+##.video_ad
+##.wrapper_ad
+.php?ad=
+/700x100.
+/ad.php|$popup
+/adspace.
+/home_adv.
+/img_ad/*
+/imgad.
+/rightbanner/*
+?banner_id=
+_420x80_
+_728x150.
+msn.com,search.yahoo.com##.abs
+|http:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adv.li|allmyvideos.net|ay.gy|j.gs|linkbucksmedia.com|q.gs|shr77.com|thevideo.me|u.bb|vidspot.net
+|https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|q.gs|u.bb
+||advg.jp^$third-party
+||awin1.com^$third-party
+||cloudfront.net/scripts/js3caf.js
+||flashtalking.com^$third-party
