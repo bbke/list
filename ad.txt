@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412091701
-! Last Modified: 2014年12月09日 17:01
+! Version: 201412091801
+! Last Modified: 2014年12月09日 18:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -4325,7 +4325,6 @@ _vmind.qqvideo.tc.qq.com^
 ||wszhibo.com/xml/tvAdtext.ashx
 ||wuhan.net.cn/guanggaojs/
 ||wumii.cn/site_images/c/
-||wumii.com/ext/widget/hot.htm
 ||wuxi.cn/index.php?m=poster&
 ||wuyou.com/0000/
 ||wuyougo.info/03.jpg
@@ -4621,10 +4620,12 @@ _vmind.qqvideo.tc.qq.com^
 ||somag.qiniudn.com/uploads/image/20141013000733_14164.gif
 ||52verycd.com/9241505.gif
 ||fuli2.com/wp-content/plugins/ad-blocking-detector/
+||eprice.cn/image/upload/ad/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+eprice.cn##DIV[style="width: 1094px; height: 80px; margin: 10px auto; border: 1px solid #e5e5e5; padding: 2px;"]
 hanzify.org##SPAN[style^="float:right;"]
 hf365.com###js_ads_banner_top_slide
 wenku.baidu.com##DIV[id^="Zuniqueid_"]
@@ -7710,9 +7711,9 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||adcdn.pingan.com^
 @@||addon.discuz.com/resource/*/ad
 @@||adjs.8591.com.tw/ajs.php?$domain=8591.com.tw
-@@||adm.cnzz.net/js/abase.js$domain=longbuluo.com|xuandy.com
-@@||adm.cnzz.net/prebat.*.xuandy.com%2F|$domain=longbuluo.com|xuandy.com
-@@||adm.cnzz.net^*.jpg$domain=longbuluo.com|xuandy.com
+@@||adm.cnzz.net/js/abase.js$domain=xuandy.com
+@@||adm.cnzz.net/appgcm.php?sid=268052&$domain=xuandy.com
+@@||adm.cnzz.net^*.jpg$domain=xuandy.com
 @@||adobe.com^*/afr?auid=
 @@||ads.i8.com.cn/hd/dzs/
 @@||ads.myopen.vip.com^$domain=vip.com
