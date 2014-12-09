@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412090901
-! Last Modified: 2014年12月09日 09:01
+! Version: 201412091001
+! Last Modified: 2014年12月09日 10:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -4613,10 +4613,14 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||gigacircle.com/images/*250X250.
+||gigacircle.com/images/*720X85.
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+gigacircle.com##.sienads
+zhibo8.cc##A[href^="http://www.bobo."]
 yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
