@@ -40,7 +40,7 @@ var Config = getMStr(function(){
 	搜图标, http://www.easyicon.net/, img/web/easyicon.png
 	搜索图标, http://findicons.com/, img/web/findicons.ico
 	酷安网, http://www.coolapk.com/, img/web/coolapk.ico
-	签到助手, http://www.minggo.tk/, img/web/minggo.ico
+	签到助手, /qd, img/web/minggo.ico
 */
 });
 
