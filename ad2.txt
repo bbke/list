@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412082001
-! Last Modified: 2014年12月08日 20:01
+! Version: 201412091101
+! Last Modified: 2014年12月09日 11:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -18,7 +18,6 @@
 ||cdn.optimizely.com^
 ||doubleclick.net^
 ||connect.facebook.net^
-||platform.twitter.com/widgets.js
 ##FONT.jammer
 ||google-analytics.com^
 ||tjs.sjs.sinajs.cn/open/analytics/*
