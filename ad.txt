@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412091601
-! Last Modified: 2014年12月09日 16:01
+! Version: 201412091701
+! Last Modified: 2014年12月09日 17:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -4617,6 +4617,10 @@ _vmind.qqvideo.tc.qq.com^
 ||gigacircle.com/images/*720X85.
 ||hf365.com//js/zt/dhmc_lrtk.js
 ||btcherry.com/images/ad_
+||btbook.net/static/img/880X60.gif
+||somag.qiniudn.com/uploads/image/20141013000733_14164.gif
+||52verycd.com/9241505.gif
+||fuli2.com/wp-content/plugins/ad-blocking-detector/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
