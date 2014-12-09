@@ -262,14 +262,11 @@ button.search-btn:hover span {
 /*设置导航整体面板*/
  #navs {
     position:relative;
-    float:left;
     top: 16em;
     /*导航整体面板到搜索框的距离*/
-    left: 26.5%;
-    /*导航整体面板到窗口左边的距离*/
     width:632px;
     /*导航整体面板宽度*/
-    margin:0 auto;
+    margin:auto;
     padding: 0.6em;
     background-color: #000;
     opacity:0.65;
