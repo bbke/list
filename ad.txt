@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412102101
-! Last Modified: 2014年12月10日 21:01
+! Version: 201412102201
+! Last Modified: 2014年12月10日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -1124,8 +1124,6 @@ hk.yahoo.com###mntl1
 ||mamamiyu.com^$third-party
 ||mediav.com^$third-party
 ||mgwl668.com^$third-party
-||miaozhen.com^$~script,third-party
-||miaozhen.com^*.js$third-party
 ||mobads.baidu.com^$third-party
 ||moodoocrv.com.cn^
 ||mscimg.com^
@@ -1162,6 +1160,8 @@ hk.yahoo.com###mntl1
 ||scupio.com^$third-party
 ||sexy-more.com^$third-party
 ||sgbfjs.info^
+||miaozhen.com^$third-party,domain=~ad.co
+||yiqifa.com^$third-party,domain=~ad.co
 ||sharedaddomain.com^
 ||sharele.cn^$third-party
 ||show.kc.taotaosou.com^
@@ -1221,8 +1221,6 @@ hk.yahoo.com###mntl1
 ||ydcpc.com^$third-party
 ||ye3.com^$third-party
 ||yigao.com^$third-party
-||yiqifa.com^$~script,third-party
-||yiqifa.com^*.js$third-party
 ||yongv.com^$third-party
 ||youle55.com^$third-party
 ||youxicool.net^$third-party
@@ -3533,7 +3531,6 @@ _vmind.qqvideo.tc.qq.com^
 ||p.37youyou.com/*.jpg
 ||p.aty.sohu.com/p?cat=
 ||p.szonline.net^
-||p.tanx.com/ex?i=
 ||p.zol-img.com.cn^
 ||p3.img.cctvpic.com/photoAlbum/page/performance/img/2013/11/20/1384944092228_124.jpg
 ||p4p.sina.com.cn^
@@ -7878,8 +7875,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||ooomm.com/ad/Whoyao_logo114.png
 @@||ourgame.com/new/images/ad/$domain=ourgame.com
 @@||ouyaoxiazai.com/shouyead.js
-@@||p.tanx.com/ex?i=mm_12852562_1778064_
-@@||p.tanx.com/ex?i=mm_33231655_8000000_
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pcdvd.com.tw
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=greedio.com|knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|pcdvd.com.tw|tu265.com|wholehk.com
 @@||partner.googleadservices.com/gpt/pubads_impl_$domain=pcdvd.com.tw
