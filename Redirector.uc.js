@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // downloadUrl     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
-// @version         14.12.08.11
+// @version         14.12.10.21
 // @charset         utf-8
 // ==/UserScript==
 (function() {
@@ -55,7 +55,7 @@
 },{
     name: "Google统计和tag >> mingto.tk",
     from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices)\.com\/([\w]+\/)*([\w]+\.js)/i,
-    to: "http://www.minggo.tk/cdn/google/$4",
+    to: "http://minggo.coding.io/cdn/google/$4",
     regex: true
 },{
     name: "sourceforge >> 镜像站点",
