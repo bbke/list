@@ -1,13 +1,14 @@
 [Adblock]
 
-! Title: My AdFilters
+! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412101722
-! Last Modified: 2014年12月10日 17:22
+! Version: 201412101901
+! Last Modified: 2014年12月10日 19:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
+!为了完善本规则，欢迎大家参与本规则的维护，有意者请在HalfLife吧发帖
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 
 ||forum.xitek.com/xml/flash.swf
@@ -1124,7 +1125,8 @@ hk.yahoo.com###mntl1
 ||mamamiyu.com^$third-party
 ||mediav.com^$third-party
 ||mgwl668.com^$third-party
-||miaozhen.com^$third-party
+||miaozhen.com^$domain=~miaozhen.com
+||miaozhen.com^*.js$third-party
 ||mobads.baidu.com^$third-party
 ||moodoocrv.com.cn^
 ||mscimg.com^
@@ -1191,7 +1193,7 @@ hk.yahoo.com###mntl1
 ||ujian.cc^$third-party
 ||ulink.cc^$third-party
 ||unimhk.com^$third-party
-||union.$third-party
+||union.$third-party,domain=~click.union.jd.com|~click.union.360buy.com
 ||union009.com^$third-party
 ||unionbig.com^$third-party
 ||unionsky.cn^$third-party
@@ -1220,7 +1222,8 @@ hk.yahoo.com###mntl1
 ||ydcpc.com^$third-party
 ||ye3.com^$third-party
 ||yigao.com^$third-party
-||yiqifa.com^$third-party
+||yiqifa.com^$domain=~yiqifa.com
+||yiqifa.com^*.js$third-party
 ||yongv.com^$third-party
 ||youle55.com^$third-party
 ||youxicool.net^$third-party
@@ -4622,6 +4625,7 @@ _vmind.qqvideo.tc.qq.com^
 ||hebei.com.cn/js/leftrightdown_piaofu_ad_js.js
 ||ilunpo.com/123.gif
 ||ilunpo.com/j.gif
+||avtt66.com/js/config.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
