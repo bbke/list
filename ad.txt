@@ -2,13 +2,12 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412101901
-! Last Modified: 2014年12月10日 19:01
-! Homepage: http://git.oschina.net/halflife/list
-! Homepage: https://github.com/523860169/list
+! Version: 201412102001
+! Last Modified: 2014年12月10日 20:01
+! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
-!为了完善本规则，欢迎大家参与本规则的维护，有意者请在HalfLife吧发帖
+!为了完善本规则，欢迎大家参与本规则的维护，有意者请在HalfLife吧申请
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 
 ||forum.xitek.com/xml/flash.swf
@@ -1125,7 +1124,7 @@ hk.yahoo.com###mntl1
 ||mamamiyu.com^$third-party
 ||mediav.com^$third-party
 ||mgwl668.com^$third-party
-||miaozhen.com^$domain=~miaozhen.com
+||miaozhen.com^$~script,third-party
 ||miaozhen.com^*.js$third-party
 ||mobads.baidu.com^$third-party
 ||moodoocrv.com.cn^
@@ -1193,7 +1192,7 @@ hk.yahoo.com###mntl1
 ||ujian.cc^$third-party
 ||ulink.cc^$third-party
 ||unimhk.com^$third-party
-||union.$third-party,domain=~click.union.jd.com|~click.union.360buy.com
+||union.$third-party
 ||union009.com^$third-party
 ||unionbig.com^$third-party
 ||unionsky.cn^$third-party
@@ -1222,7 +1221,7 @@ hk.yahoo.com###mntl1
 ||ydcpc.com^$third-party
 ||ye3.com^$third-party
 ||yigao.com^$third-party
-||yiqifa.com^$domain=~yiqifa.com
+||yiqifa.com^$~script,third-party
 ||yiqifa.com^*.js$third-party
 ||yongv.com^$third-party
 ||youle55.com^$third-party
@@ -7631,6 +7630,8 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||click.union.vip.com^
+@@||gimhoy.com/advertisement.js
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
