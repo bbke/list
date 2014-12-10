@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412101101
-! Last Modified: 2014年12月10日 11:01
+! Version: 201412101201
+! Last Modified: 2014年12月10日 12:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -4618,6 +4618,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||hc360.com/list/iframe_2012ad_
 ||hc360.com/list/iframe_end_textadv.shtml
+||hc360.com/list/iframe_2011hezuo.shtml
 ||hc360.com/list/iframe_right_ad_
 ||hc360.com/js/*hezuo.js
 ||hc360.com/news/201207/201207241712413488.jpg
@@ -4625,6 +4626,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+hc360.com###AD
+hc360.com###textadv
 hc360.com##.ad_left
 hc360.com##.ad_right
 hc360.com##.ads
