@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412101701
-! Last Modified: 2014年12月10日 17:01
+! Version: 201412101722
+! Last Modified: 2014年12月10日 17:22
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -154,7 +154,6 @@ tieba.baidu.com###forum_recommend
 tieba.baidu.com###spage_liveshow_slide
 tieba.baidu.com##.icon_yyshow
 tieba.baidu.com###j_navtab_wanle
-tieba.baidu.com###j_navtab_wanle
 tieba.baidu.com##.wanle_tab_tip
 ! 右上角
 tieba.baidu.com##.u_mobile
@@ -174,7 +173,6 @@ tieba.baidu.com##.ihome_aside_section.ihome_info_link
 tieba.baidu.com##.userinfo_scores.clearfix
 tieba.baidu.com##.userinfo_appraise
 tieba.baidu.com##.dialogJmodal
-tieba.baidu.com##.nav_item
 tieba.baidu.com##.ihome_aside_section.ihome_aside_first
 ! 顶部
 tieba.baidu.com##.banner_post
