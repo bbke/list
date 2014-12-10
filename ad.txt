@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412101201
-! Last Modified: 2014年12月10日 12:01
+! Version: 201412101301
+! Last Modified: 2014年12月10日 13:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -16,15 +16,12 @@
 |http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
 ||cdn.optimizely.com^
 ||doubleclick.net^
-||connect.facebook.net^
 ##FONT.jammer
 ||google-analytics.com^
 ||tjs.sjs.sinajs.cn/open/analytics/*
 ||file.ithome.com/js/wap/common.js
-||shooter.cn/ggsearch/*
 ||jsqmt.qq.com^
 ||scorecardresearch.com^
-||hm.baidu.com^
 ||btrace.qq.com^
 ||pstatic.xunlei.com/js/*
 ||img.kuai.xunlei.com/js/webxunlei.js
@@ -83,6 +80,7 @@ chaturbate.com##.banner, .ad
 ||bdimg.share.baidu.com/static/api/js/*
 ||xiu8.com
 ||cb.baidu.com^
+||hm.baidu.com^
 ^monitor.jpg?xcode^
 ||dup.baidustatic.com^
 ||static.pay.baidu.com^
@@ -4622,10 +4620,16 @@ _vmind.qqvideo.tc.qq.com^
 ||hc360.com/list/iframe_right_ad_
 ||hc360.com/js/*hezuo.js
 ||hc360.com/news/201207/201207241712413488.jpg
+||hebei.com.cn/js/duilian_four_ad_js.js
+||hebei.com.cn/js/leftrightdown_piaofu_ad_js.js
+||ilunpo.com/123.gif
+||ilunpo.com/j.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jump.bdimg.com,tieba.baidu.com##.app_forum_top_nav
+hebei.com.cn##.h50px
 hc360.com###AD
 hc360.com###textadv
 hc360.com##.ad_left
@@ -5942,7 +5946,6 @@ app01.com.tw,niutuku.com##.bannerAD
 mtksj.com##.bannerAd4
 longhoo.net##.bannerArea
 junshi.cn,tiantianpengfu.com,tiantianqiwen.com,yangsheng123.cn##.bannerB
-hebei.com.cn##.bannerTL
 fhm.com.tw##.banner_02
 www.3dmgame.com##.banner_1
 3dmgame.com##.banner_2
@@ -5960,7 +5963,6 @@ jinghua.cn##.banner_pic
 jinghua.cn##.banner_pic01
 jinghua.cn##.banner_pic02
 ifanr.com##.banner_post_bottom
-hebei.com.cn##.banner_right
 15w.com##.banner_s_3
 szhome.com##.bannerad3cbox
 jisuzhibo.net##.bannerhead
