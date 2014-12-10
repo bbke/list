@@ -2,8 +2,8 @@
 
 ! Title: My AdFilters
 ! Expires: 4 hours
-! Version: 201412100901
-! Last Modified: 2014年12月10日 09:01
+! Version: 201412101001
+! Last Modified: 2014年12月10日 10:01
 ! Homepage: http://git.oschina.net/halflife/list
 ! Homepage: https://github.com/523860169/list
 
@@ -8094,6 +8094,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdnet.com.cn/js/pv.js
 ||zdw.w8.com.cn/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||log.org.hc360.com^
 
 &ad_type=
 &ad_url=
