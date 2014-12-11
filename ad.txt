@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412111701
-! Last Modified: 2014年12月11日 17:01
+! Version: 201412111801
+! Last Modified: 2014年12月11日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -4633,10 +4633,21 @@ _vmind.qqvideo.tc.qq.com^
 ||soul-plus.net/images/manqu4.jpg
 ||soul-plus.net/images/moe68.gif
 ||qiyipic.com/common/*_aLink
+||qiyipic.com/common/20141112/225x230.jpg
+||iqiyi.com/common/flashplayer/*/pageer.swf
+||iqiyi.com/player/common/adflash
+||iqiyi.com/player/common/rebull_tong
+||qiyipic.com/common/fix/dasdasdasdk.jpg
+||qiyipic.com/common/fix/rebull_
+||qiyipic.com/common/20141021/sanjiukehuzhuanqu.jpg
+||iqiyi.com/common/flashplayer/*-banner-
+||qiyipic.com/zongyi/fix/mxdj
+||qiyipic.com/zongyi/fix/mxdj
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+iqiyi.com##.site-title_right
 iqiyi.com##.leftLink
 iqiyi.com##.rightLink
 rrys.tv,rrys123.com,yyets.com##.AreaR2 > .box_1:first-child + .clearfix + .box_4
@@ -8116,6 +8127,8 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdnet.com.cn/js/pv.js
 ||zdw.w8.com.cn/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||api.cupid.qiyi.com/etx?
+||api.cupid.qiyi.com/track2
 
 &ad_type=
 &ad_url=
