@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412122001
-! Last Modified: 2014年12月12日 20:01
+! Version: 201412122101
+! Last Modified: 2014年12月12日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -4653,10 +4653,18 @@ _vmind.qqvideo.tc.qq.com^
 ||youjizz.com/ch/ch_promo.xml
 /hermes_cdn/v1/cdn/containers/video/file/*.mp4
 ||qikuyou.com/images/images/250.png
+||pos.baidu.com/wh/o.htm?$third-party
+||sjyws.sjyws.com:*.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+missioncouver.com.cn##.play_ad300_2
+bbdj.com##.p_banner
+bbdj.com##.p_c4
+bbdj.com##.p_left2
+bbdj.com##.p_r1
+tv110.com##.ad9680
 qikuyou.com##.adv640
 qikuyou.com##.w960[style="height:90px;"]
 lalulalu.com###overture-side-bar-ads
@@ -7663,6 +7671,8 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||cb.baidu.com/ecom?di=943217&
+@@||cbjs.baidu.com/js/o.js$domain=missioncouver.com.cn
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
