@@ -1,6 +1,7 @@
 body {
     overflow:auto;
     background-color: #EDEDED;
+    background-image: url(../img/Bing/Bing0.jpg);
     background-repeat: no-repeat;
     background-size:cover; /* 如果屏幕没有铺满，请把auto改为你自己显示器分辨率 */
     font-family:'Microsoft YaHei';
