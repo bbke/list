@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412142001
-! Last Modified: 2014年12月14日 20:01
+! Version: 201412142101
+! Last Modified: 2014年12月14日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -762,6 +762,7 @@ hk.yahoo.com###mntl1
 /source/plugin/mama_tips/*
 /static/adsview/*
 /tan.js
+/bdpop.php?http://
 /tanchuang.
 /tuiguang/*
 /u/_sponsor/*
@@ -786,7 +787,7 @@ hk.yahoo.com###mntl1
 |http://acs.
 |http://ad.
 |http://gg.$third-party
-|https://*/ad/
+|https://*/ad/$domain=~yande.re
 !------------------------General element hiding rules-------------------------!
 ###MyMoveAd
 ###QQ_Full
@@ -900,6 +901,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||xxad.cc^
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -4652,6 +4654,12 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||61.129.70.250/ads/
+||anange.com/images/*.gif
+||sav10.com/lanmu.js
+||sav10.com/pic/fckimg/
+||sinaimg.cn^$domain=sav10.com
+||91860.com/300.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -6663,7 +6671,7 @@ cjdby.net##.page_right_ad
 bxwx.org,u8xs.com##.pagead_3
 qqyy.com##.par-ad336
 www.sina.com.cn##.part-k-l > .mod-13
-www.sina.com.cn##.part-l > :nth-child(n+2)
+www.sina.com.cn##.part-l
 bbs.52life.cc##.part1
 sina.com##.parta_l_ads
 heiguang.com##.pbAddPic
