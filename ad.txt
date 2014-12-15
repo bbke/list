@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412151301
-! Last Modified: 2014年12月15日 13:01
+! Version: 201412151901
+! Last Modified: 2014年12月15日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -900,6 +900,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||js-apac-ss.ysm.yahoo.com^$third-party
 ||affiliate.rakuten.co.jp^$third-party
 /adscpc/*
 /adscpv/*
