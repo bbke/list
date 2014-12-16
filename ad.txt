@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412161801
-! Last Modified: 2014年12月16日 18:01
+! Version: 201412161901
+! Last Modified: 2014年12月16日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -5410,7 +5410,6 @@ sogou.com,soso.com###right > .atTrunk
 2345.com###right > div:first-child
 hbtv.com.cn###right > div[style="margin-bottom:23px;"]
 90oo.com###right > div[style^="height:60px; width:750px;"]
-wenkudaquan.com###rightAD
 66rd.cn,cao1024.com,cssqt.com,dvbcn.com,gdzjdaily.com.cn,ieforex.com,lysq.com,mxwz.com,qiannao.com###rightDiv
 gxnews.com.cn###right_3_ad
 xinhuanet.com###right_ad1
