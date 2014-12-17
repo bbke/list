@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412170901
-! Last Modified: 2014年12月17日 09:01
+! Version: 201412171001
+! Last Modified: 2014年12月17日 10:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -1334,7 +1334,7 @@ hk.yahoo.com###mntl1
 /ifengRotatorAd.js
 /images/*.gif$domain=174.37.129.197|174.37.147.136|iu91.co|sejie.com|ukhuaren.co
 /Images/ak47/*$domain=hanzify.net|hanzify.org
-/images/cc.js$domain=174.123.15.33|70.86.24.117|mayahh.com|mimiok.com
+/images/ccc.js$domain=70.86.24.118|iimaya.com|mayazz.com|mimiok.com
 /images/tuangou$domain=bjxxw.com
 /img/*$image,domain=txzqw.com
 /img/*.gif$domain=lepan.cc|sx566.com|vvpan.com
@@ -4680,7 +4680,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-iimaya.com###table1
 hc360.com,yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
