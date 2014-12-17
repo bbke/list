@@ -14,11 +14,26 @@ body {
   float:left;
   top: 10em;
   left: 20%;
-  margin:0 auto;
+    padding: 0.6em;
+    background-color: #000;
+    opacity:0.65;
+    border:0.1em solid #000;
+}
+#navs span{
+    font-weight: bold;
+    color:white;
+    border-bottom: 0.1em solid #555;
 }
 #link{
   font-size:1.7em;
   font-weight: bold;
   color:gray;
 }
-
+#link a {
+    color: #FFF;
+    text-decoration:none;
+}
+#link img {
+    margin-right:0.25em;
+    margin-bottom: -0.1em;
+}
