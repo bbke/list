@@ -10,10 +10,10 @@ body {
 
 /*设置导航整体面板*/
 #navs {
-  position:relative;
-  float:left;
-  top: 10em;
-  left: 20%;
+    position:relative;
+    top: 15em;
+    width:750px;
+    margin:auto;
     padding: 0.6em;
     background-color: #000;
     opacity:0.65;
