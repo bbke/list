@@ -4260,6 +4260,25 @@ static.ak.fbcdn.net		origincache-starfacebook-ai-01-05-ash3.facebook.com
 127.0.0.1	file.ipinyou.com.cn
 127.0.0.1	stats.ipinyou.com
 #AdBlock END
+#mozilla
+117.18.232.191 addons.cdn.mozilla.net
+117.18.232.191 mozorg.cdn.mozilla.net
+117.18.232.191 developer.cdn.mozilla.net
+117.18.232.191 fhr.cdn.mozilla.net
+117.18.232.191 support.cdn.mozilla.net
+117.18.232.191 marketplace.cdn.mozilla.net
+117.18.232.191 air.cdn.mozilla.net
+117.18.232.191 activations.cdn.mozilla.net
+117.18.232.191 cdn.mozilla.net
+117.18.232.191 download-installer.cdn.mozilla.net
+117.18.237.191 getpersonas-cdn.mozilla.net
+117.18.232.191 snippets.cdn.mozilla.net
+117.18.232.191 telemetry-experiment.cdn.mozilla.net
+117.18.232.191 code.cdn.mozilla.net
+117.18.232.191 videos.cdn.mozilla.net
+117.18.232.191 glow.cdn.mozilla.net
+117.18.237.29 ocsp.digicert.com
+72.21.81.109 df6a.https.cdn.softlayer.net
 #cam4
 93.184.220.90	edgecast.cam4s.com
 93.184.220.90	wac.9218.systemcdn.net
