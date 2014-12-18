@@ -3,7 +3,7 @@ body {
     background-color: #EDEDED;
     background-image: url(../img/Bing/Bing0.jpg);
     background-repeat: no-repeat;
-    background-size:cover; /* 如果屏幕没有铺满，请把auto改为你自己显示器分辨率 */
+    background-size:cover;
     font-family:'Microsoft YaHei';
     font-size: 62.5%;
 }
@@ -11,7 +11,7 @@ body {
 /*设置导航整体面板*/
 #navs {
     position:relative;
-    top: 15em;
+    top: 20em;
     width:750px;
     margin:auto;
     padding: 0.6em;
@@ -24,16 +24,38 @@ body {
     color:white;
     border-bottom: 0.1em solid #555;
 }
-#link{
+#navs table{
   font-size:1.7em;
   font-weight: bold;
+}
+#navs table th{
+  text-align:left;
+  top:0.5em;
   color:gray;
 }
-#link a {
-    color: #FFF;
-    text-decoration:none;
+#navs table tr a{
+    color:#FFF;
 }
-#link img {
-    margin-right:0.25em;
-    margin-bottom: -0.1em;
+#navs table .download a{
+	display:block;
+	padding:10px 10px 10px 45px;
+	background-position:0 50%;
+	background-repeat:no-repeat;
+	background-image:url(../img/download-icons.png)
+}
+
+#navs table .download.win64 a{
+	background-position:-300px 50%
+}
+
+#navs table .download.linux a{
+	background-position:-600px 50%
+}
+
+#navs table .download.linux64 a{
+	background-position:-900px 50%
+}
+
+#navs table .download.mac a{
+	background-position:-1200px 50%
 }
