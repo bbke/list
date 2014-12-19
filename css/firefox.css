@@ -12,7 +12,7 @@ body {
 #navs {
     position:relative;
     top: 20em;
-    width:750px;
+    width:905px;
     margin:auto;
     padding: 0.6em;
     background-color: #000;
@@ -33,7 +33,7 @@ body {
   top:0.5em;
   color:gray;
 }
-#navs table tr a{
+#navs table td a{
     color:#FFF;
 }
 #navs table .download a{
