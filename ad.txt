@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412222001
-! Last Modified: 2014年12月22日 20:01
+! Version: 201412222101
+! Last Modified: 2014年12月22日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -260,7 +260,6 @@ tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
 ||100peng.com^$third-party
 ||100tone.com^$third-party
 ||11125.in^$third-party
-||1133.cc^$third-party
 ||114.com.cn^$third-party
 ||114lm.com^$third-party
 ||115.238.103.82^$third-party
@@ -902,6 +901,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||1133.cc^$third-party
 ||23kmm.com^$third-party
 /adscpc/*
 /adscpv/*
@@ -4697,6 +4697,8 @@ _vmind.qqvideo.tc.qq.com^
 ||tmmov.com/js/inc/
 ||online.cq.cn/commonweb/commonright/right_side
 ||online.cq.cn/huodong/css/
+||tv6080.com/520/index.htm
+||tv6080.com/qqt/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -6427,7 +6429,9 @@ house365.com##.handsome
 973.com##.hc_ad
 youth.cn##.hd_pic
 wn789.com##.hdadbox
-www.tiexue.net##.head + script + script + div > div[class]:first-child
+tiexue.net###junph
+tiexue.net##.right03
+tiexue.net##.head + SCRIPT + DIV[style="overflow:hidden; position:relative;"]
 19lou.com,55bbs.com##.head-ad
 fbook.net##.head-d
 lululu.club##.head-pic
