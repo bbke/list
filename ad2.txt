@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412221029
-! Last Modified: 2014年12月22日 10:29
+! Version: 201412221101
+! Last Modified: 2014年12月22日 11:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -12,7 +12,6 @@
 
 
 ||forum.xitek.com/xml/flash.swf
-||js.tudouui.com/bin/lingtong/app
 ||cdn.optimizely.com^
 ||doubleclick.net^
 ##FONT.jammer
@@ -45,9 +44,6 @@
 ||zol-img.com.cn/bms/js/stat.js
 ||stat.zol.com.cn^
 @@||icon.zol-img.com.cn/public/js/web_foot.js
-!IT之家
-www.ithome.com###qrcode
-||qpic.cn^$domain=www.ithome.com
 !cam4
 cam4.com,cam4.tw###headerBanner, #subfoot, .removeAds, .ads
 @@||cam4.*/ads/directory/$xmlhttprequest
