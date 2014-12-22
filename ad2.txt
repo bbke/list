@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412221003
-! Last Modified: 2014年12月22日 10:03
+! Version: 201412221019
+! Last Modified: 2014年12月22日 10:19
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -13,7 +13,7 @@
 
 ||forum.xitek.com/xml/flash.swf
 ||js.tudouui.com/bin/lingtong/app
-|http://static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
+||static.wenku.bdimg.com/static/common/pkg/pkg_task_3e5f5478.js
 ||cdn.optimizely.com^
 ||doubleclick.net^
 ##FONT.jammer
@@ -23,15 +23,10 @@
 ||jsqmt.qq.com^
 ||scorecardresearch.com^
 ||btrace.qq.com^
-||pstatic.xunlei.com/js/*
-||img.kuai.xunlei.com/js/webxunlei.js
 ||videowood.tv/assets/js/popup.js?*
 ||miwifi.com/d2r/*
 ||analytics.163.com^
-||hotvrs.js.tv.itc.cn^
 ||js.users.51.la^
-||log.collect.yinyuetai.com^
-||gettime.yinyuetai.com^
 ||abcstats.com^$third-party
 ||admaster.com.cn^$third-party
 ||addthis.com^$third-party
@@ -69,6 +64,12 @@ chaturbate.com##.banner, .ad
 ||utrack.hexun.com^
 ||img.hexun.com/app*
 ||img.hexun.com/2014/app/*
+!音悦台
+||log.collect.yinyuetai.com^
+||gettime.yinyuetai.com^
+!迅雷
+||pstatic.xunlei.com/js/*
+||img.kuai.xunlei.com/js/webxunlei.js
 !-------------iFL.txt部分--------------------
 ! Part1 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
@@ -86,7 +87,6 @@ chaturbate.com##.banner, .ad
 ||hm.baidu.com^
 ^monitor.jpg?xcode^
 ||dup.baidustatic.com^
-||static.pay.baidu.com^
 ||youxi.baidu.com
 ||pos.baidu.com
 ||sclick.baidu.com
