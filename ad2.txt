@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412211201
-! Last Modified: 2014年12月21日 12:01
+! Version: 201412221003
+! Last Modified: 2014年12月22日 10:03
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -26,6 +26,7 @@
 ||pstatic.xunlei.com/js/*
 ||img.kuai.xunlei.com/js/webxunlei.js
 ||videowood.tv/assets/js/popup.js?*
+||miwifi.com/d2r/*
 ||analytics.163.com^
 ||hotvrs.js.tv.itc.cn^
 ||js.users.51.la^
@@ -80,7 +81,6 @@ chaturbate.com##.banner, .ad
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
 ||bdimg.share.baidu.com/static/js/*
-||bdimg.share.baidu.com/static/api/js/*
 ||xiu8.com
 ||cb.baidu.com^
 ||hm.baidu.com^
