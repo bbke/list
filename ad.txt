@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412221301
-! Last Modified: 2014年12月22日 13:01
+! Version: 201412221401
+! Last Modified: 2014年12月22日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -4694,10 +4694,12 @@ _vmind.qqvideo.tc.qq.com^
 ||qunar.com/vataplan?framId=ifrNTOPAD&
 ||qunar.com/vataframe/b.html?
 ||dqdm.com/js/dqdm/nei960
+||tmmov.com/js/inc/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tmmov.com##.Sys_head
 du8du8.com##.infos + .mulu_list
 du8du8.com##.good
 hlj3.com###hot
@@ -7330,7 +7332,7 @@ tigtag.com##div[id^="Home942x70_"]
 17k.com##div[id^="PAGE_AD"]
 360che.com,xiazaizhijia.com##div[id^="PAGE_AD_"]
 90bfw.com##div[id^="ShowTopAds_"]
-wenku.baidu.com##div[id^="Zuniqueid_"]
+wenku.baidu.com##.tiger-vip-dialog
 kunming.cn##div[id^="_picadv_"]
 dayoo.com,liewen.cc,mycar168.com,pchome.net,qz828.com##div[id^="ad"]
 9666.cn##div[id^="ad20"]
