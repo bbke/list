@@ -3,7 +3,7 @@ var Config = getMStr(function(){
     var sites;
 /*
 资讯
-	IT 资讯,  http://www.ithome.com/list/, img/web/ithome.ico
+	IT 资讯,  http://www.ithome.com/, img/web/ithome.ico
 	抽屉新热榜,  http://dig.chouti.com/, img/web/chouti.ico
 	CNBeta,     http://www.cnbeta.com/, img/web/cnBeta.ico
 	果壳网,   http://www.guokr.com/, img/web/guokr.ico
