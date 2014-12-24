@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412242301
-! Last Modified: 2014年12月24日 23:01
+! Version: 201412250601
+! Last Modified: 2014年12月25日 06:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -4056,8 +4056,8 @@ _vmind.qqvideo.tc.qq.com^
 ||sohu.com/ssi/ad.js
 ||somag.qiniudn.com/uploads/image/20141013000733_14164.gif
 ||soso.com/baike/js/ad_
-||soul-plus.net/images/manqu4.jpg
-||soul-plus.net/images/moe68.gif
+||soul-plus.net/images/manqu
+||soul-plus.net/images/moe
 ||source.qunar.com/site/images/wns/
 ||southmoney.com/page/inc/
 ||southmoney.com/page/top
@@ -4700,10 +4700,16 @@ _vmind.qqvideo.tc.qq.com^
 ||sinaimg.cn/large/c1e72e29*.gif
 ||faidns.com/image/site/faiscoAd/
 ||cunbt.com/images/*.gif
+||ddata.over-blog.com^*.gif
+||tzfdc.com.cn/userfiles/flash/
+||cp.ifeng.com/iframe/getiframe
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
+tzfdc.com.cn##DIV[id^="LMT_"]
 gpcxw.com###AA2
+ipv6.baidu.com,www.baidu.com,www1.baidu.com##.opr-xmas-game-container
+ipv6.baidu.com,www.baidu.com,www1.baidu.com##.result-op[tpl="right_chris_prize_list"]
 icoc.cc##.siteAdvertisement_box
 mydigit.cn##.radio
 fuliba.asia,fuli.ba,fuliba.mobi###ifanr_social_widget-4 + .widget
