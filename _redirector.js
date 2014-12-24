@@ -15,13 +15,8 @@ rules = [{
     regex: true,
 },{
     name: "Google Ajax/Fonts http >> 360公共库",
-    from: /^http:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
+    from: /^https?:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
     to: "http://$1.useso.com/$2",
-    regex: true
-},{
-    name: "Google Ajax/Fonts https >> 科大博客",
-    from: /^https:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
-    to: "https://$1.lug.ustc.edu.cn/$2",
     regex: true
 },{
     name: "Google Themes >> 科大博客",
@@ -35,7 +30,7 @@ rules = [{
     regex: true
 },{
     name: "Google统计和tag >> mingto.tk",
-    from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices)\.com\/([\w]+\/)*([\w]+\.js)/i,
+    from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices|googleadservices)\.com\/([\w]+\/)*([\w]+(\.[\w]+)?)/i,
     to: "http://minggo.coding.io/cdn/google/$4",
     regex: true
 },{
@@ -105,7 +100,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用网站（一）",
-    from: /^http:\/\/(www\.baidu\.com|upload\.wikimedia\.org|t\.williamgates\.net)(.*)/i,
+    from: /^http:\/\/(www\.baidu\.com|upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
     to: "https://$1$2",
     regex: true
 },{
