@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412221101
-! Last Modified: 2014年12月22日 11:01
+! Version: 201412252101
+! Last Modified: 2014年12月25日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -11,35 +11,35 @@
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 
 
-||forum.xitek.com/xml/flash.swf
-||cdn.optimizely.com^
-||doubleclick.net^
 ##FONT.jammer
-||google-analytics.com^
 ||tjs.sjs.sinajs.cn/open/analytics/*
-||file.ithome.com/js/wap/common.js
-||jsqmt.qq.com^
-||scorecardresearch.com^
-||btrace.qq.com^
 ||videowood.tv/assets/js/popup.js?*
+||file.ithome.com/js/wap/common.js
+||forum.xitek.com/xml/flash.swf
+*/hezuo/*^$domain=bbs.gfan.com
+||member.jschina.com.cn/AD*
 ||miwifi.com/d2r/*
 ||analytics.163.com^
 ||js.users.51.la^
+||cdn.optimizely.com^
+||doubleclick.net^
+||google-analytics.com^
+||jsqmt.qq.com^
+||btrace.qq.com^
+||i.match.qq.com^
+||js.aq.qq.com^
 ||abcstats.com^$third-party
 ||admaster.com.cn^$third-party
 ||addthis.com^$third-party
-||cnzz.com^$third-party
 ||baifendian.com^$third-party
 ||bfdcdn.com^$third-party
+||cnzz.com^$third-party
 ||irs01.com^$third-party
 ||irs01.net^$third-party
 ||jiathis.com^$third-party
 ||imlive.com^$third-party
 ||projectwonderful.com^$third-party
-*/hezuo/*^$domain=bbs.gfan.com
-||i.match.qq.com^
-||js.aq.qq.com^
-||member.jschina.com.cn/AD*
+||scorecardresearch.com^$third-party
 !zol
 ||zol-img.com.cn/bms/js/stat.js
 ||stat.zol.com.cn^
