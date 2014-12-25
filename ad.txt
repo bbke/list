@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412251801
-! Last Modified: 2014年12月25日 18:01
+! Version: 201412251901
+! Last Modified: 2014年12月25日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -898,6 +898,8 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||yule8.net^$third-party
+||104.195.62.12^
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -1011,7 +1013,6 @@ hk.yahoo.com###mntl1
 ||aidaicn.com^$third-party
 ||ajaxcdn.org^
 ||ajhdf.com^$third-party
-||ali880.com^$third-party
 ||alimama.cn^$third-party,domain=~alimama.com|~budou.com|~foctop.com|~hetongal.ac.cn|~meidebi.com|~taobao.com|~taobao.com.cn|~youhuiyouhui.com.cn
 ||allyes.$third-party
 ||amazingmagics.com^
@@ -1152,7 +1153,6 @@ hk.yahoo.com###mntl1
 ||notice.uchome.manyou.com^
 ||o091i.com^$third-party
 ||offcn.com^$third-party
-||oivipqmi.com^$third-party
 ||okm918.com^
 ||okokw.com^$third-party
 ||onetad.com^$third-party
@@ -1211,7 +1211,6 @@ hk.yahoo.com###mntl1
 ||unionsky.cn^$third-party
 ||unionsky2.cn^$third-party
 ||urlad.com.tw^$third-party
-||uvasqwllap.com^$third-party
 ||v-links.net^$third-party
 ||vamaker.com^$third-party
 ||visadd.com^$third-party
@@ -4675,7 +4674,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zk168.com.cn/js/b.js
 ||zk168.com.cn/js/fwpd.js
 ||zk168.com.cn/js/sy
-||zmeve.com/y1.js
 ||zo66.com^
 ||zol.com.cn/ajax/book2013/add_jindou_tips.php
 ||zol.com.cn/intelcorp/
@@ -4707,6 +4705,8 @@ _vmind.qqvideo.tc.qq.com^
 ||macappbox.com/d/file/p/*.gif
 /Addsa.dsj/Bsdd_1010/*Baidu
 ||120.27.34.156^*.gif
+||51zxav.com/ads/
+||tv520.pw/c*.html
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -7763,6 +7763,8 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||gqdzs.com/gg/i.js
+@@||gqzzw.com/gg/i.js
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
