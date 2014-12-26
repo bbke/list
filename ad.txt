@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412261101
-! Last Modified: 2014年12月26日 11:01
+! Version: 201412261201
+! Last Modified: 2014年12月26日 12:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -4708,10 +4708,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||ilunpo.com/1.jpg
+||ilunpo.com/2.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wuleba.com###wulebashowcpc
 hqdoor.com##.index_ad2
 hc360.com,yaolan.com###AD
 21yq.com###AD1
@@ -7157,7 +7160,7 @@ gamebase.com.tw##[id^="aid_"]
 51240.com##[id^="ggwz"]
 jump.bdimg.com,tieba.baidu.com##[id^="spreadad_"]
 xiaohua.hao.360.cn##a[href$="?realtime"]
-chdbits.org,hdcmct.org,wuleba.com##a[href*=".taobao"]
+chdbits.org,hdcmct.org##a[href*=".taobao"]
 cosersuki.org,lightnovel.cn,mengmao.org##a[href*=".taobao.com"]
 lightnovel.cn##a[href*=".tmall.com"]
 18p2p.com##a[href*="/? Intr="]
