@@ -2,8 +2,8 @@
 
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201412251215
-! Last Modified: 2014年12月25日 12:15
+! Version: 201412271410
+! Last Modified: 2014年12月27日 14:10
 
 ! 本规则为自用简洁版，欢迎补充规则
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -133,10 +133,10 @@ video.yahoo.com
 ||xrea.com
 ||tinypic.com
 ||gmail.com
-||google.com
-||googlesyndication.com
-||googleusercontent.com
-||gstatic.com
+.google.com
+.googlesyndication.com
+.googleusercontent.com
+.gstatic.com
 ||pixiv.net
 ||btspread.com
 ||torrentproject.com
