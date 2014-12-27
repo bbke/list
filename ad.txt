@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412271301
-! Last Modified: 2014年12月27日 13:01
+! Version: 201412271401
+! Last Modified: 2014年12月27日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -5036,6 +5036,7 @@ mtksj.com###contentMidPicAD
 tsdm.net###content_box_300250
 tsdm.net###content_box_60090
 tsdm.net###content_box_72890
+ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [class] > A[href^="//e.baidu.com/?refer="]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > div[style="display:block !important"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > table[style="display:table !important"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [id*="00"]:not([id="100"])
