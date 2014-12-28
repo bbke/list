@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412281201
-! Last Modified: 2014年12月28日 12:01
+! Version: 201412281701
+! Last Modified: 2014年12月28日 17:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -1317,7 +1317,7 @@ hk.yahoo.com###mntl1
 /bt.php?$domain=17domn.com|97down.info|kidown.com|pidown.info|wkdown.info
 /CKYtqCwbdBM?$domain=stormmediagroup.com
 /comiis_yccs/ads/*
-/config.js$domain=06ssss.com|216xx.com|33cfcf.com|468dd.com|468hh.com|55xxx.info|66kkk.info|66riri.com|avtt66.com|fefe22.com|fufu66.com|yypeng.com
+/config.js$domain=06ssss.com|11xsxs.com|216xx.com|33cfcf.com|468dd.com|468hh.com|55xxx.info|66kkk.info|66riri.com|avtt66.com|fefe22.com|fufu66.com|yypeng.com
 /cooperation/*$script,subdocument,domain=firefox.huanqiu.com
 /ddd.js$domain=06ssss.com|882qq.com
 /dddaaa/*$domain=920hot.com|shipinhot.com|ssshhh8.com
@@ -3699,7 +3699,6 @@ _vmind.qqvideo.tc.qq.com^
 ||poto.kikicici.com/up_files/2013-11-25/1385390346MPIr.jpg
 ||poxiao.com/template/default/images/12345.js
 ||pp.7060.com^
-||pps.ipart.cn/comp/hooks.php
 ||ppsimg.com/ipd/fe_res/srcmin/sup/pages/*/flet.js
 ||ppsj.com.cn/images/ppsj300.gif
 ||ppsj.com.cn/images/usa_250_120.gif
@@ -5602,7 +5601,7 @@ ccav1.com,heu8.com###widget_ada
 wacowla.com###widget_appthemes_blog_posts
 ccav1.com###widget_default
 360.cn###wifiAnywhere
-indmi.com,xinji.org###windlocation
+indmi.com###windlocation
 189so.cn###winpop
 xici.net###word_ad
 jump.bdimg.com,tieba.baidu.com###worldcup_guess_frs_wrap
