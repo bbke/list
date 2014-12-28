@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412281801
-! Last Modified: 2014年12月28日 18:01
+! Version: 201412281901
+! Last Modified: 2014年12月28日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -1302,7 +1302,6 @@ hk.yahoo.com###mntl1
 /5B18D06D98BB6B41A12C73EE4E4C2ECA.jpg
 /?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shclk.com|ttft.in|xhcbb.com
 /^http\:\/\/lknovel\.lightnovel\.cn\/(?!(resouses|cover|illustration\/image\/201\d{5}\/\d{14}_\d{5}\.jpg$|images\/grey\.gif))/$image,domain=lknovel.lightnovel.cn
-/^http\:\/\/top\.jobbole.com\/wp-content\/uploads\/sites\/8\/201[45]/\d{2}/\w{30,}\./$domain=jobbole.com
 /Addsa.dsj/Bsdd_1010/*Baidu
 /adscript/crazyad.js
 /aeiou/*$domain=discuss.com.hk|uwants.com
@@ -3116,7 +3115,6 @@ _vmind.qqvideo.tc.qq.com^
 ||jb51.net/2012js/google
 ||jb51.net/js/Dowplayjb51
 ||jb51.net/js/list300tupian
-||jbtalks.cc/static/image/custom/sme-web-hosting-splash.jpg
 ||jbyf.net/2011_Ad/
 ||jbyf.net/JS/1
 ||jd.com/exsites?spread_type=
@@ -3134,7 +3132,6 @@ _vmind.qqvideo.tc.qq.com^
 ||jiaoyou8.com^$domain=mitbbs.com
 ||jiaoyu.baidu.com/tieba/
 ||jiasuba.com/js/jjrjtg.js
-||jiasule.com/lianmeng/images/jiasule_d.gif
 ||jiasule.com/static/js/http_error.js
 ||jinghua.cn/lib/js/news/ad_jh.html
 ||jingnei.net/data/attachment/album/201303/21/005921r7w6kkw26nh765we.jpg
@@ -4706,6 +4703,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jgtj.com.cn##.news_ad
+blog.jobbole.com##SCRIPT + A[href^="http"]
 jump.bdimg.com,tieba.baidu.com##.j_df_card
 house.bdinfo.net##.adb
 baidu.com##.gg-content
@@ -7514,7 +7513,6 @@ ipc.me##div[style="width:336px;height:280px;margin:20px auto 30px auto"]
 niwota.com##div[style="width:365px;height:310px;border:0px solid #ccc;float:left; margin: 0px 10px 5px 0px;"]
 pengfu.com##div[style="width:500px; height:200px; background:#ccc; margin:0 auto 40px;"]
 jgtj.com.cn##div[style="width:500px; height:200px; margin:auto; margin-top:10px; margin-bottom:10px;"]
-jgtj.com.cn##div[style="width:654px; height:300px; margin:auto; margin-top:10px;"]
 china.com##div[style="width:680px;height:90px;padding-left:10px"]
 vipyl.com##div[style="width:692px;height:282px;margin:0px 10px 0px 10px; padding:0px;float:right; overflow:hidden"]
 neihan8.com##div[style="width:728px; margin: 20px auto 0px;"]
@@ -7996,7 +7994,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||jinhongweiqi.com/ad/update/$image,~third-party
 @@||jj.5ccc.net/scripts/new/pagetop.js
 @@||jjjgame.com/plus/ad_
-@@||jobbole.com/wp-content/uploads/sites/8/2014/07/36c4ed88b6ffefc5c83fce3881952875.png
 @@||joy.cn/service.php?*&showad=
 @@||js.tudouui.com/bin/player2/$object
 @@||juxiangyou.com/advert/
