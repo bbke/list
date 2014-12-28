@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412281001
-! Last Modified: 2014年12月28日 10:01
+! Version: 201412281101
+! Last Modified: 2014年12月28日 11:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -3061,9 +3061,9 @@ _vmind.qqvideo.tc.qq.com^
 ||info.lm.tv.sohu.com^$domain=gezila.com
 ||info.vip.iqiyi.com/promotion/
 ||inhe.net/javascript/ad_js/
-||inhe.net/javascript/Jsduilian.js
+||inhe.net/javascript/Jsduilian
 ||inhe.net/Uploadfiles/ad_2014/
-||inhe.net/Uploadfiles/adpublish2012/
+||inhe.*/Uploadfiles/adpublish
 ||inlishui.com/index.php?m=poster&
 ||inte.sogou.com^
 ||iotexpo.com.cn/Images/2014VipReg.swf
@@ -4705,6 +4705,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+house.bdinfo.net##.adb
 baidu.com##.gg-content
 hc360.com,yaolan.com###AD
 21yq.com###AD1
@@ -5872,7 +5873,6 @@ pchome.com.tw##.ad_triple
 stormmediagroup.com##.ad_video
 putclub.com##.ad_vipabc
 yinyuetai.com##.ad_w300
-hd.zhijia.com,house.bdinfo.net,inhe.net##.adb
 ifeng.com##.adbest
 keke001.com,oogps.com##.adbg
 jq22.com##.adbka
