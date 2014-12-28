@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412281901
-! Last Modified: 2014年12月28日 19:01
+! Version: 201412282001
+! Last Modified: 2014年12月28日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -3165,7 +3165,6 @@ _vmind.qqvideo.tc.qq.com^
 ||jpwind.com/images/partner/
 ||jpwind.com^*/scroll.js
 ||jq22.com/assets/ad.png
-||jq22.com/css/img/g300x300.jpg
 ||jrj.com.cn/iframe/zjgjs.html?
 ||jrjimg.cn/aigu/adcj.jpg
 ||jrjimg.cn/homev2/ad/
@@ -5876,7 +5875,6 @@ putclub.com##.ad_vipabc
 yinyuetai.com##.ad_w300
 ifeng.com##.adbest
 keke001.com,oogps.com##.adbg
-jq22.com##.adbka
 17173.tv.sohu.com,68design.net,cdyee.com,eastmoney.com,epochtimes.com,hsw.cn,ifeng.com,jrj.com.cn,phoenixtv.com,xineurope.com,yesky.com##.adbox
 ifeng.com##.adbox02
 ifeng.com##.adbox03
@@ -7768,6 +7766,7 @@ mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
 brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
+popo.tw#@#.header_ad
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@&ad_width=590&$domain=jd.com
