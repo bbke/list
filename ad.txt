@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412291101
-! Last Modified: 2014年12月29日 11:01
+! Version: 201412291201
+! Last Modified: 2014年12月29日 12:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -2872,7 +2872,6 @@ _vmind.qqvideo.tc.qq.com^
 ||houdao.com/images/xxd.jpg
 ||house.inhe.net/javascript/flashdiv.js
 ||house.jschina.com.cn/userfiles/flash/
-||house.jschina.com.cn/userfiles/image/20131106/061805022f21d2d8737937.gif
 ||house.sina.com.cn/2.0/abp/
 ||house.sina.com.cn/2.0/ads/
 ||house365.com/hfads/
@@ -3115,10 +3114,8 @@ _vmind.qqvideo.tc.qq.com^
 ||javazhijia.com/skin/beifeng.gif
 ||javjunkies.com/FL$subdocument
 ||javlibrary.com/js/bnr_
-||jb51.net/2012js/baidu
-||jb51.net/2012js/google
+||jb51.net/2012js/
 ||jb51.net/js/Dowplayjb51
-||jb51.net/js/list300tupian
 ||jbyf.net/2011_Ad/
 ||jbyf.net/JS/1
 ||jd.com/exsites?spread_type=
@@ -4701,10 +4698,12 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||xiaozhu001.com/data/attachment/common/pigbbs/banner.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+xiaozhu001.com###framesh74cG
 jjxw.cn###ads
 jianli-sky.com##.viewbd
 hc360.com,yaolan.com###AD
