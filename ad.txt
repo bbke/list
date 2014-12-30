@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412302201
-! Last Modified: 2014年12月30日 22:01
+! Version: 201412302219
+! Last Modified: 2014年12月30日 22:19
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -130,37 +130,17 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
 ! i贴吧&主页
-tieba.baidu.com##.userinfo_scores.clearfix
-tieba.baidu.com##.ihome_aside_section.ihome_aside_first
-tieba.baidu.com##.advertise_right_index
+tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section
 ! 右上角
-tieba.baidu.com##.u_tbmall
-tieba.baidu.com##.u_appcenterEntrance
-tieba.baidu.com##.u_baiduPrivilege
-tieba.baidu.com##.split
-tieba.baidu.com##.u_wallet
-tieba.baidu.com##.u_app
-tieba.baidu.com##.fMember_cnt
-tieba.baidu.com##.u_joinvip
+tieba.baidu.com##.split, .u_tbmall, .u_app, .u_wallet, .u_joinvip, .fMember_cnt, .u_appcenterEntrance, .u_baiduPrivilege
 ! 顶部
-tieba.baidu.com###game_live_list
-tieba.baidu.com##.icon_group
-tieba.baidu.com##.icon_yyshow
-tieba.baidu.com###j_navtab_wanle
+tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, .icon_yyshow
 ! 右侧
-tieba.baidu.com##.profile_right.user_score
-tieba.baidu.com##.profile_bottom
-tieba.baidu.com##.tieba_notice
-tieba.baidu.com###encourage_entry
+tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice
 ! 中部
 tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid]
-tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
-! 回帖框
-tieba.baidu.com##.tb_poster_placeholder
-tieba.baidu.com##.editor_banned_tip_info
 ! 底部
-tieba.baidu.com##.edui-icon-voice
-
+tieba.baidu.com##.edui-icon-voice, .poster_head_surveillance
 !189.cn
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party
@@ -7724,6 +7704,7 @@ xskwhd.com#@##ad_content
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@/ad_file/*$domain=7net.com.tw
+@@/img_ad/*$domain=yy960.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
