@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412302301
-! Last Modified: 2014年12月30日 23:01
+! Version: 201412310701
+! Last Modified: 2014年12月31日 07:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -140,7 +140,7 @@ tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .
 ! 中部
 tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid]
 ! 底部
-tieba.baidu.com##.edui-icon-voice, .poster_head_surveillance
+tieba.baidu.com##.edui-icon-voice, .edui-icon-medal, .poster_head_surveillance
 !189.cn
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party
