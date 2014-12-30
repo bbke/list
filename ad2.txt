@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412302001
-! Last Modified: 2014年12月30日 20:01
+! Version: 201412302201
+! Last Modified: 2014年12月30日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -130,99 +130,37 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
-! 推广
-tieba.baidu.com##.guessing_watermark
-tieba.baidu.com###pop_frame
-tieba.baidu.com##.download
-tieba.baidu.com##.share
-tieba.baidu.com##.userinfo_honor
-tieba.baidu.com##.card_userinfo_honor.honor_margin_.clearfix
-tieba.baidu.com##.user_card_vip_tips
-tieba.baidu.com##.kn_nine_wrap
-tieba.baidu.com##.star_nav_ico.star_nav_ico_liveshow
-tieba.baidu.com##.item.live_show
-tieba.baidu.com##.member_rank
-tieba.baidu.com###search_bottomad
-tieba.baidu.com##.u9_head
-tieba.baidu.com##.thread_recommend
-tieba.baidu.com###forum_recommend
-tieba.baidu.com###spage_liveshow_slide
-tieba.baidu.com##.icon_yyshow
-tieba.baidu.com###j_navtab_wanle
-tieba.baidu.com##.wanle_tab_tip
-! 右上角
-tieba.baidu.com##.u_mobile
-tieba.baidu.com##.u_tbmall
-tieba.baidu.com##.u_game
-tieba.baidu.com##.u_xiu8
-tieba.baidu.com###search_button
-tieba.baidu.com##.u_appcenterEntrance
-! 普通回帖框
-tieba.baidu.com##.tb_poster_placeholder
-! 话题贴回帖框
-tieba.baidu.com##.editor_banned_tip_info
 ! i贴吧&主页
-tieba.baidu.com##.tb_icon_base
-tieba.baidu.com##.ihome_hot_feed
-tieba.baidu.com##.ihome_aside_section.ihome_info_link
 tieba.baidu.com##.userinfo_scores.clearfix
-tieba.baidu.com##.userinfo_appraise
-tieba.baidu.com##.dialogJmodal
 tieba.baidu.com##.ihome_aside_section.ihome_aside_first
-! 顶部
-tieba.baidu.com##.banner_post
-tieba.baidu.com###pb_adbanner
-tieba.baidu.com##.operation_item
-tieba.baidu.com##.break_title
-tieba.baidu.com###threadListGroupCnt
-tieba.baidu.com##.tieba_notice
-tieba.baidu.com##.icon_group
-tieba.baidu.com##.star_nav_ico_group
-tieba.baidu.com##a.icon_meizhi
-tieba.baidu.com###bdshare
-tieba.baidu.com##.per_list
+tieba.baidu.com##.advertise_right_index
+! 右上角
+tieba.baidu.com##.u_tbmall
+tieba.baidu.com##.u_appcenterEntrance
 tieba.baidu.com##.u_baiduPrivilege
-tieba.baidu.com###plat_act_wrapper
-tieba.baidu.com##div.ui_bubble_wrap:nth-child(4)
-! 右侧
-tieba.baidu.com##.profile_right.user_score
-tieba.baidu.com###aside_ad
-tieba.baidu.com##.u9_aside
-tieba.baidu.com##.item.live_show_aside
-! 底部
-tieba.baidu.com###footer
-tieba.baidu.com##.poster_head
-tieba.baidu.com##.p_sharebar
-tieba.baidu.com##.edui-btn.edui-btn-medal
-tieba.baidu.com##.edui-icon-voice
-tieba.baidu.com##.edui-icon-new
-tieba.baidu.com##.share_btn_wrapper
-! T豆相关
-tieba.baidu.com##.d_icons
-tieba.baidu.com##.d_nameplate
-tieba.baidu.com##.pre_icon_wrap
-tieba.baidu.com##.icon_wrap
-tieba.baidu.com##.p_props_tail
-tieba.baidu.com##.u_mytbmall
-tieba.baidu.com##.u_tshow
 tieba.baidu.com##.split
-tieba.baidu.com##.profile_right.user_tbmall
-tieba.baidu.com##.card_userinfo_guide
-tieba.baidu.com##.profile_bottom
 tieba.baidu.com##.u_wallet
 tieba.baidu.com##.u_app
-tieba.baidu.com###tbmall_score_region
-tieba.baidu.com##.onekey_btn
-tieba.baidu.com##.reward_frs_list
-tieba.baidu.com##.nav_icon.nav_achieve
 tieba.baidu.com##.fMember_cnt
 tieba.baidu.com##.u_joinvip
+! 顶部
+tieba.baidu.com###game_live_list
+tieba.baidu.com##.icon_group
+tieba.baidu.com##.icon_yyshow
+tieba.baidu.com###j_navtab_wanle
+! 右侧
+tieba.baidu.com##.profile_right.user_score
+tieba.baidu.com##.profile_bottom
+tieba.baidu.com##.tieba_notice
 tieba.baidu.com###encourage_entry
-tieba.baidu.com##.content_top
-tieba.baidu.com##.save_face_bg
-tieba.baidu.com###sofa_post
+! 中部
 tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid]
 tieba.baidu.com##.reward_btn.j_reward_btn, #j_navtab_game
+! 回帖框
+tieba.baidu.com##.tb_poster_placeholder
+tieba.baidu.com##.editor_banned_tip_info
+! 底部
+tieba.baidu.com##.edui-icon-voice
 
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com
 @@|http://*.org/admin$image
