@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412302219
-! Last Modified: 2014年12月30日 22:19
+! Version: 201412302301
+! Last Modified: 2014年12月30日 23:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -593,7 +593,6 @@ tw.yahoo.com###eyebrow > a:not(#sethomepage)
 ||s.yimg.com/ja/ap/tw/js/
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||tw.dictionary.search.yahoo.com/beacon/
-||tw.img.webmaster.yahoo.com^*/ystats.gif
 ||tw.yimg.com/a/tw/
 !--HK
 hk.dictionary.yahoo.com###fr-adv
@@ -4626,11 +4625,16 @@ _vmind.qqvideo.tc.qq.com^
 ||yeeyi.com/bbs/api.php?mod=js&bid=
 ||s1979.com/images/2014/tmp/content_
 ||bendibao.com*/tuangou.gif
+||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
+||sinaimg.cn/jslib/kuozhanad.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 yeeyi.com##.ads
+sina.com.cn##.ad_01_center
+sina.com.cn##.ad_01_left
+sina.com.cn##.ad_01_right
 yeeyi.com##.sd.pph > .mbm.hm
 yeeyi.com##.boardnav > #ct > .sd
 yeeyi.com##.sd[style="width:208px;text-align:left;float:right;overflow-x:hidden;"]
