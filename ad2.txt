@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412311201
-! Last Modified: 2014年12月31日 12:01
+! Version: 201412311301
+! Last Modified: 2014年12月31日 13:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -109,7 +109,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb1.bdstatic.com/tb/cms/post/bubble/*
 ||tb2.bdstatic.com/tb/static-comforum/img/*
 ||tb1.bdstatic.com/tb/static-frs/img/title_icon/*
-||tb1.bdstatic.com/tb/static-common/lib/hourglass_*.js
+||tb1.bdstatic.com/tb/static-common/lib/hourglass.js
 ||tb1.bdstatic.com/tb/static-common/widget/ten_years/*
 ||tb1.bdstatic.com/tb/static-pb/widget/pb_track/pb_track.js
 ||tb1.bdstatic.com/tb/static-encourage/widget/welfare_icon/*
@@ -132,13 +132,13 @@ tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside
 ! 右上角
 tieba.baidu.com##.split, .u_tbmall, .u_app, .u_wallet, .u_joinvip, .fMember_cnt, .u_appcenterEntrance, .u_baiduPrivilege
 ! 顶部
-tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, .icon_yyshow, .j_reward_btn, .star_collect_body, .star_nav_ico_group
+tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, .icon_yyshow, .j_reward_btn, .star_nav_ico_group
 ! 右侧
 tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .guide_wrap
 ! 中部
-tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap
+tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .save_face_bg
 ! 底部
-tieba.baidu.com###forum_recommend, .thread_recommend, .edui-icon-voice, .edui-icon-medal, .poster_head_surveillance
+tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .edui-icon-voice, .edui-icon-medal, .poster_head_surveillance
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com
 @@|http://*.org/admin$image
 @@|http://*/ad_js.php?aid=10004
