@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412311301
-! Last Modified: 2014年12月31日 13:01
+! Version: 201412311401
+! Last Modified: 2014年12月31日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -114,8 +114,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb1.bdstatic.com/tb/static-pb/widget/pb_track/pb_track.js
 ||tb1.bdstatic.com/tb/static-encourage/widget/welfare_icon/*
 ||tb1.bdstatic.com/tb/static-frs/img/icon_bright/guessing.png?*
-||tb2.bdstatic.com/tb/static-frs/img/frs_bright/*
-@@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
 ||tb2.bdstatic.com/tb/static-pb/img/save_face/*
 ||tb2.bdstatic.com/tb/static-pb/img/tshow_*.gif
 ||tb2.bdstatic.com/tb/static-pb/img/voice_ad.gif
@@ -127,6 +125,11 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-encourage/widget/global_notice/*
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
+||tb2.bdstatic.com/tb/static-frs/img/frs_bright/*
+@@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
+||tb2.bdstatic.com/tb/static-pcommon/style/common/*
+@@||tb2.bdstatic.com/tb/static-pcommon/style/common/userbar_icon_png
+||tb2.bdstatic.com/tb/*/bright_default_skin*.jpg
 ! i贴吧&主页
 tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #plat_act_wrapper
 ! 右上角
