@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412311901
-! Last Modified: 2014年12月31日 19:01
+! Version: 201412311931
+! Last Modified: 2014年12月31日 19:31
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -104,31 +104,33 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb1.bdstatic.com/tb/cms/img/*
 ||tb1.bdstatic.com/tb/cms/com/*
 ||tb1.bdstatic.com/tb/cms/tbmall/*
-||tb1.bdstatic.com/tb/cms/post/bubble/*
-||tb2.bdstatic.com/tb/static-comforum/img/*
-||tb1.bdstatic.com/tb/static-frs/img/title_icon/*
 ||tb1.bdstatic.com/tb/static-common/lib/hourglass.js
-||tb1.bdstatic.com/tb/static-common/widget/ten_years/*
 ||tb1.bdstatic.com/tb/static-pb/widget/pb_track/pb_track.js
 ||tb1.bdstatic.com/tb/static-encourage/widget/welfare_icon/*
 ||tb1.bdstatic.com/tb/static-frs/img/icon_bright/guessing.png?*
-||tb2.bdstatic.com/tb/static-pb/img/tshow_*.gif
+||tb2.bdstatic.com/tb/static-pb/img/tshow*.gif
 ||tb2.bdstatic.com/tb/static-pb/img/voice_ad.gif
 ||tb2.bdstatic.com/tb/static-pb/widget/vie_sofa/*
 ||tb2.bdstatic.com/tb/static-frs/img/icon_bright/*
 ||tb2.bdstatic.com/tb/static-ihome/widget/onekey_sign/*
-||tb2.bdstatic.com/tb/static-encourage/widget/firework/*
-||tb2.bdstatic.com/tb/static-encourage/widget/global_notice/*
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 ||tb2.bdstatic.com/tb/static-frs/img/frs_bright/*
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
-||tb2.bdstatic.com/tb/static-pcommon/style/common/*
-@@||tb2.bdstatic.com/tb/static-pcommon/style/common/userbar_icon_png
+||tb2.bdstatic.com/tb/static-common/style/common/*
+@@||tb2.bdstatic.com/tb/static-common/style/common/userbar_icon_png*.png
 ||tb2.bdstatic.com/tb/*/bright_default_skin*.jpg
-||tb1.bdstatic.com/tb/static-common/img/icons/*
 ||tb2.bdstatic.com/tb/static-ppb/img/save_face/*
-||tieba.baidu.com/tb/static-props/img/props/egg.png
+||tieba.baidu.com/tb/static-props/img/props/*
+||tb2.bdstatic.com/tb/static-common/img/rich_editor/new*
+||tb2.bdstatic.com/tb/static-liveshow/widget/frs_aside_slide/*
+||tb2.bdstatic.com/tb/static-user/widget/my_tieba/img/*
+||tb2.bdstatic.com/tb/static-user/widget/my_current_forum/img/*
+||tb2.bdstatic.com/tb/static-encourage/widget/encourage_entry/*
+||tb1.bdstatic.com/tb/static-encourage/widget/firework/*
+||tb1.bdstatic.com/tb/static-encourage/widget/global_notice/*
+||tb2.bdstatic.com/tb/static-pb/widget/reward/img/*
+||tb2.bdstatic.com/tb/static-ucenter/img/*
 ! i贴吧&主页
 tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #plat_act_wrapper
 ! 右上角
@@ -4636,10 +4638,13 @@ _vmind.qqvideo.tc.qq.com^
 ||linkwan.com/gb/javascript/b4.js
 ||qiporn.com/media/banners/
 ||3344bt.com^*.js
+||9938.net/video/tvg/footer.js
+||9938.net/video/tvg/hot.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+qubilou.com##.poster_310x250
 61.135.158.90###popupDivgame
 ting89.com##.banner250
 ting89.com##.banner688_1
@@ -7725,6 +7730,7 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||pep.com.cn/rjs/guanggao/
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -8227,6 +8233,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdnet.com.cn/js/pv.js
 ||zdw.w8.com.cn/p.ht?
 ||zol.com.cn/cgimp/zc.js
+||zhulang.com/zlpv.php
 
 &ad_type=
 &ad_url=
