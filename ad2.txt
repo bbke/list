@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412310701
-! Last Modified: 2014年12月31日 07:01
+! Version: 201412310801
+! Last Modified: 2014年12月31日 08:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -76,7 +76,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 */tb/_/tshow_out_date_warn_*.js
 ||bdimg.share.baidu.com/static/js/*
 ||xiu8.com
-||cb.baidu.com^
 ^monitor.jpg?xcode^
 ||dup.baidustatic.com^
 ||youxi.baidu.com
@@ -85,10 +84,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||eclick.baidu.com
 ||nsclick.baidu.com
 ||wanba.baidu.com
-||api.share.baidu.com
 ||img.live.yy.com/avatar/*
 ||share.baidu.com/static/js/*
-||image.yy.com/yysnapshot/*
+||screenshot.dwstatic.com^
 ||img.baidu.com/hunter/alog/*
 ||imgsrc.baidu.com/tieba/pic/item/*
 ||bdimg.share.baidu.com/static/css/*
@@ -131,13 +129,13 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
 ! i贴吧&主页
-tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section
+tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #plat_act_wrapper
 ! 右上角
 tieba.baidu.com##.split, .u_tbmall, .u_app, .u_wallet, .u_joinvip, .fMember_cnt, .u_appcenterEntrance, .u_baiduPrivilege
 ! 顶部
-tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, .icon_yyshow
+tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, .icon_yyshow, .j_reward_btn
 ! 右侧
-tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice
+tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .guide_wrap
 ! 中部
 tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid]
 ! 底部
