@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201412311701
-! Last Modified: 2014年12月31日 17:01
+! Version: 201412311801
+! Last Modified: 2014年12月31日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -811,6 +811,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 ##script + .sptable[cellpadding="5"]
 ###ptcmsad1
+##.pagead_3
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
 /adscpc/*
@@ -4172,7 +4173,6 @@ _vmind.qqvideo.tc.qq.com^
 ||u.cnzol.com^
 ||u.riju.com/click.php
 ||u8xs.com/js/box_
-||u8xs.com/js/tj.js
 ||u8xs.com/js/yuedu_
 ||uc8.cc/_style/2013/js/all.js
 ||ucbug.com/js/left.js
@@ -4635,6 +4635,8 @@ _vmind.qqvideo.tc.qq.com^
 ||linkwan.com/gb/broadmeter/speed/cp.js
 ||linkwan.com/gb/javascript/c5-
 ||linkwan.com/gb/javascript/b4.js
+||qiporn.com/media/banners/
+||3344bt.com^*.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -6690,7 +6692,6 @@ bbdj.com##.p_r1
 actoys.net##.p_top_ad
 tw.yahoo.com##.pa-banner
 cjdby.net##.page_right_ad
-bxwx.org,u8xs.com##.pagead_3
 qqyy.com##.par-ad336
 www.sina.com.cn##.part-k-l > .mod-13
 www.sina.com.cn##.part-l
