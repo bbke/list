@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412312001
-! Last Modified: 2014年12月31日 20:01
+! Version: 201412312201
+! Last Modified: 2014年12月31日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -85,16 +85,16 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||wanba.baidu.com
 ||img.live.yy.com/avatar/*
 ||share.baidu.com/static/js/*
-||screenshot.dwstatic.com^
+||screenshot.dwstatic.com^$domain=tieba.baidu.com
 ||img.baidu.com/hunter/alog/*
 ||imgsrc.baidu.com/tieba/pic/item/*
 ||bdimg.share.baidu.com/static/css/*
 ||m.tiebaimg.com/timg?wapp&imgtype=0^
-||tb1.bdstatic.com/tb/static-common/js/pic_share/*
 ||jiaoyu.baidu.com/tieba/*
 ||tieba.baidu.com/tbscore/*
 ||tieba.baidu.com/f/urlcheck?*
-||tieba.baidu.com/tb/cms/game_rank/*
+||tieba.baidu.com/tb/cms/game_*$image
+||tieba.baidu.com/tb/static-props/img/props/*
 ||tieba.baidu.com/tb/static-frs/img/icon_bright/*
 ||tieba.baidu.com/tb/static-comforum/img/history_game/*
 ||static.tieba.baidu.com/tb/pms/*
@@ -102,10 +102,16 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||static.tieba.baidu.com/tb/img/track.gif?*
 ||bdstatic.com/tb/static-common/img/card/*
 ||s1.bdstatic.com/r/www/cache/baidu_search/*
+||tb1.bdstatic.com/tb/cms/img/*
 ||tb1.bdstatic.com/tb/cms/com/*
 ||tb1.bdstatic.com/tb/cms/tbmall/*
+||tb1.bdstatic.com/tb/cms/*/adsense/*
+||tb1.bdstatic.com/tb/cms/post/bubble/*
+||tb1.bdstatic.com/tb/static-common/js/pic_share/*
 ||tb1.bdstatic.com/tb/static-common/lib/hourglass.js
 ||tb1.bdstatic.com/tb/static-pb/widget/pb_track/pb_track.js
+||tb1.bdstatic.com/tb/static-encourage/widget/firework/*
+||tb1.bdstatic.com/tb/static-encourage/widget/global_notice/*
 ||tb1.bdstatic.com/tb/static-encourage/widget/welfare_icon/*
 ||tb1.bdstatic.com/tb/static-frs/img/icon_bright/guessing.png?*
 ||tb2.bdstatic.com/tb/static-pb/img/tshow*.gif
@@ -121,22 +127,15 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 @@||tb2.bdstatic.com/tb/static-common/style/common/userbar_icon_png*.png
 ||tb2.bdstatic.com/tb/*/bright_default_skin*.jpg
 ||tb2.bdstatic.com/tb/static-ppb/img/save_face/*
+||tb2.bdstatic.com/tb/static-common/img/props/*
 ||tb2.bdstatic.com/tb/static-common/img/rich_editor/new*
 ||tb2.bdstatic.com/tb/static-comforum/img/history_game/*
 ||tb2.bdstatic.com/tb/static-liveshow/widget/frs_aside_slide/*
 ||tb2.bdstatic.com/tb/static-user/widget/my_tieba/img/*
 ||tb2.bdstatic.com/tb/static-user/widget/my_current_forum/img/*
 ||tb2.bdstatic.com/tb/static-encourage/widget/encourage_entry/*
-||tb1.bdstatic.com/tb/static-encourage/widget/firework/*
-||tb1.bdstatic.com/tb/static-encourage/widget/global_notice/*
 ||tb2.bdstatic.com/tb/static-pb/widget/reward/img/*
 ||tb2.bdstatic.com/tb/static-ucenter/img/*
-||tb1.bdstatic.com/tb/cms/post/bubble/*
-||tb1.bdstatic.com/tb/cms/img/*
-||tb1.bdstatic.com/tb/cms/*/adsense/*
-||tb2.bdstatic.com/tb/static-common/img/props/*
-||tieba.baidu.com/tb/static-props/img/props/*
-||tieba.baidu.com/tb/cms/game_test/*
 ! i贴吧&主页
 tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #plat_act_wrapper
 ! 右上角
