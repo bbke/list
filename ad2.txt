@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201412310801
-! Last Modified: 2014年12月31日 08:01
+! Version: 201412310901
+! Last Modified: 2014年12月31日 09:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -43,8 +43,8 @@
 ||stat.zol.com.cn^
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 !cam4
-cam4.com,cam4.tw###headerBanner, #subfoot, .removeAds, .ads
-||cam4.*/ads/directory/$xmlhttprequest
+||cam4.*###headerBanner, #subfoot, .removeAds, .ads
+||cam4.*/ads/$xmlhttprequest
 !chaturbate
 ||chaturbate.com/affiliates/
 ||chaturbate.com/sitestats/openwindow/$popup
@@ -63,8 +63,7 @@ chaturbate.com##.banner, .ad
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||wenku.baidu.com/static/view/*.js
 ||hm.baidu.com^
-!-------------iFL.txt部分--------------------
-! Part1 屏蔽一些图片和脚本
+! 屏蔽一些图片和脚本
 @@*/tb/_/repost_*.js
 @@*/tb/_/upload_*.js
 @@*/tb/_/pop_video_*.js
@@ -139,7 +138,7 @@ tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .
 ! 中部
 tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid]
 ! 底部
-tieba.baidu.com##.edui-icon-voice, .edui-icon-medal, .poster_head_surveillance
+tieba.baidu.com###forum_recommend, .thread_recommend, .edui-icon-voice, .edui-icon-medal, .poster_head_surveillance
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com
 @@|http://*.org/admin$image
 @@|http://*/ad_js.php?aid=10004
