@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501010901
-! Last Modified: 2015年01月01日 09:01
+! Version: 201501011201
+! Last Modified: 2015年01月01日 12:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -127,14 +127,14 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/*/bright_default_skin*.jpg
 ||tb2.bdstatic.com/tb/static-ppb/img/save_face/*
 ||tb2.bdstatic.com/tb/static-common/img/props/*
+||tb2.bdstatic.com/tb/static-pb/widget/reward/img/*
 ||tb2.bdstatic.com/tb/static-common/img/rich_editor/new*
 ||tb2.bdstatic.com/tb/static-comforum/img/history_game/*
 ||tb2.bdstatic.com/tb/static-liveshow/widget/frs_aside_slide/*
 ||tb2.bdstatic.com/tb/static-user/widget/my_tieba/img/*
 ||tb2.bdstatic.com/tb/static-user/widget/my_current_forum/img/*
 ||tb2.bdstatic.com/tb/static-encourage/widget/encourage_entry/*
-||tb2.bdstatic.com/tb/static-pb/widget/reward/img/*
-||tb2.bdstatic.com/tb/static-ucenter/img/*
+||tb2.bdstatic.com/tb/static-pcommon/widget/flash_lcs/swf/*
 ! i贴吧&主页
 tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #plat_act_wrapper
 ! 右上角
