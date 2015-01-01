@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501011901
-! Last Modified: 2015年01月01日 19:01
+! Version: 201501012001
+! Last Modified: 2015年01月01日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -86,8 +86,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||screenshot.dwstatic.com^$domain=tieba.baidu.com
 ||img.baidu.com/hunter/alog/*
 ||imgsrc.baidu.com/tieba/pic/item/*
-||bdimg.share.baidu.com/static/css/*
 ||m.tiebaimg.com/timg?wapp&imgtype=0^
+||m.baidu.com/static/as/res2exe/js/*
 ||jiaoyu.baidu.com/tieba/*
 ||tieba.baidu.com/tbscore/*
 ||tieba.baidu.com/f/urlcheck?*
@@ -99,13 +99,15 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||static.tieba.baidu.com/tb/img/track.gif?*
 ||bdstatic.com/tb/static-common/img/card/*
 ||s1.bdstatic.com/r/www/cache/baidu_search/*
+||tb1.bdstatic.com/tb/r/image/
 ||tb1.bdstatic.com/tb/cms/img/*
 ||tb1.bdstatic.com/tb/cms/com/*
 ||tb1.bdstatic.com/tb/cms/tbmall/*
 ||tb1.bdstatic.com/tb/cms/post/bubble/*
 ||tb1.bdstatic.com/tb/static-adsense/widget/loader/*
-||tb1.bdstatic.com/tb/static-common/js/pic_share/*
+||tb1.bdstatic.com/tb/static-common/img/nameplate/*
 ||tb1.bdstatic.com/tb/static-common/lib/hourglass.js
+||tb1.bdstatic.com/tb/static-common/js/pic_share/logger.js
 ||tb1.bdstatic.com/tb/static-pb/widget/pb_track/pb_track.js
 ||tb1.bdstatic.com/tb/static-encourage/widget/firework/*
 ||tb1.bdstatic.com/tb/static-encourage/widget/global_notice/*
@@ -114,7 +116,10 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-pb/img/tshow*.gif
 ||tb2.bdstatic.com/tb/static-pb/img/voice_ad.gif
 ||tb2.bdstatic.com/tb/static-pb/widget/vie_sofa/*
+||tb2.bdstatic.com/tb/static-pb/widget/thread_recommend/*
 ||tb2.bdstatic.com/tb/static-frs/img/icon_bright/*
+||tb2.bdstatic.com/tb/static-album/img/*
+@@||tb2.bdstatic.com/tb/static-album/img/like_pic*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/onekey_sign/*
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
@@ -123,7 +128,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-common/style/common/*
 @@||tb2.bdstatic.com/tb/static-common/style/common/userbar_icon_png*.png
 ||tb2.bdstatic.com/tb/*/bright_default_skin*.jpg
-||tb2.bdstatic.com/tb/static-ppb/img/save_face/*
+||tb2.bdstatic.com/tb/static-*pb/img/save_face/*
 ||tb2.bdstatic.com/tb/static-common/img/props/*
 ||tb2.bdstatic.com/tb/static-pb/widget/reward/img/*
 ||tb2.bdstatic.com/tb/static-common/img/rich_editor/new*
@@ -142,7 +147,7 @@ tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, 
 ! 右侧
 tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .guide_wrap
 ! 中部
-tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .save_face_bg
+tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .save_face_bg, .j_nameplate
 ! 底部
 tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .add_guessing_btn, .edui-icon-voice, .edui-icon-medal, .poster_head_surveillance
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com
