@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         14.12.28.15
+// @version         15.01.02.11
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADsM.uc.js
 // ==/UserScript==
 (function() {
@@ -69,16 +69,12 @@
             're': /http:\/\/player.pplive.cn\/live\/.*\/player4live2\.swf/i
         },
 		'sohu': {
-           'player': refD + 'sohu.swf',
-           're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(?!(ap|live|\d+)).*\d+\/(main|PlayerShell)\.swf/i
+           'player': refD + 'sohulive.swf',
+           're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(?!ap).*\d+\/(main|PlayerShell)\.swf/i
         },
         'sohu_liv': {
            'player': refD + 'sohulive.swf',
            're': /http:\/\/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}(:[0-9]{2,5})?(\/test)?\/(player|webplayer)\/(main|playershell)\.swf/i
-        },
-        'sohu_live': {
-           'player': refD + 'sohulive.swf',
-           're': /http:\/\/tv\.sohu\.com\/upload\/swf\/(live\/|)\d+\/(main|PlayerShell)\.swf/i
         },
 		'pps': {
             'player': refD + 'pps.swf',
