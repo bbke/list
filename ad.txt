@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501022001
-! Last Modified: 2015年01月02日 20:01
+! Version: 201501022101
+! Last Modified: 2015年01月02日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -795,7 +795,7 @@ hk.yahoo.com###mntl1
 ##.yd_ad3
 ##a[href*=".222ing.com.tw"]
 ##a[href*=".com/?INTR="]
-##a[href*=".com/?Intr="]
+##a[href*="com/?Intr="]
 ##a[href*=".com/?intr="]
 ##a[href="http://www.caoliushow.com"]
 ##a[href="http://www.quer365.org/dl.php"]
@@ -822,6 +822,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||jlssbz.com^
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -5938,6 +5939,7 @@ frdic.com##.alert
 4493.com##.allright
 ifeng.com##.an
 ifeng.com##.pic280
+ifeng.com##.Avt02
 5253.com##.app5253-intro-ctn
 jump.bdimg.com,tieba.baidu.com##.app_forum_top_nav
 keywin.org##.appdownload
