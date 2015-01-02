@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501022101
-! Last Modified: 2015年01月02日 21:01
+! Version: 201501022201
+! Last Modified: 2015年01月02日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -1248,7 +1248,7 @@ hk.yahoo.com###mntl1
 /bt.php?$domain=17domn.com|97down.info|kidown.com|pidown.info|wkdown.info
 /CKYtqCwbdBM?$domain=stormmediagroup.com
 /comiis_yccs/ads/*
-/config.js$domain=06ssss.com|11xsxs.com|216xx.com|33cfcf.com|468dd.com|468hh.com|55xxx.info|66kkk.info|66riri.com|avtt66.com|fefe22.com|fufu66.com|yypeng.com
+/config.js$domain=06ssss.com|11xsxs.com|216xx.com|33cfcf.com|468xx.com|468jj.com|avtt66.com|fefe22.com|fufu66.com|jiji44.com
 /cooperation/*$script,subdocument,domain=firefox.huanqiu.com
 /ddd.js$domain=06ssss.com|882qq.com
 /dddaaa/*$domain=920hot.com|shipinhot.com|ssshhh8.com
@@ -4651,10 +4651,12 @@ _vmind.qqvideo.tc.qq.com^
 ||100bt.com^*=qq_topic_ad
 ||kelepan.com/cp
 ||dwstatic.com/amkit/p/duya/special/list-notice/banner-app.jpg
+||ettoday.net/banners/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dmm.hk##DIV[class^="ad_"]
 100bt.com##.ads
 jump.bdimg.com,tieba.baidu.com###j_star_bus_before
 hc360.com,yaolan.com###AD
