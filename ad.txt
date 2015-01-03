@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501031201
-! Last Modified: 2015年01月03日 12:01
+! Version: 201501031301
+! Last Modified: 2015年01月03日 13:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -8177,8 +8177,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||icon.zol-img.com.cn/mainpage/js/click.js
 ||icon.zol-img.com.cn/public/js/web_foot.js
 ||ifengimg.com^*/sta_collection
-||ifengimg.com^*/staytime.
-||ifengimg.com^*/wrating.js
 ||img.kuai.xunlei.com/js/statistics.js
 ||imp.zol.com.cn^
 ||iqiyi.com/js/pingback/
