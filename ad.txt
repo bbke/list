@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501031801
-! Last Modified: 2015年01月03日 18:01
+! Version: 201501031901
+! Last Modified: 2015年01月03日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -795,9 +795,9 @@ hk.yahoo.com###mntl1
 ##.yd_ad2
 ##.yd_ad3
 ##a[href*=".222ing.com.tw"]
-##a[href*=".com/?INTR="]
-##a[href*=".com/?intr="]
-##a[href*="com/?Intr="]
+##a[href*="/?INTR="]
+##a[href*="/?intr="]
+##a[href*="/?Intr="]
 ##a[href="http://www.caoliushow.com"]
 ##a[href="http://www.quer365.org/dl.php"]
 ##a[href^="http://188.qy8.me"]
@@ -4646,6 +4646,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||saibeinews.com/index.php?m=poster&c=index&a=show_poster&
 ||soul-plus.net/images/21376aq0537167677264759e5.
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
@@ -7750,6 +7751,7 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||saibeinews.com/index.php?m=poster&c=index&a=show_poster&id=2
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -8254,6 +8256,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
+||dcs.conac.cn/js/
 
 &ad_type=
 &ad_url=
