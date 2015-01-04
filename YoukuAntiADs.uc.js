@@ -5,13 +5,13 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         15.01.02.11
+// @version         15.01.04.21
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs.uc.js
 // ==/UserScript==
 (function() {
     // YoukuAntiADs, request observer
     function YoukuAntiADs() {};
-    var refD = 'http://minggo.coding.io/swf/';
+    var refD = 'http://2.minggo.tk/swf/';
     YoukuAntiADs.prototype = {
     SITES: {
         'youku_loader': {
