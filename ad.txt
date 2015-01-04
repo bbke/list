@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501042301
-! Last Modified: 2015年01月04日 23:01
+! Version: 201501050601
+! Last Modified: 2015年01月05日 06:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -4670,6 +4670,10 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dmm.hk##.ad_792
+dmm.hk##.ad_793
+dmm.hk##.ad_794
+dmm.hk##.ad_79a
 jiaonan.net##.adverframe
 jschina.com.cn##DIV[style^="width:640px;"][style$="margin:0 auto;overflow:hidden;"]
 jjj8.cn##DIV[style="MARGIN: 0px auto 5px auto; WIDTH: 960px; HEIGHT: 100px"]
@@ -7282,7 +7286,7 @@ yesky.com##div[class^="ad7"]
 yesky.com##div[class^="ad9"]
 ifeng.com##div[class^="adList"]
 www.qq.com##div[class^="adRight"]
-alibuybuy.com,chewen.com,dmm.hk,faloo.com,haogongju.net,newhua.com,ph66.com,tv.cntv.cn##div[class^="ad_"]
+alibuybuy.com,chewen.com,faloo.com,haogongju.net,newhua.com,ph66.com,tv.cntv.cn##div[class^="ad_"]
 uuu9.com##div[class^="ad_140"]
 pchome.com.tw##div[class^="ad_ec"]
 xinhuanet.com##div[class^="ad_gd"]
