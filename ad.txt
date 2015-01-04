@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501041901
-! Last Modified: 2015年01月04日 19:01
+! Version: 201501042001
+! Last Modified: 2015年01月04日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -90,7 +90,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tieba.baidu.com/f/urlcheck?*
 ||tieba.baidu.com/f/index/indexGame
 ||tieba.baidu.com/app/pop/bws/popup
-||tieba.baidu.com/dc/common/imgtbs
 ||tieba.baidu.com/tb/cms/game_*$image
 ||tieba.baidu.com/tb/static-frs/img/icon_bright/*
 ||tieba.baidu.com/tb/static-comforum/img/history_game/*
@@ -2277,7 +2276,6 @@ _vmind.qqvideo.tc.qq.com^
 ||creativetop.com/cn/pic/laogu_adv.gif
 ||crs.baidu.com^
 ||cs.com.cn/csad/
-||cs.js.cn/cs2010/script/ks.js
 ||cs360.cn/js/search_zcw.js
 ||csdn.net/ggmm/
 ||csdn.net/msg.popup.js
@@ -4540,7 +4538,6 @@ _vmind.qqvideo.tc.qq.com^
 ||youthwant.com.tw/images/mot_ad.jpg
 ||youthwant.com.tw/S_YahooContentMatch1.
 ||youthwant.com.tw/scripts/youthad.js
-||youtu.zjg.js.cn/data/js/
 ||youxi.baidu.com/tips/bdtips_min.js
 ||youxiaxiazai.com/db_top/index_top.htm
 ||youxiaxiazai.com/dm/
@@ -4666,10 +4663,13 @@ _vmind.qqvideo.tc.qq.com^
 ||chinaz.com/alexa/pic.js
 ||chinaz.com/alexa/word3.htm
 ||chinaz.com/alexa/wz.js
+||zjg.js.cn/Public/config/Couplet/Index4
+||zjg.js.cn/Template/Ant/Js/tonglang.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jjj8.cn##DIV[style="MARGIN: 0px auto 5px auto; WIDTH: 960px; HEIGHT: 100px"]
 azo-diary.blogspot.com,azo-diary.blogspot.hk,azo-diary.blogspot.tw###HTML4
 junshi.cc##.ad
 3987.com##.floatAd
@@ -5607,7 +5607,6 @@ hk.yahoo.com###ysm-ad
 yaolan.com###yuer_top
 51.la###zanzhu
 httpcn.com###zhen_pic_one
-zjg.js.cn###zjgjs_banner
 gzmama.com###zone_left_couplet
 gzmama.com###zone_right_couplet
 189.cn###zqtopag_bg
@@ -7035,7 +7034,6 @@ ltaaa.com##.topAds2
 yeyou.com##.topBackgroundAdv_bgbody
 mnw.cn##.top_960_50
 warting.com##.top_ad2
-jokeji.cn##.top_adreg
 warting.com##.top_article_ad
 51testing.com,86wan.com,hjenglish.com,hujiang.com,xitek.com,xitong8.com##.top_banner
 21yq.com##.top_big_bg
@@ -8287,6 +8285,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
+||web2.51.la^
 
 &ad_type=
 &ad_url=
