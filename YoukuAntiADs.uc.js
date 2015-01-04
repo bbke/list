@@ -11,7 +11,7 @@
 (function() {
     // YoukuAntiADs, request observer
     function YoukuAntiADs() {};
-    var refD = 'http://2.minggo.tk/swf/';
+    var refD = 'http://minggo.coding.io/swf/';
     YoukuAntiADs.prototype = {
     SITES: {
         'youku_loader': {
