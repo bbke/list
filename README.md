@@ -8,7 +8,7 @@
           该规则文件内的规则；
       4. YoukuAntiADs.uc.js：修改自jiayiming提供的YoukuAntiADs.uc.js脚本及ACVAA提供的规则和播放器；
         ①YoukuAntiADs.uc.js：调用http://minggo.coding.io/swf的播放器，播放器与ACCVA同步；
-        ②YoukuAntiADsL.uc.js：调用本地配置文件夹中chrome/swf内的播放器，需下载http://code.minggo.tk/uc%e8%84%9a%e6%9c%ac/YoukuAntiADs/swf.zip
+        ②YoukuAntiADsL.uc.js：调用本地配置文件夹中chrome/swf内的播放器，需下载https://github.com/523860169/swf/archive/master.zip
           并解压至配置文件夹中chrome/swf文件夹；
         ③YoukuAntiADsM.uc.js：调用http://www.minggo.tk/swf的播放器，播放器与ACCVA同步。
       5. ad.txt：整合iFL（贴吧清爽规则）、cjx和chinalist规则，以及补充的一些规则；
