@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501041401
-! Last Modified: 2015年01月04日 14:01
+! Version: 201501041408
+! Last Modified: 2015年01月04日 14:08
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -89,8 +89,12 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||m.tiebaimg.com/timg?wapp&imgtype=0^
 ||m.baidu.com/static/as/res2exe/js/*
 ||jiaoyu.baidu.com/tieba/*
+||tieba.baidu.com/game/*
 ||tieba.baidu.com/tbscore/*
 ||tieba.baidu.com/f/urlcheck?*
+||tieba.baidu.com/f/index/indexGame
+||tieba.baidu.com/app/pop/bws/popup
+||tieba.baidu.com/dc/common/imgtbs
 ||tieba.baidu.com/tb/cms/game_*$image
 ||tieba.baidu.com/tb/static-frs/img/icon_bright/*
 ||tieba.baidu.com/tb/static-comforum/img/history_game/*
@@ -125,21 +129,22 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 ||tb2.bdstatic.com/tb/static-frs/img/frs_bright/*
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
-||tb2.bdstatic.com/tb/static-common/style/common/*
-@@||tb2.bdstatic.com/tb/static-common/style/common/userbar_icon_png*.png
+||tb2.bdstatic.com/tb/static-*common/style/common/*
+@@||tb2.bdstatic.com/tb/static-*common/style/common/userbar_icon_png*.png
 ||tb2.bdstatic.com/tb/*/bright_default_skin*.jpg
 ||tb2.bdstatic.com/tb/static-*pb/img/save_face/*
 ||tb2.bdstatic.com/tb/static-common/img/props/*
 ||tb2.bdstatic.com/tb/static-pb/widget/reward/img/*
 ||tb2.bdstatic.com/tb/static-common/img/rich_editor/new*
 ||tb2.bdstatic.com/tb/static-comforum/img/history_game/*
+||tb2.bdstatic.com/tb/static-comforum/widget/spage_game_tab/*
 ||tb2.bdstatic.com/tb/static-liveshow/*
 ||tb2.bdstatic.com/tb/static-user/widget/my_tieba/img/*
 ||tb2.bdstatic.com/tb/static-user/widget/my_current_forum/img/*
 ||tb2.bdstatic.com/tb/static-encourage/widget/encourage_entry/*
 ||tb2.bdstatic.com/tb/static-pcommon/widget/flash_lcs/swf/*
 ! i贴吧&主页
-tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #plat_act_wrapper
+tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #spage_game_tab_wrapper, #plat_act_wrapper
 ! 右上角
 tieba.baidu.com##.split, .u_tbmall, .u_mytbmall, .u_app, .u_wallet, .u_xiu8, .u_game, .u_joinvip, .fMember_cnt, .u_appcenterEntrance, .u_baiduPrivilege
 ! 顶部
