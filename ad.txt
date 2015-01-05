@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501051829
-! Last Modified: 2015年01月05日 18:29
+! Version: 201501051836
+! Last Modified: 2015年01月05日 18:36
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -72,6 +72,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
 */img/history_game/$domain=tieba.baidu.com
+*/widget/spage_game_tab/$domain=tieba.baidu.com
 ||xiu8.com
 ^monitor.jpg?xcode^
 ||dup.baidustatic.com^
@@ -118,7 +119,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 @@||tb2.bdstatic.com/tb/static-album/img/like_pic*.png
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-comforum/img/u9/
-||tb2.bdstatic.com/tb/static-comforum/widget/spage_game_tab/
 ||tb2.bdstatic.com/tb/static-common/img/props/
 ||tb2.bdstatic.com/tb/static-common/img/rich_editor/new*
 ||tb2.bdstatic.com/tb/static-*common/style/common/
@@ -4661,6 +4661,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wuxianfuli.com###primary > A[target="_blank"]
+wuxianfuli.com##.s-list:first-child
 kumi.cn##.ad64060Box
 xmfish.com###swf_laping
 ksbbs.com###banner_top
