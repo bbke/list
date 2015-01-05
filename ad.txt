@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501051301
-! Last Modified: 2015年01月05日 13:01
+! Version: 201501051401
+! Last Modified: 2015年01月05日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -3180,7 +3180,6 @@ _vmind.qqvideo.tc.qq.com^
 ||kaixin001.com.cn/js/cpm-
 ||kamlm.com/kmgg
 ||kan300.com/js/union/
-||kbcool.com/other/yytf/
 ||kekenet.com/images/*/tom468X60.gif
 ||kekenet.com/images/2014/akasuo
 ||kekenet.com/images/2014/weibo960.jpg
@@ -4660,10 +4659,16 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||kekenet.com/Images/*/tom640X40.gif
 /js/alls_$domain=911-sss.com|baise666.info|kuaisou222.com|ylgbt.info
+||a.kbcool.com/Mon_*.swf
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ksbbs.com###banner_top
+ksbbs.com##.banner_box
+ksbbs.com##DIV[id^="read_ad_"]
+ksbbs.com###banner_top
+ksbbs.com##[id^="ads_"]
 kdnet.net##.banner
 klss.cn##.stat8
 huabian.com##DIV[style="height:250px;"]
@@ -4915,7 +4920,7 @@ shangdu.com###banner960
 99tianji.com###banner_gg
 766.com###banner_left
 766.com###banner_right
-766.com,kbcool.com,kshot.com###banner_top
+766.com###banner_top
 ipeen.com.tw###bar-header
 zymk.cn###bb
 emuch.net###bbsmain > div[style="padding:10px 0;"] > table
@@ -5300,7 +5305,7 @@ baike.baidu.com###mabox
 lysq.com###main + .GM_960
 lysq.com###main > .view-hover
 cntv.cn###main > div[style="position:relative; width:637px; overflow:hidden;"]
-kbcool.com###main > div[style^="height:65px"]
+ksbbs.com###main > div[style^="height:65px"]
 jia360.com###mainADswitch
 07430743.com###mainPush
 hkgolden.com###mainTopicTable > tbody > tr:nth-child(3):not([id])
@@ -6041,7 +6046,6 @@ www.3dmgame.com##.banner_1
 aipai.com##.banner_90
 0598yu.com##.banner_960_60
 xilu.com##.banner_bg
-kshot.com##.banner_box
 51cto.com##.banner_head
 fanyi.baidu.com##.banner_img_container
 jinghua.cn##.banner_main
@@ -7150,7 +7154,7 @@ yb983.com##A[href*="/ClickAd"]
 gamme.com.tw##[class^="sidead_"]
 lknovel.lightnovel.cn##[href^="/"][href*="#"]
 jjwxc.net##[id^="adp_"]
-77bike.com,kbcool.com,kshot.com##[id^="ads_"]
+77bike.com##[id^="ads_"]
 0598yu.com,e0575.cn##[id^="ads_c_"]
 gamebase.com.tw##[id^="aid_"]
 400gb.com,bego.cc,pipipan.com##[id^="cproIframe"]
@@ -7405,8 +7409,6 @@ tc.cn##div[id^="lm"]
 hk.yahoo.com##div[id^="my-ads"]
 ifeng.com##div[id^="padhide_"]
 cnyw.net##div[id^="portal_ad_"]
-kbcool.com,kshot.com##div[id^="read_ad_"]
-kbcool.com,kshot.com##div[id^="read_m_yytf"]
 mtrend.cn##div[id^="renqi9_show_"]
 www.rkanr.com##div[id^="rkrCp"]
 eol.cn##div[id^="s1_"]
