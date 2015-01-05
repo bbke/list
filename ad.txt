@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501052101
-! Last Modified: 2015年01月05日 21:01
+! Version: 201501052301
+! Last Modified: 2015年01月05日 23:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -36,6 +36,7 @@
 ||jiathis.com^$third-party
 ||projectwonderful.com^$third-party
 ||scorecardresearch.com^$third-party
+tu.duowan.com###tuAppRecommend, .tu--qrcode
 !zol
 ||zol-img.com.cn/bms/js/stat.js
 ||stat.zol.com.cn^
