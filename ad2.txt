@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501051801
-! Last Modified: 2015年01月05日 18:01
+! Version: 201501051811
+! Last Modified: 2015年01月05日 18:11
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -103,6 +103,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||bdstatic.com/tb/static-frs/img/*_bright/
 @@||bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
 ||bdstatic.com/tb/static-ihome/widget/interaction_mod/
+||bdstatic.com/tb/static-ihome/widget/onekey_sign/
 ||s1.bdstatic.com/r/www/*cache/baidu_search/
 ||tb1.bdstatic.com/tb/cms/img/
 ||tb1.bdstatic.com/tb/cms/com/
@@ -116,7 +117,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-pb/img/voice_ad.gif
 ||tb2.bdstatic.com/tb/static-album/img/
 @@||tb2.bdstatic.com/tb/static-album/img/like_pic*.png
-||tb2.bdstatic.com/tb/static-ihome/widget/onekey_sign/
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-comforum/img/u9/
 ||tb2.bdstatic.com/tb/static-comforum/widget/spage_game_tab/
