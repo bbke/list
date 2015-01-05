@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501051842
-! Last Modified: 2015年01月05日 18:42
+! Version: 201501051901
+! Last Modified: 2015年01月05日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -142,7 +142,7 @@ tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .
 ! 中部
 tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .save_face_bg, .j_nameplate
 ! 底部
-tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .add_guessing_btn, .edui-icon-voice, .edui-icon-medal, .poster_head_surveillance
+tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .add_guessing_btn, .edui-icon-voice, .edui-icon-medal, .edui-editor-msg, .poster_head_surveillance
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com
 @@|http://*.org/admin$image
 @@|http://*/ad_js.php?aid=10004
