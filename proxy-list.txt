@@ -133,10 +133,10 @@ video.yahoo.com
 ||xrea.com
 ||tinypic.com
 ||gmail.com
-.google.com
-.googlesyndication.com
-.googleusercontent.com
-.gstatic.com
+||google.com
+||googlesyndication.com
+||googleusercontent.com
+||gstatic.com
 ||pixiv.net
 ||btspread.com
 ||torrentproject.com
