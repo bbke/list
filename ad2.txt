@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501051935
-! Last Modified: 2015年01月05日 19:35
+! Version: 201501052012
+! Last Modified: 2015年01月05日 20:12
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -110,7 +110,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb1.bdstatic.com/tb/cms/tbmall/
 ||tb1.bdstatic.com/tb/cms/post/bubble/
 ||tb1.bdstatic.com/tb/static-adsense/widget/loader/
-||tb1.bdstatic.com/tb/static-common/img/nameplate/
 ||tb1.bdstatic.com/tb/static-common/lib/hourglass.js
 ||tb1.bdstatic.com/tb/static-common/js/pic_share/logger.js
 ||tb2.bdstatic.com/tb/static-pb/img/tshow*.gif
@@ -140,7 +139,7 @@ tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, 
 ! 右侧
 tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .tbui_fbar_props, .u9_aside
 ! 中部
-tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .save_face_bg, .j_nameplate, .icon_tbworld
+tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .icon_tbworld, .save_face_bg, .j_nameplate, .card_userinfo_honor
 ! 底部
 tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .add_guessing_btn, .edui-icon-voice, .edui-icon-medal, .edui-editor-msg, .poster_head_surveillance
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|jifen.qq.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com
