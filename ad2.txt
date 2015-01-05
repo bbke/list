@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501051533
-! Last Modified: 2015年01月05日 15:33
+! Version: 201501051601
+! Last Modified: 2015年01月05日 16:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、xwhycadblock，感谢各位大大的分享！
@@ -72,7 +72,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 */tb/_/aside_float_bar_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
-||bdimg.share.baidu.com/static/js/*
+.com/tb/static-*/img/history_game/
 ||xiu8.com
 ^monitor.jpg?xcode^
 ||dup.baidustatic.com^
@@ -80,8 +80,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||wanba.baidu.com
 ||img.live.yy.com/avatar/*
 ||share.baidu.com/static/js/*
-||screenshot.dwstatic.com^$domain=tieba.baidu.com
+||screenshot.dwstatic.com^
 ||img.baidu.com/hunter/alog/*
+||bdimg.share.baidu.com/static/js/*
 ||imgsrc.baidu.com/tieba/pic/item/*
 ||m.tiebaimg.com/timg?wapp&imgtype=0^
 ||m.baidu.com/static/as/res2exe/js/*
@@ -91,9 +92,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tieba.baidu.com/f/urlcheck?*
 ||tieba.baidu.com/f/index/indexGame
 ||tieba.baidu.com/app/pop/bws/popup
+||tieba.baidu.com/tb/static-props/
 ||tieba.baidu.com/tb/cms/game_*$image
 ||tieba.baidu.com/tb/static-frs/img/icon_bright/*
-||tieba.baidu.com/tb/static-comforum/img/history_game/*
 ||static.tieba.baidu.com/tb/pms/*
 ||static.tieba.baidu.com/tb/img/pv.gif?*
 ||static.tieba.baidu.com/tb/img/track.gif?*
@@ -131,7 +132,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-pb/widget/reward/img/*
 ||tb2.bdstatic.com/tb/static-pfrs/widget/frs_spread_list/*
 ||tb2.bdstatic.com/tb/static-common/img/rich_editor/new*
-||tb2.bdstatic.com/tb/static-*/img/history_game/*
 ||tb2.bdstatic.com/tb/static-comforum/widget/spage_game_tab/*
 ||tb2.bdstatic.com/tb/static-liveshow/*
 ||tb2.bdstatic.com/tb/static-*/widget/my_tieba/img/*
@@ -145,7 +145,7 @@ tieba.baidu.com##.split, .u_tbmall, .u_mytbmall, .u_app, .u_wallet, .u_xiu8, .u_
 ! 顶部
 tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, .icon_yyshow, .j_reward_btn, .star_nav_ico_group
 ! 右侧
-tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .guide_wrap
+tieba.baidu.com###encourage_entry, .profile_right.user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .tbui_fbar_props, .guide_wrap
 ! 中部
 tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .save_face_bg, .j_nameplate
 ! 底部
