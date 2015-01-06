@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501060901
-! Last Modified: 2015年01月06日 09:01
+! Version: 201501061001
+! Last Modified: 2015年01月06日 10:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3201,9 +3201,8 @@ _vmind.qqvideo.tc.qq.com^
 ||linkwan.com/gb/broadmeter/speed/cp.js
 ||linkwan.com/gb/javascript/b4.js
 ||linkwan.com/gb/javascript/c5-
+||linuxdiyf.com/it/easthome.gif
 ||linuxdiyf.com/it/enkj.gif
-||linuxdiyf.com/it/magedu.gif
-||linuxdiyf.com/it/yutianedu.gif
 ||linuxeden.com/plus/web_js.php
 ||linuxidc.com/linuxfile/linux$script
 ||linuxidc.com/linuxfile/list
@@ -4580,10 +4579,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||iguaji.com/wp-content/uploads/*/ad
 ||tietuku.com/96becf8edc50ccb2.jpg
+||tietuku.com/dc65703d91297e91.png
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+newcger.com##.adFullwidth90
+newcger.com##.focus + .block934
+newcger.com##.mtb17.h90
+lvseba.cn##.ad
 lvseba.cn##.ibtad
 iguaji.com##TABLE[cellspacing="1"][cellpadding="4"]
 hc360.com,yaolan.com###AD
