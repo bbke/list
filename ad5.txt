@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(For TieBaVIP)
 ! Expires: 4 hours
-! Version: 201501061442
-! Last Modified: 2015年01月06日 14:42
+! Version: 201501061501
+! Last Modified: 2015年01月06日 15:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的会员专用贴吧过滤规则，感谢各位大大的分享！
@@ -86,12 +86,10 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||share.baidu.com/static/js/
 ||screenshot.dwstatic.com^
 ||yy.com^$domain=tieba.baidu.com
-||img.baidu.com/hunter/alog/
 ||bdimg.share.baidu.com/static/js/
 ||imgsrc.baidu.com/tieba/pic/item/
 ||m.tiebaimg.com/timg?wapp&imgtype=0^
 ||m.baidu.com/static/as/res2exe/js/
-||jiaoyu.baidu.com/tieba/
 ||tieba.baidu.com/game/
 ||tieba.baidu.com/tbscore/
 ||tieba.baidu.com/f/urlcheck
@@ -132,7 +130,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-liveshow/
 ||tb2.bdstatic.com/tb/static-*/widget/my_tieba/img/
 ||tb2.bdstatic.com/tb/static-*/widget/my_current_forum/img/
-
+! 右侧
+tieba.baidu.com###encourage_entry, .tieba_notice
 !189.cn
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party

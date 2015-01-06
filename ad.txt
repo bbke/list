@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501061442
-! Last Modified: 2015年01月06日 14:42
+! Version: 201501061501
+! Last Modified: 2015年01月06日 15:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -86,12 +86,10 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||share.baidu.com/static/js/
 ||screenshot.dwstatic.com^
 ||yy.com^$domain=tieba.baidu.com
-||img.baidu.com/hunter/alog/
 ||bdimg.share.baidu.com/static/js/
 ||imgsrc.baidu.com/tieba/pic/item/
 ||m.tiebaimg.com/timg?wapp&imgtype=0^
 ||m.baidu.com/static/as/res2exe/js/
-||jiaoyu.baidu.com/tieba/
 ||tieba.baidu.com/game/
 ||tieba.baidu.com/tbscore/
 ||tieba.baidu.com/f/urlcheck
@@ -141,9 +139,10 @@ tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, 
 ! 右侧
 tieba.baidu.com###encourage_entry, .user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .tbui_fbar_props, .u9_aside, .platform_aside_module
 ! 中部
-tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .icon_pre, .icon_tbworld, .save_face_bg, .j_nameplate, .card_userinfo_honor, .user_card_vip_tips, .reward_title, .reward_panel_wrap
+tieba.baidu.com##.icon_wrap, .icon_pre, .icon_tbworld, .save_face_bg, .j_nameplate, .card_userinfo_honor, .user_card_vip_tips, .reward_title, .reward_panel_wrap
 ! 底部
 tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .add_guessing_btn, .edui-icon-voice, .edui-icon-medal, .edui-editor-msg, .poster_head_surveillance
+
 !189.cn
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party
