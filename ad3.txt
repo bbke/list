@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501061001
-! Last Modified: 2015年01月06日 10:01
+! Version: 201501061005
+! Last Modified: 2015年01月06日 10:05
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
