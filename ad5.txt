@@ -1,12 +1,12 @@
 [Adblock]
 
-! Title: Diablo AdFilters
+! Title: Diablo AdFilters(For TieBaVIP)
 ! Expires: 4 hours
 ! Version: 201501061442
 ! Last Modified: 2015年01月06日 14:42
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
-!本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
+!本规则合并自cjx、easylistchina，并补充了基于iFL修改的会员专用贴吧过滤规则，感谢各位大大的分享！
 !为了完善本规则，欢迎大家参与本规则的维护
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 
@@ -132,18 +132,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-liveshow/
 ||tb2.bdstatic.com/tb/static-*/widget/my_tieba/img/
 ||tb2.bdstatic.com/tb/static-*/widget/my_current_forum/img/
-! i贴吧&主页
-tieba.baidu.com##.advertise_right_index, .userinfo_scores.clearfix, .ihome_aside_section, #spage_liveshow_slide, #spage_game_tab_wrapper, #plat_act_wrapper
-! 右上角
-tieba.baidu.com##.split, .u_tbmall, .u_mytbmall, .u_app, .u_wallet, .u_xiu8, .u_game, .u_joinvip, .fMember_cnt, .u_appcenterEntrance, .u_baiduPrivilege
-! 顶部
-tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, .icon_yyshow, .j_reward_btn, .star_nav_ico_group
-! 右侧
-tieba.baidu.com###encourage_entry, .user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .tbui_fbar_props, .u9_aside, .platform_aside_module
-! 中部
-tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .icon_pre, .icon_tbworld, .save_face_bg, .j_nameplate, .card_userinfo_honor, .user_card_vip_tips, .reward_title, .reward_panel_wrap
-! 底部
-tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .add_guessing_btn, .edui-icon-voice, .edui-icon-medal, .edui-editor-msg, .poster_head_surveillance
+
 !189.cn
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party

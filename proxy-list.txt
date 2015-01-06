@@ -2,8 +2,8 @@
 
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201412271410
-! Last Modified: 2014年12月27日 14:10
+! Version: 201501061435
+! Last Modified: 2015年01月06日 14:35
 
 ! 本规则为自用简洁版，欢迎补充规则
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -75,6 +75,7 @@ video.yahoo.com
 ||zacebook.com
 ||174.142.105.153
 @@||acfun.com
+@@||baidu.com
 @@||youku.com
 @@||tudou.com
 @@||sina.com.cn
@@ -133,7 +134,8 @@ video.yahoo.com
 ||xrea.com
 ||tinypic.com
 ||gmail.com
-||google.com
+/^https?:\/\/[^\/]+google\.(.*)/
+||googleapis.com
 ||googlesyndication.com
 ||googleusercontent.com
 ||gstatic.com
