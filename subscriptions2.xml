@@ -5,7 +5,7 @@
       <variant title="Diablo AdFilters" url="http://git.oschina.net/halflife/list/raw/master/ad.txt"/>
       <variant title="Diablo AdFilters Lite" url="http://git.oschina.net/halflife/list/raw/master/ad2.txt"/>
       <variant title="Diablo AdFilters(NoTB)" url="http://git.oschina.net/halflife/list/raw/master/ad3.txt"/>
-      <variant title="Diablo AdFilters(ForTB)" url="http://git.oschina.net/halflife/list/raw/master/ad4.txt"/>
+      <variant title="Diablo AdFilters(OnlyForTB)" url="http://git.oschina.net/halflife/list/raw/master/ad4.txt"/>
       <variant title="[proxy]GFWList" url="http://git.oschina.net/halflife/list/raw/master/gfwlist.txt" complete="true"/>
       <variant title="[proxy]Filters" url="http://git.oschina.net/halflife/list/raw/master/proxy-list.txt"/>
     </variants>
@@ -25,7 +25,7 @@
       <variant title="Diablo AdFilters" url="https://raw.githubusercontent.com/523860169/list/master/ad.txt"/>
       <variant title="Diablo AdFilters Lite" url="https://raw.githubusercontent.com/523860169/list/master/ad2.txt"/>
       <variant title="Diablo AdFilters(NoTB)" url="https://raw.githubusercontent.com/523860169/list/master/ad3.txt"/>
-      <variant title="Diablo AdFilters(ForTB)" url="https://raw.githubusercontent.com/523860169/list/master/ad4.txt"/>
+      <variant title="Diablo AdFilters(OnlyForTB)" url="https://raw.githubusercontent.com/523860169/list/master/ad4.txt"/>
       <variant title="[proxy]GFWList" url="https://raw.githubusercontent.com/523860169/list/master/gfwlist.txt" complete="true"/>
       <variant title="[proxy]Filters" url="https://raw.githubusercontent.com/523860169/list/master/proxy-list.txt"/>
     </variants>
