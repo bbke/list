@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501061528
-! Last Modified: 2015年01月06日 15:28
+! Version: 201501061601
+! Last Modified: 2015年01月06日 16:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -131,60 +131,22 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||tb2.bdstatic.com/tb/static-*/widget/my_tieba/img/
 ||tb2.bdstatic.com/tb/static-*/widget/my_current_forum/img/
 ! i贴吧&主页
-tieba.baidu.com###spage_liveshow_slide
-tieba.baidu.com###spage_game_tab_wrapper
-tieba.baidu.com###plat_act_wrapper
-tieba.baidu.com##.advertise_right_index
-tieba.baidu.com##.userinfo_scores.clearfix
-tieba.baidu.com##.ihome_aside_section
+tieba.baidu.com###spage_liveshow_slide,#spage_game_tab_wrapper,#plat_act_wrapper
+tieba.baidu.com##.advertise_right_index,.userinfo_scores,.ihome_aside_section
 ! 右上角
-tieba.baidu.com##.split
-tieba.baidu.com##.u_tbmall
-tieba.baidu.com##.u_mytbmall
-tieba.baidu.com##.u_app
-tieba.baidu.com##.u_wallet
-tieba.baidu.com##.u_xiu8
-tieba.baidu.com##.u_game
-tieba.baidu.com##.u_joinvip
-tieba.baidu.com##.fMember_cnt
-tieba.baidu.com##.u_appcenterEntrance
-tieba.baidu.com##.u_baiduPrivilege
+tieba.baidu.com##.split,.fMember_cnt,.u_tbmall,.u_mytbmall,.u_app,.u_wallet,.u_xiu8,.u_game,.u_joinvip,.u_appcenterEntrance,.u_baiduPrivilege
 ! 顶部
-tieba.baidu.com###game_live_list
-tieba.baidu.com###j_navtab_wanle
-tieba.baidu.com###j_navtab_game
-tieba.baidu.com##.icon_group
-tieba.baidu.com##.icon_yyshow
-tieba.baidu.com##.j_reward_btn
-tieba.baidu.com##.star_nav_ico_group
+tieba.baidu.com###game_live_list,#j_navtab_wanle,#j_navtab_game
+tieba.baidu.com##.icon_group,.icon_yyshow,.j_reward_btn,.star_nav_ico_group
 ! 右侧
-tieba.baidu.com###encourage_entry
-tieba.baidu.com##.user_score
-tieba.baidu.com##.profile_bottom
-tieba.baidu.com##.tieba_notice
-tieba.baidu.com##.tbui_fbar_square
-tieba.baidu.com##.tbui_fbar_props
-tieba.baidu.com##.u9_aside
-tieba.baidu.com##.platform_aside_module
+tieba.baidu.com###encourage_entry,.user_score,.profile_bottom,.tieba_notice,.u9_aside,.platform_aside_module
+tieba.baidu.com##.tbui_fbar_square,.tbui_fbar_props
 ! 中部
-tieba.baidu.com##.icon_wrap
-tieba.baidu.com##.icon_pre
-tieba.baidu.com##.icon_tbworld
-tieba.baidu.com##.save_face_bg
-tieba.baidu.com##.j_nameplate
-tieba.baidu.com##.card_userinfo_honor
-tieba.baidu.com##.user_card_vip_tips
-tieba.baidu.com##.reward_title
-tieba.baidu.com##.reward_panel_wrap
+tieba.baidu.com##.icon_pre,.icon_wrap,.icon_tbworld,.j_nameplate,.reward_title,.reward_panel_wrap
+tieba.baidu.com##.save_face_bg,.card_userinfo_honor,.user_card_vip_tips
 ! 底部
-tieba.baidu.com###pop_frame
-tieba.baidu.com###forum_recommend
-tieba.baidu.com##.thread_recommend
-tieba.baidu.com##.add_guessing_btn
-tieba.baidu.com##.edui-icon-voice
-tieba.baidu.com##.edui-icon-medal
-tieba.baidu.com##.edui-editor-msg
-tieba.baidu.com##.poster_head_surveillance
+tieba.baidu.com###pop_frame,#forum_recommend,.thread_recommend,.add_guessing_btn
+tieba.baidu.com##.edui-icon-voice,.edui-icon-medal,.edui-editor-msg,.poster_head_surveillance
 
 !189.cn
 ||189.cn/dns/
