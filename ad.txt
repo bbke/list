@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501061005
-! Last Modified: 2015年01月06日 10:05
+! Version: 201501061035
+! Last Modified: 2015年01月06日 10:35
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自iFL、cjx、easylistchina，感谢各位大大的分享！
@@ -73,6 +73,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 */tb/_/aside_float_bar_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
+*/tb/static-common/img/icons/prev_icons.png
 */tb/static-*frs/img/frs_bright/
 @@*/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
 */img/history_game/$domain=tieba.baidu.com
@@ -82,9 +83,9 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||dup.baidustatic.com^
 ||nsclick.baidu.com
 ||wanba.baidu.com
-||img.live.yy.com/avatar/
 ||share.baidu.com/static/js/
 ||screenshot.dwstatic.com^
+||yy.com^$domain=tieba.baidu.com
 ||img.baidu.com/hunter/alog/
 ||bdimg.share.baidu.com/static/js/
 ||imgsrc.baidu.com/tieba/pic/item/
@@ -140,7 +141,7 @@ tieba.baidu.com###game_live_list, #j_navtab_wanle, #j_navtab_game, .icon_group, 
 ! 右侧
 tieba.baidu.com###encourage_entry, .user_score, .profile_bottom, .tieba_notice, .tbui_fbar_square, .tbui_fbar_props, .u9_aside, .platform_aside_module
 ! 中部
-tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .icon_tbworld, .save_face_bg, .j_nameplate, .card_userinfo_honor
+tieba.baidu.com###thread_list>li[data-daid], body>div[data-daid], #j_p_postlist>div[data-daid], .icon_wrap, .icon_pre, .icon_tbworld, .save_face_bg, .j_nameplate, .card_userinfo_honor, .reward_title, .reward_panel_wrap
 ! 底部
 tieba.baidu.com###pop_frame, #forum_recommend, .thread_recommend, .add_guessing_btn, .edui-icon-voice, .edui-icon-medal, .edui-editor-msg, .poster_head_surveillance
 !189.cn
@@ -7783,6 +7784,7 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||ad.kazakinfo.com^
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
