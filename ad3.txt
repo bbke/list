@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501061101
-! Last Modified: 2015年01月06日 11:01
+! Version: 201501061201
+! Last Modified: 2015年01月06日 12:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1092,6 +1092,7 @@ hk.yahoo.com###mntl1
 ||zp265.com^$third-party
 !---------------------------Popups--------------------------------------------!
 .189.gd^*.html?p=$popup,third-party
+/pushportal/PushPortalServer$popup,third-party
 .com/?Intr=$popup
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tnabucks.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
@@ -4580,10 +4581,12 @@ _vmind.qqvideo.tc.qq.com^
 ||iguaji.com/wp-content/uploads/*/ad
 ||tietuku.com/96becf8edc50ccb2.jpg
 ||tietuku.com/dc65703d91297e91.png
+||v8gay.com/apps/misc.php?action=advert&
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+aoshu.com##.pub-tc
 xskz.com##.g3
 newcger.com##.adFullwidth90
 newcger.com##.focus + .block934
