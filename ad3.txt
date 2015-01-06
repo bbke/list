@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501061901
-! Last Modified: 2015年01月06日 19:01
+! Version: 201501062001
+! Last Modified: 2015年01月06日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3225,7 +3225,7 @@ _vmind.qqvideo.tc.qq.com^
 ||loorin.com/uploads/140616/yijia.jpg
 ||loorin.com/uploads/140903/mx2.jpg
 ||loveshang.com/pic/*.swf
-||lrshare.com/wp-content/uploads/2014/11/AD.jpg
+||lrshare.com/wp-content/uploads/2014/12/henghost.jpg
 ||ltaaa.com/data/bg/worldcup.jpg
 ||ltshu.net/api.php?mod=js&
 ||luckstatic.v1.cn/st/10000/
@@ -4588,11 +4588,13 @@ _vmind.qqvideo.tc.qq.com^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lbx777.com/z_gegz/pic/
+||loveshang.com/attachment/admin/Mon_*/banner_
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-lbx777.com##TABLE[width="325"][height="280"]
+lrshare.com###sidebar > .widget_text:first-child
+lbx777.com,lbx777.net##TABLE[width="325"][height="280"]
 zhiboba.cc###ggbd1
 91danji.com##.zlVideTowNav
 aoshu.com##.pub-tc
