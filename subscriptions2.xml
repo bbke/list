@@ -2,10 +2,10 @@
 <subscriptions>
   <subscription title="国内源" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
     <variants>
-      <variant title="Diablo AdFilters" url="http://git.oschina.net/halflife/list/raw/master/ad.txt"/>
+      <variant title="Diablo AdFilters(含强力贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad.txt"/>
       <variant title="Diablo AdFilters Lite" url="http://git.oschina.net/halflife/list/raw/master/ad2.txt"/>
-      <variant title="Diablo AdFilters(不包含贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad3.txt"/>
-      <variant title="Diablo AdFilters(仅包含贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad4.txt"/>
+      <variant title="Diablo AdFilters(含轻量贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad3.txt"/>
+      <variant title="Diablo AdFilters(仅含强力贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad4.txt"/>
       <variant title="[proxy]GFWList" url="http://git.oschina.net/halflife/list/raw/master/gfwlist.txt" complete="true"/>
       <variant title="[proxy]Filters" url="http://git.oschina.net/halflife/list/raw/master/proxy-list.txt"/>
     </variants>
@@ -22,10 +22,10 @@
   </subscription>
   <subscription title="国外源" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
     <variants>
-      <variant title="Diablo AdFilters" url="https://raw.githubusercontent.com/523860169/list/master/ad.txt"/>
+      <variant title="Diablo AdFilters(含强力贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad.txt"/>
       <variant title="Diablo AdFilters Lite" url="https://raw.githubusercontent.com/523860169/list/master/ad2.txt"/>
-      <variant title="Diablo AdFilters(不包含贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad3.txt"/>
-      <variant title="Diablo AdFilters(仅包含贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad4.txt"/>
+      <variant title="Diablo AdFilters(含轻量贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad3.txt"/>
+      <variant title="Diablo AdFilters(仅含强力贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad4.txt"/>
       <variant title="[proxy]GFWList" url="https://raw.githubusercontent.com/523860169/list/master/gfwlist.txt" complete="true"/>
       <variant title="[proxy]Filters" url="https://raw.githubusercontent.com/523860169/list/master/proxy-list.txt"/>
     </variants>
