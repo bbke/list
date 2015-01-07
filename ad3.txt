@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501071201
-! Last Modified: 2015年01月07日 12:01
+! Version: 201501071801
+! Last Modified: 2015年01月07日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3226,9 +3226,7 @@ _vmind.qqvideo.tc.qq.com^
 ||longhoo.net/36732.files/kuang_shi.jpg
 ||longyu.cc/adg/
 ||longyu.cc/bucket/flash/
-||loorin.com/templets/loorin/images/nubiaxk.jpg
-||loorin.com/uploads/140616/yijia.jpg
-||loorin.com/uploads/140903/mx2.jpg
+||loorin.com/uploads/141225/2.png
 ||loveshang.com/attachment/admin/Mon_*/banner_
 ||loveshang.com/pic/*.swf
 ||lrshare.com/wp-content/uploads/2014/12/henghost.jpg
@@ -7060,7 +7058,6 @@ techweb.com.cn##.xxbox
 techweb.com.cn##.xxbox_news
 xyzc.cn##.xyzc_ad
 xyzc.cn##.xyzc_rightad
-loorin.com##.yincangmenu
 youku.com##.yk-AD-tong
 03tt.cn##.yl5361_ad
 geiliwx.com##.yueduads
@@ -7710,8 +7707,8 @@ house.shangdu.com#@#.top_ad
 brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
-@@&ad_type=$domain=x.jd.com
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
+@@&ad_type=$domain=x.jd.com
 @@||valf.atm.youku.com/vf?
 @@||static.atm.youku.com^*.swf
 @@||a.ads.cn.miaozhen.com^
