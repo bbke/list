@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501081701
-! Last Modified: 2015年01月08日 17:01
+! Version: 201501081801
+! Last Modified: 2015年01月08日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2872,7 +2872,7 @@ _vmind.qqvideo.tc.qq.com^
 ||hudong.pl.youku.com^
 ||huizhou.cn/webfile/*/images/scroll.js
 ||hunantv.com/ui/2014/images/hao123.jpg
-||huodong.liaoing.com/haibao/2013/800zhinengsuo_0702/zhineng.swf
+||liaoing.com/haibao/2013/800zhinengsuo_0702/zhineng.swf
 ||huoone.com/templets/hanfeng/js/qdtwo.js
 ||huoxingyu.com/images/hxy_350_330.gif
 ||hur.cn/AhurD/*.gif
@@ -3286,10 +3286,7 @@ _vmind.qqvideo.tc.qq.com^
 ||liao1.com/js/floatVideoAd.js
 ||liao1.com/publicize/file/news_detail_
 ||liaoing.com/egou/
-||liaoing.com/henan/js/kejet/0624.js
-||liaoing.com/image/picture_g/luoyang/index/*.swf
 ||liaoing.com/image/picture_g/zhengzhou/index/*.swf
-||liaoing.com/image/picture_g/zhengzhou/index/20
 ||life.e0575.com^
 ||link.fobshanghai.com^
 ||linkhelper.cn/mmshow
@@ -3342,8 +3339,6 @@ _vmind.qqvideo.tc.qq.com^
 ||lywww.com/index_topa.php
 ||lz13.cn/script/*0
 ||lzep.cn/data/js/1*.js
-||lzep.cn/images/*/ad
-||lzep.cn/images/201*ad/
 ||m.tiebaimg.com/timg?wapp^*imgtype=0$image
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/images/bg_index_hgn.jpg
@@ -4045,7 +4040,6 @@ _vmind.qqvideo.tc.qq.com^
 ||startlogic.com^*/EZ-YAHOO/
 ||static.aizhan.com/jsa/
 ||static.colafile.com/images/vip.png
-||static.d.lecai.com/js/m.js?
 ||static.doyouhike.net/partner/
 ||static.fzdm.com/foot
 ||static.fzdm.com/ispop.js
@@ -4680,10 +4674,19 @@ _vmind.qqvideo.tc.qq.com^
 ||taobaocdn.com^$domain=snybw.com
 ||snybw.com/images/*-banner.
 /WHC_2014TAX_female_Banner-
+||lzep.cn/ep/ads/
+||lzep.cn^*/2014ad/
+||lzqss.net/data/attachment/portal/
+||lzep.cn/images/*/ad
+||lzep.cn^*/2013ad/
+||lzep.cn/ep/old/finance/ad
+||lzep.cn/uploadfile/hftv/2014/0901/20140901044836216.jpg
 ||zzz4.com/JS_AD/
 ||tk.504pk.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+liaoing.com###FlatLayer
+lzep.cn##.ad
 linuxidc.com##.linuxy1
 hc360.com,yaolan.com###AD
 21yq.com###AD1
@@ -5357,7 +5360,6 @@ fun.tv###network-mobile
 hc360.com###newAppBox
 hc360.com###newAppBox1
 chinaqking.com###newsAD
-lzep.cn###no_Left
 yawen8.com###notify + table[width="100%"]
 live.win007.com###notify > a[target="_blank"]
 nownews.com###nownews_pickup
@@ -7437,7 +7439,6 @@ mtrend.cn##div[id^="renqi9_show_"]
 www.rkanr.com##div[id^="rkrCp"]
 eol.cn##div[id^="s1_"]
 cnhubei.com##div[id^="scrollDiv_"]
-lzep.cn##div[id^="site_ad"]
 www.uuu9.com##div[id^="top"]
 91town.com##div[id^="top_ad"]
 my0511.com##div[id^="topad"]
