@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201501071901
-! Last Modified: 2015年01月07日 19:01
+! Version: 201501081212
+! Last Modified: 2015年01月08日 12:12
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -92,3 +92,59 @@ jump.bdimg.com,tieba.baidu.com##.save_face_bg,.card_userinfo_honor,.user_card_vi
 ! 底部
 jump.bdimg.com,tieba.baidu.com###pop_frame,#forum_recommend,.thread_recommend,.add_guessing_btn
 jump.bdimg.com,tieba.baidu.com##.edui-icon-voice,.edui-icon-medal,.edui-editor-msg,.poster_head_surveillance
+! 其他
+jump.bdimg.com,tieba.baidu.com###baiduweishiDown
+jump.bdimg.com,tieba.baidu.com###frs-list-game
+jump.bdimg.com,tieba.baidu.com###game_cover_head_wrapper
+jump.bdimg.com,tieba.baidu.com###game_forum
+jump.bdimg.com,tieba.baidu.com###game_frs_head
+jump.bdimg.com,tieba.baidu.com###game_rank
+jump.bdimg.com,tieba.baidu.com###global_notice_wrap
+jump.bdimg.com,tieba.baidu.com###j_star_bus_before
+jump.bdimg.com,tieba.baidu.com###j_ten_years
+jump.bdimg.com,tieba.baidu.com###j_worldcup_info_banner
+jump.bdimg.com,tieba.baidu.com###loan_ad_mod_a
+jump.bdimg.com,tieba.baidu.com###pc2client
+jump.bdimg.com,tieba.baidu.com###platform_left_float
+jump.bdimg.com,tieba.baidu.com###replyBusinessImg
+jump.bdimg.com,tieba.baidu.com###search_baidu_promote
+jump.bdimg.com,tieba.baidu.com###union_mod
+jump.bdimg.com,tieba.baidu.com###worldcup_guess_frs_wrap
+jump.bdimg.com,tieba.baidu.com###worldcup_topic
+jump.bdimg.com,tieba.baidu.com##.BAIDU_CLB_AD
+jump.bdimg.com,tieba.baidu.com##.advertise_right_index
+jump.bdimg.com,tieba.baidu.com##.app_forum_top_nav
+jump.bdimg.com,tieba.baidu.com##.dasense
+jump.bdimg.com,tieba.baidu.com##.firework_sender_wrap
+jump.bdimg.com,tieba.baidu.com##.frs_act_repost_wrapper_outter
+jump.bdimg.com,tieba.baidu.com##.game_banner_common_wapper
+jump.bdimg.com,tieba.baidu.com##.game_content
+jump.bdimg.com,tieba.baidu.com##.game_list_and_rank
+jump.bdimg.com,tieba.baidu.com##.game_spread_thread
+jump.bdimg.com,tieba.baidu.com##.game_tab
+jump.bdimg.com,tieba.baidu.com##.hgame_mod_theme1
+jump.bdimg.com,tieba.baidu.com##.hgame_mod_theme2
+jump.bdimg.com,tieba.baidu.com##.images_game_container
+jump.bdimg.com,tieba.baidu.com##.j_banner_post
+jump.bdimg.com,tieba.baidu.com##.j_couplet
+jump.bdimg.com,tieba.baidu.com##.j_df_card
+jump.bdimg.com,tieba.baidu.com##.kn_nine_wrap
+jump.bdimg.com,tieba.baidu.com##.l_banner
+jump.bdimg.com,tieba.baidu.com##.live_show_aside
+jump.bdimg.com,tieba.baidu.com##.lot_wrap
+jump.bdimg.com,tieba.baidu.com##.order_repost_wrap
+jump.bdimg.com,tieba.baidu.com##.per_list.j_per_list.per_list_frs
+jump.bdimg.com,tieba.baidu.com##.qipai_thread
+jump.bdimg.com,tieba.baidu.com##.score_ecr_wrapper
+jump.bdimg.com,tieba.baidu.com##.spreadad
+jump.bdimg.com,tieba.baidu.com##.tb_poster_info.poster_success
+jump.bdimg.com,tieba.baidu.com##.tb_poster_placeholder
+jump.bdimg.com,tieba.baidu.com##.thread_dir_ad
+jump.bdimg.com,tieba.baidu.com##.thread_local_58
+jump.bdimg.com,tieba.baidu.com##.u9_head
+jump.bdimg.com,tieba.baidu.com##.wanle_tab_tip
+jump.bdimg.com,tieba.baidu.com##.worldcup_info_banner_dialog
+jump.bdimg.com,tieba.baidu.com##[id^="spreadad_"]
+jump.bdimg.com,tieba.baidu.com##div[data-daid]
+jump.bdimg.com,tieba.baidu.com##div[id*="lottery"]
+jump.bdimg.com,tieba.baidu.com##li[data-daid]
