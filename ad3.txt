@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501081001
-! Last Modified: 2015年01月08日 10:01
+! Version: 201501081101
+! Last Modified: 2015年01月08日 11:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4592,11 +4592,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||zzsky.cn/images/zzskycom_
+||xr8.me/2s.js
 ||sinaimg.cn/mw690/e0d0be6dgw1eiv4y808nog20ho06t4qq.gif
 ||zzz4.com/JS_AD/
 ||tk.504pk.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+54xr.com,xr8.me###gg1
 hc360.com,yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
@@ -4694,7 +4696,6 @@ hao123.com###__elm_0_4
 admin5.com###a22
 weather.com.cn###ab
 hao.360.cn###activity
-hao.360.cn###festival-panel
 cnedu.cn,jqgcw.com,rj.baidu.com,srzc.com,wenkudaquan.com,win007.com,xinhuanet.com,xj163.cn,xue5.com,ylnet.com.cn###ad
 ruten.com.tw###ad-467
 itxueyuan.org###ad-beifeng-729-90
@@ -5002,8 +5003,8 @@ my0511.com###duilianleftdiv
 my0511.com###duilianrightdiv
 gongkong.com###dull_left
 gongkong.com###dull_right
-so.com###e_idea_left
-so.com###e_idea_pp
+haosou.com,so.com###e_idea_left
+haosou.com,so.com###e_idea_pp
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###ecl-temai-category
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###ecl-temai-general
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###ecl-weigou-view-container
@@ -5333,7 +5334,7 @@ bbs.pcbeta.com###pt + div[style] > div[style^="clear:both;"]
 aijiatxt.com###pwSlidePlayer
 tianya.cn###q_topbanner_950_90
 qdmm.com###qdass_news_pop
-so.com###qiyu-brand-container
+haosou.com,so.com###qiyu-brand-container
 chinanews.com###qizhi_div980
 bbs.xineurope.com###qmenu_menu + .wp
 hbzkw.com###qq-bottom
@@ -6283,7 +6284,7 @@ jump.bdimg.com,tieba.baidu.com##.game_tab
 qidian.com##.game_tj
 rrys.tv,rrys123.com,yyets.com,zimuzu.tv##.games-rec-list
 zymk.cn##.ganggao_top
-so.com##.garllery_ad
+haosou.com,so.com##.garllery_ad
 115.com##.gb-advs
 qzone.qq.com##.gb-bill-area
 17173.com##.gb-zqfix-box
@@ -6882,7 +6883,7 @@ ithome.com.tw##.span4:nth-child(8)
 northnews.cn##.sponsor
 sogou.com,soso.com##.sponsored
 163.com##.sports_300x60_ad1
-so.com##.spread
+haosou.com,so.com##.spread
 jump.bdimg.com,tieba.baidu.com##.spreadad
 klss.cn##.stat8
 10jqka.com.cn##.subbanner
@@ -7721,7 +7722,6 @@ mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
 brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
-www.54xr.com,xr8.me###gg1
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
