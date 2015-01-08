@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501082001
-! Last Modified: 2015年01月08日 20:01
+! Version: 201501082101
+! Last Modified: 2015年01月08日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3270,8 +3270,6 @@ _vmind.qqvideo.tc.qq.com^
 ||lepan.cc/images/yd/
 ||letsebuy.com/static/image/common/dm_cn_130.jpg
 ||letvcdn.com/js/*_focus_flash.js
-||letvimg.com/cms/201411/06/2ba9c8af5b248b0eafd93494e9f770906239.png
-||letvimg.com/cms/201411/07/cdc98f3fc2034494aab82dfa81821d5f.jpg
 ||letvimg.com/gugwl/$object-subrequest
 ||letvimg.com/gugwl/*.swf
 ||letvimg.com/yunzhuanma/*_640_360.
@@ -3306,15 +3304,12 @@ _vmind.qqvideo.tc.qq.com^
 ||lofter.com/mailEntry.do?blogad=
 ||longbahao.com/asd.js
 ||longbahao.com/js/ad-
-||longhoo.net/36732.files/banner_shi.gif
-||longhoo.net/36732.files/kuang_shi.jpg
 ||longyu.cc/adg/
 ||longyu.cc/bucket/flash/
 ||loorin.com/uploads/141225/2.png
 ||loveshang.com/attachment/admin/Mon_*/banner_
 ||loveshang.com/pic/*.swf
 ||lrshare.com/wp-content/uploads/2014/12/henghost.jpg
-||ltaaa.com/data/bg/worldcup.jpg
 ||ltshu.net/api.php?mod=js&
 ||luckstatic.v1.cn/st/10000/
 ||lululu.cc/wp-content/uploads/*.gif
@@ -4682,6 +4677,7 @@ _vmind.qqvideo.tc.qq.com^
 ||tk.504pk.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+luanren.com###diyhlx8
 letv.com##.H-tg
 letv.com##.lay_body[style^="width:490px;height:320px;"]
 letv.com##.lay_body[style^="width:980px;height:100px;"]
@@ -6910,7 +6906,6 @@ sogou.com##.sg-ad-r
 17173.com##.shadowPage
 xilu.com##.shehuibanner
 160.com##.shengda
-longhoo.net##.shi_adv
 ziranzhi.com##.shicha
 0452e.com##.shop
 sogou.com,soso.com##.shop-info-list
@@ -7136,7 +7131,6 @@ bgbk.org##.widget_banner
 51jifenbao.net##.widget_text:last-child
 daqianduan.com##.widget_ui_ads
 wangyueblog.com##.wigget_sponsors
-ltaaa.com##.worldcup
 jump.bdimg.com,tieba.baidu.com##.worldcup_info_banner_dialog
 renren.com##.wp-rrzm-popup
 seowhy.com##.wp[style="margin-top:10px;"]
@@ -7224,7 +7218,6 @@ zhibo8.cc##a[href^="http://caipiao."]
 178.com##a[href^="http://iwan.sogou.com/webgame?f="]
 21cn.com##a[href^="http://news.haxiu.com/"]
 xdjz.net##a[href^="http://p.xdsq.net/ad/"]
-letv.com##a[href^="http://prom.gome.com.cn/"]
 it.com.cn,vikilife.com##a[href^="http://s.click.taobao.com/"]
 btkitty.org##a[href^="http://simplevpn.us"]
 lightnovel.cn##a[href^="http://t.cn/"]
@@ -7522,7 +7515,6 @@ mnw.cn##div[style="margin:0px auto;padding:0px 0px 5px;width:950px;height:70px;o
 ipc.me##div[style="margin:46px auto 66px auto;width:660px;height:140px"]
 yanqing888.net##div[style="margin:auto;width:960px;margin-top:10px;height:90px;"]
 gamer.com.tw##div[style="min-height:250px;margin-bottom:10px;"]
-letv.com##div[style="overflow:hidden; height:100px; width:970px; background:#ffffff"]
 emuch.net##div[style="padding:15px 0;border:1px solid #648EB2;width:760px;text-align:center;"]
 win007.com##div[style="padding:6px 0; width:950px; height:45px"]
 131.com##div[style="position:fixed;bottom:0;right:0;"]
@@ -7630,7 +7622,6 @@ jznews.com.cn##img[width="980"]
 gog.com.cn##img[width^="100"]
 0597kk.com##img[width^="37"][height="30"]
 jump.bdimg.com,tieba.baidu.com##li[data-daid]
-letv.com##li[data-info*="prom.gome.com.cn/"]
 qiku8.com##li[style*="310"][style*="265"]
 ipc.me##li[style="margin-bottom:20px;width:300px;height:100px;_display:block"]
 ks.js.cn##object[data^="yytf/"]
