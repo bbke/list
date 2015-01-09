@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501091701
-! Last Modified: 2015年01月09日 17:01
+! Version: 201501091801
+! Last Modified: 2015年01月09日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4592,10 +4592,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||gg163.net/2012ad/
+||gg163.net/2013ad/
+||gg163.net/gpimages/22.gif
+||gg163.net/gpimages/ad33.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+gg163.net###container > TABLE[width="960"]
 haosou.com,so.com##.atom-adv
 hc360.com,yaolan.com###AD
 21yq.com###AD1
@@ -7723,6 +7728,8 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 kijiji.com.tw#@#.adImg
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
+@@||cb.baidu.com/ecom?di=933917&
+@@||cb.baidu.com/ecom?di=933920&
 @@&ad_type=$domain=x.jd.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
