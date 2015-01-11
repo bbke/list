@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501112001
-! Last Modified: 2015年01月11日 20:01
+! Version: 201501112101
+! Last Modified: 2015年01月11日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -7683,7 +7683,7 @@ hkgolden.com##span[id^="lineImage"]
 hanzify.org##span[style^="float:right;"]
 rmdown.com##table[bgcolor="#003366"]:nth-child(2)
 my0511.com##table[bordercolor="#C0C0C0"][border="1"]
-4v5v.com,gi55.com##table[bordercolor="#FF0000"]
+4v5v.com,q2233.com,w4455.com##table[bordercolor="#FF0000"]
 365.kv700.com##table[bordercolor="#ffcc66"][width="900"]
 ip138.com##table[cellpadding="3"][width="760"][align="center"]
 bbs.fobshanghai.com##table[cellpadding="4"][style="background: #D6E0EF"]
