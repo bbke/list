@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501111901
-! Last Modified: 2015年01月11日 19:01
+! Version: 201501112001
+! Last Modified: 2015年01月11日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4695,10 +4695,12 @@ _vmind.qqvideo.tc.qq.com^
 ||dealmoon.com/images/n/creditcard-160.png
 ||dealmoon.com/upload/dealmoon_app.jpg
 ||moonbbs.com/static/image/banner/fashionmoon.png
+||fanhaoyun.com/view/css/ku.js
 ||eeee42.com/Ads/
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+download.enet.com.cn###middle_new > .font2
 leiting001.com,leitingcn.com###ad
 leitingcn.com##.wlt670 > DIV[style]
 leitingcn.com##DIV[style="height:308px"]
