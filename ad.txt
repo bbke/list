@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501131401
-! Last Modified: 2015年01月13日 14:01
+! Version: 201501131801
+! Last Modified: 2015年01月13日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -819,6 +819,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||niuxgame77.com^
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -4703,10 +4704,16 @@ _vmind.qqvideo.tc.qq.com^
 ||xxhh.com/xh.js
 ||wuseng.com/templets/default/statics/js/mm.js
 ||mcncc.com/yeyou/*.htm
+||maxthonimg.com/cp/ad/1420765807.jpg
+||maxthonimg.com/cp/ad/1420792739.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+maxthon.cn###widget-main-ad
+maxthon.cn###widget-main-external-link-groupbuy
+maxthon.cn##.widget-main-ad-img
+maxthon.cn##.widget-main-hot-links
 mahua.com##.mahua[style="width:640px;height:150px"]
 mahua.com##DIV[style$="width:300px;height:250px"]
 mcncc.com###diynavtop
