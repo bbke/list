@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501131901
-! Last Modified: 2015年01月13日 19:01
+! Version: 201501132001
+! Last Modified: 2015年01月13日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4623,10 +4623,12 @@ _vmind.qqvideo.tc.qq.com^
 ||mcncc.com/yeyou/*.htm
 ||maxthonimg.com/cp/ad/1420765807.jpg
 ||maxthonimg.com/cp/ad/1420792739.jpg
+||sinaimg.cn^$domain=xxxbt.com
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+duba.com##.side_other > .img
 52tian.net,iqiyi.com##.bdad
 maxthon.cn###widget-main-ad
 maxthon.cn###widget-main-external-link-groupbuy
@@ -7834,6 +7836,8 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@|http:*/ad$domain=meiziweibo.com
 @@|http:*/AD/$domain=dou6.cc|kk369.net|uuu123.net
 @@|http:*/gg/*.css
+@@||baidu.com/js/m.js$domain=v.baidu.com|baishi.baidu.com
+@@|http://cb.baidu.com/ecom?$domain=v.baidu.com|baishi.baidu.com
 @@|http://cb.baidu.com/ecom?$domain=baidu.56.com|baidu.baomihua.com|baidu.funshion.com|baidu.hd.baofeng.com|baidu.hz.letv.com|baidu.kankanews.com|baidu.ku6.com|baidu.pptv.com|baidu.v.126.net|baidu.v.ifeng.com|baidu.v1.cn|baidu.video.sina.com|baidu.yinyuetai.com
 @@||10010.com^*/ad.
 @@||10010.com^*/ad/
