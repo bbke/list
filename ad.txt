@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501131201
-! Last Modified: 2015年01月13日 12:01
+! Version: 201501131401
+! Last Modified: 2015年01月13日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3407,7 +3407,6 @@ _vmind.qqvideo.tc.qq.com^
 ||meitu.com/js/floatxiuxiu.js
 ||meizhou.com/data/attachment/portal/
 ||meizhou.com/images/topbanner
-||mfcad.com/images/footer_tupian/5.gif
 ||mfxk.com^$subdocument
 ||mfxp.com/images/
 ||mgbbs.cn/js/float.js
@@ -3448,17 +3447,12 @@ _vmind.qqvideo.tc.qq.com^
 ||msn.people.com.cn/css/2010tianrun/
 ||msn.ynet.com/vtui_js01.js
 ||mt30.com/ok/
-||mtksj.com/images/2345.gif
 ||mtksj.com/images/ad1225.jpg
-||mtksj.com/images/icoean.gif
-||mtksj.com/images/mlais.gif
 ||mtrend.cn/images/prome/
-||mtrend.cn/images/tmall/
 ||muyuge.com/js/bb/
 ||muyuge.com/js/KillABP.js
 ||muyuge.net/js/bb/
 ||mwsl.qiniudn.com/250x250-
-||mwsl.qiniudn.com/puma-faas300v3.jpg
 ||mxwz.com/swf/yidong2015.swf
 ||my.kiees.cn/img/dang.jpg
 ||my0511.com/*/ad_
@@ -3735,7 +3729,6 @@ _vmind.qqvideo.tc.qq.com^
 ||qingdaonews.com/images/36024.files/360da.gif
 ||qingkai.com/2009/html/top.htm
 ||qingkai.com/gg_img/
-||qiniudn.com/plusvps.png
 ||qiniudn.com/sites/default/files/boltfree.png
 ||qiniudn.com/sites/default/files/FeQuan_0.jpg
 ||qiniudn.com/wp-content/uploads/2013/08/lagou-
@@ -4714,6 +4707,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+mahua.com##.mahua[style="width:640px;height:150px"]
+mahua.com##DIV[style$="width:300px;height:250px"]
 mcncc.com###diynavtop
 mcncc.com##.GzList
 wuseng.com##.news_ad
@@ -5731,7 +5726,7 @@ shenchuang.com##.MainR_ad3
 hifidiy.net##.MainRight > .marginTop[style]
 cn.bing.com##.OpInNwWndw
 3dmgame.com##.R1
-3jy.com,i51yy.com,mahua.com##.Rad
+3jy.com,i51yy.com##.Rad
 198zone.com##.Rad2
 tmmov.com##.Sys_head
 dfdaily.com##.TOP_BANNER
@@ -6658,7 +6653,7 @@ ltaaa.com##.lAds
 jump.bdimg.com,tieba.baidu.com##.l_banner
 51caiju.com,qq.com##.l_qq_com
 taoguba.com.cn##.label2
-3jy.com,i51yy.com,mahua.com##.lad
+3jy.com,i51yy.com##.lad
 letv.com##.lay_body[style^="width:490px;height:320px;"]
 letv.com##.lay_body[style^="width:980px;height:100px;"]
 letv.com##.lay_body[style^="width:980px;height:90px;"]
@@ -6785,8 +6780,6 @@ i-part.com.tw##.newAd
 rfidworld.com.cn##.newAdDivClass
 china3-d.com##.new_ad
 ffdyk.com##.new_head_ad
-mtrend.cn##.new_right > .new_blog_bg:nth-child(3)
-mtrend.cn##.new_right > .newindex_title:nth-child(2)
 rrting.net##.newgads
 zhifang.com##.newhousegg001
 zhifang.com##.newhousegg002
@@ -7499,7 +7492,6 @@ hk.yahoo.com##div[id^="my-ads"]
 ifeng.com##div[id^="padhide_"]
 cnyw.net##div[id^="portal_ad_"]
 ksbbs.com##div[id^="read_ad_"]
-mtrend.cn##div[id^="renqi9_show_"]
 www.rkanr.com##div[id^="rkrCp"]
 eol.cn##div[id^="s1_"]
 cnhubei.com##div[id^="scrollDiv_"]
@@ -8170,7 +8162,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||rm.sina.com.cn/minisite/$domain=weibo.com
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
-@@||s.acs86.com/FrameWork/AFP/ASP_v523.swf$domain=mytv365.com
+@@/FrameWork/AFP/ASP_$domain=mytv365.com
 @@||saibeinews.com/index.php?m=poster&c=index&a=show_poster&id=2
 @@||sc.jb51.net/adimg/*.jpg
 @@||sdc.pingan.com^$~image
@@ -8393,6 +8385,8 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
+||tongji.mafengwo.cn^
+||mafengwo.cn/uva/i.gif?
 
 &ad_type=
 &ad_url=
