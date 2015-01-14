@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501142101
-! Last Modified: 2015年01月14日 21:01
+! Version: 201501142301
+! Last Modified: 2015年01月14日 23:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4724,6 +4724,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [id*="00"]:not([id="100"]) > tbody
+ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [id*="00"]:not([id="100"]) > div
+ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [class] > [id*="00"]:not([id="100"]) > tbody
+ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [class] > [id*="00"]:not([id="100"]) > div
+lknovel.lightnovel.cn###J_a_c
+lknovel.lightnovel.cn###J_ad
+lknovel.lightnovel.cn##.row-fluid[style="margin-bottom:20px; margin-left:20px;"]
+lknovel.lightnovel.cn##.container > DIV[class^="lk-_"]
+lknovel.lightnovel.cn##.lk-view-container > DIV[style="margin-bottom:10px; text-align: center;"]
 azhibo.com##.signal[href^="http://www.ayingjia.com/"]
 mtime.com###dn_chu
 mail.126.com,mail.163.com##.APP-dashi-botBanner
@@ -5063,11 +5072,7 @@ tsdm.net###content_box_300250
 tsdm.net###content_box_60090
 tsdm.net###content_box_72890
 aa25.cn###content_head
-ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [class] > [id*="00"]:not([id="100"])
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [class] > a[href^="//e.baidu.com/?refer="]
-ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [id*="00"]:not([id="100"])
-ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > div[style="display:block !important"]
-ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > table[style="display:table !important"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_right > table > tbody > tr > td > div:not(#con-ar)
 jpwind.com###content_right_ad
 aa25.cn###content_top
