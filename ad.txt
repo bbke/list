@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501151801
-! Last Modified: 2015年01月15日 18:01
+! Version: 201501151901
+! Last Modified: 2015年01月15日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3392,7 +3392,6 @@ _vmind.qqvideo.tc.qq.com^
 ||mall.xinkuaituan.com/zhuanti/
 ||manads.static.olcdn.com^
 ||manage.wdfans.cn^
-||manhua.weibo.com/weimanhuagg/_xCPo85CO.jpg
 ||maolihui.com/wp-content/themes/miao/img/adb
 ||market.178.com^
 ||market.21cn.com^
@@ -3431,8 +3430,6 @@ _vmind.qqvideo.tc.qq.com^
 ||miljinhua.com/GD/
 ||mimg.127.net/ggimg/all/img18/140218_yixin_780x96.jpg
 ||mimg.127.net/m/smartad/img/
-||mingxing.com/js/index_banner.js
-||mingxing.com/js/tuku/_banner.js
 ||missyuan.com/sy/
 ||mitbbs.com/ad_
 ||mitbbs.com/servicedata/static_ad.php
@@ -3549,7 +3546,6 @@ _vmind.qqvideo.tc.qq.com^
 ||northtimes.com/huodong/02/js/ad-
 ||nownews.com/events/
 ||nownews.com/include_house/product.html
-||ntpcb.com/10rmb.gif
 ||ntpcb.com/html/channel/citypark/images/p83_temp_
 ||nttpcs.cn/ax/incoto.gif
 ||nvsheng.com/js/gg.js
@@ -3701,7 +3697,6 @@ _vmind.qqvideo.tc.qq.com^
 ||price.com.hk/dfp_price.php?
 ||price.com.hk/scripts/ysm.js
 ||pro.iweihai.cn^
-||promotion.msn.com.tw^
 ||ps123.net/MyFile/
 ||ptfish.com/*/ad$image,object
 ||ptfish.com/08html/
@@ -4025,7 +4020,6 @@ _vmind.qqvideo.tc.qq.com^
 ||siqiboke.com/upload/winpop.js
 ||siyu88.cn/xl/xiaoke960_90.gif
 ||sj.net.cn/img/hlw428.gif
-||sj.net.cn/img/yjy2014.gif
 ||sjyws.sjyws.com:*.gif
 ||sjzbus.com.cn/advimg/
 ||sjzbus.com.cn/uploadimg/20130829114555.gif
@@ -4314,7 +4308,6 @@ _vmind.qqvideo.tc.qq.com^
 ||vista.tgbus.com/data.ashx^*_SINGLE_SETJSONADSLOT
 ||vista.tgbus.com/s.js
 ||vista.tgbusdata.cn/s.js
-||vmanhua.com/new_v3/player/image/a_d_img/
 ||vnet.cn^*.html
 ||voc.com.cn/adsClick/
 ||voc.com.cn/Frame/qqms_cs.html
@@ -4713,7 +4706,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zxip.com/2013_ad/
 ||zxxk.com/js/articleinfo/JS_
 ||zydh123.com/ad-js/
-||zymk.cn/Public/editor/attached/20140819080822_33400.jpg
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
@@ -4732,6 +4724,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+mgbbs.cn##.tac.mb5
 biquge001.com###content > A
 mracg.com##A[href*=".taobao.com"]
 gmgard.us##A[href*=".taobao.com"]
@@ -4928,10 +4921,8 @@ voc.com.cn###adbody_show
 iqiyi.com###adflash
 eol.cn###adfloat_l
 eol.cn###adfloat_r
-tw.msn.com###adgrouponca2
 ceil.me,rrting.net###adindex
 dgmei.com###admhdiv_abc
-tw.msn.com###admomoca2
 linyiren.com###adone
 bejson.com,chuchushoe.blogspot.com,frdic.com,fububu.com,gnhome.com,it168.com,jjxw.cn,lol.moa.tw,piao.com.cn,udn.com###ads
 danyang.com###ads-hd
@@ -4961,7 +4952,6 @@ aibang.com###advBottomBox
 400gb.com,bego.cc,pipipan.com###advLeft
 400gb.com,bego.cc,pipipan.com###advRight
 szonline.net###adv_focus
-news.msn.com.tw###adv_images_l
 360kan.com###advert_stack_0
 qq.com###advertisement
 sogou.com###adword
@@ -4971,7 +4961,6 @@ qzone.qq.com###appCanvasRightBottomTips
 qzone.qq.com###appCanvasRightTopQBoss
 qzone.qq.com###appCanvasTopBanner
 qzone.qq.com###app_ads
-tw.msn.com###area1 > .ro:nth-child(6)
 xyfdcw.com.cn###area2_2 > .mb5
 gxnews.com.cn###art_adunioncode
 wx.sina.com.cn###artibody > .article-video
@@ -5159,7 +5148,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com###ecl-temai-general
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###ecl-weigou-view-container
 hao123.com###ecom
 image.baidu.com###ecomContainer
-tw.msn.com###ectabs
 hjenglish.com###editor_a4
 letv.com###egg
 3sjt.com,kugz.com###eis_pad1
@@ -5476,7 +5464,6 @@ wuxianfuli.com###primary > a[target="_blank"]
 9le8.com###program_play_right
 mymusic.net.tw###prom
 firefox.com.cn,i.firefoxchina.cn###promote-top-list
-tw.msn.com###promotionlink
 bt49.com###pt + center
 langxi.org###pt + div > table
 bbs.pcbeta.com###pt + div[style] > div[style^="clear:both;"]
@@ -7121,7 +7108,6 @@ cnool.net##.third-banner
 jump.bdimg.com,tieba.baidu.com##.thread_dir_ad
 jump.bdimg.com,tieba.baidu.com##.thread_local_58
 jbtalks.cc##.threadad
-news.msn.com.tw##.three
 cndesign.com##.throughAdPic
 wenku.baidu.com##.tiger-vip-dialog
 fengyunzhibo.com,kukuplay.com##.tipadds
@@ -7836,7 +7822,6 @@ firefoxchina.cn##ul[track-key="adv_links"]
 !---------------------------------CSS Whitelist-------------------------------!
 920url.com#@##AdDiv
 the-sun.on.cc#@##ContentAd1
-news.now.com#@##ad-2
 d77.com#@##ad-wrap
 greedio.com#@##adBox
 gohome.com.hk#@##adFrame
@@ -8438,6 +8423,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
 ||log2.mtime.cn^
+||cpms.now.com^
 
 &ad_type=
 &ad_url=
