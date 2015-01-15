@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501151301
-! Last Modified: 2015年01月15日 13:01
+! Version: 201501151401
+! Last Modified: 2015年01月15日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4720,6 +4720,9 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||51img1.com^$domain=v8gay.com
 ||taobaocdn.com^$domain=gmgard.us
+||mracg.com/data/attachment/portal/201412/17/
+||mracg.com/data/attachment/portal/201412/17/
+||idanmu.com/wp-content/themes/wpbangumi/images/assets/980x90_
 ||sinaimg.cn/large/3e6f6cd8jw1eo6pcyw9n6j20kk03275j.jpg
 ||sinaimg.cn/large/3e6f6cd8jw1eo37jl85cfj2064064mxn.jpg
 ||sinaimg.cn/large/3e6f6cd8jw1eo37jzh3t2j206406474w.jpg
@@ -4728,6 +4731,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+mracg.com##A[href*=".taobao.com"]
 gmgard.us##A[href*=".taobao.com"]
 gmgard.us##A[href*=".tmall.com"]
 mopiaoyao.com##.box:nth-child(5) > .textwidget > A[target="_blank"]
