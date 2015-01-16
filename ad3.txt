@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501161201
-! Last Modified: 2015年01月16日 12:01
+! Version: 201501161301
+! Last Modified: 2015年01月16日 13:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -53,9 +53,6 @@ chaturbate.com##.banner, .ad
 !优酷
 ||static.youku.com/*/index/js/popup.js
 ||static.youku.com/*/index/js/qwindow.js
-!音悦台
-||log.collect.yinyuetai.com^
-||gettime.yinyuetai.com^
 !迅雷
 ||pstatic.xunlei.com/js/*
 ||img.kuai.xunlei.com/js/webxunlei.js
@@ -4634,10 +4631,19 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||0772fang.com/media/*-950x
+||0772fang.com/media/*-130x300.swf
+||kcjc.net/data/attachment/portal/
+||kcjc.net/960$image
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+uzzf.com##A[reurl^="http://down.t071.com/"]
+0772fang.com##.a_banner
+0772fang.com##.box0
+0772fang.com##.duilian_l
+0772fang.com##.duilian_r
 univisa.com.cn###popup
 hc360.com,yaolan.com###AD
 21yq.com###AD1
