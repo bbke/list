@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501161801
-! Last Modified: 2015年01月16日 18:01
+! Version: 201501161901
+! Last Modified: 2015年01月16日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3542,7 +3542,6 @@ _vmind.qqvideo.tc.qq.com^
 ||nizd.net/wp-content/themes/FengYun/images/top
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
 ||nmg.xinhuanet.com/sy/images/*.swf
-||nmgnews.com.cn/0/10/71/66/10716601_990205.gif
 ||nmgnews.com.cn/swf/0/10/$object,domain=www.nmgnews.com.cn
 ||no1.168abc.net/upload/
 ||nokiacn.net/baidu.htm
@@ -3680,7 +3679,7 @@ _vmind.qqvideo.tc.qq.com^
 ||pixfs.net/js/mib_falcon.
 ||plures.net/scripts/widget/tips.js
 ||plurk.com/Ads/
-||poco.cn/mypoco/myphoto/20140107/22/5939544420140107221444048.jpg
+||poco.cn/mypoco/myphoto/20141026/22/594663442014102622174408.jpg
 ||poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064.jpg
 ||poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072.gif
 ||poco.cn/mypoco/myphoto/20140423/19/5589980820140423191248067.gif
@@ -4277,8 +4276,6 @@ _vmind.qqvideo.tc.qq.com^
 ||upan.so/templates/default/images/sir.gif
 ||upantool.com/playing/
 ||upload.jjxw.cn^*.swf
-||upload.northnews.cn/2013/0826/1377507162798.jpg
-||upload.northnews.cn/2013/1028/1382943429869.jpg
 ||uploadhouse.com/fileuploads/16891/*.gif
 ||uploadhouse.com/fileuploads/16920/*.jpg
 ||uutv5.com/xz.gif
@@ -6783,7 +6780,6 @@ newcger.com##.mtb17.h90
 pixiv.net##.multi-ads-area
 07073.com##.multi_adv
 45zw.com##.mulu_list > table
-neihan8.com##.myad
 zhulang.com##.myadv_01
 jyeoo.com##.mycenter > a:first-child
 myday.com.tw##.myday_ad_950
@@ -7903,6 +7899,8 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||keyrun.cn^$domain=400gb.com|bego.cc|pipipan.com
+@@||pos.baidu.com/acom?di=$domain=400gb.com|bego.cc|pipipan.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
