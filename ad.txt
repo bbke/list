@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501162001
-! Last Modified: 2015年01月16日 20:01
+! Version: 201501162101
+! Last Modified: 2015年01月16日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -817,6 +817,7 @@ hk.yahoo.com###mntl1
 ##a[href^="https://www.18vpn.biz/r.php"]
 ~dsjunshi.com##div[id^="ad_thread"]
 ##script + .sptable[cellpadding="5"]
+###olfullad
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
 /adscpc/*
@@ -5420,7 +5421,6 @@ nownews.com###nownews_pickup
 qq.com###nqsnqsad02
 leiting001.com,leitingcn.com###nrad
 51zxw.net###oTransContainer
-kimiss.com###olfullad
 image.baidu.com###only-lady-sec
 ifeng.com###optimusPrimeContentId
 dnvod.eu###outwin
