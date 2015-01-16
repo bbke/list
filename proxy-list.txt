@@ -146,5 +146,3 @@ video.yahoo.com
 ||fckb.cc
 ||sdy4.me
 ||picktorrent.com
-||500px.com
-||stripe.com
