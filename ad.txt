@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501171101
-! Last Modified: 2015年01月17日 11:01
+! Version: 201501171201
+! Last Modified: 2015年01月17日 12:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3575,7 +3575,6 @@ _vmind.qqvideo.tc.qq.com^
 ||online.cq.cn/commonweb/commonright/right_side
 ||online.cq.cn/huodong/css/
 ||onlinedown.net/newhuagg/*_pic_$script
-||oogps.com/oogps/aiostech.jpg
 ||opera.by-fan.net/content/uploadfile/201408/6bc21407810441.jpg
 ||opera.by-fan.net/content/uploadfile/201408/dc1e1408832001.gif
 ||orsoon.com*/zhuanti/
@@ -4735,6 +4734,7 @@ _vmind.qqvideo.tc.qq.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 ocucn.com###bad
+oogps.com##.bnn1
 ocucn.com##.getGold[style^="height:"]
 ocucn.com##A[href^="http://www.zhuna.cn/rdirect.asp?type=hoteltxt&"]
 hc360.com,yaolan.com###AD
@@ -5099,7 +5099,6 @@ club.kdnet.net###dispbbs30
 szhk.com###div01
 wz.zj.cn###div1
 qdwenxue.com,qidian.com###divADClient
-oogps.com###divAll > .a
 beanfun.com###divGoogleAD_1
 beanfun.com###divGoogleAD_2
 qidian.com###divUserGuide
