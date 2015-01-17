@@ -146,3 +146,5 @@ video.yahoo.com
 ||fckb.cc
 ||sdy4.me
 ||picktorrent.com
+||blogger.com
+||blogblog.com
