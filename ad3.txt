@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501171914
-! Last Modified: 2015年01月17日 19:14
+! Version: 201501171922
+! Last Modified: 2015年01月17日 19:22
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -59,9 +59,9 @@ chaturbate.com##.banner, .ad
 !F**k 铁通
 /^http\:\/\/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}(\:\d{1,5})?\/((m|s|main\/main)\.js|h\/k.php)/$third-party
 !400gb
-@@||bdimg.share.baidu.com/static/js/$domain=400gb.com,bego.cc,pipipan.com
-@@||share.baidu.com/static/js/$domain=400gb.com,bego.cc,pipipan.com
-@@||hm.baidu.com^$domain=400gb.com,bego.cc,pipipan.com
+@@||bdimg.share.baidu.com/static/js/$domain=400gb.com,www.400gb.com,bego.cc,www.bego.cc,pipipan.com,www.pipipan.com
+@@||share.baidu.com/static/js/$domain=400gb.com,www.400gb.com,bego.cc,www.bego.cc,pipipan.com,www.pipipan.com
+@@||hm.baidu.com^$domain=400gb.com,www.400gb.com,bego.cc,www.bego.cc,pipipan.com,www.pipipan.com
 !百度
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||wenku.baidu.com/static/view/*.js
