@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501182346
-! Last Modified: 2015年01月18日 23:46
+! Version: 201501190020
+! Last Modified: 2015年01月19日 00:20
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -20,28 +20,28 @@
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 !zol
 @@||icon.zol-img.com.cn/public/js/web_foot.js
-!cam4
+! cam4
 www.cam4.tw,www.cam4.com###headerBanner, #subfoot, .removeAds, .ads
 ||edgecast.cam4s.com/web/js/cam4*.js
-!chaturbate
+! chaturbate
 ||chaturbate.com/affiliates/
 ||chaturbate.com/sitestats/openwindow/$popup
 chaturbate.com##.banner, .ad
 ||untitled.dwstatic.com/fodder/*$object-subrequest
-!优酷
+! 优酷
 ||static.youku.com/*/index/js/popup.js
 ||static.youku.com/*/index/js/qwindow.js
-!迅雷
+! 迅雷
 ||pstatic.xunlei.com/js/*
 ||img.kuai.xunlei.com/js/webxunlei.js
-!F**k 铁通
+! F**k 铁通
 |http://*/s.js?sp=*&r=$third-party
 |http://*/m.js?t=$third-party
 |http://*/main/main.js?r=$third-party
 |http://*/h/k.php?u=$third-party
-!400gb
+! 400gb
 @@||dup.baidustatic.com/painter/clb/fixed7o.js
-!百度
+! 百度
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||wenku.baidu.com/static/view/*.js
 ||hm.baidu.com^
@@ -112,22 +112,62 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||tb2.bdstatic.com/tb/static-*/widget/my_tieba/img/
 ||tb2.bdstatic.com/tb/static-*/widget/my_current_forum/img/
 ! i贴吧&主页
-jump.bdimg.com,tieba.baidu.com###spage_liveshow_slide,#spage_game_tab_wrapper,#plat_act_wrapper
-jump.bdimg.com,tieba.baidu.com##.advertise_right_index,.userinfo_scores,.ihome_aside_section,.tshow_out_date_warn
+jump.bdimg.com,tieba.baidu.com###spage_liveshow_slide
+jump.bdimg.com,tieba.baidu.com###spage_game_tab_wrapper
+jump.bdimg.com,tieba.baidu.com###plat_act_wrapper
+jump.bdimg.com,tieba.baidu.com##.advertise_right_index
+jump.bdimg.com,tieba.baidu.com##.userinfo_scores
+jump.bdimg.com,tieba.baidu.com##.ihome_aside_section
+jump.bdimg.com,tieba.baidu.com##.tshow_out_date_warn
 ! 右上角
-jump.bdimg.com,tieba.baidu.com##.split,.fMember_cnt,.u_tbmall,.u_mytbmall,.u_app,.u_wallet,.u_xiu8,.u_game,.u_joinvip,.u_appcenterEntrance,.u_baiduPrivilege
+jump.bdimg.com,tieba.baidu.com##.split
+jump.bdimg.com,tieba.baidu.com##.fMember_cnt
+jump.bdimg.com,tieba.baidu.com##.u_tbmall
+jump.bdimg.com,tieba.baidu.com##.u_mytbmall
+jump.bdimg.com,tieba.baidu.com##.u_app
+jump.bdimg.com,tieba.baidu.com##.u_wallet
+jump.bdimg.com,tieba.baidu.com##.u_xiu8
+jump.bdimg.com,tieba.baidu.com##.u_game
+jump.bdimg.com,tieba.baidu.com##.u_joinvip
+jump.bdimg.com,tieba.baidu.com##.u_appcenterEntrance
+jump.bdimg.com,tieba.baidu.com##.u_baiduPrivilege
 ! 顶部
-jump.bdimg.com,tieba.baidu.com###game_live_list,#j_navtab_wanle,#j_navtab_game
-jump.bdimg.com,tieba.baidu.com##.icon_group,.icon_yyshow,.j_reward_btn,.star_nav_ico_group
+jump.bdimg.com,tieba.baidu.com###game_live_list
+jump.bdimg.com,tieba.baidu.com###j_navtab_wanle
+jump.bdimg.com,tieba.baidu.com###j_navtab_game
+jump.bdimg.com,tieba.baidu.com##.icon_group
+jump.bdimg.com,tieba.baidu.com##.icon_yyshow
+jump.bdimg.com,tieba.baidu.com##.j_reward_btn
+jump.bdimg.com,tieba.baidu.com##.star_nav_ico_group
 ! 右侧
-jump.bdimg.com,tieba.baidu.com###encourage_entry,.user_score,.profile_bottom,.tieba_notice,.u9_aside,.platform_aside_module
-jump.bdimg.com,tieba.baidu.com##.tbui_fbar_square,.tbui_fbar_props
+jump.bdimg.com,tieba.baidu.com###encourage_entry
+jump.bdimg.com,tieba.baidu.com##.user_score
+jump.bdimg.com,tieba.baidu.com##.profile_bottom
+jump.bdimg.com,tieba.baidu.com##.tieba_notice
+jump.bdimg.com,tieba.baidu.com##.u9_aside
+jump.bdimg.com,tieba.baidu.com##.platform_aside_module
+jump.bdimg.com,tieba.baidu.com##.tbui_fbar_square
+jump.bdimg.com,tieba.baidu.com##.tbui_fbar_props
 ! 中部
-jump.bdimg.com,tieba.baidu.com##.icon_pre,.icon_wrap,.icon_tbworld,.j_nameplate,.reward_title,.reward_panel_wrap
-jump.bdimg.com,tieba.baidu.com##.save_face_bg,.card_userinfo_honor,.user_card_vip_tips
+jump.bdimg.com,tieba.baidu.com##.icon_pre
+jump.bdimg.com,tieba.baidu.com##.icon_wrap
+jump.bdimg.com,tieba.baidu.com##.icon_tbworld
+jump.bdimg.com,tieba.baidu.com##.j_nameplate
+jump.bdimg.com,tieba.baidu.com##.reward_title
+jump.bdimg.com,tieba.baidu.com##.reward_panel_wrap
+jump.bdimg.com,tieba.baidu.com##.save_face_bg
+jump.bdimg.com,tieba.baidu.com##.card_userinfo_honor
+jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
-jump.bdimg.com,tieba.baidu.com###pop_frame,#forum_recommend,#xiu8_follow_warn,.thread_recommend,.add_guessing_btn
-jump.bdimg.com,tieba.baidu.com##.edui-icon-voice,.edui-icon-medal,.edui-editor-msg,.poster_head_surveillance
+jump.bdimg.com,tieba.baidu.com###pop_frame
+jump.bdimg.com,tieba.baidu.com###forum_recommend
+jump.bdimg.com,tieba.baidu.com###xiu8_follow_warn
+jump.bdimg.com,tieba.baidu.com##.thread_recommend
+jump.bdimg.com,tieba.baidu.com##.add_guessing_btn
+jump.bdimg.com,tieba.baidu.com##.edui-icon-voice
+jump.bdimg.com,tieba.baidu.com##.edui-icon-medal
+jump.bdimg.com,tieba.baidu.com##.edui-editor-msg
+jump.bdimg.com,tieba.baidu.com##.poster_head_surveillance
 ! EasyPrivacy
 ||180.76.2.18^$third-party,domain=~baidu.ip
 ||50bang.org^$third-party
