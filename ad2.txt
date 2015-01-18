@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501180919
-! Last Modified: 2015年01月18日 09:19
+! Version: 201501182201
+! Last Modified: 2015年01月18日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -12,36 +12,14 @@
 
 
 ##FONT.jammer
-||tjs.sjs.sinajs.cn/open/analytics/*
-||cloudfront.net/atrk.js
 ||videowood.tv/assets/js/popup.js
 ||file.ithome.com/js/wap/common.js
 ||forum.xitek.com/xml/flash.swf
 */hezuo/*^$domain=bbs.gfan.com
-||pplive.cn/analytics/*
 ||member.jschina.com.cn/AD*
 ||miwifi.com/d2r/*
-||analytics.163.com^
-||js.users.51.la^
-||cdn.optimizely.com^
-||doubleclick.net^
-||google-analytics.com^
-||btrace.qq.com^
-|utrack.hexun.com^
-||abcstats.com^$third-party
-||admaster.com.cn^$third-party
-||addthis.com^$third-party
-||baifendian.com^$third-party
-||bfdcdn.com^$third-party
-||cnzz.com^$third-party
-||imlive.com^$third-party
-||jiathis.com^$third-party
-||projectwonderful.com^$third-party
-||scorecardresearch.com^$third-party
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 !zol
-||zol-img.com.cn/bms/js/stat.js
-||stat.zol.com.cn^
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 !cam4
 www.cam4.tw,www.cam4.com###headerBanner, #subfoot, .removeAds, .ads
