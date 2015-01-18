@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501182201
-! Last Modified: 2015年01月18日 22:01
+! Version: 201501182301
+! Last Modified: 2015年01月18日 23:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2506,7 +2506,6 @@ _vmind.qqvideo.tc.qq.com^
 ||epinv.com/wp-content/themes/ep/tu/yinshu.gif
 ||eprice.cn/image/upload/ad/
 ||eprice.com.tw/js/swfobject-2.3.js
-||erji.net/photo/
 ||etdown.net/images/ad1
 ||etest8.com/images/subcate/158/158-2014-head.gif
 ||etest8.com/style/950x90_2.js
@@ -3612,7 +3611,6 @@ _vmind.qqvideo.tc.qq.com^
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/image/upload/images/20140619_162612.gif
 ||pharmnet.com.cn/js/float_div.js
-||photo.erji.com^
 ||photofans.cn/cooperator/banner/
 ||php100.com/statics/sem/chuangen.gif
 ||phpad.cqnews.net^
@@ -4717,10 +4715,13 @@ _vmind.qqvideo.tc.qq.com^
 ||cloudleft.com/statics/images/clouelft350_60.gif
 ||5icool.org/uploadfile/poster/1080x60.gif
 ||0379home.com/images/test/beside.js
+||ya788.com/pf/js/float.js
+||hao123img.com/v4/bC/lm/oS/Zl/Ur/bClmoSZlUr.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+erji.com,erji.net##IMG[width="850"]
 cfcyb.com###b164187228
 zrzjw.com##.in960
 5icool.org##.ads300_show
@@ -6362,7 +6363,7 @@ shulink.com##.er_g
 chinaz.com##.etc-b-head
 chinaz.com##.etc-t-head
 1905.com##.eventLink_pageBackground
-erji.com,erji.net##.f_one.black.y-style
+erji.com,erji.net##.black.y-style
 wangjing.cn##.fad
 ythouse.com##.fad2
 mobile01.com##.fast-ad
@@ -8178,9 +8179,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||partner.googleadservices.com/gpt/pubads_impl_$domain=pcdvd.com.tw
 @@||pcdvd.com.tw/advertisement.js
 @@||pep.com.cn/rjs/guanggao/
-@@||photo.erji.com/hifig.jpg
-@@||photo.erji.com/opera.jpg
-@@||photo.erji.com/srk.png
 @@||pic.zol-img.com.cn/2009/pix_index.swf
 @@||piccool.com/2home/phpAdsNew/
 @@||playno1.com^*/common/cf/
