@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501182001
-! Last Modified: 2015年01月18日 20:01
+! Version: 201501182101
+! Last Modified: 2015年01月18日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -740,6 +740,7 @@ hk.yahoo.com###mntl1
 ##a[href^="https://www.18vpn.biz/r.php"]
 ~dsjunshi.com##div[id^="ad_thread"]
 ##script + .sptable[cellpadding="5"]
+##.ggad
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
 /adscpc/*
@@ -4654,6 +4655,7 @@ _vmind.qqvideo.tc.qq.com^
 ||diancloud.com/ghost/banner/
 ||cloudleft.com/statics/images/clouelft350_60.gif
 ||5icool.org/uploadfile/poster/1080x60.gif
+||0379home.com/images/test/beside.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -6422,7 +6424,6 @@ loorin.com##.gg_three
 eeyy.com##.gg_top
 starbaby.cn##.gg_ttb
 loorin.com##.gg_two
-jxedt.com,office68.com##.ggad
 hgitv.com##.ggall
 360che.com##.ggbaner_2
 360che.com##.ggbanner
