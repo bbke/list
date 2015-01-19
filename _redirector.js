@@ -4,6 +4,11 @@ rules = [{
     to: "$1",
     regex: true
 },{
+    name: "百毒搜索禁止劫持",
+    from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(rs|oq).*/i,
+    to: "https://$1$2",
+    regex: true
+},{
     name: "google.com.hk >> google.com",
     from: /^https?:\/\/www\.google\.com\.hk\/search\?(.*)/,
     to: "https://www.google.com/ncr#hl=en-US&newwindow=1&$1",
