@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501191901
-! Last Modified: 2015年01月19日 19:01
+! Version: 201501192001
+! Last Modified: 2015年01月19日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3668,7 +3668,6 @@ _vmind.qqvideo.tc.qq.com^
 ||linuxidc.com/linuxfile/linux$script
 ||linuxidc.com/linuxfile/list
 ||linuxidc.com/linuxfile/y9.js
-||liulanmi.com/labs/x/260x150.jpg
 ||live8bo.com/j/Lad6.js
 ||liyuanwang.com/guoqing.gif
 ||liyuanwang.com/nongli.gif
@@ -5055,10 +5054,16 @@ _vmind.qqvideo.tc.qq.com^
 ||22mt.la/bookpic/001.jpg
 ||zzsky.cn/images/zzskycom_
 ||alicdn.com/tps/i2/TB1FNhOHXXXXXbWXFXXSutbFXXX.jpg
+||sinaimg.cn^$domain=liulanmi.com
+||izt8.com/iztwp/images/hk-250.jpg
+||weidea.net/wp-content/ads_img/
+||weidea.net/wp-content/host_ads.png
 ||zhainanba.net/ac/
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+weidea.net##.main-banner
+liulanmi.com##.d_slidebanner
 pbhz.com##.a-ds-bottom
 ptbus.com###duilian
 jump.bdimg.com,tieba.baidu.com,tieba.com###threadListGroupCnt
@@ -6692,7 +6697,6 @@ fuyang.net##.eis_fbox_260:nth-child(n+3)
 fuyang.net##.eis_fbox_980
 playno1.com##.eis_mtm[style="border-top:1px dashed #CDCDCD;padding-top:10px; padding-bottom:15px"]
 winning11cn.com##.eis_topad
-liulanmi.com##.endads
 zhainanba.net##.entry-content > a[href^="http"]:nth-child(-n+2)
 fuli.ba,fuliba.asia,fuliba.mobi##.entry-content > div[style^="float:right"]
 briian.com##.entry-content > p[style="height: 85px;"]
