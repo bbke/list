@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501191201
-! Last Modified: 2015年01月19日 12:01
+! Version: 201501191301
+! Last Modified: 2015年01月19日 13:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3827,7 +3827,6 @@ _vmind.qqvideo.tc.qq.com^
 ||pc0359.cn/js/un.js
 ||pc0359.cn/sczy/
 ||pc141.com/statics/new_img/info_left.png
-||pc141.com/statics/new_img/jianjie.png
 ||pc3w.com/js/
 ||pc6.com/js/un/
 ||pc6.com^$subdocument
@@ -3846,12 +3845,10 @@ _vmind.qqvideo.tc.qq.com^
 ||pcpp.com.cn/news/ad/
 ||pcs1.app.joy.cn^
 ||pcstore.com.tw/css/myacc_init.js
-||pctowap.com/img/bs.jpg
-||pctowap.com/img/bs2.jpg
 ||pcworld.com.cn/Article/UploadFiles/201403/2014031016150885.jpg
 ||pd.xxhh.com/list.js
 ||pediy.com/temp/2345.gif
-||pediy.com/temp/ajm.jpg
+||pediy.com/temp/albb.jpg
 ||penglai.com.cn/template/default/js/index/topfloat.js
 ||people.com.cn/img/2013people/wza/domready.js
 ||people.com.cn/img/gjt/
@@ -4961,6 +4958,7 @@ _vmind.qqvideo.tc.qq.com^
 ||photo.erji.com^*.gif
 ||photo.erji.com^*.swf
 ||photo.erji.com/saha.jpg
+||pingpang.info/uploadfile/tsp.gif
 ||zzsky.cn/images/zzskycom_
 ||zhainanba.net/ac/
 ||zzz4.com/JS_AD/
