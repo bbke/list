@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201501191201
-! Last Modified: 2015年01月19日 12:01
+! Version: 201501191401
+! Last Modified: 2015年01月19日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -73,16 +73,17 @@
 ||tb2.bdstatic.com/tb/static-*/widget/my_tieba/img/
 ||tb2.bdstatic.com/tb/static-*/widget/my_current_forum/img/
 ! i贴吧&主页
+jump.bdimg.com,tieba.baidu.com###adide_platform
 jump.bdimg.com,tieba.baidu.com###spage_liveshow_slide
 jump.bdimg.com,tieba.baidu.com###spage_game_tab_wrapper
 jump.bdimg.com,tieba.baidu.com###plat_act_wrapper
 jump.bdimg.com,tieba.baidu.com##.advertise_right_index
-jump.bdimg.com,tieba.baidu.com##.userinfo_scores
 jump.bdimg.com,tieba.baidu.com##.ihome_aside_section
 jump.bdimg.com,tieba.baidu.com##.tshow_out_date_warn
+jump.bdimg.com,tieba.baidu.com##.userinfo_scores
 ! 右上角
-jump.bdimg.com,tieba.baidu.com##.split
 jump.bdimg.com,tieba.baidu.com##.fMember_cnt
+jump.bdimg.com,tieba.baidu.com##.split
 jump.bdimg.com,tieba.baidu.com##.u_tbmall
 jump.bdimg.com,tieba.baidu.com##.u_mytbmall
 jump.bdimg.com,tieba.baidu.com##.u_app
@@ -102,14 +103,15 @@ jump.bdimg.com,tieba.baidu.com##.j_reward_btn
 jump.bdimg.com,tieba.baidu.com##.star_nav_ico_group
 ! 右侧
 jump.bdimg.com,tieba.baidu.com###encourage_entry
-jump.bdimg.com,tieba.baidu.com##.user_score
-jump.bdimg.com,tieba.baidu.com##.profile_bottom
-jump.bdimg.com,tieba.baidu.com##.tieba_notice
-jump.bdimg.com,tieba.baidu.com##.u9_aside
 jump.bdimg.com,tieba.baidu.com##.platform_aside_module
+jump.bdimg.com,tieba.baidu.com##.profile_bottom
 jump.bdimg.com,tieba.baidu.com##.tbui_fbar_square
 jump.bdimg.com,tieba.baidu.com##.tbui_fbar_props
+jump.bdimg.com,tieba.baidu.com##.tieba_notice
+jump.bdimg.com,tieba.baidu.com##.u9_aside
+jump.bdimg.com,tieba.baidu.com##.user_score
 ! 中部
+jump.bdimg.com,tieba.baidu.com##.card_userinfo_honor
 jump.bdimg.com,tieba.baidu.com##.icon_pre
 jump.bdimg.com,tieba.baidu.com##.icon_wrap
 jump.bdimg.com,tieba.baidu.com##.icon_tbworld
@@ -117,19 +119,19 @@ jump.bdimg.com,tieba.baidu.com##.j_nameplate
 jump.bdimg.com,tieba.baidu.com##.reward_title
 jump.bdimg.com,tieba.baidu.com##.reward_panel_wrap
 jump.bdimg.com,tieba.baidu.com##.save_face_bg
-jump.bdimg.com,tieba.baidu.com##.card_userinfo_honor
 jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
-jump.bdimg.com,tieba.baidu.com###pop_frame
 jump.bdimg.com,tieba.baidu.com###forum_recommend
+jump.bdimg.com,tieba.baidu.com###pop_frame
 jump.bdimg.com,tieba.baidu.com###xiu8_follow_warn
-jump.bdimg.com,tieba.baidu.com##.thread_recommend
 jump.bdimg.com,tieba.baidu.com##.add_guessing_btn
 jump.bdimg.com,tieba.baidu.com##.edui-icon-voice
 jump.bdimg.com,tieba.baidu.com##.edui-icon-medal
 jump.bdimg.com,tieba.baidu.com##.edui-editor-msg
 jump.bdimg.com,tieba.baidu.com##.poster_head_surveillance
+jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ! 其他
+jump.bdimg.com,tieba.baidu.com,tieba.com###threadListGroupCnt
 jump.bdimg.com,tieba.baidu.com,tieba.com###baiduweishiDown
 jump.bdimg.com,tieba.baidu.com,tieba.com###frs-list-game
 jump.bdimg.com,tieba.baidu.com,tieba.com###game_cover_head_wrapper

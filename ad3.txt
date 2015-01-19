@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501191301
-! Last Modified: 2015年01月19日 13:01
+! Version: 201501191401
+! Last Modified: 2015年01月19日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3782,12 +3782,10 @@ _vmind.qqvideo.tc.qq.com^
 ||pinggu.org/static/pinggu/float.js
 ||pinglun.sohu.com/sogouad.html
 ||pingpang.info/banner/
-||pingpang.info/bbs/UploadFile/2013-1/2014tt.gif
+||pingpang.info/bbs/UploadFile/2014-11/20141113852238131.jpg
 ||pingpang.info/bbs/UploadFile/2013-11/xiom.gif
 ||pingpang.info/bbs/UploadFile/2013-6/sword.gif
 ||pingpang.info/bbs/UploadFile/2014-5/201455214543955851.gif
-||pingpang.info/bbs/uploadflash/2014baxi.swf
-||pingpang.info/bbs/uploadflash/jinyu.swf
 ||pingpang.info/themes/v1.0/images/yasaka.
 ||pingpang.info/uploadfile/950X90B.gif
 ||pingpang.info/uploadfile/butterfly.gif
@@ -4840,11 +4838,15 @@ _vmind.qqvideo.tc.qq.com^
 ||photo.erji.com^*.swf
 ||photo.erji.com/saha.jpg
 ||pingpang.info/uploadfile/tsp.gif
+||126.net/39699016/925okey.jpg
+||22mt.la/bookpic/001.jpg
 ||zzsky.cn/images/zzskycom_
 ||zhainanba.net/ac/
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jump.bdimg.com,tieba.baidu.com,tieba.com###threadListGroupCnt
+dayanzai.me###adrt
 hc360.com,yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
