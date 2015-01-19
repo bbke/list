@@ -126,7 +126,7 @@
         drawUI: function() {
             if (this.addIcon && !document.getElementById("redirector-icon")) {
                 // add icon
-                let icon = document.getElementById("addon-bar").appendChild(document.createElement("toolbarbutton"));
+                let icon = document.getElementById("urlbar-icons").appendChild(document.createElement("image"));
                 icon.setAttribute("id", "redirector-icon");
                 icon.setAttribute("context", "redirector-menupopup");
                 icon.setAttribute("onclick", "Redirector.iconClick(event);");
