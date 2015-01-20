@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501201301
-! Last Modified: 2015年01月20日 13:01
+! Version: 201501201601
+! Last Modified: 2015年01月20日 16:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -19,62 +19,7 @@
 ||miwifi.com/d2r/*
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 ! Google
--google-analytics.
--google-analytics/
-.googleanalytics.js
-.GoogleAnalytics/
-/google-analyticator/*
-/google-analytics-
-/google-analytics.
-/google-analytics/*
-/google.analytics.
-/google.eventTracking.js
-/google/analytics_
-/Google/ga.js
-/google_analitycs.
-/google_analytics-bc.swf
-/google_analytics.
-/google_analytics/*
-/google_analytics_
-/google_page_track
-/google_tracker.
-/googleana.
-/GoogleAnalystics.
-/googleanalytics-
-/googleanalytics.js
-/GoogleAnalytics.swf
-/googleanalytics/*
-/googleAnalytics1.
-/googleAnalytics2.
-/GoogleAnalytics?utmac=
-/googleAnalytics_
-/googleAnalyticsBase_
-/GoogleAnalyticsBC3.
-/googleAnalyticsBottom.
-/googleanalyticsmanagement.swf
-/GoogleAnalyticsModule.
-/googleAnalyticsOutgoingLinks.
-/GoogleAnalyticsPlugIn.
-/GoogleAnalyticsPlus/*
-/googleAnalyticsTracking.
-/googleanalyze1.
-/googleanalyze2.
-/googletrack.js
-/googleTracker.
-/googletracker/*
-/googleTracking.js
-?googleTrack=
-_google_analytics.
-_googleAnalytics.
-_googleAnalytics_
-||google-analytics.com/analytics.js
-||google-analytics.com/collect?
-||google-analytics.com/cx/api.js
-||google-analytics.com/ga_exp.js
-||google-analytics.com/plugins/
-||google-analytics.com/r/collect?
-||google-analytics.com/siteopt.js?
-||google-analytics.com/urchin.js
+||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
 ||googlerank.info^$third-party
 ||googletagmanager.com/gtm.js?$third-party
@@ -3827,7 +3772,7 @@ _vmind.qqvideo.tc.qq.com^
 ||pediy.com/temp/2345.gif
 ||pediy.com/temp/albb.jpg
 ||penglai.com.cn/template/default/js/index/topfloat.js
-||people.com.cn/img/2013people/wza/domready.js
+||people.com.cn/img/2013people/wza/domready
 ||people.com.cn/img/gjt/
 ||pfp.sina.com.cn^$script,subdocument
 ||pgzhibo.com/uploads/image/20141121/1416593007.gif
@@ -4937,11 +4882,16 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||taobaocdn.com/tps/i1/TB14t03FVXXXXapaXXX8EsMMFXX-1680-450.jpg_670x670.jpg
+||iqiyi.com/player/cupid/common/flash980100.swf
 ||bjhjyd.gov.cn/templates/default/www/js/float.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+iqiyi.com##.banner980
+iqiyi.com##.ggwBox
+iqiyi.com##.zzVideo
 ptbus.com##.content14
 bjhjyd.gov.cn###fixedpc
 hc360.com,yaolan.com###AD

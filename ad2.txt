@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501191801
-! Last Modified: 2015年01月19日 18:01
+! Version: 201501201601
+! Last Modified: 2015年01月20日 16:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -19,62 +19,7 @@
 ||miwifi.com/d2r/*
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 ! Google
--google-analytics.
--google-analytics/
-.googleanalytics.js
-.GoogleAnalytics/
-/google-analyticator/*
-/google-analytics-
-/google-analytics.
-/google-analytics/*
-/google.analytics.
-/google.eventTracking.js
-/google/analytics_
-/Google/ga.js
-/google_analitycs.
-/google_analytics-bc.swf
-/google_analytics.
-/google_analytics/*
-/google_analytics_
-/google_page_track
-/google_tracker.
-/googleana.
-/GoogleAnalystics.
-/googleanalytics-
-/googleanalytics.js
-/GoogleAnalytics.swf
-/googleanalytics/*
-/googleAnalytics1.
-/googleAnalytics2.
-/GoogleAnalytics?utmac=
-/googleAnalytics_
-/googleAnalyticsBase_
-/GoogleAnalyticsBC3.
-/googleAnalyticsBottom.
-/googleanalyticsmanagement.swf
-/GoogleAnalyticsModule.
-/googleAnalyticsOutgoingLinks.
-/GoogleAnalyticsPlugIn.
-/GoogleAnalyticsPlus/*
-/googleAnalyticsTracking.
-/googleanalyze1.
-/googleanalyze2.
-/googletrack.js
-/googleTracker.
-/googletracker/*
-/googleTracking.js
-?googleTrack=
-_google_analytics.
-_googleAnalytics.
-_googleAnalytics_
-||google-analytics.com/analytics.js
-||google-analytics.com/collect?
-||google-analytics.com/cx/api.js
-||google-analytics.com/ga_exp.js
-||google-analytics.com/plugins/
-||google-analytics.com/r/collect?
-||google-analytics.com/siteopt.js?
-||google-analytics.com/urchin.js
+||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
 ||googlerank.info^$third-party
 ||googletagmanager.com/gtm.js?$third-party
