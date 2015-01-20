@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501201601
-! Last Modified: 2015年01月20日 16:01
+! Version: 201501201701
+! Last Modified: 2015年01月20日 17:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3105,7 +3105,6 @@ _vmind.qqvideo.tc.qq.com^
 ||hi.people.com.cn/NMediaFile/$object
 ||hi.people.com.cn/NMediaFile/*.gif
 ||hi.people.com.cn/NMediaFile/2013/0929/LOCAL201309291733411880780280942.jpg
-||hi.people.com.cn/NMediaFile/2014/0408/LOCAL201404081054143353909924823.jpg
 ||hiad.vmall.com^
 ||hiao.com/node/node_27508.htm
 ||hifidiy.net/www/2014/05/30/hivi_DIY3.1.jpg
@@ -5005,11 +5004,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||taobaocdn.com/tps/i1/TB14t03FVXXXXapaXXX8EsMMFXX-1680-450.jpg_670x670.jpg
 ||iqiyi.com/player/cupid/common/flash980100.swf
+||qiyipic.com/dianshiju/fix/hysxm20150113_bg
 ||bjhjyd.gov.cn/templates/default/www/js/float.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+0898.net##IMG[width="1000"]
 iqiyi.com##.banner980
 iqiyi.com##.ggwBox
 iqiyi.com##.zzVideo
