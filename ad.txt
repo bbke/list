@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501202101
-! Last Modified: 2015年01月20日 21:01
+! Version: 201501202118
+! Last Modified: 2015年01月20日 21:18
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -86,7 +86,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||wenku.baidu.com/static/view/*.js
 yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-issue-guide
 ! 屏蔽一些图片和脚本
-*/tb/static-*common/img/icons/prev_icons.png
 */tb/static-*frs/img/frs_bright/
 @@*/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
 */img/history_game/$domain=tieba.baidu.com
@@ -109,8 +108,6 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||static.tieba.baidu.com/tb/pms/
 ||static.tieba.baidu.com/tb/img/pv.gif
 ||static.tieba.baidu.com/tb/img/track.gif
-||bdstatic.com/tb/_/magic_props_*.js
-||bdstatic.com/tb/_/follower_*.js
 ||bdstatic.com/tb/static-common/img/card/
 ||bdstatic.com/tb/static-encourage/
 ||bdstatic.com/tb/static-ihome/widget/interaction_mod/
