@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201501191501
-! Last Modified: 2015年01月19日 15:01
+! Version: 201501201001
+! Last Modified: 2015年01月20日 10:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -132,7 +132,6 @@ jump.bdimg.com,tieba.baidu.com##.edui-editor-msg
 jump.bdimg.com,tieba.baidu.com##.poster_head_surveillance
 jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ! 其他
-jump.bdimg.com,tieba.baidu.com,tieba.com###threadListGroupCnt
 jump.bdimg.com,tieba.baidu.com,tieba.com###baiduweishiDown
 jump.bdimg.com,tieba.baidu.com,tieba.com###frs-list-game
 jump.bdimg.com,tieba.baidu.com,tieba.com###game_cover_head_wrapper
@@ -148,6 +147,7 @@ jump.bdimg.com,tieba.baidu.com,tieba.com###pc2client
 jump.bdimg.com,tieba.baidu.com,tieba.com###platform_left_float
 jump.bdimg.com,tieba.baidu.com,tieba.com###replyBusinessImg
 jump.bdimg.com,tieba.baidu.com,tieba.com###search_baidu_promote
+jump.bdimg.com,tieba.baidu.com,tieba.com###threadListGroupCnt
 jump.bdimg.com,tieba.baidu.com,tieba.com###union_mod
 jump.bdimg.com,tieba.baidu.com,tieba.com###worldcup_guess_frs_wrap
 jump.bdimg.com,tieba.baidu.com,tieba.com###worldcup_topic
