@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201501202001
-! Last Modified: 2015年01月20日 20:01
+! Version: 201501202041
+! Last Modified: 2015年01月20日 20:41
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -11,7 +11,6 @@
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ! 屏蔽一些图片和脚本
-*/tb/_/aside_float_bar_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
 */tb/static-*common/img/icons/prev_icons.png
