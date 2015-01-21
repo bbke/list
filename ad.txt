@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501211301
-! Last Modified: 2015年01月21日 13:01
+! Version: 201501211701
+! Last Modified: 2015年01月21日 17:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -445,7 +445,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||17pps.com^$third-party
 ||198game.$third-party
 ||1gou.com^$third-party
-||1qwe3r.com^$third-party
 ||1tlm.cn^$third-party
 ||1x3x.com^$third-party
 ||21union.com^$third-party
@@ -1070,6 +1069,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||1qwe3r.com^$third-party
 /tourl.html?url=
 ||63kc.com^$third-party
 ||hsmkj.net^$third-party
@@ -8196,6 +8196,9 @@ mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
 brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
+atgfw.org#@##ads-wrapper
+atgfw.org#@#.ads1
+atgfw.org#@#.ads3
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
