@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501222201
-! Last Modified: 2015年01月22日 22:01
+! Version: 201501222301
+! Last Modified: 2015年01月22日 23:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -59,7 +59,8 @@ tu.duowan.com###tuAppRecommend, .tu--qrcode
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 ! Cam4
 www.cam4.tw,www.cam4.com###headerBanner, #subfoot, .removeAds, .ads
-||edgecast.cam4s.com/web/js/cam4Xtra*.js
+/web/js/cam4Xtra*.js
+/ads/im/*
 ||fbstatic-a.akamaihd.net/rsrc.php
 ! Chaturbate
 ||chaturbate.com/affiliates/
