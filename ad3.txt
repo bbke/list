@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501221401
-! Last Modified: 2015年01月22日 14:01
+! Version: 201501221801
+! Last Modified: 2015年01月22日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1385,6 +1385,8 @@ hk.yahoo.com###mntl1
 /2222.js$domain=114lala.info|6699xx.info
 /2tu/ads/*
 /2tu/heisiwang.js
+/cari/banner/*
+/cari/daybanner/*
 /404.safedog.cn/sitedog_stat_new.html
 /5B18D06D98BB6B41A12C73EE4E4C2ECA.jpg
 /?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shcle.com|shclk.com|ttft.in|xhcbb.com
@@ -2332,8 +2334,6 @@ _vmind.qqvideo.tc.qq.com^
 ||camster.com/promos/
 ||caoimg.com/images/
 ||caomeinv.info/images/*.gif
-||cari.com.my/cari/banner/
-||cari.com.my/cari/daybanner/
 ||cbber.com/data/attachment/portal/201410/14/102616z4cuvt26tzt66lzc.gif
 ||cbfw.cn/gonggong/js/cf_flash.js
 ||ccav1.com/wp-content/themes/BYMT/images/mengmengdeguanggao.jpg
@@ -3916,7 +3916,7 @@ _vmind.qqvideo.tc.qq.com^
 ||qinmin8.com/api.php
 ||qiporn.com/media/banners/
 ||qiqibu.com/js/*.gif
-||qisuu.com/js/bottem_new.js
+||qisuu.com/jianchi/bottem_new.js
 ||qitete.com/sp/
 ||qiuyi.cn/qiuyi/cooper/
 ||qiuziti.com/img/rightp20.gif
