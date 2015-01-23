@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501232301
-! Last Modified: 2015年01月23日 23:01
+! Version: 201501240601
+! Last Modified: 2015年01月24日 06:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -203,6 +203,7 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||clicki.cn^$third-party
 ||cnzz.net^$third-party
 ||datamaster.com.cn^$third-party
+||emarbox.com^$third-party
 ||eyeota.net^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
@@ -210,6 +211,7 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||irs01.$third-party
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
+||mediav.com^$third-party
 ||mmstat.com^$third-party
 ||oadz.com^$third-party
 ||phpstat.com^$third-party
@@ -218,8 +220,13 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||top-bloggers.com^$third-party
 ||tovery.net^$third-party
 ||users.51.la^$third-party
+||vamaker.com^$third-party
 ||vdoing.com^$third-party
 ||wrating.com^$third-party
+||yigao.com^$third-party
+||ztcadx.com^$third-party
+||360.cn/mapping_service?
+||alimama.cn/inf.js
 ||alipay.com/common/um/lsa.swf
 ||baidu.com/cpro/ui/c.js
 ||baidu.com/cpro/ui/f.js
