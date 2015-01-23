@@ -2,8 +2,8 @@
 
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201501231344
-! Last Modified: 2015年01月23日 13:44
+! Version: 201501232326
+! Last Modified: 2015年01月23日 23:26
 
 ! 本规则为自用简洁版，欢迎补充规则
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -149,3 +149,5 @@ video.yahoo.com
 ||blogger.com
 ||blogblog.com
 ||bahamut.com.tw
+||xvideos.com
+||gaymaletube.com
