@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501230601
-! Last Modified: 2015年01月23日 06:01
+! Version: 201501232201
+! Last Modified: 2015年01月23日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -510,6 +510,7 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 @@|http://pinghot.qq.com/pingd?dm=y.qq.com.hot&url=
 @@|http://stat.pc.music.qq.com/fcgi-bin/player_
 @@||l.qq.com/livemsg?ty=web&ad_type=
+||gtimg.com/qqlive/
 |http:/*/7mad.$image,object,object-subrequest
 |http:/*/9vads
 |http:/*/acadv
@@ -3740,3 +3741,74 @@ www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
 ||creatives.livejasmin.com/pu/w2/index.php?*$popup
 |http://*/d8adf801/?ref=$popup
 ||e97527f0.se/?*$popup
+
+
+
+|http://hao.360.cn/festival_shuang11.html
+|http://www.myhack58.com/acdb02/$script
+|http://www.myhack58.com/abcd01/$script
+|http://red-dot.yy.com/reddot/getReddotMap
+|http://image.res.hunantv.com/mediafiles/creative/
+||api.cupid.iqiyi.com/policy2
+|http://api.hupu.com/trade/index
+@@|http://hudong.pl.youku.com/interact/live/get/live
+@@|http://c1.keyrun.cn$domain=400gb.com
+||xyxy01.com
+|http://*.com/banner.php?
+|http://www.5tps.com/js/$script
+|http://www.itopdog.cn/js/you.js$script
+|http://www.qidian.com/Javascript/__sjaayuaywilsm__.js$script
+|http://ja.gamersky.com/$script
+||a.global.msads.net
+||ads1.msads.net
+||ads2.msads.net
+||global.msads.net
+||crl.microsoft.com
+||rad.microsoft.com
+||watson.microsoft.com
+|http://q.ptbus.com/newdata.ashx?
+|http://bs.da.hunantv.com/a.htm?pv=1&p=
+||niuxgame77.com/$third-party
+||37kx1.com$third-party
+||il8r.com
+||51688.cc
+||qqq937.com$third-party
+@@|http://isdspeed.qq.com/cgi-bin/r.cgi?flag1=
+@@|http://pinghot.qq.com/pingd?dm=music.qq.com.hot&
+@@|http://image.res.hunantv.com/mediafiles/creative/u3154/
+|http://www.jj20.com/js/yx$script
+|http://img3.fdc.com.cn/cms/js/*_js/$script
+|http://v.pps.tv/ugc/out/ad.php
+
+
+
+
+
+
+hunantv.com###player-ad
+www.kumi.cn##div.floatwindow
+www.myhack58.com##ul.adv32
+fulidang.com##DIV.banner.banner-sticky,DIV#wowslider-container1
+hupu.com##div[id^="childBoardsDataAd"]
+liulanmi.com##div.banner.banner-related,div.widget.d_slidebanner
+hexun.com##div.advp.clearfix
+www.dayanzai.me##div#adrt
+ptbus.com##div.content14
+52tian.net##div.bdad
+fanyi.baidu.com##div.banner-wrap.inner
+www.126.com,mail.163.com##div.APP-dashi-botBanner,div.gWel-promt
+www.lolshipin.com##div.ad,div.ad_time
+pps.tv##div#J_sideTool,side-tool,div#download_soft.tonglan-fixed
+iqiyi.com##div.vip_rec_main
+www.ltaaa.com##div.a_mu
+pptv.com##div.ad.sp
+
+
+
+!------------------------需合并规则-----------------
+fuli.ba##UL > A > IMG[src*="sinaimg.cn/mw690/"]:first-child
+bing.com##div.OpInNwWndw
+
+
+
+@@|http://cbjs.baidu.com/js/m.js$domain=www.xiiku.com
