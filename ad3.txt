@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501241101
-! Last Modified: 2015年01月24日 11:01
+! Version: 201501241201
+! Last Modified: 2015年01月24日 12:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -830,7 +830,6 @@ hk.yahoo.com###mntl1
 /tuiguang/*
 /u/_sponsor/*
 :1010/openV5.js
-:8080/js/v1.js
 ?adid=*&tcca=$script
 |http://*.cc/ad/
 |http://*.cn/ad/
@@ -973,6 +972,8 @@ hk.yahoo.com###mntl1
 ###textggs
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+:8080/js/v1.js$third-party
+:8080/js/v2.1.js$third-party
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -1378,7 +1379,6 @@ hk.yahoo.com###mntl1
 ||zhubajie.com/?fromcode=$popup
 !----------------------Specific advert blocking filters-----------------------!
 .adsame.libaclub.com^
-.com/images/$domain=cao01.com|cao71.com|cao79.com|cao89.com|caoporn.com|ri86.com|ri96.com
 .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
 .com/tps/$domain=ocucn.com
 .com/x/$domain=17173.com|17173.tv.sohu.com
@@ -4914,6 +4914,8 @@ _vmind.qqvideo.tc.qq.com^
 ||shuchuan.net/98080.gif
 /moneymaker/images/*.gif
 /moneymaker/js/kppp.js
+||jj20.com/images/960-60.gif
+||jj20.com/js/x
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
