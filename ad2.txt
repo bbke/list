@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501251301
-! Last Modified: 2015年01月25日 13:01
+! Version: 201501251501
+! Last Modified: 2015年01月25日 15:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -61,7 +61,6 @@ tu.duowan.com###tuAppRecommend, .tu--qrcode
 ! Cam4
 /ads/directory/*
 /web/js/cam4Xtra*.js
-/web/js/signup_validation_*.js
 ||fbstatic-a.akamaihd.net/rsrc.php$domain=~cam4.tw|~cam4.com
 www.cam4.tw,www.cam4.com###headerBanner, #subfoot, .removeAds, .ads
 ! Chaturbate
