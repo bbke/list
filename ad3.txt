@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501251201
-! Last Modified: 2015年01月25日 12:01
+! Version: 201501251301
+! Last Modified: 2015年01月25日 13:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -77,6 +77,7 @@ chaturbate.com##.banner, .ad
 ||img.kuai.xunlei.com/js/webxunlei.js
 ! F**k 铁通
 |http://*/s.js?sp=*&r=$third-party
+|http://*/m?t=$third-party
 |http://*/m.js?t=$third-party
 |http://*/main/main.js?r=$third-party
 |http://*/h/k.php?u=$third-party
@@ -8126,6 +8127,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||qq.com/server/website/CommWebGameSelect_ad.js
 @@/%*logo.png|$domain=feng.com
 @@/view.php?what=zone:93&$domain=feng.com
 @@/view.php?what=zone:94&$domain=feng.com
