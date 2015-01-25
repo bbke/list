@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501251701
-! Last Modified: 2015年01月25日 17:01
+! Version: 201501251901
+! Last Modified: 2015年01月25日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5035,10 +5035,16 @@ _vmind.qqvideo.tc.qq.com^
 ||52pk.com/files/150120/1289038_105950_1.gif
 ||9ez.me/embd.php?type=
 ||imgur.com/iKkoHkn.jpg
+||hitvs.cn:8080/medialib/minfo/1420356091.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cssmoban.com##.btn-host
+hitvs.cn###Javascript\.LeftDiv
+hitvs.cn###Javascript\.RightDiv
+yule.iqiyi.com##DIV[style="width:180px;padding:25px 0 20px 20px;float:right;margin-right: 30px;"]
+yule.iqiyi.com##DIV[style="width:970px;margin:0 auto;padding:10px 0;text-align:center;"]
 zhongkao.com##.focusBox
 120ask.com###bd-wm-1
 120ask.com###bd-wm-1 + DIV[style="margin-top:10px;height:60px;"]
@@ -8242,6 +8248,7 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
+@@||zjol.com.cn^*/index.jsp?newsid=$elemhide
 @@&ad_type=$domain=x.jd.com
 @@||qq.com/server/website/CommWebGameSelect_ad.js
 @@/%*logo.png|$domain=feng.com
