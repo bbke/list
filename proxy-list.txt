@@ -131,8 +131,6 @@ video.yahoo.com
 ||sexinsex.net
 ||pinimg.com
 ||blogspot.com
-||xrea.com
-||tinypic.com
 ||gmail.com
 /^https?:\/\/[^\/]+google\.(.*)/
 ||googleapis.com
