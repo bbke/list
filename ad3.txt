@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501261301
-! Last Modified: 2015年01月26日 13:01
+! Version: 201501261701
+! Last Modified: 2015年01月26日 17:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -2943,7 +2943,7 @@ _vmind.qqvideo.tc.qq.com^
 ||hackp.com/images/dibu.js
 ||hackp.com^*/ab.js
 ||haha.mx/images/market/
-||haha.mx/upload/data/*_banner.html
+||haha.mx/upload/data/detail_
 ||haha.mx/upload/data/list_sidebar_
 ||hahade.com/tpl/*.html
 ||hanfanba.com/template/hanfanba/img/tb-
@@ -4940,10 +4940,14 @@ _vmind.qqvideo.tc.qq.com^
 ||biqi.me/Public/js/page_ad_
 ||biqi.me/Public/js/page_gg_
 ||autoimg.cn/ad.js
+||hdsky.me/adv/
+||game.466.com^$third-party
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jump.bdimg.com,tieba.baidu.com,tieba.com###encourage_entry
+avbtgc.com##.text_center
 zol.com.cn##.today-hot-layer
 biqi.me##.pics1200
 mail.sina.com.cn##.rightbottom
@@ -8159,6 +8163,7 @@ yhd.com#@#.txtAd
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||cb.baidu.com/ecom?$domain=shushuw.cn
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -8314,7 +8319,6 @@ yhd.com#@#.txtAd
 @@||cb.baidu.com/ecom?di=373107&
 @@||cb.baidu.com/ecom?di=654997&
 @@||cb.baidu.com/ecom?di=817641&
-@@||cb.baidu.com/ecom?di=891878&
 @@||cb.baidu.com/ecom?di=892769&
 @@||cb.baidu.com/ecom?di=893557&
 @@||cb.baidu.com/ecom?di=931706&$domain=narutom.com
@@ -8322,7 +8326,6 @@ yhd.com#@#.txtAd
 @@||cb.baidu.com/ecom?di=933918&
 @@||cb.baidu.com/ecom?di=933920&
 @@||cb.baidu.com/ecom?di=943217&
-@@||cb.baidu.com/ecom?di=98779&
 @@||cbjs.baidu.com/js/m.js$domain=77mh.com|colafile.com|narutom.com|pctowap.com|pic.tiexue.net|shumilou.com|shushu5.com|shushuw.cn|xiiku.com
 @@||cbjs.baidu.com/js/o.js$domain=666ccc.com|g3000.com.cn|missioncouver.com.cn|op.52pk.com|yue365.com
 @@||cbjs.baidu.com/js/s.js$domain=play.yue365.com
@@ -8688,6 +8691,7 @@ yhd.com#@#.txtAd
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
+||analy.tuniu.cn^
 
 &ad_type=
 &ad_url=
