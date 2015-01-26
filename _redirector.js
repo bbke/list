@@ -4,7 +4,7 @@ rules = [{
     to: "$1",
     regex: true
 },{
-    name: "百毒搜索禁止劫持",
+    name: "百度搜索禁止劫持",
     from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(rs|oq).*/i,
     to: "https://$1$2",
     regex: true
@@ -102,7 +102,8 @@ rules = [{
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
     exclude: /google\.cn/i,  // 可选，排除例外规则
     to: "https://$1",
-    regex: true
+    regex: true,
+    state: false
 },{
     name: "【https】常用网站（一）",
     from: /^http:\/\/(www\.baidu\.com|upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
@@ -115,7 +116,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|filesmonster|cam4s)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googlecode|filesmonster)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{

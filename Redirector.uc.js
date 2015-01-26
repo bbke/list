@@ -5,234 +5,24 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.com
-// @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js#g
+// @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.01.19.20
+// @version         15.01.26.22
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
     Cu.import("resource://gre/modules/Services.jsm");
     Cu.import("resource://gre/modules/NetUtil.jsm");
-
-    function RedirectorUI() {
-        this.addIcon = true;                        // 是否添加按钮
-        this.state = true;                          // 是否启用脚本
-        this.enableIcon = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVQ4jaWTIa7DMBBEDUMNixeGGgauFBAYUClsURRStqTE2DfoDXqCnsAX6AV6A99hippvN+5X1IIBlqznmdm1McbgRxnA+69UAB6nE6IILsOAwIxj26Ingm2a9TWyFueuQ1ItAUkVt2lCT7TLtjsckFTrEfZCLsNQB+SWo0hxzpU9ZGrFgKwFvEdgrgKObbsFRJFNznPXVQHXcdwCbtO0K//i3HaM/9nNbV/Hsb4H8B6Lc0VJ93leS7RNg8D8eZHeR9gTAd4XkFe5LxcF4N0+WbtuXA2S3f9zkFQRRRCYsTiHxTlEESRV9EQIzLjP8+cIX3+mX/QEXma7NDsegmEAAAAASUVORK5CYII=";
-        this.disableIcon = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA4klEQVQ4jaWTQREDIQxFMYACFKyDGEBBFCAgAhDAHQE5c14BkRBPv6duly7t7LSHf2CGefz/E0IIAX8qwN1/0gTY9x2qilorRAQ5ZxARYozHaykllFJgZjPAzNB7BxHdsr1tG8xsHeEupNa6Bpwtq+p0Puv0UFgVg5QS3B0isgTknK8AVb3kLKUsAa21K6D3fis/M1/H+M3u2XZrbb0H7g5mnkoaYxwlxhghIp8X6X2ERAR3nyDPcp8uJsC7/ZTSsXEryOn+y4GZQVUhImBmMDNUFWYGIoKIYIzxOcLPn+kfPQAVduEGEMliqAAAAABJRU5ErkJggg==";
-    }
-    RedirectorUI.prototype = {
-        hash: new Date().getTime(),
-        _mm: null,
-        _ppmm: null,
-        get mm() {
-            if (!this._mm) {
-                this._mm = Cc["@mozilla.org/childprocessmessagemanager;1"].getService(Ci.nsISyncMessageSender);
-            }
-            return this._mm;
-        },
-        get ppmm() {
-            if (!this._ppmm) {
-                this._ppmm = Cc["@mozilla.org/parentprocessmessagemanager;1"].getService(Ci.nsIMessageBroadcaster);
-            }
-            return this._ppmm;
-        },
-        get redirector() {
-            if (!Services.redirector) {
-                XPCOMUtils.defineLazyGetter(Services, "redirector", function() {
-                    return new Redirector();
-                });
-            }
-            return Services.redirector;
-        },
-        init: function() {
-            this.redirector.init(window);
-            this.drawUI();
-            // register self as a messagelistener
-            this.mm.addMessageListener("redirector:toggle", this);
-            this.mm.addMessageListener("redirector:toggle-item", this);
-        },
-        destroy: function(shouldDestoryUI) {
-            this.redirector.destroy(window);
-            if (shouldDestoryUI) {
-                this.destoryUI();
-            }
-            // this.mm.removeMessageListener("redirector:toggle", this);
-            // this.mm.removeMessageListener("redirector:toggle-item", this);
-        },
-        edit: function() {
-            let aFile = FileUtils.getFile("UChrm", this.redirector.rulesFile, false);
-            if (!aFile || !aFile.exists() || !aFile.isFile()) return;
-            var editor;
-            try {
-                editor = Services.prefs.getComplexValue("view_source.editor.path", Ci.nsILocalFile);
-            } catch (e) {
-                alert("Please set editor path.\nview_source.editor.path");
-                toOpenWindowByType('pref:pref', 'about:config?filter=view_source.editor.path');
-                return;
-            }
-            var UI = Cc["@mozilla.org/intl/scriptableunicodeconverter"].createInstance(Ci.nsIScriptableUnicodeConverter);
-            UI.charset = window.navigator.platform.toLowerCase().indexOf("win") >= 0 ? "gbk" : "UTF-8";
-            var process = Cc['@mozilla.org/process/util;1'].createInstance(Ci.nsIProcess);
-            try {
-                var path = UI.ConvertFromUnicode(aFile.path);
-                var args = [path];
-                process.init(editor);
-                process.run(false, args, args.length);
-            } catch (e) {
-                alert("editor error.")
-            }
-        },
-        toggle: function(i, callfromMessage) {
-            if (i) {
-                // update checkbox state
-                let item = document.getElementById("redirector-item-" + i);
-                if (!callfromMessage) {
-                    this.redirector.rules[i].state = !this.redirector.rules[i].state;
-                }
-                if (item) item.setAttribute("checked", this.redirector.rules[i].state);
-                // clear cache
-                this.redirector.clearCache();
-                if (!callfromMessage) {
-                    // notify other windows to update
-                    this.ppmm.broadcastAsyncMessage("redirector:toggle-item", {hash: this.hash, item: i});
-                }
-            } else {
-                let menuitems = document.querySelectorAll("menuitem[id^='redirector-item-']");
-                this.state = !this.state;
-                if (this.state) {
-                    this.init();
-                    Object.keys(menuitems).forEach(function(n) menuitems[n].setAttribute("disabled", false));
-                } else {
-                    this.destroy();
-                    Object.keys(menuitems).forEach(function(n) menuitems[n].setAttribute("disabled", true));
-                }
-                // update checkbox state
-                let toggle = document.getElementById("redirector-toggle");
-                if (toggle) {
-                    toggle.setAttribute("checked", this.state);
-                }
-                // update icon state
-                let icon = document.getElementById("redirector-icon");
-                if (icon) {
-                    icon.style.listStyleImage = "url(" + (this.state ? this.enableIcon : this.disableIcon) + ")";
-                }
-                if (!callfromMessage) {
-                    // notify other windows to update
-                    this.ppmm.broadcastAsyncMessage("redirector:toggle", {hash: this.hash});
-                }
-            }
-        },
-        drawUI: function() {
-            if (this.addIcon && !document.getElementById("redirector-icon")) {
-                // add icon
-                let icon = document.getElementById("urlbar-icons").appendChild(document.createElement("image"));
-                icon.setAttribute("id", "redirector-icon");
-                icon.setAttribute("context", "redirector-menupopup");
-                icon.setAttribute("onclick", "Redirector.iconClick(event);");
-                icon.setAttribute("tooltiptext", "重定向");
-                icon.setAttribute("style", "padding: 0px 2px; list-style-image: url(" + (this.state ? this.enableIcon : this.disableIcon) + ")");
-                // add menu
-                let xml = '\
-                    <menupopup id="redirector-menupopup">\
-                        <menuitem label="启用" id="redirector-toggle" type="checkbox" autocheck="false" key="redirector-toggle-key" checked="' + this.state + '" oncommand="Redirector.toggle();" />\
-                        <menuitem label="重载规则" id="redirector-reload" oncommand="Redirector.reload();"/>\
-                        <menuitem label="编辑规则" id="redirector-edit" oncommand="Redirector.edit();"/>\
-                        <menuseparator id="redirector-sepalator"/>\
-                    </menupopup>\
-                ';
-                let range = document.createRange();
-                range.selectNodeContents(document.getElementById("mainPopupSet"));
-                range.collapse(false);
-                range.insertNode(range.createContextualFragment(xml.replace(/\n|\t/g, "")));
-                range.detach();
-                // add rule items
-                this.buildItems();
-            }
-            if (!document.getElementById("redirector-toggle-key")) {
-                // add shortcuts
-                let key = document.getElementById("mainKeyset").appendChild(document.createElement("key"));
-                key.setAttribute("id", "redirector-toggle-key");
-                key.setAttribute("oncommand", "Redirector.toggle();");
-                key.setAttribute("key", "r");
-                key.setAttribute("modifiers", "shift");
-            }
-        },
-        destoryUI: function() {
-            let icon = document.getElementById("redirector-icon");
-            if (icon) {
-                icon.parentNode.removeChild(icon);
-                delete icon;
-            }
-            let menu = document.getElementById("redirector-menupopup");
-            if (menu) {
-                menu.parentNode.removeChild(menu);
-                delete menu;
-            }
-        },
-        iconClick: function(event) {
-            switch(event.button) {
-                case 1:
-                    document.getElementById("redirector-toggle").doCommand();
-                    break;
-                default:
-                    document.getElementById("redirector-menupopup").openPopup(null, null, event.clientX, event.clientY);
-            }
-            event.preventDefault();
-        },
-        buildItems: function() {
-            let menu = document.getElementById("redirector-menupopup");
-            if (!menu) return;
-            for(let i = 0; i < this.redirector.rules.length; i++) {
-                let menuitem = menu.appendChild(document.createElement("menuitem"));
-                menuitem.setAttribute("label", this.redirector.rules[i].name);
-                menuitem.setAttribute("id", "redirector-item-" + i);
-                menuitem.setAttribute("class", "redirector-item");
-                menuitem.setAttribute("type", "checkbox");
-                menuitem.setAttribute("autocheck", "false");
-                menuitem.setAttribute("checked", typeof this.redirector.rules[i].state == "undefined" ? true : this.redirector.rules[i].state);
-                menuitem.setAttribute("oncommand", "Redirector.toggle('"+ i +"');");
-                menuitem.setAttribute("disabled", !this.state);
-            }
-        },
-        clearItems: function() {
-            let menu = document.getElementById("redirector-menupopup");
-            let menuitems = document.querySelectorAll("menuitem[id^='redirector-item-']");
-            if (!menu || !menuitems) return;
-            for (let i = 0; i < menuitems.length; i++) {
-                menu.removeChild(menuitems[i]);
-            }
-        },
-        reload: function() {
-            this.redirector.reload();
-            this.clearItems();
-            this.buildItems();
-        },
-        // nsIMessageListener interface implementation
-        receiveMessage: function(message) {
-            if (this.hash == message.data.hash) {
-                return;
-            }
-            switch (message.name) {
-                case "redirector:toggle":
-                    this.toggle(null, true);
-                    break;
-                case "redirector:toggle-item":
-                    this.toggle(message.data.item, true);
-                    break;
-            }
-        }
-    };
-
     function Redirector() {
-        this.rulesFile = ["local", "_redirector.js"];
+        this.rulesFile = "local\\_redirector.js";
         this.rules = [{
     name: "google搜索结果禁止跳转",
     from: /^https?:\/\/www\.google\.com\/url\?.*url=([^&]*).*/i,
     to: "$1",
     regex: true
 },{
-    name: "百毒搜索禁止劫持",
+    name: "百度搜索禁止劫持",
     from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(rs|oq).*/i,
     to: "https://$1$2",
     regex: true
@@ -330,7 +120,8 @@
     from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
     exclude: /google\.cn/i,  // 可选，排除例外规则
     to: "https://$1",
-    regex: true
+    regex: true,
+    state: false
 },{
     name: "【https】常用网站（一）",
     from: /^http:\/\/(www\.baidu\.com|upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
@@ -343,7 +134,7 @@
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googleusercontent|googlecode|filesmonster|cam4s)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googlecode|filesmonster)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{
@@ -354,6 +145,216 @@
     regex: true
 }];
     }
+    function RedirectorUI() {
+        this.addIcon = true;                        // 是否添加按钮
+        this.state = true;                          // 是否启用脚本
+        this.enableIcon = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVQ4jaWTIa7DMBBEDUMNixeGGgauFBAYUClsURRStqTE2DfoDXqCnsAX6AV6A99hippvN+5X1IIBlqznmdm1McbgRxnA+69UAB6nE6IILsOAwIxj26Ingm2a9TWyFueuQ1ItAUkVt2lCT7TLtjsckFTrEfZCLsNQB+SWo0hxzpU9ZGrFgKwFvEdgrgKObbsFRJFNznPXVQHXcdwCbtO0K//i3HaM/9nNbV/Hsb4H8B6Lc0VJ93leS7RNg8D8eZHeR9gTAd4XkFe5LxcF4N0+WbtuXA2S3f9zkFQRRRCYsTiHxTlEESRV9EQIzLjP8+cIX3+mX/QEXma7NDsegmEAAAAASUVORK5CYII=";
+        this.disableIcon = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA4klEQVQ4jaWTQREDIQxFMYACFKyDGEBBFCAgAhDAHQE5c14BkRBPv6duly7t7LSHf2CGefz/E0IIAX8qwN1/0gTY9x2qilorRAQ5ZxARYozHaykllFJgZjPAzNB7BxHdsr1tG8xsHeEupNa6Bpwtq+p0Puv0UFgVg5QS3B0isgTknK8AVb3kLKUsAa21K6D3fis/M1/H+M3u2XZrbb0H7g5mnkoaYxwlxhghIp8X6X2ERAR3nyDPcp8uJsC7/ZTSsXEryOn+y4GZQVUhImBmMDNUFWYGIoKIYIzxOcLPn+kfPQAVduEGEMliqAAAAABJRU5ErkJggg==";
+    }
+    RedirectorUI.prototype = {
+        hash: new Date().getTime(),
+        _mm: null,
+        _ppmm: null,
+        get mm() {
+            if (!this._mm) {
+                this._mm = Cc["@mozilla.org/childprocessmessagemanager;1"].getService(Ci.nsISyncMessageSender);
+            }
+            return this._mm;
+        },
+        get ppmm() {
+            if (!this._ppmm) {
+                this._ppmm = Cc["@mozilla.org/parentprocessmessagemanager;1"].getService(Ci.nsIMessageBroadcaster);
+            }
+            return this._ppmm;
+        },
+        get redirector() {
+            if (!Services.redirector) {
+                XPCOMUtils.defineLazyGetter(Services, "redirector", function() {
+                    return new Redirector();
+                });
+            }
+            return Services.redirector;
+        },
+        init: function() {
+            this.redirector.init(window);
+            this.drawUI();
+            // register self as a messagelistener
+            this.mm.addMessageListener("redirector:toggle", this);
+            this.mm.addMessageListener("redirector:toggle-item", this);
+        },
+        destroy: function(shouldDestoryUI) {
+            this.redirector.destroy(window);
+            if (shouldDestoryUI) {
+                this.destoryUI();
+            }
+            // this.mm.removeMessageListener("redirector:toggle", this);
+            // this.mm.removeMessageListener("redirector:toggle-item", this);
+        },
+        edit: function() {
+            let aFile = FileUtils.getFile("UChrm", this.redirector.rulesFile.split('\\'), false);
+            if (!aFile || !aFile.exists() || !aFile.isFile()) return;
+            var editor;
+            try {
+                editor = Services.prefs.getComplexValue("view_source.editor.path", Ci.nsILocalFile);
+            } catch (e) {
+                alert("Please set editor path.\nview_source.editor.path");
+                toOpenWindowByType('pref:pref', 'about:config?filter=view_source.editor.path');
+                return;
+            }
+            var UI = Cc["@mozilla.org/intl/scriptableunicodeconverter"].createInstance(Ci.nsIScriptableUnicodeConverter);
+            UI.charset = window.navigator.platform.toLowerCase().indexOf("win") >= 0 ? "gbk" : "UTF-8";
+            var process = Cc['@mozilla.org/process/util;1'].createInstance(Ci.nsIProcess);
+            try {
+                var path = UI.ConvertFromUnicode(aFile.path);
+                var args = [path];
+                process.init(editor);
+                process.run(false, args, args.length);
+            } catch (e) {
+                alert("editor error.")
+            }
+        },
+        toggle: function(i, callfromMessage) {
+            if (i) {
+                // update checkbox state
+                let item = document.getElementById("redirector-item-" + i);
+                if (!callfromMessage) {
+                    this.redirector.rules[i].state = !this.redirector.rules[i].state;
+                }
+                if (item) item.setAttribute("checked", this.redirector.rules[i].state);
+                // clear cache
+                this.redirector.clearCache();
+                if (!callfromMessage) {
+                    // notify other windows to update
+                    this.ppmm.broadcastAsyncMessage("redirector:toggle-item", {hash: this.hash, item: i});
+                }
+            } else {
+                let menuitems = document.querySelectorAll("menuitem[id^='redirector-item-']");
+                this.state = !this.state;
+                if (this.state) {
+                    this.init();
+                    Object.keys(menuitems).forEach(function(n) menuitems[n].setAttribute("disabled", false));
+                } else {
+                    this.destroy();
+                    Object.keys(menuitems).forEach(function(n) menuitems[n].setAttribute("disabled", true));
+                }
+                // update checkbox state
+                let toggle = document.getElementById("redirector-toggle");
+                if (toggle) {
+                    toggle.setAttribute("checked", this.state);
+                }
+                // update icon state
+                let icon = document.getElementById("redirector-icon");
+                if (icon) {
+                    icon.style.listStyleImage = "url(" + (this.state ? this.enableIcon : this.disableIcon) + ")";
+                }
+                if (!callfromMessage) {
+                    // notify other windows to update
+                    this.ppmm.broadcastAsyncMessage("redirector:toggle", {hash: this.hash});
+                }
+            }
+        },
+        drawUI: function() {
+            if (this.addIcon && !document.getElementById("redirector-icon")) {
+                // add icon
+                let icon = document.getElementById("urlbar-icons").appendChild(document.createElement("image"));
+                icon.setAttribute("id", "redirector-icon");
+                icon.setAttribute("context", "redirector-menupopup");
+                icon.setAttribute("onclick", "Redirector.iconClick(event);");
+                icon.setAttribute("tooltiptext", "Redirector");
+                icon.setAttribute("style", "padding: 0px 2px; list-style-image: url(" + (this.state ? this.enableIcon : this.disableIcon) + ")");
+                // add menu
+                let xml = '\
+                    <menupopup id="redirector-menupopup">\
+                        <menuitem label="启用" id="redirector-toggle" type="checkbox" autocheck="false" key="redirector-toggle-key" checked="' + this.state + '" oncommand="Redirector.toggle();" />\
+                        <menuitem label="重载规则" id="redirector-reload" oncommand="Redirector.reload();"/>\
+                        <menuitem label="编辑规则" id="redirector-edit" oncommand="Redirector.edit();"/>\
+                        <menuseparator id="redirector-sepalator"/>\
+                    </menupopup>\
+                ';
+                let range = document.createRange();
+                range.selectNodeContents(document.getElementById("mainPopupSet"));
+                range.collapse(false);
+                range.insertNode(range.createContextualFragment(xml.replace(/\n|\t/g, "")));
+                range.detach();
+                // add rule items
+                this.buildItems();
+            }
+            if (!document.getElementById("redirector-toggle-key")) {
+                // add shortcuts
+                let key = document.getElementById("mainKeyset").appendChild(document.createElement("key"));
+                key.setAttribute("id", "redirector-toggle-key");
+                key.setAttribute("oncommand", "Redirector.toggle();");
+                key.setAttribute("key", "r");
+                key.setAttribute("modifiers", "shift");
+            }
+        },
+        destoryUI: function() {
+            let icon = document.getElementById("redirector-icon");
+            if (icon) {
+                icon.parentNode.removeChild(icon);
+                delete icon;
+            }
+            let menu = document.getElementById("redirector-menupopup");
+            if (menu) {
+                menu.parentNode.removeChild(menu);
+                delete menu;
+            }
+        },
+        iconClick: function(event) {
+            switch(event.button) {
+                case 1:
+                    document.getElementById("redirector-toggle").doCommand();
+                    break;
+                default:
+                    document.getElementById("redirector-menupopup").openPopup(null, null, event.clientX, event.clientY);
+            }
+            event.preventDefault();
+        },
+        buildItems: function() {
+            let menu = document.getElementById("redirector-menupopup");
+            if (!menu) return;
+            for(let i = 0; i < this.redirector.rules.length; i++) {
+                let menuitem = menu.appendChild(document.createElement("menuitem"));
+                menuitem.setAttribute("label", this.redirector.rules[i].name);
+                menuitem.setAttribute("id", "redirector-item-" + i);
+                menuitem.setAttribute("class", "redirector-item");
+                menuitem.setAttribute("type", "checkbox");
+                menuitem.setAttribute("autocheck", "false");
+                menuitem.setAttribute("checked", typeof this.redirector.rules[i].state == "undefined" ? true : this.redirector.rules[i].state);
+                menuitem.setAttribute("oncommand", "Redirector.toggle('"+ i +"');");
+                menuitem.setAttribute("disabled", !this.state);
+            }
+        },
+        clearItems: function() {
+            let menu = document.getElementById("redirector-menupopup");
+            let menuitems = document.querySelectorAll("menuitem[id^='redirector-item-']");
+            if (!menu || !menuitems) return;
+            for (let i = 0; i < menuitems.length; i++) {
+                menu.removeChild(menuitems[i]);
+            }
+        },
+        reload: function() {
+            this.redirector.reload();
+            this.clearItems();
+            this.buildItems();
+        },
+        // nsIMessageListener interface implementation
+        receiveMessage: function(message) {
+            if (this.hash == message.data.hash) {
+                return;
+            }
+            switch (message.name) {
+                case "redirector:toggle":
+                    this.toggle(null, true);
+                    break;
+                case "redirector:toggle-item":
+                    this.toggle(message.data.item, true);
+                    break;
+            }
+        }
+    };
+
+
     Redirector.prototype = {
         _cache: {
             redirectUrl: {},
@@ -400,7 +401,7 @@
             this.loadRule();
         },
         loadRule: function() {
-            var aFile = FileUtils.getFile("UChrm", this.rulesFile, false);
+            var aFile = FileUtils.getFile("UChrm", this.rulesFile.split('\\'), false);
             if (!aFile.exists() || !aFile.isFile()) return null;
             var fstream = Cc["@mozilla.org/network/file-input-stream;1"].createInstance(Ci.nsIFileInputStream);
             var sstream = Cc["@mozilla.org/scriptableinputstream;1"].createInstance(Ci.nsIScriptableInputStream);
@@ -421,12 +422,12 @@
             this.rules = sandbox.rules;
         },
         getRedirectUrl: function(originUrl) {
-            let url = originUrl;
-            let redirectUrl = this._cache.redirectUrl[url];
+            let redirectUrl = this._cache.redirectUrl[originUrl];
             if(typeof redirectUrl != "undefined") {
                 return redirectUrl;
             }
             redirectUrl = null;
+            let url, redirect;
             let regex, from, to, exclude, decode;
             for each (let rule in this.rules) {
                 if (typeof rule.state == "undefined") rule.state = true;
@@ -441,24 +442,22 @@
                     }
                     rule.computed = {regex: regex, from: from, to: to, exclude: exclude, decode: decode};
                 }
-                if (decode) {
-                    url = this.decodeUrl(originUrl);
-                }
-                let redirect = regex
+                url = decode ? this.decodeUrl(originUrl) : originUrl;
+                redirect = regex
                     ? from.test(url) ? !(exclude && exclude.test(url)) : false
                     : from == url ? !(exclude && exclude == url) : false;
                 if (redirect) {
-                    let reurl = typeof to == "function"
+                    url = typeof to == "function"
                         ? regex ? to(url.match(from)) : to(from)
                         : regex ? url.replace(from, to) : to;
                     redirectUrl = {
-                        url : decode ? reurl : this.decodeUrl(reurl),   // 避免二次解码
+                        url : decode ? url : this.decodeUrl(url),   // 避免二次解码
                         resp: rule.resp
                     };
                     break;
                 }
             }
-            this._cache.redirectUrl[url] = redirectUrl;
+            this._cache.redirectUrl[originUrl] = redirectUrl;
             return redirectUrl;
         },
         decodeUrl: function(encodedUrl) {
