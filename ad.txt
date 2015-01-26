@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501261901
-! Last Modified: 2015年01月26日 19:01
+! Version: 201501262101
+! Last Modified: 2015年01月26日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -187,6 +187,7 @@ jump.bdimg.com,tieba.baidu.com##.reward_panel_wrap
 jump.bdimg.com,tieba.baidu.com##.save_face_bg
 jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
+jump.bdimg.com,tieba.baidu.com###duoku_servers_list
 jump.bdimg.com,tieba.baidu.com###forum_recommend
 jump.bdimg.com,tieba.baidu.com###guide_fc
 jump.bdimg.com,tieba.baidu.com###xiu8_follow_warn
@@ -2735,8 +2736,8 @@ _vmind.qqvideo.tc.qq.com^
 ||downbank.cn/s1/
 ||downbank.cn/soft6/
 ||downxia.com/haojs/
-||downxia.com/zejs/ad*.js
-||downxia.com/zejs/y/
+||downxia.com/zejs/ad
+||downxia.com/zejs/soft
 ||downyi.com/tg/
 ||downza.cn/html/skin/default/ad/
 ||doyo.cn/Tpl/web/Public/images/material/www_couplets/
@@ -5048,6 +5049,7 @@ _vmind.qqvideo.tc.qq.com^
 ||autoimg.cn/ad.js
 ||hdsky.me/adv/
 ||game.466.com^$third-party
+||91.com/uploads/game/*-%E5%B9%BF%E5%91%8A.
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -8266,6 +8268,9 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 leduwo.com#@##adtop
 yhd.com#@#.txtAd
+pupuapp.com#@##ad_img
+pupuapp.com#@#.ad_pic
+pupuapp.com#@#.ad_title
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com

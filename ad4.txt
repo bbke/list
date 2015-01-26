@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201501261701
-! Last Modified: 2015年01月26日 17:01
+! Version: 201501262101
+! Last Modified: 2015年01月26日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -106,6 +106,7 @@ jump.bdimg.com,tieba.baidu.com##.reward_panel_wrap
 jump.bdimg.com,tieba.baidu.com##.save_face_bg
 jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
+jump.bdimg.com,tieba.baidu.com###duoku_servers_list
 jump.bdimg.com,tieba.baidu.com###forum_recommend
 jump.bdimg.com,tieba.baidu.com###guide_fc
 jump.bdimg.com,tieba.baidu.com###xiu8_follow_warn
