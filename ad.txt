@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501271301
-! Last Modified: 2015年01月27日 13:01
+! Version: 201501271801
+! Last Modified: 2015年01月27日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1450,6 +1450,7 @@ hk.yahoo.com###mntl1
 !---------------------------Popups--------------------------------------------!
 .189.gd^*.html?p=$popup,third-party
 .com/?Intr=$popup
+||vnet.cn^*.html?$popup,third-party
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tinylinks.co|tnabucks.com|tubeviral.com|ultrafiles.net|urlbeat.net|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
@@ -3011,7 +3012,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gscn.com.cn/home/images/advscroll.js
 ||gscn.com.cn/pic/0/10/34/27/10342786_994137.gif
 ||gter.net^*adv
-||gtimg.cn/qzone/mall/v8/module/popTips/index.js
 ||gtimg.com/comic/js/ss/2014010003002a.js
 ||gtimg.com/comic/js/zhaoshang/
 ||gtimg.com/news/news/2014ad/
@@ -5049,6 +5049,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+user.qzone.qq.com###qz_notification
 hc360.com,yaolan.com###AD
 21yq.com###AD1
 gdtv.cn###ADVbuttom
