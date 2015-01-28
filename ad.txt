@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501281401
-! Last Modified: 2015年01月28日 14:01
+! Version: 201501281501
+! Last Modified: 2015年01月28日 15:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -22,6 +22,36 @@
 ||media.pussycash.com^$third-party
 tv.sohu.com###referr_bd_box
 tu.duowan.com###tuAppRecommend, .tu--qrcode
+! Cam4
+/ads/directory/*
+/ads/im/*
+/web/js/cam4Xtra*.js
+||edgecast.cam4s.com/web/and/js/rep-popunder.js
+www.cam4.tw,www.cam4.com###headerBanner, #subfoot, .removeAds, .ads
+! Chaturbate
+||chaturbate.com/affiliates/
+||chaturbate.com/sitestats/openwindow/$popup
+chaturbate.com##.banner, .ad
+||untitled.dwstatic.com/fodder/*$object-subrequest
+! Cloudfront
+||cloudfront-labs.amazonaws.com^
+||cloudfront.net*/sp.js
+||cloudfront.net*/trk.js
+||cloudfront.net/analytics.js
+||cloudfront.net/analyticsengine/
+||cloudfront.net/atrk.gif?
+||cloudfront.net/atrk.js
+||cloudfront.net/code/keen-2.1.0-min.js
+||cloudfront.net/dough/*/recipe.js
+||cloudfront.net/js/reach.js
+||cloudfront.net/log.js?
+||cloudfront.net/performable/
+||cloudfront.net/pt1x1.gif
+||cloudfront.net/rum/bacon.min.js
+||cloudfront.net/sso.js
+||cloudfront.net/track.html
+||cloudfront.net/trackb.html
+||cloudfront.net/tracker.js
 ! Google
 ||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
@@ -58,26 +88,20 @@ tu.duowan.com###tuAppRecommend, .tu--qrcode
 ||www.google.*/imgevent?$script
 ||www.google.*/imghover?$image
 ||www.google.*/url?$image
-! Zol
-@@||icon.zol-img.com.cn/public/js/web_foot.js
-! Cam4
-/ads/directory/*
-/ads/im/*
-/web/js/cam4Xtra*.js
-||edgecast.cam4s.com/web/and/js/rep-popunder.js
-www.cam4.tw,www.cam4.com###headerBanner, #subfoot, .removeAds, .ads
-! Chaturbate
-||chaturbate.com/affiliates/
-||chaturbate.com/sitestats/openwindow/$popup
-chaturbate.com##.banner, .ad
-||untitled.dwstatic.com/fodder/*$object-subrequest
-! 优酷
-||static.youku.com/*/index/js/popup.js
-||static.youku.com/*/index/js/qwindow.js
-! 迅雷
+! Statcounter
+||statcounter.com^$third-party
+@@||statcounter.com/chart.php?$script
+@@||statcounter.com/js/fusioncharts.js
+@@||statcounter.com/msline.swf
+! Xunlei
 ||pstatic.xunlei.com/js/*
 ||img.kuai.xunlei.com/js/webxunlei.js
-! F**k 铁通
+! Youku
+||static.youku.com/*/index/js/popup.js
+||static.youku.com/*/index/js/qwindow.js
+! Zol
+@@||icon.zol-img.com.cn/public/js/web_foot.js
+! 铁通
 |http://*/s.js?sp=*&r=$third-party
 |http://*/m?t=$third-party
 |http://*/m.js?t=$third-party
