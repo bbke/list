@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501281501
-! Last Modified: 2015年01月28日 15:01
+! Version: 201501281801
+! Last Modified: 2015年01月28日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -11,17 +11,18 @@
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ##FONT.jammer
-||videowood.tv/assets/js/popup.js
-||file.ithome.com/js/wap/common.js
-||tianqi.com/static/js/gg1228.js
-||forum.xitek.com/xml/flash.swf
+tv.sohu.com###referr_bd_box
+tu.duowan.com###tuAppRecommend, .tu--qrcode
 */hezuo/*^$domain=bbs.gfan.com
+||addtoany.com/menu/transparent.gif
+||file.ithome.com/js/wap/common.js
+||forum.xitek.com/xml/flash.swf
+||media.pussycash.com^$third-party
 ||member.jschina.com.cn/AD*
 ||miwifi.com/d2r/*
 ||syndication.jsadapi.com^$third-party
-||media.pussycash.com^$third-party
-tv.sohu.com###referr_bd_box
-tu.duowan.com###tuAppRecommend, .tu--qrcode
+||tianqi.com/static/js/gg1228.js
+||videowood.tv/assets/js/popup.js
 ! Cam4
 /ads/directory/*
 /ads/im/*
