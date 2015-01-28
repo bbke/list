@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501281801
-! Last Modified: 2015年01月28日 18:01
+! Version: 201501281901
+! Last Modified: 2015年01月28日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -20,6 +20,7 @@ tu.duowan.com###tuAppRecommend, .tu--qrcode
 ||media.pussycash.com^$third-party
 ||member.jschina.com.cn/AD*
 ||miwifi.com/d2r/*
+||optimizely.com^$third-party
 ||syndication.jsadapi.com^$third-party
 ||tianqi.com/static/js/gg1228.js
 ||videowood.tv/assets/js/popup.js
@@ -27,7 +28,7 @@ tu.duowan.com###tuAppRecommend, .tu--qrcode
 /ads/directory/*
 /ads/im/*
 /web/js/cam4Xtra*.js
-||edgecast.cam4s.com/web/and/js/rep-popunder.js
+/web/and/js/rep-popunder.js
 www.cam4.tw,www.cam4.com###headerBanner, #subfoot, .removeAds, .ads
 ! Chaturbate
 ||chaturbate.com/affiliates/
