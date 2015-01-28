@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201501282001
-! Last Modified: 2015年01月28日 20:01
+! Version: 201501282101
+! Last Modified: 2015年01月28日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -14,7 +14,7 @@
 tv.sohu.com###referr_bd_box
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 wap.ithome.com###a_ad
-*/hezuo/*^$domain=bbs.gfan.com
+/hezuo/*$domain=bbs.gfan.com
 ||addtoany.com/menu/transparent.gif
 ||forum.xitek.com/xml/flash.swf
 ||media.pussycash.com^$third-party
