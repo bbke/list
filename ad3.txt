@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501282101
-! Last Modified: 2015年01月28日 21:01
+! Version: 201501291101
+! Last Modified: 2015年01月29日 11:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4973,10 +4973,12 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||eat-travel.com.tw^$third-party
+||firefoxchina.cn/img/skin/qnh/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+i.firefoxchina.cn##.theme-side-bar-priority
 appledaily.com.tw###eat_travel
 appledaily.com.tw###eat_travel_bot
 hc360.com,yaolan.com###AD
