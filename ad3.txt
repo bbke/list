@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501291301
-! Last Modified: 2015年01月29日 13:01
+! Version: 201501291601
+! Last Modified: 2015年01月29日 16:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -54,6 +54,18 @@ chaturbate.com##.banner, .ad
 ||cloudfront.net/track.html
 ||cloudfront.net/trackb.html
 ||cloudfront.net/tracker.js
+! Doubleclick
+||doubleclick.net/activity$third-party
+||doubleclick.net/imp%$third-party
+||doubleclick.net/imp;$third-party
+||doubleclick.net/json?$third-party
+||doubleclick.net/pixel?$third-party
+||doubleclick.net^*/trackimp/$third-party
+||bid.g.doubleclick.net^
+||cm.g.doubleclick.net^
+||stats.g.doubleclick.net^
+||survey.g.doubleclick.net^
+@@||stats.g.doubleclick.net/dc.js$domain=lifehack.org|toto.co.jp|tripinsurance.ru|vimeo.com
 ! Google
 ||google-analytics.com^$third-party
 ||googleadservices.com^$third-party

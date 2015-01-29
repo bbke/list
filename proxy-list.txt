@@ -2,20 +2,29 @@
 
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201501251038
-! Last Modified: 2015年01月25日 10:38
+! Version: 201501291531
+! Last Modified: 2015年01月29日 15:31
 
 ! 本规则为自用简洁版，欢迎补充规则
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 
+.facebook.com
+.google.com/moderator
+.google.com%2Fmoderator
+.sex8.cc
+.your-freedom.net
+.youtubecn.com
+.tube.com
+.turbobit.net
+.youtube.com
 ||6park.com
+||blogger.com
+||blogblog.com
+||bahamut.com.tw
 ||cool18.com
 ||ytimg.com
-.youtube.com
 ||youtube-nocookie.com
 ||googlevideo.com
-.sex8.cc
-.facebook.com
 ||facebook.com
 ||fbcdn.net
 ||twitter.com
@@ -44,49 +53,28 @@
 ||dmm.co.jp
 ||wangyou.com
 ||photobucket.com
-@@||addons.mozilla.org
 ||books.com.tw
 ||caobian.info
 ||caochangqing.com
+gaeproxy.googlecode.com
 gfwinterceptor.googlecode.com
 gtap.googlecode.com
 tuite.googlecode.com
-gaeproxy.googlecode.com
 |https://*drive.google.com
-.google.com/moderator
-.google.com%2Fmoderator
 video.google.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
 ||gospelherald.com
 ||greatfire.org
 ||flightcaster.com
-@@||www.tripod.com
-.tube.com
 ||tube8.com
 ||tubecao.com
-.turbobit.net
 meme.yahoo.com
 video.yahoo.com
-.your-freedom.net
 ||youtu.be
-.youtubecn.com
 ||youversion.com
 ||zacebook.com
 ||174.142.105.153
-@@||acfun.com
-@@||baidu.com
-@@||youku.com
-@@||tudou.com
-@@||sina.com.cn
-@@||sogou.com
-@@||soso.com
-@@||yahoo.cn
-@@||youdao.com
-@@||zhongsou.com
-@@|https://autoproxy.org
-@@|http://ime.baidu.jp
-@@||4399.com
 ||yt3.ggpht.com
 ||2233b.com
 ||1155h.com
@@ -131,8 +119,8 @@ video.yahoo.com
 ||sexinsex.net
 ||pinimg.com
 ||blogspot.com
+||gaytube.com
 ||gmail.com
-/^https?:\/\/[^\/]+google\.(.*)/
 ||googleapis.com
 ||googlesyndication.com
 ||googleusercontent.com
@@ -144,12 +132,26 @@ video.yahoo.com
 ||fckb.cc
 ||sdy4.me
 ||picktorrent.com
-||blogger.com
-||blogblog.com
-||bahamut.com.tw
 ||xvideos.com
 ||gaymaletube.com
 ||redtube.com
-||yobt.com
 ||xhamster.com
 ||xhcdn.com
+||xtube.com
+||yobt.com
+/^https?:\/\/[^\/]+google\.(.*)/
+@@||acfun.com
+@@||baidu.com
+@@||youku.com
+@@||tudou.com
+@@||sina.com.cn
+@@||sogou.com
+@@||soso.com
+@@||yahoo.cn
+@@||youdao.com
+@@||zhongsou.com
+@@|https://autoproxy.org
+@@|http://ime.baidu.jp
+@@||4399.com
+@@||addons.mozilla.org
+@@||www.tripod.com
