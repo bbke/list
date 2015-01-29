@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501291801
-! Last Modified: 2015年01月29日 18:01
+! Version: 201501291901
+! Last Modified: 2015年01月29日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3159,7 +3159,11 @@ _vmind.qqvideo.tc.qq.com^
 ||heiguang.com/statics/201404/img/tiop-1.jpg
 ||heitu5.com/js/heituad/
 ||henan.sina.com.cn/iframe/7/
-||henghost.com^*/heng.js
+||henghost.com^$third-party
+||cmhello.com^*/cmhello
+||cmhello.com/2013/12/wpdx
+||cmhello.com/2014/04/eduoyun.jpg
+||cmhello.com/2014/06/wx300-250.jpg
 ||heshan.gov.cn/JS/ddgg.js
 ||hexun.com*/hx_news/hx_news_finalpage.js
 ||hf365.com//js/zt/dhmc_lrtk.js
@@ -4760,10 +4764,6 @@ _vmind.qqvideo.tc.qq.com^
 ||woxiu.com/xapi/get_pre_config.php
 ||woxiu.com/xapi/offsite_swf_more.php?
 ||wp.ylaop.com^
-||wpdaxue.com/2014/06/3h.jpg
-||wpdaxue.com/2014/06/cef.png
-||wpdaxue.com/2014/06/wx.jpg
-||wpdaxue.com/2014/07/90zj.png
 ||wpjam.qiniudn.com/wpjam/banner/*g|
 ||wpmeeimg.b0.upaiyun.com/2014/04/hczj.jpg
 ||wpmeeimg.b0.upaiyun.com/2014/08/ali0801.jpg
@@ -5094,6 +5094,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wpdaxue.com##A[href^="http://www.wpdaxue.com/go/"] > IMG
 xiazaigang.com##.banner2
 xiazaigang.com##.xzad2
 lanyingwang.com##.ad_h
