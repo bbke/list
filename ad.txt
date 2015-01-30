@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501301301
-! Last Modified: 2015年01月30日 13:01
+! Version: 201501301401
+! Last Modified: 2015年01月30日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -8542,7 +8542,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||gg1z.com/statics/gg/greendown/logo.gif
 @@||gimhoy.com/advertisement.js
 @@||go.goyeah.com/adpolestar/$object-subrequest
-@@||gomein.net.cn/??
+@@|http://*/??$domain=gome.com.cn
 @@||gpsdlm.com/images/ad.
 @@||gqdzs.com/gg/adview_
 @@||gqzzw.com/gg/adview_
@@ -8703,6 +8703,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||zhibowu.com/ad2.htm
 @@||zjol.com.cn^*/index.jsp?newsid=$elemhide
 ! Fixed Malware Domains rules
+@@||web.xdcdn.net^$domain=nc.xd.com
 @@/[/.]js\.tv\.itc\.cn\/(?!(gg|hdpv))/$domain=tv.sohu.com
 @@/\.7k7k.com\/(?!(ad|load))/$domain=7k7k.com
 !--------------------------------Tracking Systems-----------------------------!
