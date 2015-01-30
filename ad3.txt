@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201501301701
-! Last Modified: 2015年01月30日 17:01
+! Version: 201501301801
+! Last Modified: 2015年01月30日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4859,7 +4859,6 @@ _vmind.qqvideo.tc.qq.com^
 ||you85.cn^*/dib.js
 ||you85.cn^*/vip.js
 ||you85.cn^*/z*.js
-||youjizz.com/ch/ch_promo.xml
 ||youth.cn/ggw/dep_ggw/
 ||youth.cn/images/c.js
 ||youth.cn/images/m.js
@@ -4995,10 +4994,13 @@ _vmind.qqvideo.tc.qq.com^
 /sda/*$domain=chineseinla.com
 /images/content/1436/*$domain=chineseinla.com
 ||44921.cn/ajsv1/flashad_
+||6949.com/640x44.htm
+||so.6949.com^
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+6949.com##.adse
 6949.com##.Ad_01
 6949.com##.Ad_02
 6949.com##.Ad_03
@@ -8238,6 +8240,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||360buyimg.com/ads/$domain=jd.com
 @@/sda/weixin$domain=chineseinla.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
