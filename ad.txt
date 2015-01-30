@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201501301401
-! Last Modified: 2015年01月30日 14:01
+! Version: 201501301501
+! Last Modified: 2015年01月30日 15:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2567,8 +2567,6 @@ _vmind.qqvideo.tc.qq.com^
 ||chinaz.com/site_view/2z.cn.gif
 ||chinaz.com/site_view/alexa_ad.jpg
 ||chinaz.com/temp_upfile/ads/
-||chineseinla.com/images/content/1436/
-||chineseinla.com/sda/
 ||chiphell.com/activity/
 ||chuangshi.qq.com/upload/cmsv2/Banner/
 ||chuixue.com/jsa/
@@ -3920,7 +3918,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ntpcb.com/html/channel/citypark/images/p83_temp_
 ||nttpcs.cn/ax/incoto.gif
 ||nvsheng.com/js/gg.js
-||nychinaren.com/sda/
 ||oa.hinews.cn/work/img/
 ||ok.432kkk.com^
 ||okbmf.com^*950_120
@@ -5091,6 +5088,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||17huohu.com/img/skin/qnh/
+/sda/*$domain=chineseinla.com
+/images/content/1436/*$domain=chineseinla.com
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -8330,6 +8329,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@/sda/weixin$domain=chineseinla.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -8704,7 +8704,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||zjol.com.cn^*/index.jsp?newsid=$elemhide
 ! Fixed Malware Domains rules
 @@||web.xdcdn.net^$domain=nc.xd.com
-@@/[/.]js\.tv\.itc\.cn\/(?!(gg|hdpv))/$domain=tv.sohu.com
 @@/\.7k7k.com\/(?!(ad|load))/$domain=7k7k.com
 !--------------------------------Tracking Systems-----------------------------!
 /cv/*&uuid=$object-subrequest
