@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502011101
-! Last Modified: 2015年02月01日 11:01
+! Version: 201502011701
+! Last Modified: 2015年02月01日 17:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -113,9 +113,6 @@ chaturbate.com##.banner, .ad
 @@||statcounter.com/chart.php?$script
 @@||statcounter.com/js/fusioncharts.js
 @@||statcounter.com/msline.swf
-! Xunlei
-||pstatic.xunlei.com/js/*
-||img.kuai.xunlei.com/js/webxunlei.js
 ! Youku
 ||static.youku.com/*/index/js/popup.js
 ||static.youku.com/*/index/js/qwindow.js
