@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502022101
-! Last Modified: 2015年02月02日 21:01
+! Version: 201502022201
+! Last Modified: 2015年02月02日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4216,7 +4216,7 @@ _vmind.qqvideo.tc.qq.com^
 ||rfidworld.com.cn/js/b.js
 ||rfidworld.com.cn/js/c.html
 ||rh.qq.com^
-||right.com.cn/logo/jlu.gif
+||right.com.cn/logo/*.gif
 ||riju.com/pr/$domain=jpfans.com|jpseek.com
 ||rising.cn/index/*/pic-ad/
 ||rising.com.cn/weblog/
@@ -4245,7 +4245,6 @@ _vmind.qqvideo.tc.qq.com^
 ||runsky.com/html/*_index_
 ||ruten.com.tw/js/ahd_
 ||ruten.com.tw/js/gads_
-||rxs.cc/js/inc/
 ||rznews.cn/images/col/201308ydfy.gif
 ||rznews.cn/liv_loadfile/*.swf
 ||rznews.cn/liv_loadfile/folder1021/fold5/1373610421_63369500.gif
@@ -5321,7 +5320,7 @@ voc.com.cn###adbody_show
 iqiyi.com###adflash
 eol.cn###adfloat_l
 eol.cn###adfloat_r
-ceil.me,rrting.net###adindex
+ceil.me###adindex
 dgmei.com###admhdiv_abc
 linyiren.com###adone
 dayanzai.me###adrt
@@ -7287,7 +7286,7 @@ actoys.net##.p_top_ad
 tw.yahoo.com##.pa-banner
 cjdby.net##.page_right_ad
 qqyy.com##.par-ad336
-hao.rising.cn##.part-foot[style="height:90px;text-align:center;"]
+hao.rising.cn##.baidu-banner
 www.sina.com.cn##.part-k-l > .mod-13
 www.sina.com.cn##.part-l
 bbs.52life.cc##.part1
