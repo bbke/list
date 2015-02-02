@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502011844
-! Last Modified: 2015年02月01日 18:44
+! Version: 201502021801
+! Last Modified: 2015年02月02日 18:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -428,6 +428,8 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 @@||aolcdn.com/js/mg2.js$domain=engadget.com
 @@||aolcdn.com/omniunih_int.js$domain=engadget.com
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
+@@||hk.on.cc/hk/bkn/hitcount/web/js/hitCount_$~third-party,xmlhttprequest
+@@||hk.on.cc/js/urchin.js$~third-party
 @@||hm.baidu.com/h.js?$domain=weaku.com
 @@||ijinshan.com/static/js/analyse.js
 @@||imrworldwide.com/novms/js/2/ggcmb353.js$domain=nexttv.com.tw
