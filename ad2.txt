@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502021801
-! Last Modified: 2015年02月02日 18:01
+! Version: 201502022001
+! Last Modified: 2015年02月02日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -127,6 +127,7 @@ chaturbate.com##.banner, .ad
 ! 百度
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||wenku.baidu.com/static/view/*.js
+m.baidu.com,wap.baidu.com##div[data-role="page_view_topad"]
 yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-issue-guide
 ||pan.bdstatic.com/yun-static/common-cdn/widget/adTips/mboxTips/
 ^monitor.jpg?xcode^
