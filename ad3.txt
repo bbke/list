@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502031301
-! Last Modified: 2015年02月03日 13:01
+! Version: 201502031401
+! Last Modified: 2015年02月03日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -2236,7 +2236,6 @@ _vmind.qqvideo.tc.qq.com^
 ||anhuinews.com/zhuyeguanli/*ad/
 ||anquan.org/static/auth/images/ppb_cert/qq-browser.jpg
 ||anywlan.com/link/nyt.gif
-||aoodoo.feng.com^
 ||aoye.cc/js/footer.js
 ||apas.aipai.com/www/api/aipaiPlayFull2.js?0.
 ||apihousefun.yam.com/news.php
@@ -2829,8 +2828,7 @@ _vmind.qqvideo.tc.qq.com^
 ||fdc.com.cn^*adv
 ||fdc.my0511.com^$script
 ||feedburner.com/beauty2013?
-||feng.com/aodoo1/
-||feng.com/aodoo2/
+||feng.com^*/view.php?what=zone:
 ||feng.com/aoodoo/
 ||feng.com^*/index_treasure/
 ||fengbuy.com/recommend-new.php
@@ -8820,6 +8818,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
+||8cnd.com^
 
 &ad_type=
 &ad_url=
