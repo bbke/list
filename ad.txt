@@ -2,8 +2,8 @@
 
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502042101
-! Last Modified: 2015年02月04日 21:01
+! Version: 201502042201
+! Last Modified: 2015年02月04日 22:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1126,6 +1126,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||u.801t.com^$third-party
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -1737,7 +1738,11 @@ _vmind.qqvideo.tc.qq.com^
 ||11.mydrivers.com/news/google468x60.js
 ||111cn.net/gg_ad/
 ||111cn.net/js/downc*.js
-||111cn.net/js/v8/
+||pic.111cn.net^*.gif
+||111cn.net/images/v8/vip.jpg
+||111cn.net/js/v8/body
+||111cn.net/js/v8/page_
+||111cn.net/v8/fun.js
 ||112.126.66.58^*?mid=
 ||113.17.188.44/*.js
 ||114fw.com/dagg/
@@ -5128,6 +5133,7 @@ _vmind.qqvideo.tc.qq.com^
 ||laozuo.org/wp-content/themes/weisaysimple/js/banner.js
 ||laozuo.org/wp-content/themes/weisaysimple/js/index-top.js
 ||laozuo.org/wp-content/themes/weisaysimple/js/sidebar.js
+||121.41.60.207/m?t=
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -7790,7 +7796,7 @@ css88.com##a[href^="http://www.liepin.com"]
 dasai8.com##a[href^="http://www.lmny6.com/?p="]
 niaogebiji.com##a[href^="http://www.ukejisong.com/"]
 nanfenge.com##a[href^="http://www.woyao998.com"]
-wpdaxue.com##a[href^="http://www.wpdaxue.com/go/"] > img
+wpdaxue.com##a[href^="http://www.wpdaxue.com/gt/"] > img
 miercn.com##a[href^="http://www.yaosai.com/shop/"]
 weiqitv.com##a[href^="http://www.yiwugou.com/"]
 ocucn.com##a[href^="http://www.zhuna.cn/rdirect.asp?type=hoteltxt&"]
