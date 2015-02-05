@@ -1,9 +1,8 @@
-[Adblock]
-
+[Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502042301
-! Last Modified: 2015年02月04日 23:01
+! Version: 201502051238
+! Last Modified: 2015年02月05日 12:38
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -138,7 +137,6 @@ m.baidu.com,wap.baidu.com##div[data-role="page_view_topad"]
 yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-issue-guide
 ||pan.bdstatic.com/yun-static/common-cdn/widget/adTips/mboxTips/
 ^monitor.jpg?xcode^
-
 ! EasyPrivacy
 ||180.76.2.18^$third-party,domain=~baidu.ip
 ||50bang.org^$third-party
@@ -354,6 +352,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 @@||vanclimg.com/js.ashx?*/google-analytics.js$domain=vancl.com
 @@||wenxuecity.com/data/newscount/$image,domain=wenxuecity.com
 @@||wrating.com/a1.js$domain=tudou.com|ynet.com
+! EasyList China
 !189.cn
 ||189.cn/dns/
 ||gd.189.cn/ad/$popup,third-party
@@ -8830,7 +8829,7 @@ serve.netsh.org#@#.adsbygoogle
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
-
+! EasyList Lite
 &ad_type=
 &ad_url=
 &ad_zones=
@@ -10995,3 +10994,32 @@ msn.com##.providerupsell
 ||moatads.com^$third-party
 ||propgoluxury.com/partners/$third-party
 ||rtbidder.net^$third-party
+! CJX's Annoyance List
+!-----------------------General advert blocking filters-----------------------!
+!------------------------General element hiding rules-------------------------!
+!----------------------------------Ads-Union----------------------------------!
+!---------------------------Popups--------------------------------------------!
+!----------------------Specific advert blocking filters-----------------------!
+||feng.com^*/index_treasure/
+||feng.com^*/view.php?what=zone:
+||feng.com/aoodoo/
+||fengbuy.com/recommend-new.php
+||lab.feng.com/images_new/ad-
+||netease.com/cnews/bobologo.png
+||163.com^*/boboData
+||163.com/special/*/bobo.html
+||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
+||netease.com/tie/2015/2/2/yc3.jpg
+!------------------------Specific element hiding rules------------------------!
+feng.com##DIV[class^="wep_e_"]
+feng.com##div[class^="wea_d_"]
+feng.com##.wea_d_panel_980
+163.com##.bobo-area
+163.com###js_a_bobo
+163.com###bobo
+!---------------------------------CSS Whitelist-------------------------------!
+!---------------------------------URL Whitelist-------------------------------!
+@@/view.php?what=zone:94&$domain=feng.com
+@@/%*logo.png|$domain=feng.com
+@@/view.php?what=zone:93&$domain=feng.com
+!--------------------------------Tracking Systems-----------------------------!
