@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502052301
-! Last Modified: 2015年02月05日 23:01
+! Version: 201502060601
+! Last Modified: 2015年02月06日 06:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1374,7 +1374,6 @@ hk.yahoo.com###mntl1
 ||keyrun.cn^$third-party
 ||kiees.com^$image,subdocument,third-party
 ||kingwam.com^
-||knet.cn^$third-party
 ||ku63.com^$third-party
 ||kuaizitech.com^$third-party
 ||le123.cn^$third-party
@@ -8403,6 +8402,7 @@ yhd.com#@#.txtAd
 brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 192.168.128.1#@#.banner_ad
+xa.house365.com#@#.adBox
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
@@ -11105,7 +11105,8 @@ msn.com##.providerupsell
 ! CJX's Annoyance List
 !-----------------------General advert blocking filters-----------------------!
 !------------------------General element hiding rules-------------------------!
-!----------------------------------Ads-Union----------------------------------!
+!-----------------------------Union&third-party-------------------------------!
+||knet.cn^$third-party
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
@@ -11118,6 +11119,7 @@ msn.com##.providerupsell
 ||163.com/special/*/bobo.html
 ||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
 ||netease.com/tie/2015/2/2/yc3.jpg
+||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 !------------------------Specific element hiding rules------------------------!
 feng.com##DIV[class^="wep_e_"]
 feng.com##div[class^="wea_d_"]
@@ -11125,6 +11127,8 @@ feng.com##.wea_d_panel_980
 163.com##.bobo-area
 163.com###js_a_bobo
 163.com###bobo
+haosou.com###haosou-banner-left
+haosou.com###so_feb
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
 @@/view.php?what=zone:94&$domain=feng.com
