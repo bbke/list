@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502051901
-! Last Modified: 2015年02月05日 19:01
+! Version: 201502052001
+! Last Modified: 2015年02月05日 20:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -998,6 +998,7 @@ hk.yahoo.com###mntl1
 |http://acs.
 |http://ad.
 |http://gg.$third-party
+|http://*/s.js?sp=*&r=$third-party
 |https://*/ad/$domain=~yande.re
 !------------------------General element hiding rules-------------------------!
 ###MyMoveAd
@@ -8440,7 +8441,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@|http://*/ad$domain=meiziweibo.com
 @@|http://*/AD/$domain=dou6.cc|kk369.net|uuu123.net
 @@|http://*/gg/*.css
-@@|http://cb.baidu.com/ecom?$domain=baidu.56.com|baidu.baomihua.com|baidu.funshion.com|baidu.hd.baofeng.com|baidu.hz.letv.com|baidu.kankanews.com|baidu.ku6.com|baidu.pptv.com|baidu.v.126.net|baidu.v.ifeng.com|baidu.v1.cn|baidu.video.sina.com|baidu.yinyuetai.com|baishi.baidu.com|v.baidu.com
+@@|http://cb.baidu.com/ecom?di=$domain=baidu.56.com|baidu.baomihua.com|baidu.funshion.com|baidu.hd.baofeng.com|baidu.hz.letv.com|baidu.kankanews.com|baidu.ku6.com|baidu.pptv.com|baidu.v.126.net|baidu.v.ifeng.com|baidu.v1.cn|baidu.video.sina.com|baidu.yinyuetai.com|baishi.baidu.com|v.baidu.com
 @@||10010.com^*/ad.
 @@||10010.com^*/ad/
 @@||10086.cn/service/$elemhide,domain=10086.cn
