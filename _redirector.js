@@ -4,7 +4,7 @@ rules = [{
     to: "$1",
     regex: true
 },{
-    name: "百度搜索禁止劫持",
+    name: "百毒搜索禁止劫持",
     from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(rs|oq).*/i,
     to: "https://$1$2",
     regex: true
@@ -54,6 +54,12 @@ rules = [{
     to:"https://greasyfork.org/zh-CN/scripts/$1",
     regex:true
 },{
+    name: "高登论坛",
+    from: /^http:\/\/forum[\d]{0,2}\.hkgolden\.com\/(.*)/i,
+    exclude:/^http:\/\/forum14\.hkgolden\.com\/(.*)/i,
+    to: "http://forum14.hkgolden.com/$1",
+    regex: true
+},{
     name: "百度随心听音质 >> 320p",
     from: /^http:\/\/music\.baidu\.com\/data\/music\/fmlink(.*[&\?])rate=[^3]\d+(.*)/i,
     to: "http://music.baidu.com/data/music/fmlink$1rate=320$2",
@@ -64,6 +70,12 @@ rules = [{
     to: "http://userscripts-mirror.org/$1",
     regex: true
 },{
+    name: "500px >> 原始大圖",
+    from: /^https?:\/\/(.*)\.(edgecastcdn|500px)\.(net|org)\/(.*)\/[\d].jpg(.*)?/i,
+    to: "https://$1.$2.$3/$4/2048.jpg",
+    exclude: /^https?:\/\/(.*)\.(edgecastcdn|500px)\.(net|org)\/(.*)\/(1|2).jpg(.*)?/i,//排除頭像縮略圖
+    regex: true
+},{
     name: "优美图 >> 大图",
     from: /^https?:\/\/(.*)\.topit\.me\/(s|m)\/(.*)$/,
     to: "http://$1.topit.me/l/$3",
@@ -72,7 +84,8 @@ rules = [{
     name: "百度贴吧|百科 >> 原始大图",
     from: /http:\/\/(imgsrc|[\w]?\.hiphotos)\.baidu\.com\/(forum|baike)\/[\w].+\/sign=[^\/]+(\/.*).jpg/i,
     to: "http://$1.baidu.com/$2/pic/item$3.jpg",
-    regex: true
+    regex: true,
+    state: false
 },{
     name: "优酷收费视频 >> id97免费看",
     from: /^http:\/\/v\.youku\.com\/v_show\/([\w]{16})(_ev_[\d]+)?\.html(\?.*)?$/i,
@@ -98,13 +111,6 @@ rules = [{
     to: "https://www.tumblr.com/video_file/$1",
     regex: true
 },{
-    name: "【https】google",
-    from: /^http:\/\/(([^\.]+\.)?google\..+)/i,
-    exclude: /google\.cn/i,  // 可选，排除例外规则
-    to: "https://$1",
-    regex: true,
-    state: false
-},{
     name: "【https】常用网站（一）",
     from: /^http:\/\/(www\.baidu\.com|upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
     to: "https://$1$2",
@@ -116,7 +122,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|googlecode|filesmonster)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|filesmonster|cam4s)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{
