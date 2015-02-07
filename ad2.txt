@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502072001
-! Last Modified: 2015年02月07日 20:01
+! Version: 201502072101
+! Last Modified: 2015年02月07日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -17,7 +17,7 @@ www.1069gay.net###shortcut
 /hezuo/*$domain=bbs.gfan.com
 |http://*.com/d/a/*.php?
 ||addtoany.com/menu/transparent.gif
-||boom.1ccbt.com/gfra.php?*
+||boom.1ccbt.com/gfra.php?
 ||edge.quantserve.com/quant.js
 ||flashi.tv/histats.php?
 ||forum.xitek.com/xml/flash.swf
@@ -25,8 +25,8 @@ www.1069gay.net###shortcut
 ||m.addthis.com/live/red_lojson/300lo.json
 ||media.pussycash.com^$third-party
 ||member.jschina.com.cn/AD*
-||miwifi.com/d2r/*
-||mycoolboy.com/source/plugin/u179_jtft/u179_js/12344279923_gbk.js
+||miwifi.com/d2r/
+||mycoolboy.com/source/plugin/u179_jtft/
 ||optimizely.com^$third-party
 ||syndication.jsadapi.com^$third-party
 ||tianqi.com/static/js/gg1228.js
