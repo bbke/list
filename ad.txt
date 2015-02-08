@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502081101
-! Last Modified: 2015年02月08日 11:01
+! Version: 201502081401
+! Last Modified: 2015年02月08日 14:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -11162,6 +11162,7 @@ msn.com##.providerupsell
 ||feng.com/aoodoo/
 ||fengbuy.com/recommend-new.php
 ||lab.feng.com/images_new/ad-
+||iask.sina.com.cn/t/
 ||netease.com/cnews/bobologo.png
 ||163.com^*/boboData
 ||163.com/special/*/bobo.html
@@ -11171,6 +11172,9 @@ msn.com##.providerupsell
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 !------------------------Specific element hiding rules------------------------!
+fmdisk.com##DIV[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > P
+iask.sina.com.cn###daily_topic_flnr
+iask.sina.com.cn##.daily_entrance
 feng.com##DIV[class^="wep_e_"]
 feng.com##div[class^="wea_d_"]
 feng.com##.wea_d_panel_980
