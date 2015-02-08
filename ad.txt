@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502082001
-! Last Modified: 2015年02月08日 20:01
+! Version: 201502082101
+! Last Modified: 2015年02月08日 21:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5179,6 +5179,7 @@ _vmind.qqvideo.tc.qq.com^
 ||lxty69.com/js/float.js
 ||s4.55.la/anonymous/banner/
 ||115img.com/static/pc/d_127.html
+||wudilong.com/ssb/include/js/php.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -11167,15 +11168,20 @@ msn.com##.providerupsell
 ! CJX's Annoyance List
 !-----------------------General advert blocking filters-----------------------!
 !------------------------General element hiding rules-------------------------!
+###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
 ||looyu.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
+||duba.net/skins/2009/images/db300_250.gif
 ||feng.com^*/view.php?what=zone:
 ||feng.com/aoodoo/
 ||fengbuy.com/recommend-new.php
+||ithome.com/images/v2.1/downsoftmaster.gif
+||ithome.com/images/productgif/pcmaster.gif
+||115img.com/static/pc/d_
 ||lab.feng.com/images_new/ad-
 ||iask.sina.com.cn/t/
 ||netease.com/cnews/bobologo.png
@@ -11189,6 +11195,13 @@ msn.com##.providerupsell
 !------------------------Specific element hiding rules------------------------!
 fmdisk.com##DIV[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > P
 iask.sina.com.cn###daily_topic_flnr
+news.baidu.com###favoriteTips
+news.baidu.com##.recommend-animate
+news.baidu.com##.recommend-mask
+hao123.com##.hao123-search > .notice-fixed
+hao123.com##.newskin-tip
+hao123.com##.slidetoolbarContainr
+hao123.com##.tvtip
 iask.sina.com.cn##.daily_entrance
 feng.com##DIV[class^="wep_e_"]
 feng.com##div[class^="wea_d_"]
