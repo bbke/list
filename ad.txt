@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502092201
-! Last Modified: 2015年02月09日 22:01
+! Version: 201502092353
+! Last Modified: 2015年02月09日 23:53
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -228,6 +228,8 @@ jump.bdimg.com,tieba.baidu.com##.reward_title
 jump.bdimg.com,tieba.baidu.com##.reward_panel_wrap
 jump.bdimg.com,tieba.baidu.com##.save_face_bg
 jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
+jump.bdimg.com,tieba.baidu.com##div[data-field*='"user_id":1480194257']
+jump.bdimg.com,tieba.baidu.com##div[data-field*='"user_id":1480174042']
 ! 底部
 jump.bdimg.com,tieba.baidu.com###duoku_servers_list
 jump.bdimg.com,tieba.baidu.com###forum_recommend
@@ -11197,6 +11199,7 @@ msn.com##.providerupsell
 ||ithome.com/images/v2.1/downsoftmaster.gif
 ||ithome.com/images/productgif/pcmaster.gif
 ||115img.com/static/pc/d_
+||51zxw.net/netclass/images/*_top.jpg
 ||lab.feng.com/images_new/ad-
 ||iask.sina.com.cn/t/
 ||netease.com/cnews/bobologo.png
@@ -11208,6 +11211,10 @@ msn.com##.providerupsell
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 !------------------------Specific element hiding rules------------------------!
+51zxw.net###idSlider
+igo.cn##.adBG
+lvmama.com###centerDialog
+lvmama.com###leftDialog
 fmdisk.com##DIV[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > P
 iask.sina.com.cn###daily_topic_flnr
 news.baidu.com###favoriteTips
