@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502101501
-! Last Modified: 2015年02月10日 15:01
+! Version: 201502101701
+! Last Modified: 2015年02月10日 17:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3128,8 +3128,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gscn.com.cn/home/images/advscroll.js
 ||gscn.com.cn/pic/0/10/34/27/10342786_994137.gif
 ||gter.net^*adv
-||gtimg.com/comic/js/ss/2014010003002a.js
-||gtimg.com/comic/js/zhaoshang/
 ||gtimg.com/news/news/2014ad/
 ||gtimg.com/newsapp_ls/0/27161189/0
 ||gtimg.com/qqlive/
@@ -3850,7 +3848,6 @@ _vmind.qqvideo.tc.qq.com^
 ||mat1.gtimg.com/2014/webtips/ola2014tips
 ||mat1.gtimg.com/cq/flash/
 ||mat1.gtimg.com/ent/flash/*300
-||mat1.gtimg.com/www/fbgg/
 ||maxthonimg.com/cp/ad/1420765807.jpg
 ||maxthonimg.com/cp/ad/1420792739.jpg
 ||mbalib.com/wiki/common/wikibits.js
@@ -5190,10 +5187,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||199001.com/public/images/activiti_pic/weidian780.png
 ||gtimg.com/comic/pics/hv1/29/74/1631/106074674.jpg
+||gtimg.com/ent/final2009/dp_tebu_logo.png
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+qq.com##.adv1000
+cityjs.com###a
 qq.com###comic_ad
 weather.com.cn##DIV[style="margin:0 auto;width:1000px;margin-top:3px;height:90px;"]
 hc360.com,yaolan.com###AD
@@ -5899,7 +5899,6 @@ chinaqking.com###newsAD
 yawen8.com###notify + table[width="100%"]
 live.win007.com###notify > a[target="_blank"]
 nownews.com###nownews_pickup
-qq.com###nqsnqsad02
 leiting001.com,leitingcn.com###nrad
 51zxw.net###oTransContainer
 image.baidu.com###only-lady-sec
@@ -9019,6 +9018,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
+||dp3.qq.com/qqcom/
 ! EasyList Lite
 &ad_type=
 &ad_url=
