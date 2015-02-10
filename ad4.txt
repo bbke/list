@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201502092353
-! Last Modified: 2015年02月09日 23:53
+! Version: 201502101301
+! Last Modified: 2015年02月10日 13:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -90,14 +90,13 @@ jump.bdimg.com,tieba.baidu.com##.card_userinfo_honor
 jump.bdimg.com,tieba.baidu.com##.icon_pre
 jump.bdimg.com,tieba.baidu.com##.icon_wrap
 jump.bdimg.com,tieba.baidu.com##.icon_tbworld
+jump.bdimg.com,tieba.baidu.com##.l_post.l_post_bright[data-field*="\"user_name\":\"\\u623f\\u4ea7"]
 jump.bdimg.com,tieba.baidu.com##.j_nameplate
 jump.bdimg.com,tieba.baidu.com##.mobile_res
 jump.bdimg.com,tieba.baidu.com##.reward_title
 jump.bdimg.com,tieba.baidu.com##.reward_panel_wrap
 jump.bdimg.com,tieba.baidu.com##.save_face_bg
 jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
-jump.bdimg.com,tieba.baidu.com##div[data-field*='"user_id":1480194257']
-jump.bdimg.com,tieba.baidu.com##div[data-field*='"user_id":1480174042']
 ! 底部
 jump.bdimg.com,tieba.baidu.com###duoku_servers_list
 jump.bdimg.com,tieba.baidu.com###forum_recommend
