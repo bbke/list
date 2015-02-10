@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502101501
-! Last Modified: 2015年02月10日 15:01
+! Version: 201502101901
+! Last Modified: 2015年02月10日 19:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -137,6 +137,7 @@ chaturbate.com##.banner, .ad
 |http://*/h/k.php?u=$third-party
 ! 百度
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
+||s1.pan.bdstatic.com/yun-static/common-cdn/widget/adTips/mboxTips/
 ||wenku.baidu.com/static/view/*.js
 m.baidu.com,wap.baidu.com##div[data-role="page_view_topad"]
 yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-issue-guide
@@ -233,6 +234,7 @@ jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
 jump.bdimg.com,tieba.baidu.com###duoku_servers_list
 jump.bdimg.com,tieba.baidu.com###forum_recommend
 jump.bdimg.com,tieba.baidu.com###guide_fc
+jump.bdimg.com,tieba.baidu.com###xiu8_follow_warn
 jump.bdimg.com,tieba.baidu.com##.add_guessing_btn
 jump.bdimg.com,tieba.baidu.com##.edui-icon-voice
 jump.bdimg.com,tieba.baidu.com##.edui-icon-medal
