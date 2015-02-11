@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201502101901
-! Last Modified: 2015年02月10日 19:01
+! Version: 201502111845
+! Last Modified: 2015年02月11日 18:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -77,6 +77,7 @@ jump.bdimg.com,tieba.baidu.com##.icon_group
 jump.bdimg.com,tieba.baidu.com##.icon_yyshow
 jump.bdimg.com,tieba.baidu.com##.star_nav_ico_group
 ! 右侧
+jump.bdimg.com,tieba.baidu.com##.bonus_forum_aside
 jump.bdimg.com,tieba.baidu.com##.platform_aside_module
 jump.bdimg.com,tieba.baidu.com##.profile_bottom
 jump.bdimg.com,tieba.baidu.com##.tbui_fbar_square

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502111815
-! Last Modified: 2015年02月11日 18:15
+! Version: 201502111845
+! Last Modified: 2015年02月11日 18:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -212,6 +212,7 @@ jump.bdimg.com,tieba.baidu.com##.icon_group
 jump.bdimg.com,tieba.baidu.com##.icon_yyshow
 jump.bdimg.com,tieba.baidu.com##.star_nav_ico_group
 ! 右侧
+jump.bdimg.com,tieba.baidu.com##.bonus_forum_aside
 jump.bdimg.com,tieba.baidu.com##.platform_aside_module
 jump.bdimg.com,tieba.baidu.com##.profile_bottom
 jump.bdimg.com,tieba.baidu.com##.tbui_fbar_square
@@ -5205,6 +5206,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+sina.com.cn###adtopad
 sina.com##.aditem
 50.7.31.230,tvboxnow.com##TD[style="width:15%;height:100%;"]
 itavcn.com###ADE
@@ -6174,7 +6176,6 @@ dychao.com###x-adtop-player
 bjxxw.com###xBanner
 xinhuanet.com###xiangguanad
 aiquanji.com,quanji.com###xinxi
-sina.com.cn###xj_sy_wm950109
 xizi.com###xz_8
 redocn.com###yc_adv_1_2
 v17go.com###yd10086
@@ -8506,6 +8507,7 @@ two.game.tw#@##ad_02
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||muzhiwan.com/forum.php?*=300x250&
 @@||jwpcdn.com^*/vast.js$script,third-party
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
