@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502111401
-! Last Modified: 2015年02月11日 14:01
+! Version: 201502111501
+! Last Modified: 2015年02月11日 15:01
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -32,6 +32,7 @@ www.1069gay.net###shortcut
 ||miwifi.com/d2r/
 ||mycoolboy.com/source/plugin/u179_jtft/
 ||optimizely.com^$third-party
+||static.creatives.livejasmin.com/adcreative2/
 ||syndication.jsadapi.com^$third-party
 ||tianqi.com/static/js/gg1228.js
 ||videowood.tv/assets/js/popup.js
@@ -990,6 +991,7 @@ hk.yahoo.com###mntl1
 /u/_sponsor/*
 :1010/openV5.js
 :7011/ads/
+:8898/ads_
 ?adid=*&tcca=$script
 |http://*.cc/ad/
 |http://*.cn/ad/
@@ -2004,9 +2006,9 @@ _vmind.qqvideo.tc.qq.com^
 ||464mnk.com/templets/new/static/js/common.js
 ||4kkbb.com/JSs/*.js
 ||50.115.123.38/ad/
-||50.7.31.230:8898/ads_
-||50.7.31.230:8898/gennie_b.htm
 ||50.7.98.226/x1.gif
+/gennie_b.htm$domain=50.7.31.230|tvboxnow.com
+/ipower.htm$domain=50.7.31.230|tvboxnow.com
 ||5068.com/uploads/allimg/150116/71_150116175734_1.jpg
 ||51.com/up/bdfmt/
 ||512ms.com/js/index_ggw_show.js
@@ -5199,10 +5201,12 @@ _vmind.qqvideo.tc.qq.com^
 ||itavcn.com/images/*-banners722-90.
 ||itavcn.com/images/2014/ad_
 ||itavcn.com/pic/news/*305X80.swf
+||17173cdn.com/js/play/page/pThridPlayerAd.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+50.7.31.230,tvboxnow.com##TD[style="width:15%;height:100%;"]
 itavcn.com###ADE
 itavcn.com###msg_win
 itavcn.com##.ad
