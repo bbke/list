@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502121015
-! Last Modified: 2015年02月12日 10:15
+! Version: 201502121045
+! Last Modified: 2015年02月12日 10:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4270,7 +4270,6 @@ _vmind.qqvideo.tc.qq.com^
 ||sg169.com/uploadfile/*.gif
 ||sg169.com/uploadfile/*.swf
 ||sgg.southcn.com^
-||sh.sina.com.cn/iframe/408/
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
 ||sh114so.com/js/nm*.js
@@ -5102,6 +5101,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||sina.com.cn/NewIndexAdStart.js
+||sina.com.cn/js/*/AdvertisingByNewIndex_
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -8787,6 +8788,17 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 ! Fixed Malware Domains rules
 @@/\.7k7k.com\/(?!(ad|load))/$domain=7k7k.com
 @@||web.xdcdn.net^$domain=nc.xd.com
+!--------------------------------Tracking Systems-----------------------------!
+@@||7m.cn/v2/js/analyse.js
+@@||analytics.163.com/ntes.js
+@@||guahao.cn/common/js/plugins/fingerprint.js
+@@||hm.baidu.com^$domain=ihome99.com
+@@||msn.wrating.com/a1.js
+@@||pingjs.qq.com/ping.js
+@@||scorecardresearch.com/beacon.js$domain=hktvmall.com
+@@||stjscn.s-msn.com/portal/hp/2011/udctrack.
+@@||tajs.qq.com/stats?$domain=qq.com
+@@||tbcdn.cn^*/click_track.js
 ! EasyList Lite
 &ad_type=
 &ad_url=
