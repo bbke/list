@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502121315
-! Last Modified: 2015年02月12日 13:15
+! Version: 201502121345
+! Last Modified: 2015年02月12日 13:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5205,6 +5205,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+scsn.cn##.AVu4
+jump.bdimg.com,tieba.baidu.com,tieba.com##.u9_aside
 saydigi.com###menu_banner
 steachs.com##.adsensebanner
 sina.com.cn##.adA
@@ -11072,6 +11074,12 @@ msn.com##.providerupsell
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
+||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
+||17173.com/actapi/qiyu/
+||17173cdn.com^*/js/task/src/task/live/greenhand/
+||zol-img.com.cn/star/image/star-banner2.gif
+||pcgames.com.cn/g/extlin/pcdownpic/
+||house365.com/js/fixWin.php
 ||gtimg.com/gamezone/2014index/images/600x75.jpg
 ||duba.net/skins/2009/images/db300_250.gif
 ||feng.com^*/view.php?what=zone:
@@ -11093,6 +11101,10 @@ msn.com##.providerupsell
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 !------------------------Specific element hiding rules------------------------!
 51zxw.net###idSlider
+jump.bdimg.com,tieba.baidu.com,tieba.com##.bonus_forum_aside
+17173.com###topAlert
+house365.com###ft-login
+house365.com##.left_fudong_ad
 igo.cn##.adBG
 lvmama.com###centerDialog
 lvmama.com###leftDialog
@@ -11124,16 +11136,6 @@ cheaa.com###ADText
 !--------------------------------Tracking Systems-----------------------------!
 /cv/*&uuid=$object-subrequest
 /mysql/count/*$script,domain=ts.cn
-@@||7m.cn/v2/js/analyse.js
-@@||analytics.163.com/ntes.js
-@@||guahao.cn/common/js/plugins/fingerprint.js
-@@||hm.baidu.com^$domain=ihome99.com
-@@||msn.wrating.com/a1.js
-@@||pingjs.qq.com/ping.js
-@@||scorecardresearch.com/beacon.js$domain=hktvmall.com
-@@||stjscn.s-msn.com/portal/hp/2011/udctrack.
-@@||tajs.qq.com/stats?$domain=qq.com
-@@||tbcdn.cn^*/click_track.js
 ||100bt.com/dc?Url
 ||17173.com/live/stat_
 ||19lou.com/dm2011_city.gif?

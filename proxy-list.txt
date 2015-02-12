@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201502111501
-! Last Modified: 2015年02月11日 15:01
+! Version: 201502121345
+! Last Modified: 2015年02月12日 13:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -54,6 +54,7 @@ gaeproxy.googlecode.com
 ||gaymaletube.com
 ||gaytube.com
 gfwinterceptor.googlecode.com
+||ggpht.com
 ||gmail.com
 ||goo.gl
 ||googleapis.com
@@ -158,7 +159,6 @@ video.yahoo.com
 .youtube.com
 ||youtube-nocookie.com
 ||youversion.com
-||yt3.ggpht.com
 ||ytimg.com
 ||zacebook.com
 @@||zhongsou.com
