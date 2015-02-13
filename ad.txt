@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502131945
-! Last Modified: 2015年02月13日 19:45
+! Version: 201502132015
+! Last Modified: 2015年02月13日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3176,9 +3176,7 @@ _vmind.qqvideo.tc.qq.com^
 ||gzdaily.dayoo.com/tpl/banner*.swf
 ||hackbase.com/vip/topbanner.html
 ||hacken.cc/file/ads/
-||hackp.com/facai/
-||hackp.com/images/dibu.js
-||hackp.com^*/ab.js
+||hackp.com/api/
 ||haha.mx/images/market/
 ||haha.mx/upload/data/detail_
 ||haha.mx/upload/data/list_sidebar_
@@ -4330,7 +4328,7 @@ _vmind.qqvideo.tc.qq.com^
 ||s.yimg.com/ja/ap/hk/rm/hk_rm_tab_20140226.js
 ||s1.pplive.cn/sta.js
 ||s1979.com/images/2014/tmp/content_
-||s4.55.la/anonymous/banner/
+||55.la/anonymous/banner/$domain=lxty69.com
 ||safedom.net/edm/ad/
 ||saibeinews.com/index.php?m=poster&c=index&a=show_poster&
 ||sam.baby-kingdom.com^
@@ -5212,6 +5210,7 @@ _vmind.qqvideo.tc.qq.com^
 ||shuyeer.com/views/default/images/close.gif
 ||shuyeer.com/views/default/mnstyle/hot/gg.js
 /images/*.gif$domain=23.226.134.115|23.226.134.116|maichun5.info|myhhg.com
+||runmang.com/img/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
