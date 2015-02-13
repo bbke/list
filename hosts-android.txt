@@ -8307,3 +8307,6 @@
 203.189.105.215	sign4.minggo.tk
 203.189.105.216	sign5.minggo.tk
 203.189.105.215	sign6.minggo.tk
+#彩虹旗
+23.88.164.100 www.paodidi.com
+23.88.164.100 www.120p.com
