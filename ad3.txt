@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502131715
-! Last Modified: 2015年02月13日 17:15
+! Version: 201502131745
+! Last Modified: 2015年02月13日 17:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1043,6 +1043,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||dianxin.com^$third-party
 ||iee5.com^$third-party
 /adscpc/*
 /adscpv/*
@@ -4631,7 +4632,6 @@ _vmind.qqvideo.tc.qq.com^
 ||udn.com^*/ad/
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||union.china.com.cn^
-||unionjs.dianxin.com^
 ||untitled.dwstatic.com^
 ||up.hiao.com^
 ||up.qingdaonews.com/up/$object,script
@@ -5104,10 +5104,12 @@ _vmind.qqvideo.tc.qq.com^
 ||item.taobao.com^$domain=iask.sina.com.cn
 ||slit.cn/d/js/images/thea
 ||iefans.net/wp-content/uploads/2009/03/UCbanner.gif
+||yandui.com/image/dx_banner.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+yandui.com##.union_ad
 diggbt.com###pop
 diggbt.com##.list > .item:first-child
 hc360.com,yaolan.com###AD
