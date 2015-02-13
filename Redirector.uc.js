@@ -8,7 +8,7 @@
 // @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.02.06.12
+// @version         15.02.13.22
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -25,6 +25,11 @@
     name: "百毒搜索禁止劫持",
     from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(rs|oq).*/i,
     to: "https://$1$2",
+    regex: true
+},{
+    name: "百度网盘lx.cdn重定向",
+    from:/^http:\/\/lx\.cdn\.baidupcs\.com\/file\/(.*)$/,
+    to: "http://qd.baidupcs.com/file/$1",
     regex: true
 },{
     name: "google.com.hk >> google.com",
@@ -69,6 +74,7 @@
 },{
     name:"Greasyfork >> zh-CN",
     from:/^https:\/\/greasyfork\.org\/scripts\/(.*)/,
+    exclude:/^https:\/\/greasyfork\.org\/scripts\/.*\.user\.js/i,
     to:"https://greasyfork.org/zh-CN/scripts/$1",
     regex:true
 },{
@@ -140,7 +146,7 @@
     regex: true
 },{
     name: "【https】常用com网站",
-    from: /^http:\/\/(.*)?(tumblr|vimeo|livestreamcevozi|imgur|redditmedia|filesmonster|cam4s)\.com\/(.*)$/i,
+    from: /^http:\/\/(.*)?(evozi|tumblr|vimeo|livestreamcevozi|imgur|redditmedia|filesmonster|cam4s)\.com\/(.*)$/i,
     to: "https://$1$2.com/$3",
     regex: true
 },{
