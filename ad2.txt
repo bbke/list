@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502141700
-! Last Modified: 2015年02月14日 17:00
+! Version: 201502142215
+! Last Modified: 2015年02月14日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -881,7 +881,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 |http://*.miyou1314.
 |http://*.mr66.
 |http://*.mwad.
-|http://*.my4399.
 |http://*.my5058.
 |http://*.myiee.
 |http://*.na7.
@@ -1419,7 +1418,7 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 |http://*_ad.js|$script
 |http://*_ad.php?
 |http://*_ad_close.$image
-|http://*_ads.js|$script
+|http://*_ads.js|$script,domain=~www.pipipan.com|~400gb.com
 |http://*_ads.swf|
 |http://*_banner.html|
 |http://*_guanggao.js|$script
@@ -1794,7 +1793,7 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 |http://p0.qhimg.com/s/$object,object-subrequest
 |http://p3.wan.sogoucdn.com/cdn/flash/201*.swf
 |http://p5.qhimg.com/t0184d14bd9edf0cf2c.jpg
-|http://pagead$domain=~www.tu265.com|~www.neihan8.com
+|http://pagead$domain=~www.tu265.com|~www.neihan8.com|~netsh.org
 |http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script
 |http://partner.googleadservices.com/gpt/pubads_$script,domain=~bestbuy.ca
 |http://passport-log.youku.com/logsys/logstorage/
@@ -3819,7 +3818,8 @@ www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
 ||api.cupid.iqiyi.com/policy2
 |http://api.hupu.com/trade/index
 @@|http://hudong.pl.youku.com/interact/live/get/live
-@@|http://c1.keyrun.cn$domain=400gb.com
+@@|http://c1.keyrun.cn$domain=400gb.com|pipipan.com
+@@|http://cpro.baidustatic.com/cpro/ui/c.js$domain=400gb.com|pipipan.com
 ||xyxy01.com
 |http://*.com/banner.php?
 |http://www.5tps.com/js/$script
@@ -3846,9 +3846,42 @@ www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
 |http://www.jj20.com/js/yx$script
 |http://img3.fdc.com.cn/cms/js/*_js/$script
 |http://v.pps.tv/ugc/out/ad.php
+||gtimg.com/qqlive/
+|http://p8.qhimg.com/d/inn/cd2d49dd/sign.jpg$image
+|http://code.hmp33.com/
+@@|http://*&username=400gb&adsid=
+@@|http://www.400gb.com/advview201
+|http://static.imanke.com/imanke/m/t.js?v=
+!|http://api.cupid.iqiyi.com/show2?u=*&a=qc_100001_100016
+!|http://api.cupid.iqiyi.com/show2?u=*&a=qc_100001_300144
+@@|http://v.aty.sohu.com/ct?vid=
+|http://api.cupid.iqiyi.com/show2?u=$domain=~iqiyi.com
+@@|http://api.cupid.iqiyi.com/show2?u=*&a=qc_100001_100141
+||data.video.qiyi.com/videos/other
+||jn256.com/gg_index/index_
+||jn256.com/index2_gg/
+||jn256.com/info_cont_gg.php
+||jn256.com/info/page_right.php?sid=
+|http://count.vrs.sohu.com/crossdomain.xml
+|http://img3.fdc.com.cn/cms/js/bbs/$script
+@@|http://www.pipipan.com/advview2013.php?ad_pos=0
+@@|http://wn.pos.baidu.com/adx.php?c=$domain=400gb.com|pipipan.com
+||po.im.alisoft.com
+|http://www.l7po.com/images/tree/16db876a3d13c11b44a4c32bda15a.gif$image
+|http://www.qidian.com/Javascript/__uiaystw&82612565s__.js$script
+||86fm.com
+|http://*.com/cpm?.js$script
+@@|http://rr.knet.cn/static/images/logo/cnnic.png$image
+@@|http://serve.netsh.org/pub/
+@@|http://pagead$domain=netsh.org
 
-
-
+|http://*.com/gg_index/
+|http://www.zimuzu.tv/public/rooms?num=
+|http://js.rrsub.net/ad-$script
+|http://cmsjs.eastmoney.com/js/fixedSoft_v14.js$script
+|http://js111.tel.cdndm.com/v201*/default/js/newtc.js$script
+|http://api.cupid.qiyi.com/policy2?a=qc_100001_
+|http://res.kpns.ijinshan.com/html/
 
 
 
@@ -3859,7 +3892,7 @@ fulidang.com##DIV.banner.banner-sticky,DIV#wowslider-container1
 hupu.com##div[id^="childBoardsDataAd"]
 liulanmi.com##div.banner.banner-related,div.widget.d_slidebanner
 hexun.com##div.advp.clearfix
-www.dayanzai.me##div#adrt
+www.dayanzai.me##div#adrt,DIV.con > DIV:first-child
 ptbus.com##div.content14
 52tian.net##div.bdad
 fanyi.baidu.com##div.banner-wrap.inner
@@ -3869,13 +3902,46 @@ pps.tv##div#J_sideTool,side-tool,div#download_soft.tonglan-fixed
 iqiyi.com##div.vip_rec_main
 www.ltaaa.com##div.a_mu
 pptv.com##div.ad.sp
-
-
+idcard.911cha.com##div.adbox
+right.com.cn##DIV.column.frame-1-c
+www.vmvps.com##a.spbox,div#long_image,img[width="640"][height="50"]
+www.leduwo.com##ins.adsbygoogle
+feng.com##div.header_treasure,div.wea_d_panel_980.a_t,DIV.wrap.bbs_treasure > DIV.inner > UL[style]
+www.shhuu.com##div.frame.move-span.cl.frame-1,div.frame-tab.move-span.cl,div.bbs_info_radio
+chinaz.com##div[id^="pic_ad"],div#view_pic
+pps.tv##div.ad-wrapper
+shoudian.org,shoudianbbs.com##div.wp.a_h,div.wp.a_t,div.wp.a_f,div.a_pb,div.a_pr,div#portal_block_3
+www.lanyingwang.com##div.ad_h,ins.adsbygoogle
+www.jn256.com##div[class^="indexfu"],div#laolu,.head_tong_gg3,div[class^="main_gg"],div.pindao_gg,div[class^="head_gg"],div.infocont_gg
+eastmoney.com##iframe[src^="http://cmsjs.eastmoney.com/banner/"]
+zsjuncheng.com.cn##div[style^="width:30%;margin:5px;float:right"]
+hao123.com##.newskin-tip
+www.yunfile.com###xxx
+www.haosou.com###e_idea_pp,#haosou-banner-left,.haosou.js-pos-before-tantan,#right_show,#so_bd-ad
+subhd.com##.adsbygoogle
+manhua.dmzj.com##DIV[style="height:60px;display:block;width:960px;"],div[style="width:960px;height:60px;"],div[style="width:960px;height:90px;"]
+howfile.com###outborder
+bbs.soul-plus.net###manqu,.banner
+www.l7po.com###ledtext,.adv_box1,div[id^="BAIDU_DUP_wrapper_u"]
+www.haoting5.com##div.bdCont,div#mleft,div#mright
+netsh.org##div#ad-header,DIV#ad-header-text,DIV#ad-link-banner,DIV#ad-above-content,div#ad-blog-header
+zimuzu.tv##ul.room
+www.88gs.com##div.mainAdbox,div.mainadstory
+www.guhai.com.cn##table[width="960"][height="90"]
+www.tsdm.net##a[href*=".taobao.com"]
+idanmu.com##div#ggbox-header,div#ggbox-footer,.featured-ad.section,.section_line.clear
+haosou.com##ul#e_idea_left,ul#e_idea_pp_vip
+jandan.net###ads,#random-ads
+www.runbt.com##img[width="760"][height="60"]
+baishuku.com##div#adtop1
+www.duba.com##a.tiyan_a,div#js-ysjpp
+2345.com##div#tools-gameTmp
+qingdaonews.com##div#codex,div.wrapfix.pb10,div.wrapfix.pt10
 
 !------------------------需合并规则-----------------
 fuli.ba##UL > A > IMG[src*="sinaimg.cn/mw690/"]:first-child
 bing.com##div.OpInNwWndw
-
+400gb.com,pipipan.com##a[id^="__lgUnion_a__"],div#advLeft,div#advRight,div[id^="cproIframe"][id$="holder"],DIV[id^="BAIDU_DUP_wrapper_"],DIV.viewfile_content_main_r,DIV.downpage_r,DIV.widget-main.ad_area
 
 
 @@|http://cbjs.baidu.com/js/m.js$domain=www.xiiku.com
