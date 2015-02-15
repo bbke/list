@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502150815
-! Last Modified: 2015年02月15日 08:15
+! Version: 201502150845
+! Last Modified: 2015年02月15日 08:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5120,6 +5120,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||10pan.cc/rili.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -8337,7 +8338,6 @@ firefoxchina.cn##ul[track-key="adv_links"]
 !---------------------------------CSS Whitelist-------------------------------!
 920url.com#@##AdDiv
 the-sun.on.cc#@##ContentAd1
-serve.netsh.org#@##ad-header
 d77.com#@##ad-wrap
 greedio.com#@##adBox
 gohome.com.hk#@##adFrame
@@ -8403,7 +8403,6 @@ ipad.tgbus.com#@#.ads01
 atgfw.org#@#.ads1
 atgfw.org#@#.ads3
 zhaopin.com#@#.adsBox
-serve.netsh.org#@#.adsbygoogle
 qq.com#@#.adside
 txnews.zjol.com.cn#@#.adtop
 veryeast.cn#@#.adv-right
@@ -8429,6 +8428,8 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
+@@/adsbygoogle.$domain=serve.netsh.org
+@@.php?*&validate=$domain=serve.netsh.org
 @@&ad_type=$domain=x.jd.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
@@ -8446,8 +8447,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@/adimg/*$domain=itools.cn|laniqu.com|tdx.com.cn
 @@/ads/*$domain=189.cn
 @@/adsame.$domain=liba.com|libaclub.com
-@@/adsbygoogle.js?$domain=serve.netsh.org
-@@/adsbygoogle.php?passcode=$domain=serve.netsh.org
 @@/adsense/*$domain=taobao.com
 @@/advert_$domain=wb.qq.com
 @@/advertise/*$domain=suning.com
@@ -8740,7 +8739,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||sc.jb51.net/adimg/*.jpg
 @@||sdc.pingan.com^$~image
 @@||selfimg.com.cn/??
-@@||serve.netsh.org/pub/ads.js?
 @@||sf-express.com/.galleries/advertisement/
 @@||share.dmhy.*/generate-captcha?
 @@||simba.taobao.com/?name=mcad$script
