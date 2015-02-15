@@ -8,7 +8,7 @@
 // @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.02.13.22
+// @version         15.02.15.16
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -23,7 +23,7 @@
     regex: true
 },{
     name: "百毒搜索禁止劫持",
-    from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(rs|oq).*/i,
+    from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(tn|rs|oq).*/i,
     to: "https://$1$2",
     regex: true
 },{
@@ -136,7 +136,7 @@
     regex: true
 },{
     name: "【https】常用网站（一）",
-    from: /^http:\/\/(www\.baidu\.com|upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
+    from: /^http:\/\/(upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
     to: "https://$1$2",
     regex: true
 },{
