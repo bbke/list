@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201502142345
-! Last Modified: 2015年02月14日 23:45
+! Version: 201502160600
+! Last Modified: 2015年02月16日 06:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -33,8 +33,9 @@
 ||bdstatic.com/r/www/*cache/baidu_search/
 ||bdstatic.com/tb/*/bright_default_skin*.jpg
 ||bdstatic.com/tb/cms/img/
+||bdstatic.com/tb/cms/ngmis/
 ||bdstatic.com/tb/cms/post/bubble/
-||bdstatic.com/tb/static-adsense/widget/loader/
+||bdstatic.com/tb/static-adsense/
 @@||bdstatic.com/tb/static-album/img/like_pic*.png
 ||bdstatic.com/tb/static-common/img/card/
 ||bdstatic.com/tb/static-common/img/rich_editor/new*
@@ -91,7 +92,7 @@ jump.bdimg.com,tieba.baidu.com##.guessing_watermark
 jump.bdimg.com,tieba.baidu.com##.icon_pre
 jump.bdimg.com,tieba.baidu.com##.icon_wrap
 jump.bdimg.com,tieba.baidu.com##.icon_tbworld
-jump.bdimg.com,tieba.baidu.com##.l_post.l_post_bright[data-field*="\"user_name\":\"\\u623f\\u4ea7"]
+!jump.bdimg.com,tieba.baidu.com##.l_post.l_post_bright[data-field*="\"user_name\":\"\\u623f\\u4ea7"]
 jump.bdimg.com,tieba.baidu.com##.j_nameplate
 jump.bdimg.com,tieba.baidu.com##.mobile_res
 jump.bdimg.com,tieba.baidu.com##.reward_title
