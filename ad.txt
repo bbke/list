@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502172015
-! Last Modified: 2015年02月17日 20:15
+! Version: 201502172045
+! Last Modified: 2015年02月17日 20:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -8480,7 +8480,7 @@ pupuapp.com#@##ad_img
 cw.com.tw#@##adblock
 tt1069.com#@##adbrite
 atgfw.org#@##ads-wrapper
-pcdvd.com.tw,wholehk.com#@##adsense
+wholehk.com#@##adsense
 leduwo.com,yaerwen.com#@##adtop
 dmzj.com#@##advt
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
@@ -8830,10 +8830,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||ooomm.com/ad/Whoyao_logo114.png
 @@||ourgame.com/new/images/ad/$domain=ourgame.com
 @@||ouyaoxiazai.com/shouyead.js
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pcdvd.com.tw
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=greedio.com|knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|pcdvd.com.tw|tu265.com|wholehk.com
-@@||partner.googleadservices.com/gpt/pubads_impl_$domain=pcdvd.com.tw
-@@||pcdvd.com.tw/advertisement.js
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=greedio.com|knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|tu265.com|wholehk.com
 @@||pep.com.cn/rjs/guanggao/
 @@||photo.erji.com/tb/*.gif
 @@||pic.zol-img.com.cn/2009/pix_index.swf
