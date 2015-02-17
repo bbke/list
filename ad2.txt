@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502160600
-! Last Modified: 2015年02月16日 06:00
+! Version: 201502171400
+! Last Modified: 2015年02月17日 14:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -23,6 +23,7 @@ www.1069gay.net###shortcut
 /hezuo/*$domain=bbs.gfan.com
 |http://*/source/plugin/u179_jtft/
 |http://iu16wmye.com/d/a/*.php
+||107.183.112.245:65534/ZQ_01.js
 ||addtoany.com/menu/transparent.gif
 ||boom.1ccbt.com/gfra.php?
 ||buysellads.com^$third-party
@@ -233,13 +234,13 @@ jump.bdimg.com,tieba.baidu.com##.guessing_watermark
 jump.bdimg.com,tieba.baidu.com##.icon_pre
 jump.bdimg.com,tieba.baidu.com##.icon_wrap
 jump.bdimg.com,tieba.baidu.com##.icon_tbworld
-!jump.bdimg.com,tieba.baidu.com##.l_post.l_post_bright[data-field*="\"user_name\":\"\\u623f\\u4ea7"]
 jump.bdimg.com,tieba.baidu.com##.j_nameplate
 jump.bdimg.com,tieba.baidu.com##.mobile_res
 jump.bdimg.com,tieba.baidu.com##.reward_title
 jump.bdimg.com,tieba.baidu.com##.reward_panel_wrap
 jump.bdimg.com,tieba.baidu.com##.save_face_bg
 jump.bdimg.com,tieba.baidu.com##.sofa_front_list_wrap
+jump.bdimg.com,tieba.baidu.com##.thread_recommend_ps
 jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
 jump.bdimg.com,tieba.baidu.com###duoku_servers_list

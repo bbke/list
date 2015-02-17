@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502162015
-! Last Modified: 2015年02月16日 20:15
+! Version: 201502171400
+! Last Modified: 2015年02月17日 14:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -23,6 +23,7 @@ www.1069gay.net###shortcut
 /hezuo/*$domain=bbs.gfan.com
 |http://*/source/plugin/u179_jtft/
 |http://iu16wmye.com/d/a/*.php
+||107.183.112.245:65534/ZQ_01.js
 ||addtoany.com/menu/transparent.gif
 ||boom.1ccbt.com/gfra.php?
 ||buysellads.com^$third-party
