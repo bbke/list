@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502180815
-! Last Modified: 2015年02月18日 08:15
+! Version: 201502180845
+! Last Modified: 2015年02月18日 08:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5183,7 +5183,6 @@ hupu.com###HCFull
 azofreeware.com###HTML1
 azofreeware.com,hornydragon.blogspot.com###HTML3
 azo-diary.blogspot.com,azo-diary.blogspot.hk,azo-diary.blogspot.tw###HTML4
-knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw###HTML5
 hornydragon.blogspot.com###HTML8
 i-part.com.tw###HeaderAd
 tigtag.com###Home1000x70_A29
@@ -7866,7 +7865,6 @@ yzz.cn##a[style^="display:block; width:980px; height:100px;"]
 kutj.com##a[target="_blank"] > img[src*="gao/"]
 qzntv.com,qzwb.com##body > .area[style^="height:60px;"]
 yangtse.com##body > .nav_head:first-child
-pcbeta.com##body > [style*="height:"]
 danyang.com##body > div[align="center"]
 shangdu.com##body > div[class="bt"]
 baqiushi.com,qiushibaike.info##body > div[style]
