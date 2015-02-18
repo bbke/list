@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502181630
-! Last Modified: 2015年02月18日 16:30
+! Version: 201502181645
+! Last Modified: 2015年02月18日 16:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -180,7 +180,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||bdstatic.com/tb/cms/img/
 ||bdstatic.com/tb/cms/ngmis/
 ||bdstatic.com/tb/cms/post/bubble/
-||bdstatic.com/tb/static-adsense/
+||bdstatic.com/tb/static-*adsense/
 @@||bdstatic.com/tb/static-album/img/like_pic*.png
 ||bdstatic.com/tb/static-common/img/card/
 ||bdstatic.com/tb/static-common/img/rich_editor/new*
@@ -216,6 +216,7 @@ jump.bdimg.com,tieba.baidu.com##.u_joinvip
 jump.bdimg.com,tieba.baidu.com##.u_appcenterEntrance
 jump.bdimg.com,tieba.baidu.com##.u_baiduPrivilege
 ! 顶部
+jump.bdimg.com,tieba.baidu.com###activity_nav_barrage_spring_enter
 jump.bdimg.com,tieba.baidu.com###game_live_list
 jump.bdimg.com,tieba.baidu.com###j_navtab_wanle
 jump.bdimg.com,tieba.baidu.com###j_navtab_game
