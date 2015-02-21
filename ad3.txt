@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502211115
-! Last Modified: 2015年02月21日 11:15
+! Version: 201502211845
+! Last Modified: 2015年02月21日 18:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -21,11 +21,22 @@ www.hardsextube.com##.right-col.right
 wap.ithome.com###a_ad
 www.1069gay.net###shortcut
 xhamster.com##.sponsorBottom
+.cc/s.gif?
+.cn/1.gif?
+.cn/a.gif?
+.cn/b.gif?
+.cn/r.gif?
+.cn/s.gif?
+.cn/z.gif?
+.com/pv.gif?
+.com/www.gif?
 /hezuo/*$domain=bbs.gfan.com
+/tongji.js
 |http://*/source/plugin/u179_jtft/
 |http://iu16wmye.com/d/a/*.php
 ||107.183.112.245:65534/ZQ_01.js
 ||addtoany.com/menu/transparent.gif
+||analytics.163.com^
 ||boom.1ccbt.com/gfra.php?
 ||buysellads.com^$third-party
 ||chat9.jd.com/dd/getDownloadURL.action?
@@ -37,7 +48,7 @@ xhamster.com##.sponsorBottom
 ||histats.com^$third-party
 ||m.addthis.com/live/red_lojson/300lo.json
 ||media.pussycash.com^$third-party
-||member.jschina.com.cn/AD*
+||member.jschina.com.cn/AD
 ||miwifi.com/d2r/
 ||optimizely.com^$third-party
 ||sax.sina.cn/wap/impress?
@@ -45,6 +56,7 @@ xhamster.com##.sponsorBottom
 ||syndication.jsadapi.com^$third-party
 ||tianqi.com/static/js/gg1228.js
 ||videowood.tv/assets/js/popup.js
+||web1.51.la^$third-party
 ! Cam4
 www.cam4.tw,www.cam4.com###besideBroadcastingContainer, #headerBanner, #subfoot, .ads
 /ads/directory/*
@@ -141,7 +153,6 @@ chaturbate.com##.banner, .ad
 ! Zol
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 ! 铁通
-|http://*/s.js?sp=*&r=$third-party
 |http://*/m?t=$third-party
 |http://*/m.js?t=$third-party
 |http://*/main/main.js?r=$third-party

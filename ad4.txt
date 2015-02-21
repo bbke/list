@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201502181700
-! Last Modified: 2015年02月18日 17:00
+! Version: 201502211845
+! Last Modified: 2015年02月21日 18:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -11,7 +11,7 @@
 !
 ! 屏蔽一些图片和脚本
 */tb/static-*frs/img/frs_bright/
-@@*/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
+@@/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
 */img/history_game/$domain=tieba.baidu.com
 */widget/spage_game_tab/$domain=tieba.baidu.com
 ||xiu8.com
@@ -26,7 +26,7 @@
 ||tieba.baidu.com/f/index/indexGame
 ||tieba.baidu.com/app/pop/bws/popup
 ||tieba.baidu.com/tb/static-props/
-||tieba.baidu.com/tb/cms/game_*$image
+||tieba.baidu.com/tb/cms/game_$image
 ||tieba.baidu.com/tbapp/user/getRecommendApp
 ||static.tieba.baidu.com/tb/pms/
 ||static.tieba.baidu.com/tb/img/pv.gif
@@ -39,7 +39,7 @@
 ||bdstatic.com/tb/static-adsense/
 @@||bdstatic.com/tb/static-album/img/like_pic*.png
 ||bdstatic.com/tb/static-common/img/card/
-||bdstatic.com/tb/static-common/img/rich_editor/new*
+||bdstatic.com/tb/static-common/img/rich_editor/new
 ||bdstatic.com/tb/static-common/js/pic_share/logger.js
 ||bdstatic.com/tb/static-common/lib/hourglass.js
 ||bdstatic.com/tb/static-*common/style/common/
@@ -80,13 +80,11 @@ jump.bdimg.com,tieba.baidu.com##.icon_group
 jump.bdimg.com,tieba.baidu.com##.icon_yyshow
 jump.bdimg.com,tieba.baidu.com##.star_nav_ico_group
 ! 右侧
-jump.bdimg.com,tieba.baidu.com##.bonus_forum_aside
 jump.bdimg.com,tieba.baidu.com##.platform_aside_module
 jump.bdimg.com,tieba.baidu.com##.profile_bottom
 jump.bdimg.com,tieba.baidu.com##.tbui_fbar_square
 jump.bdimg.com,tieba.baidu.com##.tbui_fbar_props
 jump.bdimg.com,tieba.baidu.com##.tieba_notice
-jump.bdimg.com,tieba.baidu.com##.u9_aside
 jump.bdimg.com,tieba.baidu.com##.user_score
 ! 中部
 jump.bdimg.com,tieba.baidu.com##.card_userinfo_honor
