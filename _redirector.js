@@ -5,7 +5,7 @@ rules = [{
     regex: true
 },{
     name: "百毒搜索禁止劫持",
-    from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*?)&(tn|rs|oq).*/i,
+    from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*)&(ie|oq|rs|tn).*/i,
     to: "https://$1$2",
     regex: true
 },{
