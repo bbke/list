@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502221115
-! Last Modified: 2015年02月22日 11:15
+! Version: 201502221215
+! Last Modified: 2015年02月22日 12:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -54,7 +54,6 @@ xhamster.com##.sponsorBottom
 ||sax.sina.cn/wap/impress?
 ||static.creatives.livejasmin.com/adcreative2/
 ||syndication.jsadapi.com^$third-party
-||tianqi.com/static/js/gg1228.js
 ||videowood.tv/assets/js/popup.js
 ||web1.51.la^$third-party
 ! Cam4
@@ -68,7 +67,6 @@ www.cam4.tw,www.cam4.com###besideBroadcastingContainer, #headerBanner, #subfoot,
 ||chaturbate.com/affiliates/
 ||chaturbate.com/sitestats/openwindow/$popup
 chaturbate.com##.banner, .ad
-||untitled.dwstatic.com/fodder/*$object-subrequest
 ! Cloudfront
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.net*/sp.js
@@ -186,7 +184,6 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||static.tieba.baidu.com/tb/img/track.gif
 ||bdstatic.com/r/www/*cache/baidu_search/
 ||bdstatic.com/tb/*/bright_default_skin*.jpg
-||bdstatic.com/tb/cms/img/
 ||bdstatic.com/tb/cms/ngmis/
 ||bdstatic.com/tb/cms/post/bubble/
 ||bdstatic.com/tb/static-adsense/
@@ -269,7 +266,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||50bang.org^$third-party
 ||51yes.com^$third-party
 ||99click.com^$third-party
-||acs86.com^$third-party
 ||admaster.com.cn^$third-party
 ||baifendian.com^$third-party
 ||blog104.com^$third-party
@@ -277,7 +273,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||clicki.cn^$third-party
 ||cnzz.net^$third-party
 ||datamaster.com.cn^$third-party
-||emarbox.com^$third-party
 ||eyeota.net^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
@@ -285,7 +280,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||irs01.$third-party
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
-||mediav.com^$third-party
 ||mmstat.com^$third-party
 ||oadz.com^$third-party
 ||phpstat.com^$third-party
@@ -297,7 +291,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||vamaker.com^$third-party
 ||vdoing.com^$third-party
 ||wrating.com^$third-party
-||yigao.com^$third-party
 ||ztcadx.com^$third-party
 ||360.cn/mapping_service?
 ||alimama.cn/inf.js
@@ -450,7 +443,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||unstat.baidu.com^$~subdocument
 ||utrack.hexun.com^
 ||v.blog.sohu.com/dostat.do?
-||valf.atm.youku.com^
 ||vatrack.hinet.net^
 ||weather.com.cn/a1.js
 ||webclick.yeshj.com^
@@ -1284,7 +1276,6 @@ hk.yahoo.com###mntl1
 ||adingo.jp^$third-party
 ||adkongjian.com^$third-party
 ||adm-cnzz.net^
-||adm.cnzz.net^$third-party
 ||admin6.com^$third-party
 ||adpro.cn^$third-party
 ||adpush.cn^$third-party
@@ -1335,7 +1326,6 @@ hk.yahoo.com###mntl1
 ||cpva.cc^
 ||crazymike.tw^$third-party
 ||crdrjs.info^
-||csbew.com^$third-party
 ||ctsywy.com^
 ||cyacc.com^
 ||czpush.com^
@@ -1457,8 +1447,6 @@ hk.yahoo.com###mntl1
 ||p0y.cn^$image
 ||p0y.cn^*.swf
 ||pagechoice.net^$third-party
-||pos.baidu.com/acom?
-||pos.baidu.com/ecom?
 ||positivefinds-a.akamaihd.net^$third-party
 ||poxzyu.com^$third-party
 ||prohost.com.tw^$third-party
@@ -1516,7 +1504,6 @@ hk.yahoo.com###mntl1
 ||unionsky2.cn^$third-party
 ||urlad.com.tw^$third-party
 ||v-links.net^$third-party
-||vamaker.com^$third-party
 ||visadd.com^$third-party
 ||vpie.net^$third-party
 ||vsnoon.com^$third-party
@@ -1808,7 +1795,6 @@ _vmind.qqvideo.tc.qq.com^
 ||114so.cn^$subdocument
 ||115.29.141.121:8086/js/wp.js
 ||115img.com/static/delivery/
-||115img.com/static/pc/d_127.html
 ||115mm.com/js/
 ||1177h.com/js/
 ||119.167.73.60/m_code/
@@ -2502,8 +2488,6 @@ _vmind.qqvideo.tc.qq.com^
 ||bdstatic.com/tb/cms/com/game/couplet_
 ||bdstatic.com/tb/cms/com/mis/spreadad/dasense_iframe_api.js
 ||bdstatic.com/tb/cms/img/tieba_index_banner960x90.png
-||bdstatic.com/tb/cms/ngmis/file_1417585294569.jpg
-||bdstatic.com/tb/cms/ngmis/file_1417585299140.jpg
 ||bdstatic.com/tb/r/image/2014-12-03/87ae5de2d732714bb6dd4ff6ab1e50ac.jpg
 ||bdstatic.com/tb/r/image/2014-12-30/fa718abe3e4418298f785734279a2e8f.jpg
 ||bdstatic.com/tb/zt/tengfei/gzdialog.jpg
@@ -3674,7 +3658,6 @@ _vmind.qqvideo.tc.qq.com^
 ||jsd.haodnss.com^
 ||jsshuba.com/js/bdhengfu.js
 ||jsshuba.com/js/gg.js
-||jsshuba.com/js/tongji.js
 ||jstv.com/static_files/zones/87/
 ||jsw.com.cn/13142.files/20140930.swf
 ||jsw.com.cn^*/index.htm
@@ -4188,7 +4171,6 @@ _vmind.qqvideo.tc.qq.com^
 ||pongo.cn/Job/GetAdForCallBack?
 ||popme.163.com/js/vedioad_
 ||poppur.com/banner/962x100.gif
-||pos.baidu.com/wh/o.htm?
 ||poster.weather.com.cn^
 ||poxiao.com/template/default/images/12345.js
 ||pp.7060.com^
@@ -5015,7 +4997,6 @@ _vmind.qqvideo.tc.qq.com^
 ||xkhouse.com/xkhouse/ggvert/
 ||xkxs.org/js/bd
 ||xkxs.org/js/tl
-||xkxs.org/js/tongji.js
 ||xlpu.cc/adv/
 ||xmfish.com/images/chanel/www/index2/xuejin1000X400_
 ||xnimg.cn/imgpro/home/a/niucuilai_
@@ -6222,7 +6203,6 @@ aiquanji.com,quanji.com###xinxi
 xizi.com###xz_8
 redocn.com###yc_adv_1_2
 v17go.com###yd10086
-sznews.com###yindao05 + .indexcon07
 starbaby.cn###yindex_ads
 hk.yahoo.com###ysm-ad
 yaolan.com###yuer_top
@@ -6394,7 +6374,6 @@ jokeji.cn##.ad250_2
 7m.cn,china3-d.com,izhufu.com,nanrenwo.net,sportscn.com##.ad3
 alu.cn##.ad315x60
 html-js.com##.ad320-index
-d5wx.com##.ad336left
 jokeji.cn##.ad3602
 jokeji.cn##.ad360_280
 qtv.com.cn##.ad360_z
@@ -8346,7 +8325,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="qunar_hotel"] > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="right_qunar_hotel"]
 mcxiaobu.com##dl[id^="divFunction"]
 ks.js.cn##embed[src*="yytf/"]
-hiapk.com##font.jammer
 intercept.onedns.net##h5
 javlibrary.com##iframe
 china.com.cn##iframe#rerr
@@ -10331,7 +10309,6 @@ yahoo.com#@#.type_ads_default
 ||adtechus.com^$third-party
 ||adzerk.net^$third-party
 ||alimama.com^$third-party
-||allyes.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||aorms.com^$third-party
 ||asooda.com^$third-party
@@ -10401,7 +10378,6 @@ yahoo.com#@#.type_ads_default
 ||networld.hk^$third-party
 ||nexac.com^$third-party
 ||overture.com^$third-party
-||partner.googleadservices.com^$third-party
 ||peer39.net^$third-party
 ||pixfuture.net^$third-party
 ||popads.net^$third-party
@@ -10905,7 +10881,6 @@ youtube.com,youtubeproxy.pk###feed-pyv-container
 ||advertising.com^$third-party
 ||bannerflow.com^$third-party
 ||bet365affiliates.com^$third-party
-||btkitty.org/static/images/880X60.gif
 ||cntv.cn/Library/js/js_ad_gb.js
 ||exogripper.com^$popup
 ||images-amazon.com/images/*/browser-scripts/da-

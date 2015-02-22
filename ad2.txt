@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201502221100
-! Last Modified: 2015年02月22日 11:00
+! Version: 201502221215
+! Last Modified: 2015年02月22日 12:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -54,7 +54,6 @@ xhamster.com##.sponsorBottom
 ||sax.sina.cn/wap/impress?
 ||static.creatives.livejasmin.com/adcreative2/
 ||syndication.jsadapi.com^$third-party
-||tianqi.com/static/js/gg1228.js
 ||videowood.tv/assets/js/popup.js
 ||web1.51.la^$third-party
 ! Cam4
@@ -68,7 +67,6 @@ www.cam4.tw,www.cam4.com###besideBroadcastingContainer, #headerBanner, #subfoot,
 ||chaturbate.com/affiliates/
 ||chaturbate.com/sitestats/openwindow/$popup
 chaturbate.com##.banner, .ad
-||untitled.dwstatic.com/fodder/*$object-subrequest
 ! Cloudfront
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.net*/sp.js
@@ -186,7 +184,6 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||static.tieba.baidu.com/tb/img/track.gif
 ||bdstatic.com/r/www/*cache/baidu_search/
 ||bdstatic.com/tb/*/bright_default_skin*.jpg
-||bdstatic.com/tb/cms/img/
 ||bdstatic.com/tb/cms/ngmis/
 ||bdstatic.com/tb/cms/post/bubble/
 ||bdstatic.com/tb/static-adsense/
@@ -269,7 +266,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||50bang.org^$third-party
 ||51yes.com^$third-party
 ||99click.com^$third-party
-||acs86.com^$third-party
 ||admaster.com.cn^$third-party
 ||baifendian.com^$third-party
 ||blog104.com^$third-party
@@ -277,7 +273,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||clicki.cn^$third-party
 ||cnzz.net^$third-party
 ||datamaster.com.cn^$third-party
-||emarbox.com^$third-party
 ||eyeota.net^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
@@ -285,7 +280,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||irs01.$third-party
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
-||mediav.com^$third-party
 ||mmstat.com^$third-party
 ||oadz.com^$third-party
 ||phpstat.com^$third-party
@@ -297,7 +291,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||vamaker.com^$third-party
 ||vdoing.com^$third-party
 ||wrating.com^$third-party
-||yigao.com^$third-party
 ||ztcadx.com^$third-party
 ||360.cn/mapping_service?
 ||alimama.cn/inf.js
@@ -450,7 +443,6 @@ jump.bdimg.com,tieba.baidu.com##.thread_recommend
 ||unstat.baidu.com^$~subdocument
 ||utrack.hexun.com^
 ||v.blog.sohu.com/dostat.do?
-||valf.atm.youku.com^
 ||vatrack.hinet.net^
 ||weather.com.cn/a1.js
 ||webclick.yeshj.com^
