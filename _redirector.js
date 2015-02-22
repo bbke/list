@@ -5,8 +5,8 @@ rules = [{
     regex: true
 },{
     name: "百毒搜索禁止劫持",
-    from: /^https?:\/\/(www\.baidu\.com\/s\?).*(wd=.*)&(ie|oq|rs|tn).*/i,
-    to: "https://$1$2",
+    from: /^https?:\/\/(www\.baidu\.com\/)(s|baidu)\?.*(wd=.*)&(ie|oq|rs|tn).*/i,
+    to: "https://$1s?$3",
     regex: true
 },{
     name: "百度网盘lx.cdn重定向",
