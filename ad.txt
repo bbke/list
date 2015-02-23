@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502231015
-! Last Modified: 2015年02月23日 10:15
+! Version: 201502231215
+! Last Modified: 2015年02月23日 12:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3478,7 +3478,6 @@ _vmind.qqvideo.tc.qq.com^
 ||img.kuai.xunlei.com/img/v2/fen/
 ||img.stpic.in/a*.gif
 ||img.sz.js.cn/wj/
-||img.taoguba.com.cn/gbimg/
 ||img.taoguba.com.cn/images/$object
 ||img.wangxiao.cn/images/big_ad.jpg
 ||img.xdsq.net/wo/adwz.gif
@@ -3785,7 +3784,6 @@ _vmind.qqvideo.tc.qq.com^
 ||letvcdn.com/js/*_focus_flash.js
 ||letvimg.com/gugwl/$object-subrequest
 ||letvimg.com/gugwl/*.swf
-||letvimg.com/yunzhuanma/*_640_360.
 ||letvimg.com^*/108x70$object
 ||lh168.net/extra/ads/
 ||lh168.net^*/attachment/portal/
@@ -4633,8 +4631,6 @@ _vmind.qqvideo.tc.qq.com^
 ||tc.cn/news/images/h.jpg
 ||tc.cn/news/images/right.jpg
 ||tcmap.com.cn/js/b_
-||techweb.com.cn/static/images/lagou/lagougg.jpg
-||techweb.com.cn/static/images/liepin/
 ||tenitt.info/03.jpg
 ||tgbus.com/search/article_endcontent_google.htm
 ||tgbus.com/sf/taobao/
@@ -4707,7 +4703,6 @@ _vmind.qqvideo.tc.qq.com^
 ||tt1069.com/bbs/ad$script,subdocument
 ||tt7z.com/js/
 ||ttcy.com/style/image/gg_
-||ttdbh.com/Scripts/defaultad.js
 ||ttkdex.com/ttkdweb/page/image/query
 ||ttrar.com/js/
 ||tuan.cs090.com/gettuan.php?
@@ -5227,10 +5222,15 @@ _vmind.qqvideo.tc.qq.com^
 ||sinaimg.cn/large/005NAIQbgw1el9vz3uw7pj30k001odgf.jpg
 ||sinaimg.cn/large/*.jpg?$domain=zhaofuli.club
 ||sinaimg.cn/large/b8c4115djw1els3p1luszg208c06ymzb.jpg
+||taoguba.com.cn/gbimg/2014/08/20/0jweamfa6a4e.gif
+||taoguba.com.cn/gbimg/2014/08/20/1icvpvg4cgea.gif
+||taoguba.com.cn/gbimg/2014/07/16/zumpuo5u14sg.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+taoguba.com.cn###head_img_2
+tc.cn###msg_win
 zhaofuli.club##.banner
 zhaofuli.club##.d_banner
 hc360.com,yaolan.com###AD
@@ -6400,7 +6400,6 @@ tgbus.com##.ad86
 pharmnet.com.cn##.ad950-t
 pharmnet.com.cn##.ad9502
 xiaoxiucai.org##.ad950_90
-tv110.com##.ad960-90
 kumi.cn##.ad96060Box
 yaolan.com##.ad96090
 xltai.com##.ad960_90
@@ -7058,8 +7057,6 @@ appcheers.com##.gg_ads_home_t
 eeyy.com##.gg_bg
 m4.cn##.gg_border
 xindm.cn##.gg_botom_gg
-taoguba.com##.gg_foot
-taoguba.com##.gg_head
 loorin.com##.gg_one
 loorin.com##.gg_three
 eeyy.com##.gg_top
