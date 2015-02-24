@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502241115
-! Last Modified: 2015年02月24日 11:15
+! Version: 201502241215
+! Last Modified: 2015年02月24日 12:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -752,7 +752,6 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 .com.cn/js/ad.
 /adflash/*
 /attachments/ad/*
-/data/ad/*
 /ggpic/*
 /tan1.js
 !*** chinalist-specific.txt ***
@@ -833,6 +832,7 @@ hk.yahoo.com###mntl1
 ||tudou.com^*/outside.php
 !------------------------End of ChinaList--------------------
 !-----------------------General advert blocking filters-----------------------!
+/data/ad/*
 .cc/js/ads/
 .cn/ads/
 .com/a_d/
@@ -4327,7 +4327,6 @@ _vmind.qqvideo.tc.qq.com^
 ||shmet.com/images/20120213ad/
 ||shmet.com/images/zz250x80.jpg
 ||shmet.com/js/shmetAd.js
-||shopping.udn.com/mall/cus/cat/OutWebAd.do?
 ||shoubow.com/temp/banner/playgg.htm
 ||shoudian.org/diantong/sunwayman*.gif
 ||shousibaocai.com/static/ssbc.js
@@ -5119,10 +5118,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
+||udn.com/common/iframe/
+||udn.com/2010MAIN/inc/t03-CMS.html
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+udn.com###ad_mag
 uc123.com##.quick-links > A
 123yq.com##.Messageml
 hc360.com,yaolan.com###AD
