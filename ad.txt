@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502252145
-! Last Modified: 2015年02月25日 21:45
+! Version: 201502252215
+! Last Modified: 2015年02月25日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3028,7 +3028,6 @@ _vmind.qqvideo.tc.qq.com^
 ||fragment.firefoxchina.cn/html/
 ||free9.net/myc/myc.js
 ||freep.cn/3tb_1408171239008bu7512293.jpg
-||freep.cn/lianjie/xuanfuwang.js
 ||fsehome.com/images/ad_tan.js
 ||fspcdn.com/main/fis/js/v11/play/pop-ad_
 ||fububu.com/zb_users/THEME/LuSongSong/style/ads/
@@ -4783,7 +4782,6 @@ _vmind.qqvideo.tc.qq.com^
 ||vas.funshion.com^
 ||vc52.cn/data/attachment/forum/201407/28/115351zb26p62jojh6oo49.gif
 ||vdisk.cn/img/dcr2.gif
-||vdisk.cn/img/yzm-zuowening.gif
 ||verygoogle.com/static/img/ad0
 ||verygoogle.com/static/img/taocan.png
 ||verygoogle.com/static/img/vpn.png
@@ -4791,7 +4789,6 @@ _vmind.qqvideo.tc.qq.com^
 ||vgugu.com/iframes/xp-
 ||video.sdo.com/index.php?m=poster&c=index&a=show_poster&id=
 ||videospeedy.com/Res/images/wuy0u.jpg
-||vikilife.com/huaban.jpg
 ||vip.luanren.com/data/*.swf
 ||vipcn.com/hezuo/
 ||vista.tgbus.com/data.ashx^*_SINGLE_SETJSONADSLOT
@@ -5224,6 +5221,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+vyming.com###diyshowcontent
+vyming.com###frameDj3u3d_left
 nownews.com###hotchannel
 v7v3.com##.zzsl
 v7v3.com##.gg1000
