@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201502250945
-! Last Modified: 2015年02月25日 09:45
+! Version: 201502251015
+! Last Modified: 2015年02月25日 10:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -8457,6 +8457,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||zhannei.baidu.com^$popup,domain=wpan.cc
 @@/advs/*$domain=lklm.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
@@ -8649,7 +8650,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||daoju.qq.com/time/*/js/ad/
 @@||dd399.com/AD/$domain=qingren.tv
 @@||de.as.pptv.com^$object-subrequest
-@@||dianxinos.com/advs/
+@@/advs/*$domain=dianxinos.com
 @@||disney.com.tw/tv/global/swf/banner728x90.swf
 @@||dnvod.eu/ads/$object-subrequest
 @@||do189.com/zb_users/theme/duoyi/style/images/text_bg.gif
@@ -8682,7 +8683,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||gqdzs.com/gg/adview_
 @@||gqzzw.com/gg/adview_
 @@||guancha.cn/ad/m_
-@@||haseemobile.net/data/files/mall/advs/
+@@/advs/*$domain=haseemobile.net
 @@||hd.duba.net/vip.ijinshan.com/repository/ad-images/$image,domain=vip.ijinshan.com
 @@||hh010.com/static/js/adsbygoogle_ad_adview_pic_cpc_cpm_cpa_guanggao_gg.js
 @@||hkjc.com/banners/
@@ -8761,7 +8762,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||quwenjiemi.com/105.js?
 @@||rakuya.com.tw^*/common_ad.
 @@||rapoo.cn/images/ad/
-@@||re-vat.com/advs/
+@@/advs/*$domain=re-vat.com
 @@||ref.so/templates/ref/short_show/adview_
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||rm.sina.com.cn/minisite/$domain=weibo.com
