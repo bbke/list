@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502262015
-! Last Modified: 2015年02月26日 20:15
+! Version: 201502262145
+! Last Modified: 2015年02月26日 21:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2746,7 +2746,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ctpan.com/cp
 ||ctpan.com/statics/js/adt
 ||ctpan.com/vip.js
-||ctrip.com/amd/2014/1/3/qz/qz180x320.jpg
 ||cunbt.com/images/*.gif
 ||cwan.com/templets/shouye/misc/js/suspend.js
 ||cwan.com/templets/webgame/misc/js/indextip.js
@@ -3562,7 +3561,7 @@ _vmind.qqvideo.tc.qq.com^
 ||itxtbook.com/game/images/kuping
 ||ivsoo.com/template/ivsoos.jpg
 ||iwanad.baidu.com^
-||iwebacg.com/http/js/1.js
+||webacg.com/http/js/1.js
 ||iweihai.cn/js/float.js
 ||iyaxin.com/assert/js/m.js
 ||iyaya.info/newmshow.php
@@ -4811,9 +4810,6 @@ _vmind.qqvideo.tc.qq.com^
 ||w3cplus.com/sites/default/files/lagou700-80.jpg
 ||w3cplus.com/sites/default/files/zhufen-js.jpg
 ||wa.kuwo.cn/lyrics/img/kwgg/
-||wacowla.com/wp-content/plugins/codecanyon-*-pullout-widgets-for-wordpress/
-||wacowla.com/wp-content/uploads/*140x400
-||wacowla.com/wp-content/uploads/*320x250
 ||wal8.com^$domain=52jifenbao.net
 ||wan.sogou.com/cdn/$subdocument
 ||wan.sogou.com/pop/
@@ -5217,10 +5213,13 @@ _vmind.qqvideo.tc.qq.com^
 ||wwwzqr.cn/template/comiis_kmsjx3hlx/ads/
 ||wei2008.com/js/copyright
 ||weathertv.cn/a/wuYangGuangGao.html
+||netdna-cdn.com/wp-content/uploads/*/Feb_Fus_140x400_CH.gif
+||netdna-cdn.com/wp-content/uploads/*/Wave_Feb_Banner.png
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dmzj.com##.ad_time
 weathertv.cn##.guangGao
 weathertv.cn##DIV[style="width:960px;margin:0 auto;background:#fff;height:100px; "]
 wcjbb.com###frame37boCx
@@ -6048,7 +6047,6 @@ sg169.com###shensuo
 hao123.com###shortcut-box > .tip
 hao123.com###shortcut-tuiguang
 chinaec.net###showEcAd
-weigongkai.com###showRccode
 xfastest.com###showRightOverFlow
 yzz.cn###showSlideAD_big
 yzz.cn###showSlideAD_small
@@ -6170,7 +6168,6 @@ maxthon.cn###widget-main-ad
 maxthon.cn###widget-main-external-link-groupbuy
 ccav1.com###widget_12090ad
 ccav1.com,heu8.com###widget_ada
-wacowla.com###widget_appthemes_blog_posts
 ccav1.com###widget_default
 360.cn###wifiAnywhere
 189so.cn###winpop
