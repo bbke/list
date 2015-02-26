@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201502261945
-! Last Modified: 2015年02月26日 19:45
+! Version: 201502262015
+! Last Modified: 2015年02月26日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5216,10 +5216,13 @@ _vmind.qqvideo.tc.qq.com^
 ||wangdaizhijia.com/data/attachment/portal/
 ||wwwzqr.cn/template/comiis_kmsjx3hlx/ads/
 ||wei2008.com/js/copyright
+||weathertv.cn/a/wuYangGuangGao.html
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+weathertv.cn##.guangGao
+weathertv.cn##DIV[style="width:960px;margin:0 auto;background:#fff;height:100px; "]
 wcjbb.com###frame37boCx
 bbs.gfan.com##.wpp
 wuleba.com###text-2
@@ -7947,7 +7950,7 @@ css88.com##a[href^="http://www.liepin.com"]
 dasai8.com##a[href^="http://www.lmny6.com/?p="]
 niaogebiji.com##a[href^="http://www.ukejisong.com/"]
 nanfenge.com##a[href^="http://www.woyao998.com"]
-wpdaxue.com##a[href^="http://www.wpdaxue.com/gt/"] > img
+wpdaxue.com##a[href^="http://www.wpdaxue.com/go/"] > img
 miercn.com##a[href^="http://www.yaosai.com/shop/"]
 weiqitv.com##a[href^="http://www.yiwugou.com/"]
 ocucn.com##a[href^="http://www.zhuna.cn/rdirect.asp?type=hoteltxt&"]
