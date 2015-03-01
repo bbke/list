@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503012045
-! Last Modified: 2015年03月01日 20:45
+! Version: 201503012115
+! Last Modified: 2015年03月01日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -6932,8 +6932,6 @@ ocucn.com##.getGold[style^="height:"]
 1kkk.com,5068.com,51caiju.com,china.com,elecfans.com,ghjie.com,iqilu.com,it168.com,jj59.com,jstv.com,kaifu.com,qianyan001.com,shangdu.com,taodake.com,xhonline.cn##.gg
 elecfans.com##.gg-01
 baidu.com##.gg-content
-wed114.cn##.gg-left-03
-wed114.cn##.gg-left-04
 5068.com,qiku8.com,top.qidian.com##.gg01
 5068.com,hgitv.com##.gg02
 hgitv.com##.gg09
@@ -8476,6 +8474,7 @@ long7.qq.com#@#.adsbox
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@/adsbox.$domain=long7.qq.com
+@@/LoadAds.$domain=webcars.com.cn
 @@||52ch.net/data/attachment/portal/201502/12/205202f34vy0p5g7q7bd0b.png
 @@&ad_type=$domain=x.jd.com
 @@&ad_width=590&$domain=jd.com
