@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503022245
-! Last Modified: 2015年03月02日 22:45
+! Version: 201503022315
+! Last Modified: 2015年03月02日 23:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4812,10 +4812,6 @@ _vmind.qqvideo.tc.qq.com^
 ||wxrb.com/g/js/baidu.cbjs.m.js
 ||wz.zj.cn/2014/0703/ty.gif
 ||wzi9.com/static/js/function.js
-||x-berry.com/wordpress/wp-content/uploads/*vpn
-||x-berry.com/wordpress/wp-content/uploads/2014/04/ad_nydus.png
-||x-berry.com/wordpress/wp-content/uploads/2014/04/hidemyass.gif
-||x-berry.com/wordpress/wp-content/uploads/2014/04/yinsuqidong.gif
 ||x.itiexue.net/html/$script
 ||xc.macd.cn^
 ||xczhibo.com/xml/
@@ -5135,6 +5131,10 @@ _vmind.qqvideo.tc.qq.com^
 ||zi-han.net/2014/04/belite-ad.png
 ||ccb.com.cn/V5/images5/left0.gif
 ||ccb.com.cn/V5/images5/right0.gif
+/wp-content/uploads/*vpn$domain=x-berry.com|wowrk.com
+/ad_nydus.png$domain=x-berry.com|wowrk.com
+/wp-content/uploads/*hidemyass$domain=x-berry.com|wowrk.com
+/Webbanner_$domain=x-berry.com|wowrk.com
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
