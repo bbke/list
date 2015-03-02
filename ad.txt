@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503022145
-! Last Modified: 2015年03月02日 21:45
+! Version: 201503022245
+! Last Modified: 2015年03月02日 22:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5231,10 +5231,18 @@ _vmind.qqvideo.tc.qq.com^
 ||open-open.com/bbs/images/240X200.jpg
 ||wan.sogoucdn.com/cdn/flash/$domain=~sogou.com
 ||sudupan.com^*.gif
+||zi-han.net/2014/04/belite-ad.png
+||ccb.com.cn/V5/images5/left0.gif
+||ccb.com.cn/V5/images5/right0.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ccb.com.cn###leftSideAd
+ifeng.com###hslide_sPic_baidu
+ifeng.com##.ad_btn
+ifeng.com###hslide_sPic_360
+zi-han.net##.ad
 baihei.net###diy1
 myforum.com.hk##.comeing_wad
 howfile.com###downloadtable + DIV > TABLE[style="margin-top:5px"]
@@ -11266,10 +11274,13 @@ _right_ads.
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
+||baidu.dj/u/upan/you.html
 ||tfg2.com/images/upfile/banner/
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+baidu.dj###ETE
+163.com##.top-banner
 cheaa.com###ADText
 8591.com.tw###active_enter
 163.com###bobo
