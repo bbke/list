@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503021945
-! Last Modified: 2015年03月02日 19:45
+! Version: 201503022015
+! Last Modified: 2015年03月02日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5230,10 +5230,13 @@ _vmind.qqvideo.tc.qq.com^
 ||open-open.com/300-250java.png
 ||open-open.com/bbs/images/240X200.jpg
 ||wan.sogoucdn.com/cdn/flash/$domain=~sogou.com
+||sudupan.com^*.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+udn.com###udn_scupio_responsive_wrapper
+udn.com##TABLE[bgcolor="#FFFFFF"][width="298"][height="375"]
 lvseba.cn##.ad-box
 open-open.com##A[href="http://www.miniui.com/demo/#src=datagrid/celledit.html"]
 nnnews.net##.ad_12
@@ -8587,6 +8590,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||sudupan.com^*/*.gif
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
