@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503031345
-! Last Modified: 2015年03月03日 13:45
+! Version: 201503031415
+! Last Modified: 2015年03月03日 14:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1291,7 +1291,7 @@ hk.yahoo.com###mntl1
 ||aidaicn.com^$third-party
 ||ajaxcdn.org^
 ||ajhdf.com^$third-party
-||alimama.cn^$third-party,domain=~alimama.com|~budou.com|~foctop.com|~hetongal.ac.cn|~meidebi.com|~taobao.com|~taobao.com.cn|~youhuiyouhui.com.cn
+||alimama.cn^$third-party,domain=~alimama.com|~budou.com|~foctop.com|~hetongal.ac.cn|~meidebi.com|~tanx.com|~taobao.com|~taobao.com.cn|~youhuiyouhui.com.cn
 ||allyes.$third-party
 ||amazingmagics.com^
 ||aoparking.com^$third-party
@@ -1478,7 +1478,7 @@ hk.yahoo.com###mntl1
 ||tanchuang002.info^$third-party
 ||p.tanx.com/ex?i=$domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||cdn.tanx.com/t/$domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
-||taobao.com/go/$third-party,domain=~alimama.com|~alitrip.com|~tmall.com
+||taobao.com/go/$third-party,domain=~alimama.com|~alitrip.com|~tanx.com|~tmall.com
 ||taotu001.com^$third-party
 ||tbjfw.com^$third-party
 ||tc600.com^
@@ -8598,6 +8598,8 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@/adx.$domain=tanx.com
+@@||alimama.com^$domain=tanx.com
 @@||wishdown.com/images/logo.gif
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
