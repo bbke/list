@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503032045
-! Last Modified: 2015年03月03日 20:45
+! Version: 201503032115
+! Last Modified: 2015年03月03日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2701,7 +2701,6 @@ _vmind.qqvideo.tc.qq.com^
 ||cndesign.com/img/ad/
 ||cndesign.com/upload/ad/
 ||cngoldres.com/advservice/
-||cngr.cn^$script,subdocument
 ||cnhubei.com*/g2
 ||cnjxol.com/*.files/sian.gif
 ||cnjxol.com/include/2011/index/js/index.js
@@ -4936,7 +4935,6 @@ _vmind.qqvideo.tc.qq.com^
 ||xiangmucangku.com/uploads/allimg/
 ||xiaoliaolianmeng.com/pic/weipinhui/
 ||xiaolushu.com/js/
-||xiaoma.com/xiaoma/www/images/nav/gre_max.jpg
 ||xiaozhu001.com/data/attachment/common/pigbbs/banner.gif
 ||xiazaiba.com/uploadfiles/2013/1230/2014031213430294297.gif
 ||xiazaiba.com/uploadfiles/ads/
@@ -5003,7 +5001,7 @@ _vmind.qqvideo.tc.qq.com^
 ||xoyo.com/cms/rt/2011/05/12/kuaikuai.jpg
 ||xoyo.com/cms/rt/2011/06/20/xz.jpg
 ||xp85.com/statics/js/all.js
-||xp911.com/img/xitong.gif
+||xp811.com/img/xitong.gif
 ||xpgod.com/bui/
 ||xpgod.com/UploadPic/xpgod/
 ||xr8.me/2s.js
@@ -5025,7 +5023,6 @@ _vmind.qqvideo.tc.qq.com^
 ||xxx169.org^$third-party
 ||xyfdcw.com.cn/userfiles/flash/
 ||xyzc.cn/js/pfgg.js
-||xz7.com/js/3000.js
 ||xz7.com/js/bann
 ||xz7.com/js/gg_
 ||xz7.com/js/jctj.js
