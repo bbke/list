@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503031045
-! Last Modified: 2015年03月03日 10:45
+! Version: 201503031115
+! Last Modified: 2015年03月03日 11:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1698,8 +1698,6 @@ hk.yahoo.com###mntl1
 /view/youkuvip/*ad.gif
 /view/youkuvip/buyip.gif
 /vmind.qqvideo.tc.qq.com^
-/wangyuedeux/imgs/daibang.jpg
-/wangyuedeux/imgs/dianbaobao.gif
 /wangyuedeux/imgs/wangzhuano.jpg
 /wangyuedeux/imgs/youlian.png
 /Webbanner_$domain=wowrk.com|x-berry.com
@@ -4892,8 +4890,7 @@ _vmind.qqvideo.tc.qq.com^
 ||whqyw.com/file/upload/201408/01/09-41-45-92-1.jpg
 ||win7china.com/images/960x60.gif
 ||windowszj.com/images/TopBanner.js
-||wishdown.com/newwish/$script
-||wishdown.com^*/myad
+||wishdown.com/images/*.gif
 ||wlnews.zjol.com.cn/bbs/
 ||wlnews.zjol.com.cn/wlrb/bbs/
 ||wo318.com/good/
@@ -8599,6 +8596,7 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||wishdown.com/images/logo.gif
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
