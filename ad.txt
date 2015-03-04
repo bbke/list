@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503040915
-! Last Modified: 2015年03月04日 09:15
+! Version: 201503040945
+! Last Modified: 2015年03月04日 09:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1627,7 +1627,7 @@ hk.yahoo.com###mntl1
 /cari/banner/*
 /cari/daybanner/*
 /comiis_yccs/ads/*
-/config.js$domain=06ssss.com|11xsxs.com|216xx.com|22ufuf.com|33cfcf.com|459ff.com|468jj.com|468xx.com|987abc.com|avtt66.com|fefe22.com|fufu66.com|jiji44.com|wcwc99.com
+/config.js$domain=06ssss.com|11xsxs.com|216xx.com|22ufuf.com|33cfcf.com|459ff.com|468jj.com|468xx.com|987abc.com|9jj.com|avtt66.com|fefe22.com|fufu66.com|jiji44.com|wcwc99.com
 /cooperation/*$script,subdocument,domain=firefox.huanqiu.com
 /ddd.js$domain=06ssss.com|882qq.com
 /dddaaa/*$domain=920hot.com|shipinhot.com|ssshhh8.com
