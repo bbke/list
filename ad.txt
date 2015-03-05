@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503051815
-! Last Modified: 2015年03月05日 18:15
+! Version: 201503051945
+! Last Modified: 2015年03月05日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4052,7 +4052,7 @@ _vmind.qqvideo.tc.qq.com^
 ||onlinedown.net/newhuagg/*_pic_$script
 ||ooxxbbs.com/data/attachment/forum/*.gif
 ||open-open.com/300-250java.png
-||open-open.com/android_banner.jpg
+||open-open.com^*_banner.
 ||open-open.com/bbs/images/240X200.jpg
 ||open-open.com/images/open-open336-280n.jpg
 ||orsoon.com*/zhuanti/
@@ -5220,6 +5220,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+hlyy.cc##.ui-sponsor
 dahe.cn###adArea1
 hc360.com,yaolan.com###AD
 21yq.com###AD1
@@ -8570,9 +8571,11 @@ house.shangdu.com#@#.top_ad
 yhd.com#@#.txtAd
 brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
+btago.com#@##adcontent
 !---------------------------------URL Whitelist-------------------------------!
-!@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 @@&ad_type=$domain=x.jd.com
+@@||28.com/top_adv_$domain=28.com
+@@||28.com/adv_$domain=28.com
 @@||images.sohu.com/cs/$domain=fmdisk.com
 @@||inte.sogou.com^$script,domain=fmdisk.com
 @@&ad_width=590&$domain=jd.com
@@ -8963,10 +8966,10 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||zhaozi.cn/d/js/acmsd/ggao5$script
 @@||zhibowu.com/ad2.htm
 @@||zjol.com.cn^*/index.jsp?newsid=$elemhide
-btago.com#@##adcontent
 ! Fixed Malware Domains rules
 @@/\.7k7k.com\/(?!(ad|load))/$domain=7k7k.com
 @@||web.xdcdn.net^$domain=nc.xd.com
+!@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 !--------------------------------Tracking Systems-----------------------------!
 @@||7m.cn/v2/js/analyse.js
 @@||analytics.163.com/ntes.js
