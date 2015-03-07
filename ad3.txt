@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503071915
-! Last Modified: 2015年03月07日 19:15
+! Version: 201503071945
+! Last Modified: 2015年03月07日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1527,7 +1527,7 @@ hk.yahoo.com###mntl1
 /cari/banner/*
 /cari/daybanner/*
 /comiis_yccs/ads/*
-/config.js$domain=11xsxs.com|12345bo.com|216xx.com|257ii.com|22ufuf.com|33cfcf.com|459ff.com|468jj.com|468xx.com|987abc.com|9jj.com|avtt66.com|fefe22.com|fufu66.com|jiji44.com|wcwc99.com
+/config.js$domain=11xsxs.com|12345bo.com|216xx.com|257ii.com|22ufuf.com|33cfcf.com|459ff.com|468jj.com|468xx.com|66ctct.com|987abc.com|9jj.com|avtt66.com|fefe22.com|fufu66.com|jiji44.com|wcwc99.com
 /cooperation/*$script,subdocument,domain=firefox.huanqiu.com
 /ddd.js$domain=12345bo.com|882qq.com
 /dddaaa/*$domain=920hot.com|shipinhot.com|ssshhh8.com
@@ -8494,7 +8494,7 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
-@@/images/ad/*$domain=5i5j.com|9588.com|dod-tec.com|diantai.ifeng.com|ourgame.com|rapoo.nl|snh48.com|tingbook.com
+@@/images/ad/*$domain=518pan.cc|5i5j.com|9588.com|dod-tec.com|diantai.ifeng.com|ourgame.com|rapoo.nl|snh48.com|tingbook.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
