@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503081915
-! Last Modified: 2015年03月08日 19:15
+! Version: 201503082115
+! Last Modified: 2015年03月08日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -11146,6 +11146,7 @@ _right_ads.
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||115img.com/static/pc/d_
+||a.game.qidian.com/material/xs.js
 ||163.com/special/*/bobo.html
 ||163.com^*/boboData
 ||17173.com/actapi/qiyu/
@@ -11180,6 +11181,7 @@ _right_ads.
 ||script.cmfu.com/Script/GameAdAptationInfo.js
 ||cj.qidian.com/Picture/$domain=forum.qidian.com|sosu.qidian.com
 ||tfg2.com/images/upfile/banner/
+||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
@@ -11398,3 +11400,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||count.pcgames.com.cn^
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
+/scriptonline.js?uin=
+||28.com/count.js
+/zcool-analytics.js
+||28.com/countnew.js
