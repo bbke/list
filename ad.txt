@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503081215
-! Last Modified: 2015年03月08日 12:15
+! Version: 201503081315
+! Last Modified: 2015年03月08日 13:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4550,7 +4550,7 @@ _vmind.qqvideo.tc.qq.com^
 ||sogou.com/skins/images/skinlist_ad.
 ||sohu.com.cn/ppp/bms/bms.popup.
 ||soso.com/baike/js/ad_
-||soul-plus.net/images/manqu
+||soul-plus.org/images/manqu
 ||source.qunar.com/site/images/wns/
 ||southmoney.com/page/inc/
 ||southmoney.com/page/top
@@ -7938,8 +7938,8 @@ gamebase.com.tw##[id^="aid_"]
 jump.bdimg.com,tieba.baidu.com,tieba.com##[id^="spreadad_"]
 xiaohua.hao.360.cn##a[href$="?realtime"]
 chdbits.org,hdcmct.org##a[href*=".taobao"]
-cosersuki.org,gmgard.us,lightnovel.cn,mengmao.org,mracg.com,soul-plus.net##a[href*=".taobao.com"]
-gmgard.us,lightnovel.cn,soul-plus.net##a[href*=".tmall.com"]
+cosersuki.org,gmgard.us,lightnovel.cn,mengmao.org,mracg.com,soul-plus.org##a[href*=".taobao.com"]
+gmgard.us,lightnovel.cn,soul-plus.org##a[href*=".tmall.com"]
 letv.com##a[href*=".vip.com"]
 18p2p.com##a[href*="/? Intr="]
 18p2p.com##a[href*="/?aff="]
