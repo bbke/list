@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503081315
-! Last Modified: 2015年03月08日 13:15
+! Version: 201503081345
+! Last Modified: 2015年03月08日 13:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1153,6 +1153,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||sosobook.cn^$third-party
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -1608,7 +1609,6 @@ hk.yahoo.com###mntl1
 /5B18D06D98BB6B41A12C73EE4E4C2ECA.jpg
 /950-90.gif$domain=qire213.com
 /?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shcle.com|shclk.com|ttft.in|xhcbb.com
-/^http\:\/\/lknovel\.lightnovel\.cn\/(?!(resouses|cover|illustration\/image\/201\d{5}\/\d{14}_\d{5}\.jpg$|images\/grey\.gif))/$image,domain=lknovel.lightnovel.cn
 /ad_nydus.png$domain=wowrk.com|x-berry.com
 /Addsa.dsj/Bsdd_1010/*Baidu
 /ads/*$domain=240513.com|ozdpt.com
