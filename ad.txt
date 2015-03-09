@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503091715
-! Last Modified: 2015年03月09日 17:15
+! Version: 201503091745
+! Last Modified: 2015年03月09日 17:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5196,7 +5196,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zk168.com.cn/js/fwpd.js
 ||zk168.com.cn/js/sy
 ||zo66.com^
-||zol.com.cn/ajax/book2013/add_jindou_tips.php
 ||zol.com.cn/intelcorp/
 ||zolsky.com^*ad/*.js
 ||zongheng.com/ajax/recommend.game.
@@ -5227,10 +5226,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||moonbbs.com/data/attachment/portal/
+||kf.abab.com/index.php?
+||p.zol.com.cn/download/detail.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+xindm.cn##.fengmian_comic_main_gg
 moonbbs.com##A[href^="http://www.dealmoon.com/Credit-Cards/?"]
 wacowla.com##.aligncenter[width="140"][height="400"]
 wacowla.com##.alignnone[width="320"][height="60"]
@@ -5546,7 +5548,6 @@ cwyuni.tw###box766939
 finance.ifeng.com###box_img
 club.topsage.com###brbox
 114la.com###brownTop
-zol.com.cn###btmLoginLayer
 v.hao123.com###btn-dl-bro
 mengmao.org###cat3
 bbs-mychat.com###cate_top > tr > .f_one
@@ -6934,8 +6935,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-health-mix-page > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-health-poplist-wrapper
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-wealth-list-card-container
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-weigou-nav-buy
-zol.com.cn##.ecma-baokuan-main
-zol.com.cn##.ecma-baokuan-text
 baidu.com##.ecomad-banner-loading
 19lou.com##.editor-ad
 youth.cn##.edu-a_dds
@@ -6969,7 +6968,6 @@ jump.bdimg.com,tieba.baidu.com,tieba.com##.firework_sender_wrap
 pingpang.info##.first_body_bottom
 pingpang.info##.first_body_right
 pingpang.info##.first_body_top
-zol.com.cn##.fixed-poster-newbbspic
 sisiww.com##.fixediv
 jn256.com##.fl_h180
 999.com##.flashObject
@@ -7423,7 +7421,6 @@ ab126.com##.nav + div[align="center"]
 baidu.com##.nav_ads
 guidaye.com##.neirongs
 sto.cn##.network_adv
-zol.com.cn##.new-bbs-enter
 yes-news.com##.new-index-ad300
 yes-news.com##.new-index-main-728
 yes-news.com##.new-index-main-ysm
@@ -7531,7 +7528,6 @@ businessweekly.com.tw##.postinsidead
 v.pps.tv##.pps-app-layer
 price.com.hk##.prod_minibanner
 pbhz.com##.product-nav-box
-zol.com.cn##.promotion-picbox
 655u.com##.pt_gg
 aoshu.com##.pub-tc
 shangdu.com##.pub_ad
@@ -7771,7 +7767,6 @@ pc841.com##.tlad
 esnai.com##.tlgg
 srzc.com##.tlgg_one
 northnews.cn##.tnm
-zol.com.cn##.today-hot-layer
 198zone.com##.tongad
 0898.net,39.net,gamefy.cn,hi.people.com.cn##.tonglan
 xinhuanet.com##.tonglan01
@@ -7907,7 +7902,6 @@ youku.com##.yk-AD-tong
 hk.news.yahoo.com##.yog-col div.classickick[data-beacon-fired]
 geiliwx.com##.yueduads
 house.ks.js.cn##.yytf_960_ha
-zol.com.cn##.zbk-scroll-news
 house.shangdu.com##.zbtad
 g1080.com##.zdgx_right_bottom
 520xs.com##.zhangjieTXT > a[target="_blank"]
@@ -8463,9 +8457,7 @@ gpcxw.com,kanguba.com##table[width="960"][height="90"]
 ppmsg.com##table[width="960"][height]
 xindm.cn##table[width="976"][background="/image/04/line2.gif"]
 daili.cye.com.cn##table[width="976"][height="228"]:nth-child(11)
-xindm.cn##table[width="976"][height="60"]
-daili.cye.com.cn,xindm.cn##table[width="976"][height="90"]
-xindm.cn##table[width="976"][height="96"]
+daili.cye.com.cn##table[width="976"][height="90"]
 6park.com##table[width="978"] > tbody > tr > td[width="234"]
 wangpanwu.com##table[width="978"][align="center"]
 you85.cn##table[width="980"]
