@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503091115
-! Last Modified: 2015年03月09日 11:15
+! Version: 201503091145
+! Last Modified: 2015年03月09日 11:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3913,8 +3913,6 @@ _vmind.qqvideo.tc.qq.com^
 ||neotv.com.cn/images/avs/tc/tc.js
 ||neotv.com.cn/wp-content/uploads/2014/06/20140505.jpg
 ||neotv.com.cn^*/620x70.
-||netdna-cdn.com/wp-content/uploads/*/Feb_Fus_140x400_CH.gif
-||netdna-cdn.com/wp-content/uploads/*/Wave_Feb_Banner.png
 ||netease.com/house/2014/10/22/20141022111935d89f4.jpg
 ||new-icon.ol-img.com/article/xinjiemeng/img/728x90gaoxiao.jpg
 ||new-icon.ol-img.com/jslib/ad.down.js
@@ -5134,6 +5132,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wacowla.com##.aligncenter[width="140"][height="400"]
+wacowla.com##.alignnone[width="320"][height="60"]
 hc360.com,yaolan.com###AD
 21yq.com###AD1
 itavcn.com###ADE
