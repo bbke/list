@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201502271415
-! Last Modified: 2015年02月27日 14:15
+! Version: 201503110600
+! Last Modified: 2015年03月11日 06:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -35,6 +35,7 @@
 ||cao25.com
 ||caobian.info
 ||caochangqing.com
+||cdn*.xda-developers.com
 ||cl.man.lv
 ||cool18.com
 ||d2pass.com
