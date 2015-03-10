@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201503101430
-! Last Modified: 2015年03月10日 14:30
+! Version: 201503101445
+! Last Modified: 2015年03月10日 14:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -59,8 +59,8 @@ xhamster.com##.sponsorBottom
 www.cam4.tw,www.cam4.com###subfoot,.sponsorAd, .xmlAdsWrapper, .xmlAdsTitle
 /ads/directory/*
 /ads/im/*
-||edgecast.cam4s.com/web/js/cam4_*.js
-||edgecast.cam4s.com/web/js/cam4Xtra*.js
+||edgecast.cam4s.com/web/js/cam4*.js
+@@||edgecast.cam4s.com/web/js/Cam4Utils*.js
 ||edgecast.cam4s.com/web/and/js/rep-popunder.js
 ! Chaturbate
 ||chaturbate.com/affiliates/
