@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503121945
-! Last Modified: 2015年03月12日 19:45
+! Version: 201503122015
+! Last Modified: 2015年03月12日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4848,7 +4848,6 @@ _vmind.qqvideo.tc.qq.com^
 ||xiaoliaolianmeng.com^$subdocument
 ||xiaolushu.com/js/
 ||xiaozhu001.com/data/attachment/common/pigbbs/banner.gif
-||xiazaiba.com/uploadfiles/2013/1230/2014031213430294297.gif
 ||xiazaiba.com/uploadfiles/ads/
 ||xici.com/group4/M02/08/56/rBABp1TMJjiEHF7uAAAAAIxYUcs565.jpg
 ||xigua110.com/a/
@@ -5151,6 +5150,7 @@ _vmind.qqvideo.tc.qq.com^
 ||imgur.com^$domain=91v3p.co
 ||sinaimg.cn^$domain=91v3p.co
 ||sam1.baby-kingdom.com^
+||83133.com/api/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -5520,7 +5520,7 @@ uuu9.com###cm1337
 zhidao.baidu.com###cms-company
 zhidao.baidu.com###cms-scroll
 focus.tianya.cn###cms_control_2
-xiazaiba.com###cmt_mm_wrap
+xiazaiba.com###cmt_mm_box
 chinaqking.com###cnt-ad
 mydrivers.com###code_lb
 lhk.gov.cn,shayang.gov.cn,tc.cn###codefans_net
@@ -11200,7 +11200,6 @@ _right_ads.
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||115img.com/static/pc/d_
-||a.game.qidian.com/material/xs.js
 ||163.com/special/*/bobo.html
 ||163.com^*/boboData
 ||17173.com/actapi/qiyu/
@@ -11230,29 +11229,13 @@ _right_ads.
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 ||baidu.dj/u/upan/you.html
-||a.game.qidian.com/Layout.aspx?
-||a.game.qidian.com/Show.aspx?
-||script.cmfu.com/Script/GameAdAptationInfo.js
-||cj.qidian.com/Picture/$domain=forum.qidian.com|sosu.qidian.com
 ||tfg2.com/images/upfile/banner/
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
+||eastmoney.com/js/Share.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
-qidian.com##.game_tj
-qidian.com##.ggbox740X80
-me.qidian.com##.ad-shell
-qidian.com,qdwenxue.com###divADClient
-qidian.com###ad_tjword
-qidian.com###ad_yxword
-qidian.com###divUserGuide
-qidian.com###two_dimensional
-qdmm.com,qdwenxue.com,qidian.com##.game_info
-www.qidian.com##div[class^="gg"]
-qdmm.com,qidian.com##a[href^="http://avd.qidian.com/showavd.aspx"]
-qidian.com##DIV[style="margin:0 auto;width:375px;height:63px;padding-top:5px"]
-qidian.com##.qd_sms_pop
-qidian.com##.top_game_info
+zol.com.cn##.today-hot-layer
 baidu.dj###ETE
 163.com##.top-banner
 cheaa.com###ADText
@@ -11458,3 +11441,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||28.com/count.js
 /zcool-analytics.js
 ||28.com/countnew.js
+||5173.com/__tra.gif?
+||ynet.com/c/js/manto.min.js
+||counter.tianjimedia.com^
+||baidu.com^*/w.gif?
