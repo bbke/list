@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503161115
-! Last Modified: 2015年03月16日 11:15
+! Version: 201503161145
+! Last Modified: 2015年03月16日 11:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -888,7 +888,7 @@ hk.yahoo.com###mntl1
 /paypic/*
 /piaofu.js
 /pic/ad/*
-/picad/*
+/picad/*$domain=~ychr.com
 /proxy.htm?id=
 /proxy.html?id=
 /qpxl.js
@@ -1523,6 +1523,7 @@ hk.yahoo.com###mntl1
 /Aemplate/dd_1010/baidu
 /afp/*$domain=scol.com.cn
 /Atemplate/dd_1010/baidu
+/nimabdd_1010/*baidu
 /attachment/ad/*$domain=hkbici.com
 /attachment/album/*$domain=www.52hardware.com
 /attachment/Mon_$domain=8888eee.com
@@ -8942,15 +8943,12 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||xunleihao.com/a-d-j-s/a-d-7.js
 @@||xunleipu.com/a-d-j-s/a-d-7.js
 @@||yawin.cn/ad/$object-subrequest
-@@||ychr.com/picad/
 @@||ydxxt.com/ad/
 @@||yimg.com/zz/combo?*&*.css
 @@||yimg.jp/combo?*/ad/
 @@||yiqifa.com/ad_images/$~third-party
 @@||yktj.yzz.cn/htmldata/mds/yzz_single_gg.js$domain=bbs.yzz.cn
 @@||youku.com^*&showAd=
-@@||zdfans.com^$elemhide
-@@||zdfans.com^*.nz/ads/
 @@||zei8.com/ad/xsind.js
 @@||zhannei.baidu.com^$popup,domain=wpan.cc
 @@||zhaopin.cn/js/app/popShow.
