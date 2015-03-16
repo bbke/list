@@ -8,7 +8,7 @@
 // @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.02.22.18
+// @version         15.03.17.06
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -22,9 +22,9 @@
     to: "$1",
     regex: true
 },{
-    name: "百毒搜索禁止劫持",
-    from: /^https?:\/\/(www\.baidu\.com\/)(s|baidu)\?.*(wd=.*)&(ie|oq|rs|tn).*/i,
-    to: "https://$1s?$3",
+    name: "百度搜索无劫持",
+    from: /^https?:\/\/(www\.baidu\.com\/.*)([\?&]tn=[\w]+(.*))+/i,
+    to: "https://$1$3",
     regex: true
 },{
     name: "百度网盘lx.cdn重定向",
@@ -91,7 +91,7 @@
 },{
     name: "uso >> uso-mirror",
     from: /^https?:\/\/userscripts\.org(:8080)?\/(.*)/i,
-    to: "http://userscripts-mirror.org/$1",
+    to: "http://userscripts-mirror.org/$2",
     regex: true
 },{
     name: "500px >> 原始大圖",
