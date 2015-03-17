@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503171215
-! Last Modified: 2015年03月17日 12:15
+! Version: 201503171245
+! Last Modified: 2015年03月17日 12:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5188,8 +5188,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zfs.cn/data/attachment/portal/
 ||zgsyb.com/gb/ad/
 ||zhainanba.net/ac/
-||zhangleisir.qiniudn.com/wp-content/uploads/*/350_80.
-||zhangleisir.qiniudn.com/wp-content/uploads/*250250
 ||zhao.265g.com/cache/kfbftop.html
 ||zhaojiao.net/templets/default/js/AD_flay.js
 ||zhenjiang365.cn/*/ad_
@@ -5270,6 +5268,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+zhangleisir.cn##.ads_logo
+zhangleisir.cn##.tcpads
 jvhao.com###sAD3
 jvhao.com###sAD5
 fx168.com##.yjl_fx168_head_navAd
@@ -11413,9 +11413,20 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
 ||eastmoney.com/js/Share.js
 ||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
+||qhimg.com/t01c9009fd25284520c.jpg
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+360kan.com##.bg-link
+66rpg.com###left_overlay
+66rpg.com###right_overlay
+fx168.com###diaochaBg
+fx168.com###diaochaBox
+163.com###layout-bobo
+163.com###layout-love
+163.com###layout-shop
+163.com##.txt-bobo
+163.com##A[href*="www.kaola.com"]
 zol.com.cn##.today-hot-layer
 baidu.dj###ETE
 163.com##.top-banner
