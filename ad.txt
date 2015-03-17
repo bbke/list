@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503171145
-! Last Modified: 2015年03月17日 11:45
+! Version: 201503171215
+! Last Modified: 2015年03月17日 12:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1152,6 +1152,7 @@ hk.yahoo.com###mntl1
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||hn163fck.com^$third-party
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -2264,7 +2265,7 @@ _vmind.qqvideo.tc.qq.com^
 ||8vod.net/detail/vod_*.js
 ||8zdd.com/tz.js
 ||900.la/imgs/1701d054-c747-4969-85ed-60e251b9018b/2015-01-29/utdviibg.gif
-||9000wy.com/templets/default/script/*content
+||9000wy.com/style/js/2015content.js
 ||90bifen.net/images/c_ad_
 ||90oo.com/tp/*980.gif
 ||90oo.com/tp/90232.jpg
@@ -3741,7 +3742,6 @@ _vmind.qqvideo.tc.qq.com^
 ||kekenet.com/Images/*/tom640X40.gif
 ||kekenet.com/images/2014/akasuo
 ||kekenet.com/images/2014/weibo960.jpg
-||kelepan.com/adblock
 ||kelepan.com/cp
 ||key8.com/cache/www/banner_
 ||keyan.cc/data/bcs/
@@ -5265,6 +5265,7 @@ _vmind.qqvideo.tc.qq.com^
 ||q.cn/images/floater_
 ||q.cn/images/notepad.gif
 ||xiu8.com/baidu-tieba/*&forum_name=
+|http://*/adblock$domain=26766.com
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
