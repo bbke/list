@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503200915
-! Last Modified: 2015年03月20日 09:15
+! Version: 201503200945
+! Last Modified: 2015年03月20日 09:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5182,10 +5182,14 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||ifengimg.com/ifengimcp/pic/*_w640_h120.
+||xnnews.com.cn/templets/js/smsline_double.js
+||xnnews.com.cn/templets/js/wzydl.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+yunlaige.com###PAGE_baidu_4
+yunlaige.com###PAGE_baidu_5
 hc360.com,yaolan.com###AD
 21yq.com###AD1
 itavcn.com###ADE
@@ -11307,7 +11311,11 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||looyu.com^$third-party
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
-|http://*/|$popup,domain=www.tsdm.net
+||tsdm.net/qxs.php/|$popup,domain=www.tsdm.net
+||mh.tsdm.net/|$popup,domain=www.tsdm.net
+||dm.tsdm.net/xinfandongman/|$popup,domain=www.tsdm.net
+||dmf8.taobao.com/|$popup,domain=www.tsdm.net
+||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
 ||115img.com/static/pc/d_
