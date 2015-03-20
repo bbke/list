@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503201715
-! Last Modified: 2015年03月20日 17:15
+! Version: 201503201745
+! Last Modified: 2015年03月20日 17:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -18,6 +18,7 @@ pornhub.com##.playlist-bar-tray,#adA,#adB
 tv.sohu.com###referr_bd_box
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 www.15yan.com##.tooltip
+www.google.com###taw
 www.hardsextube.com##.right-col.right
 wap.ithome.com###a_ad
 www.1069gay.net###shortcut
@@ -5145,7 +5146,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zimuzu.tv/public/rooms?
 ||zisai.com/2013.ad/
 ||zisai.com/2014.ad/
-||zj.com/bm_images/102975_1.jpg
 ||zjbdt.com/onexgadimgs/
 ||zjg.js.cn/Public/config/Couplet/Index4
 ||zjg.js.cn/Template/Ant/Js/tonglang.js
@@ -5173,7 +5173,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zt220.com/zzs/
 ||zuoche.com/promo/*.jspx
 ||zxip.com/2013_ad/
-||zxxk.com/js/articleinfo/JS_
 ||zydh123.com/ad-js/
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
@@ -5186,6 +5185,7 @@ _vmind.qqvideo.tc.qq.com^
 ||sz.zj.cn/2013-dh.asp
 ||sz.zj.cn/info.php?fid=$subdocument
 ||sztaofang.com/out/Out_BBs.asp
+||zfs.cn/8th/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
