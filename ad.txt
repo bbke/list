@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201503251045
-! Last Modified: 2015年03月25日 10:45
+! Version: 201503251115
+! Last Modified: 2015年03月25日 11:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1155,6 +1155,7 @@ hk.yahoo.com###mntl1
 ~dsjunshi.com##div[id^="ad_thread"]
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
+###gg1
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
 /adscpc/*
@@ -2208,7 +2209,6 @@ _vmind.qqvideo.tc.qq.com^
 ||6park.com/parks/$script
 ||6park.com/wap/
 ||6park.com^$subdocument
-||6rooms.com^$domain=yayaxz.com|zydh123.com
 ||6vdy.com/d/960.js
 ||6vdy.com/d/f*.js
 ||6vhao.com/d/960.js
@@ -5133,7 +5133,6 @@ _vmind.qqvideo.tc.qq.com^
 ||yaolanimage.cn/assets/ask/js/ask_video_popup.js
 ||yaolanimage.cn/cms/image/960-90
 ||yatour.cn/image/show/haha.gif
-||yayaxz.com/ad-js/
 ||yb983.com/skin/yb983V2013/ad/
 ||ybbbs.com/2013gg/
 ||ybvv.com*/aimg/
@@ -5287,7 +5286,6 @@ _vmind.qqvideo.tc.qq.com^
 ||zt220.com/zzs/
 ||zuoche.com/promo/*.jspx
 ||zxip.com/2013_ad/
-||zydh123.com/ad-js/
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
@@ -5824,7 +5822,6 @@ whnews.cn###gd_r
 dychao.com###gdiv
 66wz.com,mopiaoyao.com###gg
 sdgundam.cn###gg-banner
-855699.com###gg1
 855699.com###gg2
 855699.com###gg3
 5173.com###gg330
