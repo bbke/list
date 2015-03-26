@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503261745
-! Last Modified: 2015年03月26日 17:45
+! Version: 201503261815
+! Last Modified: 2015年03月26日 18:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -2028,7 +2028,6 @@ _vmind.qqvideo.tc.qq.com^
 ||54new.com/da/
 ||55.la/anonymous/banner/$domain=lxty66.com
 ||55125.cn/ggclass/
-||5522f.com/js/
 ||557vv.com/d/file/p/
 ||557vv.com/images/
 ||557xx.com/d/file/p/
@@ -2619,7 +2618,6 @@ _vmind.qqvideo.tc.qq.com^
 ||cj.qidian.com^$object,subdocument
 ||cjn.cn^*/ad/
 ||classbm.hkgolden.com^
-||clgd9.com/t/
 ||clm02.com/2014-A/FB-6-14-AA1.jpg
 ||cloudleft.com/statics/images/clouelft350_60.gif
 ||club.pchome.net/*/localexchange.php$subdocument
@@ -2984,7 +2982,6 @@ _vmind.qqvideo.tc.qq.com^
 ||fsehome.com/images/ad_tan.js
 ||fspcdn.com/main/fis/js/v11/play/pop-ad_
 ||fububu.com/zb_users/THEME/LuSongSong/style/ads/
-||fuli2.com/wp-content/plugins/ad-blocking-detector/
 ||fulidang.com/ads/
 ||fulikong.com/images/yulecheng
 ||fumanhua.com/template/*/images/g_js/$subdocument
@@ -3167,7 +3164,8 @@ _vmind.qqvideo.tc.qq.com^
 ||haochi123.com/J_Box/Inc_
 ||haochi123.com/Js/Fun_Effects_HT9.js
 ||haodai.com/src/i/lianmeng/ad/
-||haodnss.com/js/
+||kanav333.com/js/
+||livemp4.com/js/
 ||haodou.com/public/images3/goeatpass.jpg
 ||haodu5.com/2012/ad2014.js
 ||haofs.com/haofs/ggapi.asp
@@ -4686,10 +4684,6 @@ _vmind.qqvideo.tc.qq.com^
 ||totheglory.im/pic/fangtuo.jpg
 ||totheglory.im/pic/ttg-
 ||totheglory.im/pic/ttg_
-||totuwo.com/wp-content/uploads/*%91%8A
-||totuwo.com/wp-content/uploads/*/250x250_
-||totuwo.com/wp-content/uploads/*/999x70_
-||totuwo.com/wp-content/uploads/*/totuwo.
 ||toy9090.com/bvseO0o1LI/avshow
 ||toy9090.com/bvseO0o1LI/CNAD_
 ||tp.sgcn.com^
@@ -5186,6 +5180,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzqhy.com^*/page/
 ||wenxuecity.com/service/ad/
 ||99btgc01.info/uploads/2015/03/11111.jpg
+||tietuku.com^$domain=totuwo.com
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
