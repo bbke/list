@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503271545
-! Last Modified: 2015年03月27日 15:45
+! Version: 201503271615
+! Last Modified: 2015年03月27日 16:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1579,7 +1579,7 @@ hk.yahoo.com###mntl1
 /img/kana.jpg$domain=jpfans.com|jpseek.com
 /img/skin/*_bg.$domain=17huohu.com|firefox.com.cn|firefoxchina.cn
 /ipower.htm$domain=50.7.31.230|tvboxnow.com
-/js/alls_$domain=911-sss.com|baise666.info|kuaisou222.com|ylgbt.info
+/js/alls_$domain=911-sss.com|911seqq.info|kuaisou222.com|ylgbt.info
 /js/gTool.js$domain=51live.com|52waha.com|ccav5.com|zhibo7.com
 /jsc/book_$domain=99770.cc|99comic.com|99manga.com
 /jsc/Copy.js$domain=99770.cc|99comic.com|99manga.com
@@ -2670,7 +2670,7 @@ _vmind.qqvideo.tc.qq.com^
 ||coolaler.com.tw^*_300x100.
 ||coolaler.com.tw^*_340x80.
 ||cosersuki.org/2013/03/20140515091120.jpg
-||cosersuki.org^*/150x600.
+||cosersuki.org^*/150x600
 ||cosersuki.org^*/AD
 ||cp.ifeng.com/iframe/getiframe
 ||cp126.com/888zr11.gif
@@ -4440,7 +4440,6 @@ _vmind.qqvideo.tc.qq.com^
 ||sina.com/ads/
 ||sina.com/assets/js/dart/
 ||sina.com/rm/
-||sinaimg.cn/bmiddle/c00f4a08gw1el0rif0zb0g208c06y0yl.gif
 ||sinaimg.cn/cj/dfz_ad/
 ||sinaimg.cn/jslib/kuozhanad.js
 ||sinaimg.cn/large/$domain=360-bo.com|chakd.com|kiees.cn|kqiuba.com|lueqiu.com|macappbox.com|pptiyu.com|qqzhibo.net
