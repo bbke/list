@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503282015
-! Last Modified: 2015年03月28日 20:15
+! Version: 201503282115
+! Last Modified: 2015年03月28日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5187,6 +5187,7 @@ _vmind.qqvideo.tc.qq.com^
 ||hotavxxx.com/images/*960-80.
 ||imgbus.com^$domain=cao1024.com
 ||sinaimg.cn^$domain=cao1024.com
+|http://x.co/6QgW5
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -11343,6 +11344,7 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
 ||163.com/special/*/bobo.html
 ||163.com^*/boboData
@@ -11377,15 +11379,16 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
 ||eastmoney.com/js/*Share.js
 ||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
-||qhimg.com/t01c9009fd25284520c.jpg
+||ithome.com/block/headerline$subdocument
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+www.163.com###layout-new2 A[href*="www.kaola.com"]
+ithome.com##DIV[style^="width:960px;height:60px;"]
 360.cn###weishi-alert
 udn.com###ec
 tv.sohu.com###referr_bd_box
 taoguba.com.cn###wrap_footer > DIV[style^="width: 957px;"]
-360kan.com##.bg-link
 66rpg.com###left_overlay
 66rpg.com###right_overlay
 fx168.com###diaochaBg
@@ -11394,7 +11397,6 @@ fx168.com###diaochaBox
 163.com###layout-love
 163.com###layout-shop
 163.com##.txt-bobo
-163.com##A[href*="www.kaola.com"]
 zol.com.cn##.today-hot-layer
 baidu.dj###ETE
 163.com##.top-banner
