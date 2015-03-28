@@ -1,7 +1,7 @@
 #
 # link: https://github.com/txthinking/google-hosts
 #
-# UPDATE: Sat Mar 28 03:44:45 UTC 2015
+# UPDATE: Sat Mar 28 07:07:33 UTC 2015
 #
 74.125.224.4    0.docs.google.com
 74.125.224.4    0.drive.google.com
