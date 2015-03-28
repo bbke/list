@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503281845
-! Last Modified: 2015年03月28日 18:45
+! Version: 201503281915
+! Last Modified: 2015年03月28日 19:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1824,7 +1824,7 @@ _vmind.qqvideo.tc.qq.com^
 ||1lou.com/ceo888.gif
 ||1m1m.cn/bar/
 ||1pad.cn/ahead/01.gif
-||1pxpx.net/BOJS/
+||192.184.10.171^
 ||2008xxx.com:888
 ||204.12.228.235^*.png
 ||204.12.228.236^*.png
@@ -1847,7 +1847,6 @@ _vmind.qqvideo.tc.qq.com^
 ||222.45.224.77^*.js
 ||222.47.26.21/m.js
 ||222dz.com/js/
-||222mp.com/imageabc/*.js
 ||222pv.com^$script
 ||22mt.la/bookpic/00*.jpg
 ||2300sjz.com/liv_loadfile/folder81/fold
@@ -2141,7 +2140,6 @@ _vmind.qqvideo.tc.qq.com^
 ||77bike.com/img/tern.swf
 ||77kp.com/bd/
 ||77pan.cc/ggad/
-||77qe.org/js/ads/
 ||789pan.com/templates/default/images/kuping.gif
 ||78dm.net/uploads/imgs/2013/qumiaoduoduilian-
 ||78land.com/js/fumeiti.js
@@ -3609,7 +3607,6 @@ _vmind.qqvideo.tc.qq.com^
 ||jrjimg.cn/aigu/adcj.jpg
 ||jrjimg.cn/homev2/ad/
 ||js-1.pchome.net^
-||js.0asex.info^
 ||js.4738.com/newda/img/994_90_
 ||js.bxwxtxt.com^$subdocument
 ||js.duotegame.com^
@@ -5188,6 +5185,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzqhy.com^*/page/
 ||qmi.cc/tester/tester.js
+/images/moe$domain=104.237.154.90|106.186.21.182|soul-plus.org
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
