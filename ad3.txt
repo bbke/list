@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503290915
-! Last Modified: 2015年03月29日 09:15
+! Version: 201503291015
+! Last Modified: 2015年03月29日 10:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1750,8 +1750,6 @@ _vmind.qqvideo.tc.qq.com^
 ||126.net/house/sjz/xt/
 ||126disk.com/www/all_guanggao.js
 ||127.net/m/*/promPic.jpg
-||12pe.com/aajjss/
-||12vm.com/dy_44jjss/
 ||131.com/common/alertwindow.html
 ||131.com/home/resouces/js/
 ||131.com/js/131InsideAD$script
@@ -1839,7 +1837,6 @@ _vmind.qqvideo.tc.qq.com^
 ||219.153.41.175/*.js
 ||219.238.159.181^*.html
 ||219.238.159.182^*.html
-||21ses.info/t/
 ||21uscity.com/zonelist.php
 ||21yq.com/mg/21yq/
 ||2200book.com/configs/article/pagebottom1yc.js
@@ -1926,8 +1923,8 @@ _vmind.qqvideo.tc.qq.com^
 ||36dm.com/images/950_90.jpg
 ||36tv.cn/ad_pic/
 ||36tv.cn/statics/images/jinhuatv/ad
-||377mp.com/dy_44jjss/
 ||39.net/client/39/c.js
+/dy_44jjss/*
 ||39.net/creative/
 ||39.net/js/baidu/
 ||39.net/js/google/
@@ -5046,7 +5043,6 @@ _vmind.qqvideo.tc.qq.com^
 ||yimg.com/ja/ap/*_wallpaper
 ||yimg.com/no/$domain=~yahoo.com
 ||yimuhe.com/n_ad/
-||yinfuren.com/ads/
 ||yinhangkahao.com/go/
 ||yinqu.com/1/ad.js
 ||yinyuetai.com/partner/$object-subrequest
@@ -8777,7 +8773,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||ads.i8.com.cn/hd/dzs/
 @@||ads.myopen.vip.com^$domain=vip.com
 @@||ads.rakuya.com.tw^$domain=rakuya.com.tw
-@@||ads.ribiaozi.info^*.jpg
 @@||adsense.woso.cn^$domain=woso.cn
 @@||advert.kf5.com^
 @@||advertise.shijue.cvidea.cn^
