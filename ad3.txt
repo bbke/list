@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201503301915
-! Last Modified: 2015年03月30日 19:15
+! Version: 201503302015
+! Last Modified: 2015年03月30日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -2187,7 +2187,6 @@ _vmind.qqvideo.tc.qq.com^
 ||91danji.com/js/lmt.js
 ||92dp.com/dianping/videoad
 ||92wav.com/rj/*.gif
-||93oxo.com/ggad/
 ||93t.cc/template/93t/images/41550.gif
 ||94994.com*/js/plugin/shoppingMall/
 ||9553.com/otherhtml/
@@ -4338,8 +4337,7 @@ _vmind.qqvideo.tc.qq.com^
 ||secretmine.net/wp-content/uploads/*-960-60.
 ||secretmine.net/wp-content/uploads/*/610x80
 ||sentsin.qiniudn.com/ad_
-||sex169.net/images/2014/*.gif
-||sex169.org/images/2014/*.gif
+/images/20$domain=sex169.org
 ||sf-express.com/cn/sc/.galleries/sfbest/*_right_sc.
 ||sfile.baidu.com/img/load.gif
 ||sg169.com/uploadfile/*.gif
@@ -5159,6 +5157,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zhandi.cc/Runtime/js/900
 ||zhandi.cc/Runtime/js/vod960.js
 ||afpcreative.wasu.cn^
+||i322.com/ad_avshow/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -6470,7 +6469,6 @@ shm.com.cn##.ad_taobao
 dmzj.com##.ad_time
 168cz.com,zjstv.com##.ad_tl
 jb51.net##.ad_tonglan
-sex169.org##.ad_top_980
 pchome.com.tw##.ad_triple
 putclub.com##.ad_vipabc
 yinyuetai.com##.ad_w300
@@ -8615,6 +8613,8 @@ brandsales.58.com#@#div[id^="ad_"]
 epochtimes.com#@#div[id^="div-gpt-ad-"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||sex169.org^$elemhide
+@@/126_ad.$domain=sex169.org
 @@||toy9090.com^*/NL.gif
 @@||toy9090.com^*/NR.gif
 @@&ad_width=590&$domain=jd.com
