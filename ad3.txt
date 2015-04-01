@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504011845
-! Last Modified: 2015年04月01日 18:45
+! Version: 201504011915
+! Last Modified: 2015年04月01日 19:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1032,7 +1032,6 @@ hk.yahoo.com###mntl1
 ##.yd_ad1
 ##.yd_ad2
 ##.yd_ad3
-##a[href*=".222ing.com.tw"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
 ##a[href*="/?intr="]
@@ -1042,16 +1041,10 @@ hk.yahoo.com###mntl1
 ##a[href^="http://188.qy8.me"]
 ##a[href^="http://vda.icantw.com/?q="]
 ##a[href^="http://www.86600.com"]
-##a[href^="http://www.8757.com"]
-##a[href^="http://www.aigu8.info"]
 ##a[href^="http://www.b6868.com"]
-##a[href^="http://www.bvi16.com"]
-##a[href^="http://www.caaoy.com"]
 ##a[href^="http://www.rb88.com"]
 ##a[href^="http://www.s889.net/?aff="]
 ##a[href^="http://www.whao9.com"]
-##a[href^="http://www.xdfmmgg.com"]
-##a[href^="http://www.xinghad.com/iclk/"]
 ##a[href^="https://www.18vpn.biz/r.php"]
 ~dsjunshi.com##div[id^="ad_thread"]
 ##script + #rbbox
@@ -1499,16 +1492,6 @@ hk.yahoo.com###mntl1
 ||trade2345.cn.com^$popup,third-party
 ||uc8.cc/award/$popup
 ||vnet.cn^*.html?$popup,third-party
-||we.10bt.info^$popup,third-party
-||we.11bt.info^$popup,third-party
-||we.12bt.info^$popup,third-party
-||we.13bt.info^$popup,third-party
-||we.14bt.info^$popup,third-party
-||we.15bt.info^$popup,third-party
-||we.577gc.biz^$popup,third-party
-||we.577gc.info^$popup,third-party
-||we.577gc.me^$popup,third-party
-||we.577gc.net^$popup,third-party
 ||wuyougo.info/tao.php$popup
 ||zhubajie.com/?fromcode=$popup
 !----------------------Specific advert blocking filters-----------------------!
@@ -1547,8 +1530,6 @@ hk.yahoo.com###mntl1
 /avshow_cn1.gif
 /banner/*$domain=dolc.de|dolc.info
 /biz_icon/*$domain=cs090.com|wm090.com
-/bmw9.gif$domain=17domn.com|97down.info|kidown.com|pidown.info|wkdown.info
-/bt.php?$domain=17domn.com|97down.info|kidown.com|pidown.info|wkdown.info
 /cari/banner/*
 /cari/daybanner/*
 /comiis_yccs/ads/*
@@ -1600,7 +1581,6 @@ hk.yahoo.com###mntl1
 /msnportal/wp/2014/08/29/742784a6-b14f-420b-80cc-d6bd0be6b15d.jpg
 /my0538/img/ad/*
 /nddailyfile/webadv/*
-/neaDm.jpg$domain=17domn.com|97down.info|kidown.com|pidown.info|wkdown.info
 /newhuagg/*_right
 /newhuagg/index_
 /nfs/ad/*$domain=hkbici.com
