@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504011015
-! Last Modified: 2015年04月01日 10:15
+! Version: 201504011115
+! Last Modified: 2015年04月01日 11:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3615,7 +3615,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ithome.com/images/partner/
 ||ithome.com/js/recommend.js
 ||ithome.com^*/ets.js
-||ithome.com^*?$script,domain=www.ithome.com
 ||itmsc.cn/files/*/ad0
 ||itmxc.com/mxc-news/960x
 ||itmxc.com/mxckb.gif
@@ -8945,7 +8944,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||edgesuite.net^*/ad.css?
 @@||eiv.baidu.com/hmt/icon/21.gif
 @@||emome.net/files/advertising/
-@@||file.ithome.com/js/comment.js?
 @@||forum.51nb.com/images/*/
 @@||fwxgx.com^*/floatad.
 @@||g.163.com/jr?site=netease&affiliate=freemail
@@ -8981,7 +8979,6 @@ epochtimes.com#@#div[id^="div-gpt-ad-"]
 @@||indeep.com.tw^*/Showad.
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||inte.sogou.com/ask?id=$domain=fmdisk.com
-@@||ithome.com/ithome/HitCount.aspx?newsid=
 @@||j.wit.qq.com/sc/crystal_ad.js?$domain=888.sports.qq.com
 @@||jinhongweiqi.com/ad/update/
 @@||jj.5ccc.net/scripts/new/pagetop.js
