@@ -1,5 +1,6 @@
-#规则主页：http://code.minggo.tk#
-
+#规则主页：#
+           http://code.minggo.tk
+           http://code.ming92.ml
 ##包含：##
       1. Redirector.uc.js：提供重定向功能，已经包含多个实用规则；
       2. Redirector（分离版）.uc.js：提供重定向功能，规则文件与uc脚本分离，默认规则文件为
