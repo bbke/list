@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504031745
-! Last Modified: 2015年04月03日 17:45
+! Version: 201504031815
+! Last Modified: 2015年04月03日 18:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3578,7 +3578,6 @@ _vmind.qqvideo.tc.qq.com^
 ||itavcn.com/images/2013/ad_
 ||itavcn.com/images/2014/ad_
 ||itavcn.com/pic/news/*305X80.swf
-||itc.cn/a/www/index/2014/js/ggcommon
 ||itc.cn/activity/activity_js/changyan_config_
 ||item.taobao.com^$domain=iask.sina.com.cn
 ||iteye.com/iframe_ggbd/
@@ -4536,7 +4535,7 @@ _vmind.qqvideo.tc.qq.com^
 ||sinaimg.cn/mw690/ea495f08gw1ehcsmx6dlzg20eq04gt9c.gif
 ||sinaimg.cn/rny/sinamail57/images/110316/threeKingdoms2.
 ||sinaimg.cn/unipro/
-||sinaimg.cn^$domain=174.139.109.38|208.94.244.98|360bo.cc|91v3p.co|99re.co|ac168.info|aisex.com|btago.com|btshare.net|cao1024.com|cililian.org|jisuzhibo.net|liulanmi.com|lululu.club|lululu.lu|www.lightnovel.cn|xxxbt.com|zhiboche.com
+||sinaimg.cn^$domain=174.139.109.38|208.94.244.98|360bo.cc|91v3p.co|99re.co|ac168.info|aisex.com|btago.com|btshare.net|cao1024.com|cililian.me|jisuzhibo.net|liulanmi.com|lululu.club|lululu.lu|www.lightnovel.cn|xxxbt.com|zhiboche.com
 ||sinaimg.cn^*/deco/$script
 ||sinajs.cn/blog7style/images/activity/app_tuiguang/
 ||sinajs.cn/xblogstyle/images/activity/xinyue_ad/banner
@@ -5247,7 +5246,10 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cililian.me###side_right
 17173.com##.ad
+17173.com##.picshow[href^=" http://cnrdn.com/"]
+17173.com##.picshow[href^=" http://vip.1905.com/"]
 17173.com##A[href*="&ad_code="]
 hexieshe.com###single-main-content + P
 zimuzu.tv##.room
@@ -6396,7 +6398,6 @@ baofeng.com##.ad-pop-wrap
 2500sz.com##.ad-quanping
 me.qidian.com##.ad-shell
 iqilu.com##.ad-short
-17173.com##.ad-sy-pn1
 qq.com##.ad-text-box
 ithome.com.tw##.ad-text-in-middle
 39.net##.ad-tl
@@ -8130,7 +8131,6 @@ ganji.com##div[class*="-recommend"]
 meiguoshenpo.com##div[class*="AD_"]
 makepolo.com##div[class*="_ad"]
 summeng.net##div[class*="_ad_"]
-www.17173.com##div[class*="ad-pn"]
 hupu.com##div[class*="ad200-200"]
 hupu.com##div[class*="ad240-200"]
 hupu.com##div[class*="ad728-90"]
