@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504051815
-! Last Modified: 2015年04月05日 18:15
+! Version: 201504051845
+! Last Modified: 2015年04月05日 18:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1637,7 +1637,7 @@ _vmind.qqvideo.tc.qq.com^
 ||020.com/960_70
 ||022net.com/js/mhtml/phtml03.html
 ||022net.com/js/mhtml/phtml04.html
-||022net.com/upimages/201411/2014112616304159441.swf
+||022net.com/upimages/201503/2015032317003061231.swf
 ||027down.com/images/banner760-60.gif
 ||0379home.com/images/test/beside.js
 ||03jd.cn/data/attachment/portal/
@@ -5119,10 +5119,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||1616.net/jd/data/index/indexad.json
 ||0379home.com/images/fullscreen_
+||022net.com/ImgFiles/channel/201502/2015021812142444065.swf
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+022net.com###html05 > .margin:first-child
+022net.com##.dh + .sidelist + DIV[style="margin:26px auto 0; width:232px"]
 mao-123.com###ad3
 mao-123.com###cat3
 mao-123.com##A[href*=".taobao.com"]
