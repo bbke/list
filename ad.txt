@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504071945
-! Last Modified: 2015年04月07日 19:45
+! Version: 201504072045
+! Last Modified: 2015年04月07日 20:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -11413,6 +11413,7 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||eastmoney.com/public/ad.tools.
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
 ||163.com/special/*/bobo.html
@@ -11453,6 +11454,9 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+loldk.com##.appfix
+15w.com###rec
+0439.com###kanfang
 duowan.com##.lolboxapps-qrcode
 www.163.com###layout-new2 A[href*="www.kaola.com"]
 ithome.com##DIV[style^="width:960px;height:60px;"]
@@ -11513,6 +11517,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
 ||100bt.com/dc?Url
+||51la.net^$third-party
 ||17173.com/live/stat_
 ||19lou.com/dm2011_city.gif?
 ||39.net/js/wt.js
