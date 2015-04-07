@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504071915
-! Last Modified: 2015年04月07日 19:15
+! Version: 201504071945
+! Last Modified: 2015年04月07日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3837,7 +3837,7 @@ _vmind.qqvideo.tc.qq.com^
 ||ln.xinhuanet.com/inc/
 ||lnd.com.cn/site1/*.swf
 ||lnzq5.com/js/shuanglian.js
-||lofter.com/mailEntry.do?blogad=
+||lofter.com/mailEntry.do?*ad=
 ||longbahao.com/asd.js
 ||longbahao.com/js/ad-
 ||longyu.cc/adg/
@@ -5229,6 +5229,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+163.com###r_mkaolaadv
 house.163.com##DIV[style*="960"][style*="80"]
 1m3d.com###frame2l2796
 1m3d.com###frame9hp73n
@@ -5914,7 +5915,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com###lm
 chinaacc.com###lm-bs-id
 bukade.com###loadimg
 jump.bdimg.com,tieba.baidu.com,tieba.com###loan_ad_mod_a
-blog.163.com###lofter_single
 blog.163.com###loftertextlinkad
 360kan.com,letv.com###logo_activity
 wn789.com###lograd
