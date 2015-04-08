@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504081145
-! Last Modified: 2015年04月08日 11:45
+! Version: 201504081215
+! Last Modified: 2015年04月08日 12:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5227,10 +5227,13 @@ _vmind.qqvideo.tc.qq.com^
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=topslide
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=zhuangx
 ||u.ctrip.com/showcaseadvertisementsit/
+||thisav.com/js/popup.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+thisav.com###pr-aqfh
+thisav.com###pr-7pdu
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-edu-course-mini-container
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -9048,7 +9051,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||taobao.com/go/app/tmall/login-api.php?
 @@||tenpay.com/v2.0/main/creditcard/portal_rpm_apply.shtml
 @@||tenpay.com^*?ADTAG=
-@@||thisav.com^$elemhide
+@@||thisav.com^*/$elemhide
 @@||tmall.com/go/*/banner.php
 @@||tompda.com/images/pix.swf
 @@||totheglory.im/pic/ttg_logo.png
