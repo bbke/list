@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504092145
-! Last Modified: 2015年04月09日 21:45
+! Version: 201504092215
+! Last Modified: 2015年04月09日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1049,6 +1049,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
+||yunfanlm.com^$third-party
 /adscpc/*
 /adscpv/*
 /AShow.aspx?AID=
@@ -11311,6 +11312,7 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||tq.cn/floatcard?
 ||eastmoney.com/public/ad.tools.
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
@@ -11349,8 +11351,16 @@ facebook.com##div[class="ego_column pagelet _y92 _5qrt"]
 ||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
 ||ithome.com/block/headerline$subdocument
 ||mnks.cn/jk/appAD_
+||toutiao.haotui.com/data/js/0.js
+||bjwj2y.com/JS/LsJS.aspx
+||rjzxw.com/temp/index.files/logo2.gif
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
+2cto.com##.adv980
+iqiyi.com##IFRAME[style^="z-index:"]:last-child
+youth.cn###identifier-pannel
+2cto.com##.adv980box
+2cto.com##div[style^="float:left;width:300px;"]
 cheaa.com###AD002
 loldk.com##.appfix
 15w.com###rec
@@ -11447,7 +11457,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||bc.qunar.com^
 ||beacon.sina.com.cn^
 ||bendibao.com/js/count.js
-||brand.sogou.com^
 ||bshare.cn/bshare_view?Callback=
 ||bt.ktxp.com/iframe/statistics.js
 ||ca.cbsi.com.cn/rpv?
@@ -11581,3 +11590,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||ynet.com/c/js/manto.min.js
 ||counter.tianjimedia.com^
 ||baidu.com^*/w.gif?
+||tj.21ic.com^
+||sogou.com/cl.gif?
