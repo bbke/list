@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504091845
-! Last Modified: 2015年04月09日 18:45
+! Version: 201504091945
+! Last Modified: 2015年04月09日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1505,7 +1505,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 /2tu/ads/*
 /2tu/heisiwang.js
 /404.safedog.cn/sitedog_stat_new.html
-/5B18D06D98BB6B41A12C73EE4E4C2ECA.jpg
 /950-90.gif$domain=qire213.com
 /?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shcle.com|shclk.com|ttft.in|xhcbb.com
 /ad_nydus.png$domain=wowrk.com|x-berry.com
@@ -1843,8 +1842,6 @@ _vmind.qqvideo.tc.qq.com^
 ||25xz.com/ads/
 ||25xz.com/degeye.gif
 ||265.com/static/pages/img/*_ads.
-||265g.com/images/201410/201410291049582237.jpg
-||265g.com/images/201410/201410291714036270.jpg
 ||27.255.67.120^
 ||27.cn/iframe/r-con1.
 ||2btu.com/gg.jpg
@@ -5125,6 +5122,9 @@ _vmind.qqvideo.tc.qq.com^
 ||wuhan.net.cn/show.html
 ||file.cloud.sogou.com/*/superzone/
 ||hudong.pl.youku.com/interact/web/get/timeLinePlugin?
+||2ccc.com/images/sino.gif
+||21cnimg.com/zt/she/2015/shetext/300X201.jpg
+||21cnimg.com/zt/she/2015/shetext/she.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -6095,7 +6095,6 @@ csshello.com###topgg
 imanhua.com###topmon
 49lou.com,bt49.com###topwarning_7ree
 tianya.cn###travel_float
-2500sz.com###tuisong
 sohu.com###turn-ad
 qidian.com###two_dimensional
 tianya.cn###ty_msg_mod
@@ -6273,7 +6272,6 @@ simplecd.me##.ad-entry-sidebar-2
 bilibili.com,bilibili.kankanews.com,bilibili.tv##.ad-f
 qq.com##.ad-foot
 pixiv.net##.ad-footer + .hover-item
-2500sz.com##.ad-fumeiti
 simplecd.me##.ad-in-entry
 yiwugou.com##.ad-index-left
 yiwugou.com##.ad-index-right
@@ -6517,8 +6515,6 @@ ddpan.com,kdhome.net##.adv2
 kdhome.net##.adv3
 myhack58.com##.adv32
 qikuyou.com##.adv640
-2cto.com##.adv980
-2cto.com##.adv980box
 v1.cn##.advH198
 v1.cn##.advH250
 cndesign.com##.advRightGoogle
@@ -6955,7 +6951,6 @@ mobanwang.com##.g960
 dj97.com##.g96060
 dj97.com##.g96090
 gezila.com##.g980_90
-265g.com##.g_box
 233.com,rrting.net##.gads
 233.com##.gads2
 u77.com##.game-ad-item
@@ -7479,7 +7474,7 @@ v.17173.com##.playAd
 17173.com##.playGame
 ligelin.com,missioncouver.com.cn##.play_ad300_2
 news.ifeng.com##.play_center
-265g.com,kaifu.com##.play_fmt
+kaifu.com##.play_fmt
 565656.com##.player-bottom-gg
 play.jb51.net##.playlistRT
 play.jb51.net##.playtlbd
@@ -8209,7 +8204,6 @@ ipc.me##div[style$="width:300px;height:600px"]
 taodake.com##div[style$="width:960px; height:60px;"]
 360che.com##div[style$="width:960px;height:60px;"]
 cq.qq.com##div[style*="1000"][style*="60"]
-265g.com##div[style*="185"][style*="256"]
 39.net##div[style*="300"][style*="250"]
 wufangbo.com##div[style*="300px;"][style*="250px;"]
 dotamax.com##div[style*="300px;"][style*="250px;float:right;"]
@@ -8330,7 +8324,6 @@ duowan.com##div[style="width:980px;height:60px;margin:0 auto 10px;"]
 gaominews.com##div[style="width:992px; height:50px; position:relative; margin:0 auto; overflow:hidden; float:left; margin-top:4px;"]
 tongzhuo100.com##div[style="width:998px; height:90px;  border:1px solid #CCC; margin-top:5px"]
 pc360.net##div[style^="border:none;height:90px;width:728px;"]
-2cto.com##div[style^="float:left;width:300px;"]
 580k.com##div[style^="height:285px;width:360px;"]
 9ku.com##div[style^="height:90px;"]
 e0575.com##div[style^="margin:0 auto; width:960px; height:70px; "]
