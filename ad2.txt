@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201504101700
-! Last Modified: 2015年04月10日 17:00
+! Version: 201504111045
+! Last Modified: 2015年04月11日 10:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -217,15 +217,16 @@ jump.bdimg.com,tieba.baidu.com##.userinfo_scores
 ! 右上角
 jump.bdimg.com,tieba.baidu.com##.fMember_cnt
 jump.bdimg.com,tieba.baidu.com##.split
-jump.bdimg.com,tieba.baidu.com##.u_tbmall
-jump.bdimg.com,tieba.baidu.com##.u_mytbmall
 jump.bdimg.com,tieba.baidu.com##.u_app
-jump.bdimg.com,tieba.baidu.com##.u_wallet
-jump.bdimg.com,tieba.baidu.com##.u_xiu8
+jump.bdimg.com,tieba.baidu.com##.u_appcenterEntrance
+jump.bdimg.com,tieba.baidu.com##.u_bdhome
 jump.bdimg.com,tieba.baidu.com##.u_game
 jump.bdimg.com,tieba.baidu.com##.u_joinvip
-jump.bdimg.com,tieba.baidu.com##.u_appcenterEntrance
-jump.bdimg.com,tieba.baidu.com##.u_baiduPrivilege
+jump.bdimg.com,tieba.baidu.com##.u_mytbmall
+jump.bdimg.com,tieba.baidu.com##.u_split
+jump.bdimg.com,tieba.baidu.com##.u_tbmall
+jump.bdimg.com,tieba.baidu.com##.u_wallet
+jump.bdimg.com,tieba.baidu.com##.u_xiu8
 ! 顶部
 jump.bdimg.com,tieba.baidu.com###activity_nav_barrage_spring_enter
 jump.bdimg.com,tieba.baidu.com###game_live_list
