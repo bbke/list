@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504122215
-! Last Modified: 2015年04月12日 22:15
+! Version: 201504130615
+! Last Modified: 2015年04月13日 06:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -8534,7 +8534,7 @@ two.game.tw#@##ad_02
 okwei.com#@##ad_160
 unisharp.com#@##ad_banner
 shuaijiao.com#@##ad_big
-chanet.com.cn,xskwhd.com#@##ad_content
+chanet.com.cn,xingk.cc#@##ad_content
 wholehk.com#@##ad_headerbanner
 pupuapp.com#@##ad_img
 51job.com#@##ad_left
@@ -9089,7 +9089,6 @@ brandsales.58.com#@#div[id^="ad_"]
 ###ad_C
 ###Ad_Center1
 ###ad_container
-###ad_content
 ###ad_D
 ###ad_E
 ###ad_F
@@ -11501,9 +11500,12 @@ stackoverflow.com##div[id^="adzerk"]
 ||bjwj2y.com/JS/LsJS.aspx
 ||rjzxw.com/temp/index.files/logo2.gif
 ||127.net/external/js6promote.min.js
+||naajie.com/float.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+sxrtv.com###ad1
+sxrtv.com###ad2
 wenku.baidu.com##.tiger-vip-dialog
 wenku.baidu.com##.edu_class_pop_dialog
 mail.126.com,mail.163.com##DIV[id$="_BannerDiv"]
@@ -11680,7 +11682,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||qunar.com/render/ga.jsp?
 ||qunar.com/render/googlesem.jsp
 ||record.kuai.xunlei.com^
-||rs.sinajs.cn^
 ||runsky.com/phpstat/
 ||s.360.cn^
 ||s.so.360.cn^
@@ -11714,7 +11715,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||suning.cn/javascript/sn_da/sa.js
 ||tajs.qq.com^
 ||tcss.qq.com^
-||tf.360.cn^
 ||tongji.mafengwo.cn^
 ||tw.rd.yahoo.com^$image
 ||uuu9.com/photolog.html
