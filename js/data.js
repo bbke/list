@@ -3,7 +3,7 @@ var Config = getMStr(function(){
     var sites;
 /*
 资讯
-	IT 资讯,  http://www.ithome.com/, img/web/ithome.ico
+	IT 资讯,  http://www.ithome.com/list/, img/web/ithome.ico
 	抽屉新热榜,  http://dig.chouti.com/, img/web/chouti.ico
 	CNBeta,     http://www.cnbeta.com/, img/web/cnBeta.ico
 	果壳网,   http://www.guokr.com/, img/web/guokr.ico
@@ -18,29 +18,29 @@ var Config = getMStr(function(){
 娱乐
 	AcFun, http://www.acfun.tv/, img/web/acfun.ico
 	哔哩哔哩, http://www.bilibili.com/, img/web/bilibili.ico
+	吐槽网, http://www.tucao.cc/, img/web/tucao.ico
+	嘀哩嘀哩, http://www.dilidili.com/, img/web/dilidili.ico
+	52天, http://www.52tian.net/, img/web/52tian.ico
+
+资源
+	ZD423, http://www.zdfans.com/, img/web/zd423.ico
+	游民星空, http://www.gamersky.com/, img/web/gamersky.ico
 	迅播, http://www.2tu.cc/index.html, img/web/2tu.ico
 	BT天堂, http://www.bttiantang.com/, img/web/bttiantang.ico
 	电影天堂, http://www.dy2018.com/, img/web/dy2018.ico
 
-资源
-	ZD423, http://www.zdfans.com/, img/web/zd423.ico
-	软件阁, http://www.lite6.com/, img/web/lite6.ico
-	便携绿软, http://www.portablesoft.org/, img/web/portablesoft.ico
-	游民星空, http://www.gamersky.com/, img/web/gamersky.ico
-	网易云音乐, http://music.163.com/, img/web/music.ico
-
 应用
-	Bing翻译, http://translate.google.cn/#en/zh-CN/, img/web/translate.png
+	Bing翻译, http://www.bing.com/translator/, img/web/translate.png
 	百度地图, http://map.baidu.com/, img/web/gmaps.ico
 	站长工具, http://tool.oschina.net/, img/web/oschina.ico
 	百度云, http://pan.baidu.com/disk/home, img/web/pan.ico
 	BookLink, http://booklink.me/, img/web/booklink.ico
 综合
-	百度首页, http://www.baidu.com/, img/web/baidu.ico
+	百度首页, https://www.baidu.com/, img/web/baidu.ico
+	签到助手, http://www.minggo.tk/qd, img/web/minggo.ico
 	搜图标, http://www.easyicon.net/, img/web/easyicon.png
-	搜索图标, http://findicons.com/, img/web/findicons.ico
 	酷安网, http://www.coolapk.com/, img/web/coolapk.ico
-	签到助手, /qd, img/web/minggo.ico
+	网易云音乐, http://music.163.com/, img/web/music.ico
 */
 });
 
