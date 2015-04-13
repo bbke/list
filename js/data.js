@@ -36,7 +36,7 @@ var Config = getMStr(function(){
 	百度云, http://pan.baidu.com/disk/home, img/web/pan.ico
 	BookLink, http://booklink.me/, img/web/booklink.ico
 综合
-	百度首页, https://www.baidu.com/, img/web/baidu.ico
+	百度首页, http://www.baidu.com/, img/web/baidu.ico
 	签到助手, http://www.minggo.tk/qd, img/web/minggo.ico
 	搜图标, http://www.easyicon.net/, img/web/easyicon.png
 	酷安网, http://www.coolapk.com/, img/web/coolapk.ico
