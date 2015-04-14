@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504141115
-! Last Modified: 2015年04月14日 11:15
+! Version: 201504141745
+! Last Modified: 2015年04月14日 17:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -8664,6 +8664,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@/advert_$domain=wb.qq.com
 @@/advertise/*$domain=sfbuy.com|suning.com
 @@/advertisement/*$domain=muyingzhijia.com
+@@/advs/*$domain=sj-touch.com
 @@/advs/*$domain=dianxinos.com|gotobuy.com.tw|haseemobile.net|lklm.com|re-vat.com
 @@/adx.$domain=tanx.com
 @@/appledaily/homead/*_ad_logo.
