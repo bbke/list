@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504171645
-! Last Modified: 2015年04月17日 16:45
+! Version: 201504171715
+! Last Modified: 2015年04月17日 17:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2391,7 +2391,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ali213.net/images/promotion/
 ||alicdn.com/tps/*-950-90.
 ||alicdn.com/tps/i2/TB1FNhOHXXXXXbWXFXXSutbFXXX.jpg
-||alicdn.com/tps/i2/TB1xSqMHXXXXXaXXpXXQO4D5VXX-440-180.jpg
 ||alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
 ||alicdn.com^$domain=lightnovel.cn|wangyueblog.com
 ||alifeifei.net/s/*.js
@@ -5262,6 +5261,7 @@ _vmind.qqvideo.tc.qq.com^
 ||property.hk/ad_$script
 ||gg.18183.com^
 ||18183.com/templets/index2014/js/hanawa.js
+||outofmemory.cn/static/tgs/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -8767,6 +8767,7 @@ mobile01.com#@#.navad
 house.shangdu.com#@#.top_ad
 yhd.com#@#.txtAd
 brandsales.58.com#@#div[id^="ad_"]
+ntm.gov.tw#@#.ad-left
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@&ad_width=590&$domain=jd.com
