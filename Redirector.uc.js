@@ -8,7 +8,7 @@
 // @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.04.10.23
+// @version         15.04.17.14
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -20,11 +20,6 @@
     name: "google搜索结果禁止跳转",
     from: /^https?:\/\/www\.google\.com\/url\?.*url=([^&]*).*/i,
     to: "$1",
-    regex: true
-},{
-    name: "百度搜索无劫持",
-    from: /^https?:\/\/(www\.baidu\.com\/.*)([\?&]tn=[\w]+(.*))+/i,
-    to: "https://$1$3",
     regex: true
 },{
     name: "百度网盘lx.cdn重定向",
@@ -136,7 +131,7 @@
     regex: true
 },{
     name: "【https】常用网站（一）",
-    from: /^http:\/\/(upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
+    from: /^http:\/\/(upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me|www\.baidu\.com)(.*)/i,
     to: "https://$1$2",
     regex: true
 },{

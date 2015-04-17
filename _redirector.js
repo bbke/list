@@ -4,11 +4,6 @@ rules = [{
     to: "$1",
     regex: true
 },{
-    name: "百度搜索无劫持",
-    from: /^https?:\/\/(www\.baidu\.com\/.*)([\?&]tn=[\w]+(.*))+/i,
-    to: "https://$1$3",
-    regex: true
-},{
     name: "百度网盘lx.cdn重定向",
     from:/^http:\/\/lx\.cdn\.baidupcs\.com\/file\/(.*)$/,
     to: "http://qd.baidupcs.com/file/$1",
@@ -118,7 +113,7 @@ rules = [{
     regex: true
 },{
     name: "【https】常用网站（一）",
-    from: /^http:\/\/(upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me)(.*)/i,
+    from: /^http:\/\/(upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me|www\.baidu\.com)(.*)/i,
     to: "https://$1$2",
     regex: true
 },{
