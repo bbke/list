@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504170945
-! Last Modified: 2015年04月17日 09:45
+! Version: 201504171045
+! Last Modified: 2015年04月17日 10:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -753,7 +753,6 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 .com.cn/js/ad.
 /adflash/*
 /attachments/ad/*
-/ggpic/*
 /tan1.js
 !*** chinalist-specific.txt ***
 !youdao.com
@@ -850,6 +849,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /adblockTester1.js
 /adblockTester2.js
 /adintrs/*
+/ggpic/*
 /adpfile/*
 /AdPreview/*
 /adpuba/*
@@ -5158,6 +5158,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+47dy.com##.baiduHotWord
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -8903,8 +8904,8 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||go.goyeah.com/adpolestar/$object-subrequest
 @@||gov.cn/scripts/Comm/AdRotator.js
 @@||gpsdlm.com/images/ad.
-@@||gqdzs.com/gg/adview_
-@@||gqzzw.com/gg/adview_
+@@||gqdzs.com*/adview_
+@@||gqzzw.com*/adview_
 @@||guancha.cn/ad/m_
 @@||hd.duba.net/vip.ijinshan.com/repository/ad-images/$image,domain=vip.ijinshan.com
 @@||hh010.com/static/js/adsbygoogle_ad_adview_pic_cpc_cpm_cpa_guanggao_gg.js
