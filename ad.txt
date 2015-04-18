@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504182145
-! Last Modified: 2015年04月18日 21:45
+! Version: 201504182215
+! Last Modified: 2015年04月18日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1301,9 +1301,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||allyes.$third-party
 ||amazingmagics.com^
 ||aoparking.com^$third-party
-||apikozakanet-a.akamaihd.net^
-||apiscantacknet-a.akamaihd.net^
-||appnext-a.akamaihd.net^
 ||appnext.com^$third-party
 ||at918.com^$third-party
 ||at98.com^
@@ -1385,8 +1382,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||haomm.com^$third-party
 ||haoyiwang.net^$third-party
 ||hauchi.com.tw^$third-party
-||hdapp1003-a.akamaihd.net^
-||hdapp1008-a.akamaihd.net^
 ||heima8.com^$third-party
 ||hfjuki.com^
 ||hk-cm.ysm.yahoo.com^$third-party
@@ -1463,7 +1458,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||p0y.cn^$image
 ||p0y.cn^*.swf
 ||pagechoice.net^$third-party
-||positivefinds-a.akamaihd.net^$third-party
 ||poxzyu.com^$third-party
 ||prohost.com.tw^$third-party
 ||qidou.com^$third-party
@@ -2132,7 +2126,7 @@ _vmind.qqvideo.tc.qq.com^
 ||5dmail.net/js/
 ||5i.com/images/5ibbtangct.js
 ||5i.com/include/js/ad_
-||5icool.org/uploadfile/poster/1080x60.gif
+||5icool.org/uploadfile/poster/1080x60.
 ||5ilog.com/qq/js/jsgg.js
 ||5ips.net/love/
 ||5iyq.com/skin/default/js/topad
@@ -5265,10 +5259,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||xxrt.net/goto/
 ||shousibaocai.com/static/gaoqing.png
+||5vdd.com/iqiyi.jpg
+||726w.com/sohu.html
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+51credit.com###fuceng
 shangxueba.com##.c_user + .h20 + P
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
