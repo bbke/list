@@ -24,7 +24,7 @@ var Config = getMStr(function(){
 
 资源
 	ZD423, http://www.zdfans.com/, img/web/zd423.ico
-	游民星空, http://www.gamersky.com/, img/web/gamersky.ico
+	ED2000, http://www.ed2000.com/, img/web/ed2000.ico
 	迅播, http://www.2tu.cc/index.html, img/web/2tu.ico
 	BT天堂, http://www.bttiantang.com/, img/web/bttiantang.ico
 	电影天堂, http://www.dy2018.com/, img/web/dy2018.ico
