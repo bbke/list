@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504191545
-! Last Modified: 2015年04月19日 15:45
+! Version: 201504191615
+! Last Modified: 2015年04月19日 16:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1157,6 +1157,8 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
 ##.cari-ads
+##.it618_firstad_flex
+##a[href="http://ldpgl.code.mytanwan.com/htmlcode/1045.html"]
 !----------------------------------Ads-Union----------------------------------!
 /99vjj/*$third-party
 /adscpc/*
@@ -5262,6 +5264,9 @@ _vmind.qqvideo.tc.qq.com^
 ||shousibaocai.com/static/gaoqing.png
 ||5vdd.com/iqiyi.jpg
 ||726w.com/sohu.html
+||sinaimg.cn^$domain=ml.gg
+||taohuazu.net/6/*.gif
+/images/20$domain=sex169.info
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -7347,7 +7352,6 @@ letv.com##.interact_cnt
 bestxl.com##.intro_inner
 jrj.com.cn##.ipo-ad
 wn789.com##.iradbox
-taohua.me##.it618_firstad_flex
 bt.ktxp.com##.item-box2.money
 gaominews.com##.itemFloat
 wasu.cn##.item_lsit_ad
@@ -8094,7 +8098,6 @@ zhibo8.cc##a[href="http://daogou.zhibo8.cc/"]
 tsdm.net##a[href="http://dmf8.taobao.com"]
 hexieshe.com##a[href="http://juju.la"]
 bbs.jumpcn.com##a[href="http://jumpcn.taobao.com/"] > img
-xiaopian.com##a[href="http://ldpgl.code.mytanwan.com/htmlcode/1045.html"]
 hexieshe.com##a[href="http://moe.hao123.com/"]
 bxs.cc##a[href="http://www.aoye.cc/"]
 178.com##a[href="http://www.bigeye.tv/"]
@@ -8780,7 +8783,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@.png#$domain=thisav.com
 @@.s1979.com/ad/ad*.mp4
 @@.tudouui.com^*&adSourceId=
-@@/126_ad.$domain=sex169.org
+@@.gif#$domain=sex169.info|sex169.org
 @@/168logo.gif$domain=16668.biz|16668.cc|16668.com|16668.net|16668.org|16668tu.com
 @@/2kuai/images/ad
 @@/32666/images/ad
@@ -9098,6 +9101,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||sdc.pingan.com^$~image
 @@||selfimg.com.cn/??
 @@||serve.netsh.org^$elemhide
+@@||sex169.info^$elemhide
 @@||sex169.org^$elemhide
 @@||sf-express.com/.galleries/advertisement/
 @@||share.dmhy.*/generate-captcha?
