@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504202215
-! Last Modified: 2015年04月20日 22:15
+! Version: 201504202245
+! Last Modified: 2015年04月20日 22:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1036,6 +1036,11 @@ hk.search.auctions.yahoo.com###yauadysmh
 |http://acs.
 |http://ad.
 |http://gg.$third-party
+/js/ads/dui.js
+/js/ads/piao.js
+/js/ads/top
+/js/ads/youxiajiao.js
+/js/ads/zuoxiajiao.js
 !------------------------General element hiding rules-------------------------!
 ###MyMoveAd
 ###QQ_Full
@@ -5274,6 +5279,7 @@ _vmind.qqvideo.tc.qq.com^
 ||sooopu.com/images/web/cg328/cg.js
 ||sooopu.com/js/contentad330.js
 ||sooopu.com/js/*950.js
+||thisav.com/js/pu.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -9193,8 +9199,6 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||zjol.com.cn^*/index.jsp?newsid=$elemhide
 ! Fixed Malware Domains rules
 @@/\.7k7k.com\/(?!(ad|load))/$domain=7k7k.com
-@@||web.xdcdn.net^$domain=nc.xd.com
-!@@||valf.atm.youku.com/crossdomain.xml$domain=~tudou.com
 !--------------------------------Tracking Systems-----------------------------!
 @@||7m.cn/v2/js/analyse.js
 @@||analytics.163.com/ntes.js
@@ -11628,6 +11632,8 @@ stackoverflow.com##div[id^="adzerk"]
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
 ||tq.cn/floatcard?
+||mitbbs.com/img/app
+||cmsjs.eastmoney.com/js/news_fixed_left.js
 ||eastmoney.com/public/ad.tools.
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
@@ -11652,8 +11658,6 @@ stackoverflow.com##div[id^="adzerk"]
 ||koolearn.com/v2/js/indexAD.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||lab.feng.com/images_new/ad-
-||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
-||netease.com/tie/2015/2/2/yc3.jpg
 ||netease.com^*bobologo
 ||pcgames.com.cn/g/extlin/pcdownpic/
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
@@ -11675,6 +11679,8 @@ stackoverflow.com##div[id^="adzerk"]
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+meitu.com###meipaiFixed
+163.com,~love.163.com##A[href^="http://love.163.com/"]
 blog.163.com###r_mlofteriframe
 blog.163.com###r_mlofteriframe2
 17173.com##.js-lol-pop
@@ -11694,7 +11700,8 @@ loldk.com##.appfix
 15w.com###rec
 0439.com###kanfang
 duowan.com##.lolboxapps-qrcode
-www.163.com###layout-new2 A[href*="www.kaola.com"]
+163.com##A[href*=".kaola.com"]:first-child:last-child
+163.com##.quickmark
 ithome.com##DIV[style^="width:960px;height:60px;"]
 360.cn###weishi-alert
 udn.com###ec
