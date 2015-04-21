@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504212345
-! Last Modified: 2015年04月21日 23:45
+! Version: 201504220615
+! Last Modified: 2015年04月22日 06:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1476,6 +1476,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||zp265.com^$third-party
 !------------------------------------Popups-----------------------------------!
 .189.gd^*.html?p=$popup,third-party
+||ark.letv.com/t?$popup
 .com/?Intr=$popup
 ||iqiyi.com/track$popup
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|megaline.co|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tinylinks.co|tnabucks.com|tubeviral.com|ultrafiles.net|urlbeat.net|whackyvidz.com|yyv.co|zff.co
@@ -2349,7 +2350,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ayxz.com/images/VStart.gif
 ||b5m.com/images/banner.jpg
 ||b5m.com/static/html/*/popup.html?
-||baby-kingdom.com/reqsads?
 ||backchina.com/banners/
 ||badmintoncn.com/cbo_gg/
 ||baidu.com/brands/yxtg/source/yxCoupletsAd.js
@@ -4190,7 +4190,7 @@ _vmind.qqvideo.tc.qq.com^
 ||qiyipic.com/common/20141112/225x230.jpg
 ||qiyipic.com/common/fix/dasdasdasdk.jpg
 ||qiyipic.com/common/fix/rebull_
-||qiyipic.com/dianshiju/fix/hysxm20150113_bg
+||qiyipic.com^*_bg0
 ||qiyipic.com/zongyi/fix/mxdj
 ||qiyipic.com/zongyi/fix/runningman20141008_bg02.jpg
 ||qiyipic.com/zongyi/fix/runningman20141008_bg03.jpg
@@ -4302,8 +4302,7 @@ _vmind.qqvideo.tc.qq.com^
 ||s1979.com/html/ad_js/
 ||safedom.net/edm/ad/
 ||saibeinews.com/index.php?m=poster&c=index&a=show_poster&
-||sam.baby-kingdom.com^
-||sam1.baby-kingdom.com^
+||sam*.baby-kingdom.com^
 ||same*.jrj.com.cn^$script,subdocument
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
@@ -5191,6 +5190,9 @@ _vmind.qqvideo.tc.qq.com^
 ||qiyipic.com/common/*/baiyao.
 ||qiyipic.com/common/*/250-230.
 ||qiyipic.com/common/*/980-
+||iqiyi.com/common/flashplayer/*/pause.swf
+||itc.cn^*&prod=ad&
+||letvimg.com^*_phone/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -8210,8 +8212,6 @@ pixnet.net##div[id*="-AD-"]
 pixnet.net##div[id*="-Ad-"]
 pixnet.net##div[id*="-aD-"]
 mcdulll.com,pixnet.net##div[id*="-ad-"]
-baby-kingdom.com##div[id*="Banner Zone"] + script + a
-baby-kingdom.com##div[id*="Banner Zone"] + script + object
 chinaluxus.com##div[id*="ExtraAD"]
 tianya.cn##div[id*="_AD_"]
 e23.cn##div[id*="adv"]
@@ -11532,6 +11532,8 @@ stackoverflow.com##div[id^="adzerk"]
 ||knet.cn^$third-party
 ||looyu.com^$third-party
 ||crs.baidu.com^
+||lxbjs.baidu.com^$third-party
+||goutong.baidu.com^
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
 ||tsdm.net/qxs.php/|$popup,domain=www.tsdm.net
@@ -11586,9 +11588,11 @@ stackoverflow.com##div[id^="adzerk"]
 ||127.net/external/js6promote.min.js
 ||naajie.com/float.js
 ||lofter.com/mailEntry.do?blogad
+||xcar.com.cn/bbs/adfocus.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+xcar.com.cn###show_car
 meitu.com###meipaiFixed
 163.com,~love.163.com##A[href^="http://love.163.com/"]
 blog.163.com###r_mlofteriframe
@@ -11600,7 +11604,6 @@ sxrtv.com###ad2
 iqiyi.com##DIV[style^="z-index: 4200; position: absolute; left:"]
 wenku.baidu.com##.tiger-vip-dialog
 wenku.baidu.com##.edu_class_pop_dialog
-mail.126.com,mail.163.com##DIV[id$="_BannerDiv"]
 iqiyi.com##IFRAME[style^="z-index:"]:last-child
 youth.cn###identifier-pannel
 2cto.com##.adv980box
@@ -11835,3 +11838,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||baidu.com^*/w.gif?
 ||tj.21ic.com^
 ||sogou.com/cl.gif?
+||optaim.com^$third-party
+||ark.letv.com/t?
+/cp2.gif?*=qc_
+||iqiyi.com/etx?
+||iqiyi.com/track
