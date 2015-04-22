@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201504222100
-! Last Modified: 2015年04月22日 21:00
+! Version: 201504222245
+! Last Modified: 2015年04月22日 22:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -138,7 +138,7 @@ tuite.googlecode.com
 .turbobit.net
 ||twimg.com
 ||twitter.com
-||tw.yahoo.com
+||tw*.yahoo.com
 ||ultraxs.com
 ||uploadhouse.com
 ||videomega.tv
