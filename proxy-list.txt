@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201504022130
-! Last Modified: 2015年04月02日 21:30
+! Version: 201504222100
+! Last Modified: 2015年04月22日 21:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -29,6 +29,7 @@
 ||blogblog.com
 ||blogger.com
 ||blogspot.com
+||bluestacks.com
 ||books.com.tw
 ||btspread.com
 ||buzzfed.com
@@ -96,6 +97,7 @@ myboooks.googlepages.com
 ||nimplus.com
 ||pastebin.com
 ||photobucket.com
+||pic*.dwnews.net
 ||picktorrent.com
 ||piclect.com
 ||picpar.com
@@ -105,6 +107,7 @@ myboooks.googlepages.com
 ||popo8.com
 ||pornhd.com
 ||pornhub.com
+||psiphon.ca
 ||redtube.com
 ||scallyguy.net
 ||sdy4.me
@@ -135,6 +138,7 @@ tuite.googlecode.com
 .turbobit.net
 ||twimg.com
 ||twitter.com
+||tw.yahoo.com
 ||ultraxs.com
 ||uploadhouse.com
 ||videomega.tv
@@ -153,7 +157,6 @@ video.yahoo.com
 ||xtube.com
 ||xvideos.com
 @@||yahoo.cn
-||yahoo.com
 ||yobt.com
 @@||youdao.com
 @@||youku.com
