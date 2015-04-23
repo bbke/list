@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201504222245
-! Last Modified: 2015年04月22日 22:45
+! Version: 201504232215
+! Last Modified: 2015年04月23日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -53,14 +53,13 @@
 ||free.fr
 ||freegateget.googlepages.com
 ||fukugan.com
-gaeproxy.googlecode.com
 ||gaymaletube.com
 ||gaytube.com
-gfwinterceptor.googlecode.com
 ||ggpht.com
 ||gmail.com
 ||goo.gl
 ||googleapis.com
+||googlecode.com
 .google.com%2Fmoderator
 ||googlesyndication.com
 ||googleusercontent.com
@@ -68,7 +67,6 @@ gfwinterceptor.googlecode.com
 ||gospelherald.com
 ||greatfire.org
 ||gstatic.com
-gtap.googlecode.com
 ||h2porn.com
 ||h31bt.com
 ||hardsextube.com
@@ -134,7 +132,6 @@ myboooks.googlepages.com
 ||tubecao.com
 .tube.com
 @@||tudou.com
-tuite.googlecode.com
 .turbobit.net
 ||twimg.com
 ||twitter.com
