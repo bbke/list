@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201504251445
-! Last Modified: 2015年04月25日 14:45
+! Version: 201504251500
+! Last Modified: 2015年04月25日 15:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -16,6 +16,7 @@ ifeng.com##a[href^="deliver.ifeng.com/"]
 i.ifeng.com##a[href^=".ifeng.com/ad/"]
 ithome.com##.sfa.block1 ,.app ,.weixin
 mp.weixin.qq.com###js_pc_qr_code
+news.sina.com.cn##.news_weixin_ercode
 pornhub.com##.playlist-bar-tray,#adA,#adB
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 tv.sohu.com###referr_bd_box
