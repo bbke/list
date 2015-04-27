@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504271245
-! Last Modified: 2015年04月27日 12:45
+! Version: 201504271845
+! Last Modified: 2015年04月27日 18:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4796,7 +4796,7 @@ _vmind.qqvideo.tc.qq.com^
 ||tingroom.com/skin/dy/images/2400200
 ||tingroom.com/skin/pt/images/tingroombanner.gif
 ||tingroom.com/tingroom/ad/
-||tinypic.com/2iudpms.gif
+||tinypic.com^$domain=mimima.com|jandown.com
 ||tinypic.com^$domain=208.94.244.98|ac168.info|aisex.com
 ||tk.504pk.com^
 ||tk001.com/quote$subdocument
@@ -5335,6 +5335,10 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+999.com###bot_gou
+999.com###j_tab_taobao
+999.com##.midd-fck
+999.com##A[href*=".taobao."][href*="?"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -5980,10 +5984,8 @@ iwan.baidu.com###j-ditu
 pchome.net###j-ghs
 iwan.baidu.com###j-media
 yaolan.com###j_focus_img
-999.com###j_search_keys
 jump.bdimg.com,tieba.baidu.com,tieba.com###j_star_bus_before
 jump.bdimg.com,tieba.baidu.com,tieba.com###j_ten_years
-999.com###j_top_test
 jump.bdimg.com,tieba.baidu.com,tieba.com###j_worldcup_info_banner
 freehao123.com###jieweigg
 yb983.com###jihuaslide
@@ -7145,7 +7147,6 @@ html5china.com##.firstnews
 dashi.com##.fix_twice
 sisiww.com##.fixediv
 jn256.com##.fl_h180
-999.com##.flashObject
 hualady.com##.flash_ad1
 hualady.com##.flash_ad2
 taoguba.com.cn##.flash_div
@@ -7578,7 +7579,6 @@ haosou.com##.mh-adIco
 baby-kingdom.com##.mian + .foot > .foot-top:first-child
 qq.com##.mian-ad
 115.com##.mid-banner
-999.com##.midd-test > .imp
 360-bo.com##.middiv > div[style="text-align:center;"]
 timedg.com##.middleCrossAdvertise
 17173.com##.minigame
@@ -8000,7 +8000,6 @@ chinaluxus.com,northnews.cn##.top-banner
 baidu.com##.top-banner-ad-wrap
 37.com##.top-flash
 163.com##.top-gg
-999.com##.top-zt-list
 84zr.com##.top1_box
 www.uuu9.com##.top1bar
 uuu9.com##.top2box
