@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201504262030
-! Last Modified: 2015年04月26日 20:30
+! Version: 201504271715
+! Last Modified: 2015年04月27日 17:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -153,7 +153,6 @@ video.yahoo.com
 @@||www.tripod.com
 ||xhamster.com
 ||xhcdn.com
-||xrea.com
 ||xtube.com
 ||xvideos.com
 @@||yahoo.cn
