@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201504281745
-! Last Modified: 2015年04月28日 17:45
+! Version: 201504282145
+! Last Modified: 2015年04月28日 21:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -8152,7 +8152,7 @@ loldk.com##A[href*="?ADTAG="]
 5184.com##[class^="gk_gg"]
 gamme.com.tw##[class^="sidead_"]
 lknovel.lightnovel.cn##[href^="/"][href*="#"]
-douyutv.com##[href^="http://www.buffst.com/"]
+douyutv.com##a[href^="http://www.buffst.com/"]
 jjwxc.net##[id^="adp_"]
 77bike.com,ksbbs.com##[id^="ads_"]
 e0575.cn,sz.zj.cn##[id^="ads_c_"]
@@ -8867,6 +8867,7 @@ yhd.com#@#.txtAd
 brandsales.58.com#@#div[id^="ad_"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@/pop.js|$domain=coolpad.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
