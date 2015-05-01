@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         15.04.30.19
+// @version         15.05.01.14
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADsL.uc.js
 // ==/UserScript==
 (function() {
@@ -74,7 +74,7 @@
         },
         'sohu_liv': {
            'player': refD + 'sohulive.swf',
-           're': /http:\/\/\d+\.\d+\.\d+\.\d+(:\d+)?(\/test)?\/(testplayer|player|webplayer)\/(main|playershell)\.swf/i
+           're': /http:\/\/\d+\.\d+\.\d+\.\d+(:\d+)?(\/test)?\/(testplayer|player|webplayer)\/(main|main\d|playershell)\.swf/i
         },
 		'pps': {
             'player': refD + 'pps.swf',
