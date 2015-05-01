@@ -8,7 +8,7 @@
 // @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.04.17.14
+// @version         15.05.01.16
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -39,6 +39,7 @@
 },{
     name: "Google Ajax/Fonts http >> 360公共库",
     from: /^https?:\/\/(ajax|fonts)\.googleapis\.com\/(.*)$/i,
+    from: /^https:\/\/(ajax|fonts)\.useso\.com\/(.*)$/i,
     to: "http://$1.useso.com/$2",
     regex: true
 },{
@@ -59,7 +60,7 @@
 },{
     name: "sourceforge >> 镜像站点",
     from: /^https?:\/\/sourceforge\.net\/projects\/(\w)([a-z0-9A-Z_\-\.])([a-z0-9A-Z_\-\.]*)(\/files(\/.*))?/i,
-    to: "http://ftp.jaist.ac.jp/pub/sourceforge/$1/$1$2/$1$2$3$5",
+    to: "http://www.mirrorservice.org/sites/download.sourceforge.net/pub/sourceforge/$1/$1$2/$1$2$3$5",
     regex: true
 },{
     name: "Gravatar头像 >> 多说",
