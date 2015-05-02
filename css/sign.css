@@ -28,6 +28,10 @@ img { max-width: 100%;}
   border-bottom: 0.1em solid #555;
 }
 #title a{
+    list-style: none;
+    float:left;
+    height:1.6em;
+    width:7em;
     color: #FFF;
     text-decoration:none;
 }
