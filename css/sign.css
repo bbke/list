@@ -34,7 +34,7 @@ img { max-width: 100%;}
     color: #FFF;
     text-decoration:none;
 }
-#titile a:hover{
+#title a:hover{
     text-decoration: none;
     transition:color 0.423s ease,text-shadow 0.423s ease;
     color:rgba(255,200,0,0.9);
