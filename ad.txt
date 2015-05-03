@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201505032015
-! Last Modified: 2015年05月03日 20:15
+! Version: 201505032115
+! Last Modified: 2015年05月03日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5346,6 +5346,9 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+muzhi.baidu.com##.leftnest
+muzhi.baidu.com##.rightnest
+muzhi.baidu.com##.wgt-container
 jump.bdimg.com,tieba.baidu.com,tieba.com###duoku_servers_list
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -6337,7 +6340,6 @@ sohu.com###turn-ad
 qidian.com###two_dimensional
 tianya.cn###ty_msg_mod
 udn.com###udn_scupio_responsive_wrapper
-zhidao.baidu.com###union-qbbanner
 jump.bdimg.com,tieba.baidu.com,tieba.com###union_mod
 v.163.com###v_shapeLeft_divId
 v.163.com###v_shapeRight_divId
@@ -8105,7 +8107,7 @@ xgrb.cn##.warp_ad
 ptbus.com##.weixin_ad
 ttplay8.cn,xk77.com##.wenad
 d5yuansu.com##.wenadds
-zhidao.baidu.com##.wgt-ads
+baidu.com##.wgt-ads
 zhidao.baidu.com##.wgt-bottom-ask
 maxthon.cn##.widget-main-ad-img
 maxthon.cn##.widget-main-hot-links
