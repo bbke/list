@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505062015
-! Last Modified: 2015年05月06日 20:15
+! Version: 201505062045
+! Last Modified: 2015年05月06日 20:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -2491,7 +2491,6 @@ _vmind.qqvideo.tc.qq.com^
 ||bmp1.ali213.net/pubjs/index_sc_utf8.js
 ||bo816.com/img/luyilu.gif
 ||bokeboke.net/wp-content/uploads/
-||bokerb.com/images/00987.png
 ||bomb01.com/fancybox/jquery.fancybox.
 ||bookabc.net/js/tt.js
 ||bookabc.net/js/xian
@@ -5260,6 +5259,7 @@ _vmind.qqvideo.tc.qq.com^
 .gif|$domain=51dll.com
 ||51xxs.com/users/public/*.swf
 ||918999.com/xjgg/
+||bejson.com/imgs/j950-90.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -8519,7 +8519,7 @@ vipyl.com##div[style="width:692px;height:282px;margin:0px 10px 0px 10px; padding
 neihan8.com##div[style="width:728px; margin: 20px auto 0px;"]
 mjtd.com##div[style="width:728px;height:90px;margin: 0px;"]
 131458.com##div[style="width:788px;border:solid 1px #def0e1;padding:0 10px;overflow:hidden;background:#fff9f3; height:35px;line-height:35px;"]
-bejson.com##div[style="width:900px;text-align:center"]
+bejson.com##DIV[style="width:900px;text-align:center;"]
 dmzj.com##div[style="width:940px;height:60px;border:none;margin:auto;padding:0px;"]
 weshequ.com##div[style="width:940px;margin:0 auto;height:200px;"]
 linyiren.com##div[style="width:960px; height:70px; margin:2px auto;"]
