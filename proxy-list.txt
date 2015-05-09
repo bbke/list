@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201504271715
-! Last Modified: 2015年04月27日 17:15
+! Version: 201505091815
+! Last Modified: 2015年05月09日 18:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -109,6 +109,7 @@ myboooks.googlepages.com
 ||pornhub.com
 ||psiphon.ca
 ||redtube.com
+||r.search.yahoo.com
 ||scallyguy.net
 ||sdy4.me
 .sex8.cc
