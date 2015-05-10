@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201505102215
-! Last Modified: 2015年05月10日 22:15
+! Version: 201505102345
+! Last Modified: 2015年05月10日 23:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5403,6 +5403,9 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+yahoo.com##A[href^="https://beap.gemini.yahoo.com/"]
+yahoo.com##A[href^="https://beap.gemini.yahoo.com/"] + .NoTextDecoration
+yahoo.com##DIV[data-ad-feedback-beacon]
 it165.net##.adv728a
 it165.net##.adv728b
 it165.net##.advyello
@@ -6805,7 +6808,6 @@ gamme.com.tw##.adread
 yinsha.com##.adrt01
 100bt.com,591.xxx,appinn.com,appledaily.com.tw,cnodejs.org,danyang.com,hangzhou.com.cn,haokan5.com,hc360.com,html-js.com,lanrenzhijia.com,nownews.com,oxgood.com,pc841.com,qz930.com,ranwen.net,ranwen.org,sina.com,xunleihd.com,yeeyi.com##.ads
 wpdaxue.com##.ads-in-post1
-tianya.cn##.ads-loc-holder
 appinn.com##.ads-m
 360.cn##.ads-pic
 iqilu.com##.ads-wrap
