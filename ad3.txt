@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505112315
-! Last Modified: 2015年05月11日 23:15
+! Version: 201505112345
+! Last Modified: 2015年05月11日 23:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -11733,6 +11733,9 @@ stackoverflow.com##div[id^="adzerk"]
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
 ||tq.cn/floatcard?
+||gtimg.com/finance/js/st/p/news_ad_
+||forex.com.cn/index.php/Invoking/tanchukuang
+||forex.com.cn/statics/images/ewm.jpg
 ||mitbbs.com/img/app
 ||cmsjs.eastmoney.com/js/news_fixed_left.js
 ||eastmoney.com/public/ad.tools.
@@ -11781,6 +11784,8 @@ stackoverflow.com##div[id^="adzerk"]
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+sogou.com##.side_adv_wrap
+sogou.com##.top_adv_wrap
 taizhou.com.cn##.duilian
 taizhou.com.cn##.duilian2
 52wmb.com###popContent
