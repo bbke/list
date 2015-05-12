@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201505122315
-! Last Modified: 2015年05月12日 23:15
+! Version: 201505122345
+! Last Modified: 2015年05月12日 23:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1681,7 +1681,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /gennie_b.htm$domain=50.7.31.228|50.7.31.230|tvboxnow.com
 /gif/*$image,domain=txzqw.com
 /gyw_index/*/images/ad_
-/hondacrvs_appledaily_bg.jpg
+/homead/*_appledaily_bg.
 /house/images/*$domain=bbs.linyiren.com|www.linyiren.com
 /html/taobao_focus_
 /ifengRotatorAd.js
@@ -5420,6 +5420,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tsdm.net###pgt + DIV > P[style="float:left;width:100%"]
 backchina.com##.newsad
 qq.com###fr_ad
 hfchenming.com.cn##.play_ad300_2
@@ -8796,7 +8797,6 @@ china.com##object[width="360"][height="300"]
 sina.com.cn##p + .article-video
 bbs.6park.com##p > font[color="E6E6DD"]
 blue-way.com.tw,like101.com.tw##p:first-child + [border="1"][width="100%"]
-tsdm.net##p[style="float:left;width:100%"] > a[href*=".taobao.com"]
 6.gy##p[style="text-align: center;"]
 blog.jobbole.com,c114.net##script + a[href^="http"]
 csj.xinhuanet.com##script + center > a > img
