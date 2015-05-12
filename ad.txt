@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201505121915
-! Last Modified: 2015年05月12日 19:15
+! Version: 201505121945
+! Last Modified: 2015年05月12日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5411,6 +5411,10 @@ _vmind.qqvideo.tc.qq.com^
 ||ithome.com/NewsUploadFiles/focus/6.jpg
 ||ithome.com/NewsUploadFiles/focus/3.jpg
 ||21edu8.com/js/mymoney/
+||xinmin.cn/framepage/foot1.htm
+||xinmin.cn/framepage/left1.htm
+||xinmin.cn/framepage/top
+||xinmin.cn/framepage/yqLink1.htm
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -5418,7 +5422,7 @@ gpcxw.com###AA2
 21edu8.com###wrap[style="margin-top:5px;margin-bottom:5px;height:90px;"]
 21edu8.com##.tac[style="height:250px;margin-top:10px;margin-bottom:10px"]
 ithome.com###tt2
-hkgolden.com##TABLE[style="margin-bottom: 7px;"] > TBODY > TR > TD > .repliers[width="100%"][border="1"]
+hkgolden.com###ctl00_ContentPlaceHolder1_view_form > DIV > TABLE[width="100%"] > TBODY > TR > TD:not([align]) > .repliers[width="100%"][border="1"]
 yawen8.com###add4
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
