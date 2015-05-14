@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505141615
-! Last Modified: 2015年05月14日 16:15
+! Version: 201505141645
+! Last Modified: 2015年05月14日 16:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -146,8 +146,8 @@ chaturbate.com##.banner, .ad
 ||www.google.*/imghover?$image
 ||www.google.*/url?$image
 ! Youku
-||static.youku.com/*/index/js/popup.js
-||static.youku.com/*/index/js/qwindow.js
+!||static.youku.com/*/index/js/popup.js
+!||static.youku.com/*/index/js/qwindow.js
 ! Zol
 @@||icon.zol-img.com.cn/public/js/web_foot.js
 ! 铁通
@@ -1208,7 +1208,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||aidaicn.com^$third-party
 ||ajaxcdn.org^
 ||ajhdf.com^$third-party
-||alimama.cn^$third-party,domain=~alimama.com|~budou.com|~foctop.com|~hetongal.ac.cn|~meidebi.com|~tanx.com|~taobao.com|~taobao.com.cn|~youhuiyouhui.com.cn
+||alimama.cn^$third-party,domain=~alimama.com|~budou.com|~foctop.com|~hetongal.ac.cn|~meidebi.com|~qinqintejia.com|~tanx.com|~taobao.com|~taobao.com.cn|~youhuiyouhui.com.cn
 ||allyes.$third-party
 ||amazingmagics.com^
 ||aoparking.com^$third-party
