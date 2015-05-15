@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201505151345
-! Last Modified: 2015年05月15日 13:45
+! Version: 201505151515
+! Last Modified: 2015年05月15日 15:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5430,6 +5430,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jump.bdimg.com,tieba.baidu.com,tieba.com###game_live_list + #content_leftList > .interviewZero > #threadListGroupCnt
 cww.net.cn##.guanggaolan
 cww.net.cn##.xiatu1
 hc360.com,yaolan.com###AD
@@ -11865,6 +11866,7 @@ stackoverflow.com##div[id^="adzerk"]
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
 ||tq.cn/floatcard?
+||lofter.com/blogPhotoAd?
 ||gtimg.com/finance/js/st/p/news_ad_
 ||forex.com.cn/index.php/Invoking/tanchukuang
 ||forex.com.cn/statics/images/ewm.jpg
@@ -11916,6 +11918,7 @@ stackoverflow.com##div[id^="adzerk"]
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+baidu.com##.s-tutorial-tip
 sogou.com##.side_adv_wrap
 sogou.com##.top_adv_wrap
 taizhou.com.cn##.duilian
@@ -11988,6 +11991,7 @@ news.baidu.com##.recommend-animate
 news.baidu.com##.recommend-mask
 hao123.com##.slidetoolbarContainr
 hao123.com##.tvtip
+163.com##.m-adv
 feng.com##.wea_d_panel_980
 feng.com##div[class^="wea_d_"]
 feng.com##div[class^="wep_e_"]
