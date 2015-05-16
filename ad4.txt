@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201505151515
-! Last Modified: 2015年05月15日 15:15
+! Version: 201505160915
+! Last Modified: 2015年05月16日 09:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -118,7 +118,6 @@ tieba.baidu.com##.edui-icon-medal
 tieba.baidu.com##.poster_head_surveillance
 tieba.baidu.com##.thread_recommend
 ! 其他
-jump.bdimg.com,tieba.baidu.com,tieba.com###game_live_list + #content_leftList > .interviewZero > #threadListGroupCnt
 jump.bdimg.com,tieba.baidu.com,tieba.com###baiduweishiDown
 jump.bdimg.com,tieba.baidu.com,tieba.com###duoku_servers_list
 jump.bdimg.com,tieba.baidu.com,tieba.com###encourage_entry
@@ -127,6 +126,7 @@ jump.bdimg.com,tieba.baidu.com,tieba.com###game_cover_head_wrapper
 jump.bdimg.com,tieba.baidu.com,tieba.com###game_forum
 jump.bdimg.com,tieba.baidu.com,tieba.com###game_frs_head
 jump.bdimg.com,tieba.baidu.com,tieba.com###game_live_list
+jump.bdimg.com,tieba.baidu.com,tieba.com###game_live_list + #content_leftList > .interviewZero > #threadListGroupCnt
 jump.bdimg.com,tieba.baidu.com,tieba.com###game_rank
 jump.bdimg.com,tieba.baidu.com,tieba.com###global_notice_wrap
 jump.bdimg.com,tieba.baidu.com,tieba.com###j_star_bus_before
