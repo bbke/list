@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505161015
-! Last Modified: 2015年05月16日 10:15
+! Version: 201505161815
+! Last Modified: 2015年05月16日 18:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1064,6 +1064,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##IMG[width="960"][src*=".sinaimg."]
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
+||yyp17.com^
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
 /adscpc/*
@@ -9107,9 +9108,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||cb.baidu.com/ecom?di=817641&
 @@||cb.baidu.com/ecom?di=893557&
 @@||cb.baidu.com/ecom?di=931706&$domain=narutom.com
-@@||cb.baidu.com/ecom?di=933917&
-@@||cb.baidu.com/ecom?di=933918&
-@@||cb.baidu.com/ecom?di=933920&
+@@||cb.baidu.com/ecom?di=$domain=400gb.com|bego.cc|ctfile.com|pipipan.com
 @@||cb.baidu.com/ecom?di=943217&
 @@||cbjs.baidu.com/js/m.js$domain=77mh.com|colafile.com|narutom.com|pctowap.com|pic.tiexue.net|shushu5.com|shushuw.cn|xiiku.com
 @@||cbjs.baidu.com/js/o.js$domain=666ccc.com|g3000.com.cn|hfchenming.com.cn|missioncouver.com.cn|op.52pk.com|yue365.com
