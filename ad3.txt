@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505162015
-! Last Modified: 2015年05月16日 20:15
+! Version: 201505162115
+! Last Modified: 2015年05月16日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -155,7 +155,9 @@ chaturbate.com##.banner, .ad
 |http://*/nh/k.php?$third-party
 ! 百度
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
+||websocket.pan.baidu.com^
 ||s1.pan.bdstatic.com/yun-static/common-cdn/widget/adTips/mboxTips/
+||s1.pan.bdstatic.com/yun-static/clouddisk-ui-cdn/widget/activity/decrease/
 ||wenku.baidu.com/static/view/*.js
 m.baidu.com,wap.baidu.com##div[data-role="page_view_topad"]
 yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-issue-guide
