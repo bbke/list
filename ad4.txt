@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201505202215
-! Last Modified: 2015年05月20日 22:15
+! Version: 201505210600
+! Last Modified: 2015年05月21日 06:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -10,8 +10,6 @@
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ! 屏蔽一些图片和脚本
-*/tb/static-*frs/img/frs_bright/
-@@/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
 */img/history_game/$domain=tieba.baidu.com
 */widget/spage_game_tab/$domain=tieba.baidu.com
 ||xiu8.com
@@ -43,6 +41,8 @@
 ||bdstatic.com/tb/static-*common/style/common/
 @@||bdstatic.com/tb/static-*common/style/common/userbar_icon_png*.png
 ||bdstatic.com/tb/static-*common/widget/flash_lcs/swf/
+||bdstatic.com/tb/static-*frs/img/frs_bright/
+@@||bdstatic.com/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
 ||bdstatic.com/tb/static-*frs/widget/frs_spread_list/
 ||bdstatic.com/tb/static-frs/js/zyq_mod_frs_*.js
 ||bdstatic.com/tb/static-liveshow/
