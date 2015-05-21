@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505211315
-! Last Modified: 2015年05月21日 13:15
+! Version: 201505211345
+! Last Modified: 2015年05月21日 13:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5349,6 +5349,9 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+wenku.baidu.com##.tiger-vip-dialog
+wenku.baidu.com##.edu_class_pop_dialog
+i.ifeng.com##.ad-list
 m.haosou.com##.e_idea_list
 sogou.com##.ad_result
 i.ifeng.com##.ad_list
@@ -9159,7 +9162,11 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||bzfxw.com/adfile/syycss.js
 @@||bzfxw.com/adfile/xzhf3.js
 @@||cb.baidu.com/ecom?$domain=colafile.com|pctowap.com|play.yue365.com|shushuw.cn
-@@||cb.baidu.com/ecom?di=$domain=400gb.com|bego.cc|ctfile.com|excelhome.net|pipipan.com
+@@||cb.baidu.com/ecom?di=$domain=excelhome.net
+@@||cb.baidu.com/ecom?di=933917&
+@@||cb.baidu.com/ecom?di=933918&
+@@||cb.baidu.com/ecom?di=933920&
+@@||cb.baidu.com/ecom?di=933927&
 @@||cb.baidu.com/ecom?di=106878&
 @@||cb.baidu.com/ecom?di=373107&
 @@||cb.baidu.com/ecom?di=654997&
