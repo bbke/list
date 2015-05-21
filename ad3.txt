@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505211615
-! Last Modified: 2015年05月21日 16:15
+! Version: 201505211645
+! Last Modified: 2015年05月21日 16:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5348,18 +5348,20 @@ _vmind.qqvideo.tc.qq.com^
 /images/888.gif$domain=50.7.31.228|50.7.31.230|tvboxnow.com
 /images/*gamble$domain=50.7.31.228|50.7.31.230|tvboxnow.com
 ||93994.com/templets/images/dashan.jpg
+||juksy.com/scripts/jquery.blockUI.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+juksy.com##.juksy_ads
 93994.com##DIV[style="width:960px; height:90px; margin:0 auto; margin-top:10px"]
 93994.com##DIV[style^="width:300px"][style*=":250px"]
 93994.com###bg_ad
 93994.com##DIV[style="width:640px; height:275px;  margin:0 auto;text-align:center;"]
 ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com###results > DIV[class]:not(.result):not(.sp-rslt-bar)
-wk.baidu.com##.tout
+wapwenku.baidu.com,wk.baidu.com##.tout
 baidu.com##.wapAd
-wk.baidu.com##A[href^="http://www.baidu.com/cpro.php?"]
+wapwenku.baidu.com,wk.baidu.com##A[href^="http://www.baidu.com/cpro.php?"]
 wenku.baidu.com##.tiger-vip-dialog
 wenku.baidu.com##.edu_class_pop_dialog
 i.ifeng.com##.ad-list
@@ -11909,8 +11911,6 @@ blog.163.com###r_mlofteriframe2
 sxrtv.com###ad1
 sxrtv.com###ad2
 iqiyi.com##DIV[style^="z-index: 4200; position: absolute; left:"]
-wenku.baidu.com##.tiger-vip-dialog
-wenku.baidu.com##.edu_class_pop_dialog
 iqiyi.com##IFRAME[style^="z-index:"]:last-child
 youth.cn###identifier-pannel
 2cto.com##.adv980box
