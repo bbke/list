@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505221415
-! Last Modified: 2015年05月22日 14:15
+! Version: 201505221645
+! Last Modified: 2015年05月22日 16:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1066,6 +1066,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
+||mytanwan.com^$third-party
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
 /adscpc/*
@@ -5359,10 +5360,13 @@ _vmind.qqvideo.tc.qq.com^
 ||feedss.com/uploadfile/ad/
 ||people.cn^*/js/m.js
 ||hexunimg.cn/m/images/ad_
+||zdfans.com/wp-content/upgrade/doujind.gif
+||39xs.net/css/ad2014.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+39xs.net###ad_c_top
 m.tiexue.net##A[href="http://tx.caiyunguo.com/top1/"]
 m.jrj.com.cn##A[href^="http://m.2345.com/?"]
 3g.qq.com###template_gdt_div1
@@ -9016,6 +9020,7 @@ house.shangdu.com#@#.top_ad
 yhd.com#@#.txtAd
 yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
+39xs.net#@##adtop
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@&ad_width=590&$domain=jd.com
