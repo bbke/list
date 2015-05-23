@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201505231015
-! Last Modified: 2015年05月23日 10:15
+! Version: 201505231715
+! Last Modified: 2015年05月23日 17:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1177,6 +1177,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 ##A[href*=".com/?aff="]
 ##A[href*=".com/Register.aspx?aid="]
+##.menutab_ad
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
 .com/mediaController.php?pid=$script,third-party
@@ -5486,6 +5487,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+123.91.com##.col_02 > A
 techbang.com##.google-dfp
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
@@ -12052,10 +12054,13 @@ stackoverflow.com##div[id^="adzerk"]
 ||127.net/external/js6promote.min.js
 ||naajie.com/float.js
 ||lofter.com/mailEntry.do?blogad
+||wanwan.sina.com.cn/kb/
+||wanwan.sina.com.cn/sinasupersport/back/
 ||xcar.com.cn/bbs/adfocus.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+yundaex.com###ad1
 baidu.com##.s-tutorial-tip
 sogou.com##.side_adv_wrap
 sogou.com##.top_adv_wrap
