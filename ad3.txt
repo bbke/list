@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505240845
-! Last Modified: 2015年05月24日 08:45
+! Version: 201505240915
+! Last Modified: 2015年05月24日 09:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1506,7 +1506,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
 /pushstart.aspx?$popup,third-party
-|http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|bforu.info|btkitty.org|btlibrary.com|diggbt.com|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com
+|http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com
 ||093game.com^$popup,third-party
 ||1.baidu.com^$popup,domain=douban.com
 ||133gp.com^$popup
@@ -5378,6 +5378,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+ck101.com###div_superbar_swf
+btkitty.org##A[href="/forme.php"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -11954,6 +11956,8 @@ stackoverflow.com##div[id^="adzerk"]
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+aoshitang.com###msg_win
+blog.163.com##.m-regGuideLayer.f-trans
 yundaex.com###ad1
 baidu.com##.s-tutorial-tip
 sogou.com##.side_adv_wrap
