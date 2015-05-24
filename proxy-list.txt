@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201505091815
-! Last Modified: 2015年05月09日 18:15
+! Version: 201505241530
+! Last Modified: 2015年05月24日 15:30
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -45,6 +45,7 @@
 ||dtiblog.com
 ||dtiserv2.com
 ||dumpt.com
+||ero-video.net
 ||facebook.com
 .facebook.com
 ||facebookquotes4u.com
