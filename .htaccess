@@ -1,13 +1,11 @@
-order allow,deny
-allow from all
-AddDefaultCharset UTF-8  
-
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} ^YisouSpider [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^EasouSpider [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^EtaoSpider [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^MJ12bot [NC,OR]
+RewriteCond %{HTTP_USER_AGNET} ^spbot [NC]
+RewriteRule .* - [F,L]
 ErrorDocument 400 http://www.ming92.ml
 ErrorDocument 401 http://www.ming92.ml
 ErrorDocument 403 http://www.ming92.ml
 ErrorDocument 404 http://www.ming92.ml
-LayoutIgnoreURI *.php
-LayoutIgnoreURI *.cgi
-LayoutIgnoreURI *.htm
-LayoutIgnoreURI *.html
-LayoutIgnoreURI *.xhtml
