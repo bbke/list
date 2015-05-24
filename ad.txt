@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201505232015
-! Last Modified: 2015年05月23日 20:15
+! Version: 201505240845
+! Last Modified: 2015年05月24日 08:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1117,6 +1117,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##.ad250left
 ##.ad336left
 ##.ad72060
+##.ad_fixed
 ~hk-pub.com##.ad_footerbanner
 ##.ad_headerbanner
 ##.adsense160
@@ -1137,6 +1138,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##.it618_firstad_flex
 ##.kf_qycn_com_cckf_welcomebox
 ##.leftadv
+##.menutab_ad
 ##.ml_ad1
 ##.ml_ad3
 ##.ml_ad5
@@ -1156,6 +1158,8 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##.yd_ad3
 ##.yd_ad5
 ##.yd_ad6
+##a[href*=".com/?aff="]
+##a[href*=".com/Register.aspx?aid="]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
 ##a[href*="/?intr="]
@@ -1174,10 +1178,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##img[width="960"][src*=".sinaimg."]
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
-##A[href*=".com/?aff="]
-##A[href*=".com/Register.aspx?aid="]
-##.menutab_ad
-##.ad_fixed
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
 .com/mediaController.php?pid=$script,third-party
@@ -1613,7 +1613,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 !------------------------------------Popups-----------------------------------!
 .189.gd^*.html?p=$popup,third-party
 .com/?Intr=$popup
-||moe.005.tv^$popup,third-party
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|megaline.co|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tinylinks.co|tnabucks.com|tubeviral.com|ultrafiles.net|urlbeat.net|whackyvidz.com|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
@@ -1637,6 +1636,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||javjunkies.com/JO.php$popup
 ||jjwxc.net/jjad*.html$popup
 ||kuai.xunlei.com/do_e_mu?data=$popup
+||moe.005.tv^$popup,third-party
 ||qidian.com/showavd.$popup
 ||quicku.cn^$popup,domain=byhh.org
 ||smartor.org/iclk/?zoneid=$popup
@@ -4730,6 +4730,7 @@ _vmind.qqvideo.tc.qq.com^
 ||sinaimg.cn^$domain=174.139.109.38|208.94.244.98|360bo.cc|84zr.com|91v3p.co|99re.co|99re.org|ac168.info|aisex.com|btago.com|btshare.net|cao1024.com|cililian.me|jisuzhibo.net|liulanmi.com|lululu.club|lululu.lu|ml.gg|www.lightnovel.cn|xxxbt.com|zhiboche.com
 ||sinaimg.cn^*/deco/$script
 ||sinajs.cn/blog7style/images/activity/app_tuiguang/
+||sinajs.cn/t4/apps/publicity/static/wbad.js
 ||sinajs.cn/xblogstyle/images/activity/xinyue_ad/banner
 ||siqiboke.com/upload/ad-
 ||siqiboke.com/upload/winpop.js
@@ -5484,17 +5485,10 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
-||sinajs.cn/t4/apps/publicity/static/wbad.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-123.91.com##.col_02 > A
-quanji.cc###qj960a
-quanji.cc###xinxi
-quanji.cc###qj960b
-quanji.cc###qj960c
-techbang.com##.google-dfp
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -6342,6 +6336,9 @@ tianya.cn###q_topbanner_950_90
 qidian.com###qd_reader_header > div[style="height:100px;"]
 haosou.com,so.com###qiyu-brand-container
 chinanews.com###qizhi_div980
+quanji.cc###qj960a
+quanji.cc###qj960b
+quanji.cc###qj960c
 bbs.xineurope.com###qmenu_menu + .wp
 hbzkw.com###qq-bottom
 gdtv.cn###qrcode
@@ -6558,7 +6555,7 @@ dychao.com###x-adfoot-player
 dychao.com###x-adtop-player
 bjxxw.com###xBanner
 xinhuanet.com###xiangguanad
-aiquanji.com,quanji.com###xinxi
+aiquanji.com,quanji.cc,quanji.com###xinxi
 2mm.tv###xt
 xizi.com###xz_8
 redocn.com###yc_adv_1_2
@@ -7222,6 +7219,7 @@ big-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
 gamefy.cn##.col-vlist-l > span
 xdkb.net##.col0b
 souluo.net##.col1
+123.91.com##.col_02 > a
 myforum.com.hk##.comeing_wad
 club.pc3w.com##.comiis_5ad
 jmbbs.com##.comiis_ad
@@ -7514,6 +7512,7 @@ mail.pchome.com.tw##.good_ad
 weibo.com##.goods-box
 longzhu.com##.goog-scrollfloater
 mei521.com##.google
+techbang.com##.google-dfp
 bitauto.com##.gotop_ad
 mzyfz.com##.gov_article_banner
 jiaodong.net##.grayB
@@ -8563,9 +8562,9 @@ cyol.com##div[class^="AD"]
 news.sina.com.cn##div[class^="ATopTxt"]
 168cz.com##div[class^="Ad_Left_"]
 ali213.net##div[class^="GG"]
+~car.kdslife.com,kdslife.com,pchome.net##div[class^="ad"]
 enet.com.cn,fjsen.com,itopdog.cn,lvye.cn,maituan.com,news.cnyes.com,qqkj.cn,ts.cn,www.163.com,xj163.cn,xk77.com,yicai.com,zhyjw.com,zznews.cn##div[class^="ad"]
 hupu.com,~my.hupu.com##div[class^="ad"]
-~car.kdslife.com,kdslife.com,pchome.net##div[class^="ad"]
 chengdu.cn,oeeee.com##div[class^="ad-"]
 cq.qq.com##div[class^="ad-box"]
 iqiyi.com##div[class^="ad-piclist-"]
