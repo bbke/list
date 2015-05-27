@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505271915
-! Last Modified: 2015年05月27日 19:15
+! Version: 201505272115
+! Last Modified: 2015年05月27日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1973,7 +1973,6 @@ _vmind.qqvideo.tc.qq.com^
 ||39.net/js/baidu/
 ||39.net/js/google/
 ||39.net/rel/k13.php?adid=
-||39xs.net/css/ad2014.js
 ||3boys2girls.com/newfile/image2010/banner_housead_
 ||3boys2girls.com/templates/default/2013/life/160b5.js
 ||3boys2girls.com^$subdocument
@@ -3269,7 +3268,6 @@ _vmind.qqvideo.tc.qq.com^
 ||haochi123.com/Js/Fun_Effects_HT9.js
 ||haodai.com/src/i/lianmeng/ad/
 ||haodou.com/public/images3/goeatpass.jpg
-||haodu5.com/2012/ad2014.js
 ||haofs.com/haofs/ggapi.asp
 ||haoghost.com/js/hy_cpc_print.js
 ||haokan5.com/js/haokanjs/2014_
@@ -5393,10 +5391,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||7vk.com/detail/*960.js
 ||whsfzx.com/jj/
+/ad2014.js$domain=39xs.net|checheng123.com|haodu5.com
+||tiantian.tv/js/banner.js
+||tiantian.tv/sda/$image
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tiantian.tv###sliderb_container
+checheng123.com###ad_c_top
 douyutv.com##DIV[id^="sign_p_"]
 3g.tianya.cn,m.tianya.cn###update
 bocaidy.com###ad960x90
@@ -9096,6 +9099,7 @@ yhd.com#@#.txtAd
 yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 ciciwg.com#@#.aseadn
+checheng123.com#@##adtop
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@|http:$script,~third-party,domain=javdog.com
