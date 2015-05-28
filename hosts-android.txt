@@ -2168,5 +2168,4 @@
 23.88.164.100 www.120p.com
 #其他
 119.188.35.66 static.coolapk.com
-119.90.14.59 img1.chouti.com
 106.38.199.15 static.acfun.mm111.net
