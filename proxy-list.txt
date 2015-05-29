@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201505291745
-! Last Modified: 2015年05月29日 17:45
+! Version: 201505292045
+! Last Modified: 2015年05月29日 20:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -123,6 +123,7 @@ myboooks.googlepages.com
 ||snapgram.co
 @@||sogou.com
 @@||soso.com
+||static.ettoday.net
 ||t2.imgchili.com
 ||t66y.com
 ||taleofthenight.com
