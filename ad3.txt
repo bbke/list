@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201505291645
-! Last Modified: 2015年05月29日 16:45
+! Version: 201505291715
+! Last Modified: 2015年05月29日 17:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -9043,7 +9043,6 @@ qq.com#@#.ad-icon
 ntm.gov.tw#@#.ad-left
 qianyan001.com#@#.ad04
 mucanwenxue.com#@#.ad250
-apk.tw#@#.ad300
 szonline.net#@#.ad310
 012.tw#@#.ad728
 2kk.cc,520tingshu.com,580k.com#@#.ad960
@@ -9107,7 +9106,7 @@ brandsales.58.com#@#div[id^="ad_"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
 @@.png#$domain=apk.tw
-@@||apk.tw/thread-$elemhide
+@@||apk.tw^$elemhide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apk.tw
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=apk.tw
 @@&ad_width=590&$domain=jd.com
