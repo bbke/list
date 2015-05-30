@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201505292000
-! Last Modified: 2015年05月29日 20:00
+! Version: 201505301415
+! Last Modified: 2015年05月30日 14:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -124,66 +124,3 @@ tieba.baidu.com##.edui-icon-medal
 tieba.baidu.com##.poster_head_surveillance
 tieba.baidu.com##.thread_recommend
 ! 其他
-jump.bdimg.com,tieba.baidu.com,tieba.com###baiduweishiDown
-jump.bdimg.com,tieba.baidu.com,tieba.com###duoku_servers_list
-jump.bdimg.com,tieba.baidu.com,tieba.com###encourage_entry
-jump.bdimg.com,tieba.baidu.com,tieba.com###frs-list-game
-jump.bdimg.com,tieba.baidu.com,tieba.com###game_cover_head_wrapper
-jump.bdimg.com,tieba.baidu.com,tieba.com###game_forum
-jump.bdimg.com,tieba.baidu.com,tieba.com###game_frs_head
-jump.bdimg.com,tieba.baidu.com,tieba.com###game_live_list
-jump.bdimg.com,tieba.baidu.com,tieba.com###game_rank
-jump.bdimg.com,tieba.baidu.com,tieba.com###global_notice_wrap
-jump.bdimg.com,tieba.baidu.com,tieba.com###j_star_bus_before
-jump.bdimg.com,tieba.baidu.com,tieba.com###j_ten_years
-jump.bdimg.com,tieba.baidu.com,tieba.com###j_worldcup_info_banner
-jump.bdimg.com,tieba.baidu.com,tieba.com###loan_ad_mod_a
-jump.bdimg.com,tieba.baidu.com,tieba.com###pc2client
-jump.bdimg.com,tieba.baidu.com,tieba.com###platform_left_float
-jump.bdimg.com,tieba.baidu.com,tieba.com###pop_frame
-jump.bdimg.com,tieba.baidu.com,tieba.com###replyBusinessImg
-jump.bdimg.com,tieba.baidu.com,tieba.com###search_baidu_promote
-jump.bdimg.com,tieba.baidu.com,tieba.com###union_mod
-jump.bdimg.com,tieba.baidu.com,tieba.com###worldcup_guess_frs_wrap
-jump.bdimg.com,tieba.baidu.com,tieba.com###worldcup_topic
-jump.bdimg.com,tieba.baidu.com,tieba.com##.BAIDU_CLB_AD
-jump.bdimg.com,tieba.baidu.com,tieba.com##.advertise_right_index
-jump.bdimg.com,tieba.baidu.com,tieba.com##.app_forum_top_nav
-jump.bdimg.com,tieba.baidu.com,tieba.com##.dasense
-jump.bdimg.com,tieba.baidu.com,tieba.com##.firework_sender_wrap
-jump.bdimg.com,tieba.baidu.com,tieba.com##.frs_act_repost_wrapper_outter
-jump.bdimg.com,tieba.baidu.com,tieba.com##.game_banner_common_wapper
-jump.bdimg.com,tieba.baidu.com,tieba.com##.game_content
-jump.bdimg.com,tieba.baidu.com,tieba.com##.game_list_and_rank
-jump.bdimg.com,tieba.baidu.com,tieba.com##.game_spread_thread
-jump.bdimg.com,tieba.baidu.com,tieba.com##.game_tab
-jump.bdimg.com,tieba.baidu.com,tieba.com##.hgame_mod_theme1
-jump.bdimg.com,tieba.baidu.com,tieba.com##.hgame_mod_theme2
-jump.bdimg.com,tieba.baidu.com,tieba.com##.images_game_container
-jump.bdimg.com,tieba.baidu.com,tieba.com##.j_banner_post
-jump.bdimg.com,tieba.baidu.com,tieba.com##.j_couplet
-jump.bdimg.com,tieba.baidu.com,tieba.com##.j_df_card
-jump.bdimg.com,tieba.baidu.com,tieba.com##.kn_nine_wrap
-jump.bdimg.com,tieba.baidu.com,tieba.com##.l_banner
-jump.bdimg.com,tieba.baidu.com,tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1224761005,"]
-jump.bdimg.com,tieba.baidu.com,tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480174042,"]
-jump.bdimg.com,tieba.baidu.com,tieba.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1480194257,"]
-jump.bdimg.com,tieba.baidu.com,tieba.com##.live_show_aside
-jump.bdimg.com,tieba.baidu.com,tieba.com##.lot_wrap
-jump.bdimg.com,tieba.baidu.com,tieba.com##.order_repost_wrap
-jump.bdimg.com,tieba.baidu.com,tieba.com##.per_list.j_per_list.per_list_frs
-jump.bdimg.com,tieba.baidu.com,tieba.com##.qipai_thread
-jump.bdimg.com,tieba.baidu.com,tieba.com##.score_ecr_wrapper
-jump.bdimg.com,tieba.baidu.com,tieba.com##.spreadad
-jump.bdimg.com,tieba.baidu.com,tieba.com##.tb_poster_info.poster_success
-jump.bdimg.com,tieba.baidu.com,tieba.com##.tb_poster_placeholder
-jump.bdimg.com,tieba.baidu.com,tieba.com##.thread_dir_ad
-jump.bdimg.com,tieba.baidu.com,tieba.com##.thread_local_58
-jump.bdimg.com,tieba.baidu.com,tieba.com##.u9_aside
-jump.bdimg.com,tieba.baidu.com,tieba.com##.u9_head
-jump.bdimg.com,tieba.baidu.com,tieba.com##.wanle_tab_tip
-jump.bdimg.com,tieba.baidu.com,tieba.com##.worldcup_info_banner_dialog
-jump.bdimg.com,tieba.baidu.com,tieba.com##:not(.tbui_slideshow_slide) > div[data-daid]
-jump.bdimg.com,tieba.baidu.com,tieba.com##[id^="spreadad_"]
-jump.bdimg.com,tieba.baidu.com,tieba.com##div[id*="lottery"]
-jump.bdimg.com,tieba.baidu.com,tieba.com##li[data-daid]
