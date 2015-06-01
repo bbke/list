@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201506011745
-! Last Modified: 2015年06月01日 17:45
+! Version: 201506011815
+! Last Modified: 2015年06月01日 18:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1187,6 +1187,8 @@ hk.search.auctions.yahoo.com###yauadysmh
 ###lovexin13
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
+||toourbb.com^
+||mlt01.com^
 ||81c.cn^
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
@@ -5522,6 +5524,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+china.com.cn##.chinaJZG
 yesky.com##.alldown > .rimg
 yesky.com##.bdtj
 pixnet.net###pixblogad-banner2
@@ -9246,6 +9249,7 @@ bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||cb.baidu.com/ecom?di=933929&
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
