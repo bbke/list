@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506020945
-! Last Modified: 2015年06月02日 09:45
+! Version: 201506021015
+! Last Modified: 2015年06月02日 10:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1073,6 +1073,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
+||xabaitai.com^
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
 /adscpc/*
@@ -5407,6 +5408,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||ziti.jz123.cn/js/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -12052,6 +12054,8 @@ stackoverflow.com##div[id^="adzerk"]
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+163.com##.kaola-ad
+qianlima.com###float_mask
 aoshitang.com###msg_win
 blog.163.com##.m-regGuideLayer.f-trans
 yundaex.com###ad1
@@ -12116,7 +12120,7 @@ haosou.com###so_feb
 17173.com###topAlert
 igo.cn##.adBG
 163.com##.bobo-area
-jump.bdimg.com,tieba.baidu.com,tieba.com##.bonus_forum_aside
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.bonus_forum_aside
 iask.sina.com.cn##.daily_entrance
 hao123.com##.hao123-search > .notice-fixed
 163.com##.imglist-bobo-app
