@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506032145
-! Last Modified: 2015年06月03日 21:45
+! Version: 201506032215
+! Last Modified: 2015年06月03日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5455,8 +5455,9 @@ ttshuba.com###BookText + div[style="margin-left:20px;text-align:center;"]
 pchome.net###Daybuy
 qidian.com###DoublePop_left
 qidian.com###DoublePop_right
-cnfol.com###FixedLeft
-cnfol.com###FixedRight
+cnfol.com##.FixedLeft
+cnfol.com##.FixedRight
+cnfol.com##A[href="http://www.168licai.cn/"]
 house.shangdu.com,liaoing.com###FlatLayer
 subaonet.com###Float2270
 pcworld.com.cn###FloatDIV
@@ -8422,7 +8423,6 @@ jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
 cnzol.com##a[href*="zhuan5."]
 btkitty.org##a[href="/forme.php"]
 mopiaoyao.com##a[href="/html/zanzhu.html"]
-cnbeta.com##a[href="http://aos.prf.hn/click/camref:100lcC/"]
 kdslife.com##a[href="http://club.kdslife.com/thread_1_15_8389777__.html"]
 zhibo8.cc##a[href="http://daogou.zhibo8.cc/"]
 hexieshe.com##a[href="http://juju.la"]
@@ -8764,7 +8764,6 @@ tompda.com##div[style="height: 90px; padding: 0px; overflow: hidden; margin-bott
 9ku.com##div[style="height:150px; overflow:hidden;zoom:1; width:960px; margin:12px auto 15px;"]
 huabian.com##div[style="height:250px;"]
 hkgolden.com##div[style="height:250px;overflow:hidden;text-align:center;margin-top: 5px;"]
-top.chinaz.com##div[style="height:280px; width:100%; text-align:center;"]
 leitingcn.com##div[style="height:308px"]
 howfile.com##div[style="height:30px;padding:2px;border:1px dashed #555555"]
 ezvivi.com##div[style="height:336px; width:100%"]
