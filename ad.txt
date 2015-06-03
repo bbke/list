@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201506032015
-! Last Modified: 2015年06月03日 20:15
+! Version: 201506032045
+! Last Modified: 2015年06月03日 20:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1182,7 +1182,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##a[href^="http://www.whao9.com"]
 ##a[href^="https://www.18vpn.biz/r.php"]
 ~dsjunshi.com##div[id^="ad_thread"]
-##img[width="960"][src*=".sinaimg."]
+~sinaimg.cn##img[width="960"][src*=".sinaimg."]
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
@@ -5527,13 +5527,14 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||cctime.com/UpLoadFile/2012/11/7/201211733483705.gif
 ||dnpz.net/templets/images/lunbo/
-||aliapp.com/js/adBom.js
 ||myqcloud.com/js/easou.js
-||myqcloud.com/js/adBom.js
+/js/adBom.js$domain=myqcloud.com
+||chinanews.com.cn/ad2015/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+gz.chinanews.com.cn###htop_R
 myqcloud.com###sharebtn > A
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###attention-game-wraper_dialog
 dnpz.net##.mychgPic
