@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201506032115
-! Last Modified: 2015年06月03日 21:15
+! Version: 201506032145
+! Last Modified: 2015年06月03日 21:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2796,7 +2796,7 @@ _vmind.qqvideo.tc.qq.com^
 ||chinaz.com/2011code_images/A_
 ||chinaz.com/2011code_images/soft
 ||chinaz.com/2011code_images/topright.js
-||chinaz.com/2014/1110/1415603174986.gif
+||chinaz.com/2015/0113/1421112175579.jpg
 ||chinaz.com/alexa/pic.js
 ||chinaz.com/alexa/word3.htm
 ||chinaz.com/alexa/wz.js
@@ -12179,9 +12179,12 @@ stackoverflow.com##div[id^="adzerk"]
 ||wanwan.sina.com.cn/kb/
 ||wanwan.sina.com.cn/sinasupersport/back/
 ||xcar.com.cn/bbs/adfocus.js
+||qidian.com/Images/990x40_
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+alipay.com###J-cooperant-banner
+qidian.com##.qdRead_client
 12306.cn##.fix-yh
 163.com##.kaola-ad
 qianlima.com###float_mask
