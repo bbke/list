@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506032045
-! Last Modified: 2015年06月03日 20:45
+! Version: 201506032115
+! Last Modified: 2015年06月03日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1629,7 +1629,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 /moneymaker/js/kppp.js
 /moneymaker/js/videoplayer.js
 /msnportal/wp/2014/08/29/742784a6-b14f-420b-80cc-d6bd0be6b15d.jpg
-/my0538/img/ad/*
 /nddailyfile/webadv/*
 /newhuagg/*_right
 /newhuagg/index_
@@ -2721,7 +2720,6 @@ _vmind.qqvideo.tc.qq.com^
 ||cndesign.com/Content/img/*x90_
 ||cndesign.com/Content/img/175x60_
 ||cndesign.com/Content/img/356x80_
-||cndesign.com/img/ad/
 ||cndesign.com/upload/ad/
 ||cngoldres.com/advservice/
 ||cngsf.com/baidu.htm
@@ -2923,7 +2921,6 @@ _vmind.qqvideo.tc.qq.com^
 ||drupalchina.cn/sites/default/files/banner/
 ||drupalchina.cn/sites/default/files/lagou-
 ||drupalchina.cn/sites/default/files/osforce-
-||duowan.com/img/ad/
 ||duowan.com/lgn/x/images/lgnadv/
 ||duowan.com/s/yuanbao-entrance.js
 ||duoxiai.com.cn/imgad/
@@ -3154,7 +3151,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gg163.net/js/163bbsad.js
 ||gg163.net/js/gg163ad.js
 ||ggg.zj.com^
-||ggmee.com/files/img/ad/
 ||ggw.gusuwang.com^
 ||ggw.watertu.com^
 ||ggyq.xdkb.net^
@@ -3559,7 +3555,6 @@ _vmind.qqvideo.tc.qq.com^
 ||img.taoguba.com.cn/images/$object
 ||img.wangxiao.cn/images/big_ad.jpg
 ||img.xdsq.net/wo/adwz.gif
-||img.xiami.net/static/img/ad/
 ||img.ybbbs.com/2014/
 ||img.ybbbs.com/2015/
 ||img1.126.net^
@@ -5028,7 +5023,6 @@ _vmind.qqvideo.tc.qq.com^
 ||webjx.com/zanzhushang/
 ||webkaka.com*/click/$image
 ||webkaka.com/script/duilian_
-||webvanes.com/img/ad/
 ||weeiy.com/wp-content/uploads/2013/12/2345ie.jpg
 ||wehefei.com/uploadfile/flashad/
 ||wei2008.com/js/960X90
@@ -5420,6 +5414,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+chinanews.com##.add3
+chinanews.com##.add4
 gz.chinanews.com.cn###htop_R
 myqcloud.com###sharebtn > A
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###attention-game-wraper_dialog
@@ -5519,7 +5515,6 @@ www.sina.com.cn###SI_EDU_AD
 souxue8.net,xiaodaoyl.com###ShouYe_ShangBu + table[width="100%"]
 21cn.com###Show_TopAd_Iframe0
 baqiushi.com,qiushibaike.info###SideBarNav img
-hk.yahoo.com###Stream > li[id^="ad-"]
 ifeng.com###StreamMediaWrap
 webkaka.com###Table1
 7m.cn###Top_b
@@ -8444,7 +8439,6 @@ huacolor.com##a[href^="/setup.asp?id="]
 mobile01.com##a[href^="adredir.php"]
 17kqw.com##a[href^="gg.php?"]
 3g.tianya.cn,m.tianya.cn##a[href^="http://3g.tianya.cn/g/ad."]
-zhiboche.com##a[href^="http://667010.com/?aff="]
 qdmm.com,qidian.com##a[href^="http://avd.qidian.com/showavd.aspx"]
 wenxuecity.com##a[href^="http://bbs.wenxuecity.com/bbs/advpost/"]
 tv.2345.com##a[href^="http://buy.2345.com/go/?"]
