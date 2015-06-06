@@ -5,13 +5,13 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         15.05.15.12
+// @version         15.06.06.21
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADs.uc.js
 // ==/UserScript==
 (function() {
     // YoukuAntiADs, request observer
     function YoukuAntiADs() {};
-    var refD = 'http://www.ming92.ml/swf/';
+    var refD = 'http://www.minggo.cf/swf/';
     YoukuAntiADs.prototype = {
     SITES: {
         'youku_loader': {
@@ -34,7 +34,7 @@
             'player0': refD + 'iqiyi_out.swf',
             'player1': refD + 'iqiyi5.swf',
             'player2': refD + 'iqiyi_out.swf',
-            're': /https?:\/\/www\.iqiyi\.com\/(player\/\d+\/Player|common\/flashplayer\/\d+\/(Main|Coop|Share|Enjoy)?Player_?.*)\.swf/i
+            're': /https?:\/\/www\.iqiyi\.com\/(player\/\d+\/Player|common\/flashplayer\/\d+\/(Main|Coop|Share|Enjoy)?Player_?.+)\.swf/i
         },
         'tudou': {
             'player': refD + 'tudou.swf',
