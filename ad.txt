@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201506081345
-! Last Modified: 2015年06月08日 13:45
+! Version: 201506081715
+! Last Modified: 2015年06月08日 17:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5548,10 +5548,13 @@ _vmind.qqvideo.tc.qq.com^
 ||vvtor.com/wordpress/wp-content/themes/NewsPro2/images/guozi.jpg
 ||vvtor.com/wordpress/wp-content/themes/NewsPro2/images/souying.jpg
 ||googleusercontent.com^*=w800-h352-no$domain=yuyu780906.blogspot.com|yuyu780906.blogspot.hk|yuyu780906.blogspot.tw
+||chinaso.com/iframe336/
+||6.cn/coop/pub/getMiniPage.php?src=
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+xilu.com###v6cn1c
 yuyu780906.blogspot.com,yuyu780906.blogspot.hk,yuyu780906.blogspot.tw###HTML16
 yuyu780906.blogspot.com,yuyu780906.blogspot.hk,yuyu780906.blogspot.tw###HTML17
 yuyu780906.blogspot.com,yuyu780906.blogspot.hk,yuyu780906.blogspot.tw###HTML8
@@ -9313,6 +9316,7 @@ bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@||union.easypass.cn^$domain=bitauto.com
 @@/adfile/*$domain=cidianwang.com
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
