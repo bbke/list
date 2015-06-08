@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201506081315
-! Last Modified: 2015年06月08日 13:15
+! Version: 201506081345
+! Last Modified: 2015年06月08日 13:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -629,7 +629,6 @@ xingqu.baidu.com,tieba.baidu.com##.thread_recommend
 ||blogupp.com^$third-party
 ||bmw100.cn^$third-party
 ||bolebank.com^$third-party
-||books.com.tw/exep/ap/$third-party
 ||boosj.com^$third-party
 ||buzz-time.com.cn^$third-party
 ||buzzads.com^$third-party
@@ -1186,6 +1185,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
+||books.com.tw/exep/ap/$third-party
 .com/i.php?z=$script,third-party
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
@@ -2655,7 +2655,7 @@ _vmind.qqvideo.tc.qq.com^
 ||bitauto.com/ResourceFiles/play/play.swf
 ||bitautoimg.com/ResourceFiles/0/*.gif
 ||bitautoimg.com/ResourceFiles/0/*.swf
-||bitautoimg.com/ResourceFiles/0/2/409/20150401121056679.jpg
+||bitautoimg.com/ResourceFiles/0/2/444/20150407022416236.jpg
 ||bitscn.com/js/a2
 ||biz*.sandai.net^
 ||biz.gexing.com^
@@ -5547,10 +5547,14 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||vvtor.com/wordpress/wp-content/themes/NewsPro2/images/guozi.jpg
 ||vvtor.com/wordpress/wp-content/themes/NewsPro2/images/souying.jpg
+||googleusercontent.com^*=w800-h352-no$domain=yuyu780906.blogspot.com|yuyu780906.blogspot.hk|yuyu780906.blogspot.tw
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+yuyu780906.blogspot.com,yuyu780906.blogspot.hk,yuyu780906.blogspot.tw###HTML16
+yuyu780906.blogspot.com,yuyu780906.blogspot.hk,yuyu780906.blogspot.tw###HTML17
+yuyu780906.blogspot.com,yuyu780906.blogspot.hk,yuyu780906.blogspot.tw###HTML8
 vvtor.com##A[href*=".taobao.com"]
 club.pchome.net,kdslife.com###side A[href*=".youxi."]
 ipc.me##.post-top-gg
