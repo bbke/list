@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506101845
-! Last Modified: 2015年06月10日 18:45
+! Version: 201506101945
+! Last Modified: 2015年06月10日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -2879,8 +2879,7 @@ _vmind.qqvideo.tc.qq.com^
 ||discuzlab.com/data/attachment/portal/
 ||disk1.net/i/2/900%C3%9740.gif
 ||divcss5.com*/ibeifeng/
-||divcss5.com/image-css/enkj/
-||divcss5.com/image-css/liping/
+||divcss5.com*/enkj/
 ||dj520.com/js/stj.js
 ||djccc.com/js/a*.js
 ||djccc.com/js/b*.js
@@ -5450,10 +5449,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||feihu.la/Runtime/js/vod
 ||docin.com/docin_adv/
+||divcss5.com*/liping/
+||divcss5.com/wy/top465.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+divcss5.com##.if1200
 duote.com###\32 345_ad
 qiushibaike.com##.shopwindow
 hc360.com,yaolan.com###AD
@@ -9146,7 +9148,6 @@ atgfw.org#@##ads-wrapper
 wholehk.com,zdfans.com#@##adsense
 39xs.net,aixiaoshuo.com.cn,checheng123.com,dushiwenxue.com,haodu5.com,leduwo.com,yaerwen.com#@##adtop
 zdfans.com#@##advertbox3
-dmzj.com#@##advt
 zdfans.com#@##bottomAd
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 fmdisk.com#@##googleadsense
