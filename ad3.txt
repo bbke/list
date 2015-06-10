@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506100915
-! Last Modified: 2015年06月10日 09:15
+! Version: 201506101015
+! Last Modified: 2015年06月10日 10:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1513,6 +1513,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 !------------------------------------Popups-----------------------------------!
 .189.gd^*.html?p=$popup,third-party
 .com/?Intr=$popup
+||t-movies.com.tw/pop.asp$popup
 /?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|megaline.co|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tinylinks.co|tnabucks.com|tubeviral.com|ultrafiles.net|urlbeat.net|whackyvidz.com|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
@@ -5452,6 +5453,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+qiushibaike.com##.shopwindow
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -12453,6 +12455,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||knet.cn^$third-party
 ||looyu.com^$third-party
 ||crs.baidu.com^
+||tui.cnzz.com^$third-party
 ||lxbjs.baidu.com^$third-party
 ||goutong.baidu.com^
 !---------------------------Popups--------------------------------------------!
@@ -12523,6 +12526,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+ganji.com###write_resume_id
 gaokao.com###ad_top_gkw
 alipay.com###J-cooperant-banner
 qidian.com##.qdRead_client
