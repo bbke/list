@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506102015
-! Last Modified: 2015年06月10日 20:15
+! Version: 201506102115
+! Last Modified: 2015年06月10日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -536,7 +536,6 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||cpm360.com^$third-party
 ||cpmadworld.com^$third-party
 ||cpvm.net^$third-party
-||cs.37see.com^$third-party
 ||ctrmi.com^$third-party
 ||d9ad.com^$third-party
 ||daoyoudao.com^$third-party
@@ -1072,6 +1071,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
+||cs.37see.com^$third-party
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
 /adscpc/*
@@ -3584,7 +3584,7 @@ _vmind.qqvideo.tc.qq.com^
 ||img1.126.net^
 ||img1.autofan.com.cn/swf/
 ||img1.efu.com.cn/upfile/bew/*.swf
-||img1.ijinshan.com/static/media/curl.swf
+/static/media/curl.swf$domain=duba.com
 ||img1.jczqw.com/img/
 ||img1.ruyig.com/80.png
 ||img2.126.net^
