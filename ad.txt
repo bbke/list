@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201506111945
-! Last Modified: 2015年06月11日 19:45
+! Version: 201506112045
+! Last Modified: 2015年06月11日 20:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -201,6 +201,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||bdstatic.com/tb/static-liveshow/
 ||bdstatic.com/tb/static-ihome/widget/interaction_mod/
 ||bdstatic.com/tb/static-pb/img/voice_ad.gif
+||tb1.bdstatic.com/tb/r/image/$image
 ! i贴吧&主页
 xingqu.baidu.com,tieba.baidu.com###adide_platform
 xingqu.baidu.com,tieba.baidu.com###spage_liveshow_slide
@@ -5571,6 +5572,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.close_btn[src*="/adsense/"] + DIV:last-child
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_thread_list + LI[class]:not(.j_thread_list)
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post + DIV[class]:not(.l_post)
 hc360.com,yaolan.com###AD
