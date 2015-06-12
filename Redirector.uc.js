@@ -8,7 +8,7 @@
 // @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.06.04.00
+// @version         15.06.12.11
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -133,6 +133,7 @@
 },{
     name: "【https】常用网站（一）",
     from: /^http:\/\/(upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me|www\.baidu\.com)(.*)/i,
+    exclude:/^http:\/\/www\.baidu\.com\/p\//i,
     to: "https://$1$2",
     regex: true
 },{

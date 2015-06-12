@@ -115,6 +115,7 @@ rules = [{
 },{
     name: "【https】常用网站（一）",
     from: /^http:\/\/(upload\.wikimedia\.org|t\.williamgates\.net|dyncdn\.me|www\.baidu\.com)(.*)/i,
+    exclude:/^http:\/\/www\.baidu\.com\/p\//i,
     to: "https://$1$2",
     regex: true
 },{
