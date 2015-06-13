@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506131215
-! Last Modified: 2015年06月13日 12:15
+! Version: 201506132000
+! Last Modified: 2015年06月13日 20:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -80,37 +80,6 @@ www.cam4.tw,www.cam4.com###subfoot,.sponsorAd, .xmlAdsWrapper, .xmlAdsTitle
 ||chaturbate.com/affiliates/
 ||chaturbate.com/sitestats/openwindow/$popup
 chaturbate.com##.banner, .ad
-! Cloudfront
-||cloudfront-labs.amazonaws.com^
-||cloudfront.net*/sp.js
-||cloudfront.net*/trk.js
-||cloudfront.net/analytics.js
-||cloudfront.net/analyticsengine/
-||cloudfront.net/atrk.gif?
-||cloudfront.net/atrk.js
-||cloudfront.net/code/keen-2.1.0-min.js
-||cloudfront.net/dough/*/recipe.js
-||cloudfront.net/js/reach.js
-||cloudfront.net/log.js?
-||cloudfront.net/performable/
-||cloudfront.net/pt1x1.gif
-||cloudfront.net/rum/bacon.min.js
-||cloudfront.net/sso.js
-||cloudfront.net/track.html
-||cloudfront.net/trackb.html
-||cloudfront.net/tracker.js
-! Doubleclick
-||doubleclick.net/activity$third-party
-||doubleclick.net/imp%$third-party
-||doubleclick.net/imp;$third-party
-||doubleclick.net/json?$third-party
-||doubleclick.net/pixel?$third-party
-||doubleclick.net^*/trackimp/$third-party
-||bid.g.doubleclick.net^
-||cm.g.doubleclick.net^
-||stats.g.doubleclick.net^
-||survey.g.doubleclick.net^
-@@||stats.g.doubleclick.net/dc.js$domain=lifehack.org|toto.co.jp|tripinsurance.ru|vimeo.com
 ! Google
 ||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
@@ -148,12 +117,6 @@ chaturbate.com##.banner, .ad
 ||www.google.*/url?$image
 ! Zol
 @@||icon.zol-img.com.cn/public/js/web_foot.js
-! 铁通
-|http://*/m?t=$third-party
-|http://*/m.js?t=$third-party
-|http://*/main/main.js?r=$third-party
-|http://*/h/k.php?u=$third-party
-|http://*/nh/k.php?$third-party
 ! 百度
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##[tpl="soft"]
 ||s1.pan.bdstatic.com/yun-static/common-cdn/widget/adTips/mboxTips/
