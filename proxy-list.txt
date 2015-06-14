@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201505292045
-! Last Modified: 2015年05月29日 20:45
+! Version: 201506142015
+! Last Modified: 2015年06月14日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 ! 本规则为自用简洁版，欢迎补充规则
@@ -21,6 +21,7 @@
 ||91porn.com
 ||99bitgongchang.org
 @@||acfun.com
+||addons.mozilla.org
 ||appleinn.co.jp
 ||bahamut.com.tw
 @@||baidu.com
@@ -113,6 +114,7 @@ myboooks.googlepages.com
 ||r.search.yahoo.com
 ||scallyguy.net
 ||sdy4.me
+||services.addons.mozilla.org
 .sex8.cc
 ||sexinsex.net
 ||sexkorea.info
