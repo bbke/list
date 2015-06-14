@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201506141015
-! Last Modified: 2015年06月14日 10:15
+! Version: 201506141945
+! Last Modified: 2015年06月14日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -172,6 +172,7 @@ xingqu.baidu.com,tieba.baidu.com###spage_liveshow_slide
 xingqu.baidu.com,tieba.baidu.com###spage_game_tab_wrapper
 xingqu.baidu.com,tieba.baidu.com###plat_act_wrapper
 xingqu.baidu.com,tieba.baidu.com##.ihome_aside_first
+xingqu.baidu.com,tieba.baidu.com##.ihome_game_group
 xingqu.baidu.com,tieba.baidu.com##.member_rank
 xingqu.baidu.com,tieba.baidu.com##.tshow_out_date_warn
 xingqu.baidu.com,tieba.baidu.com##.top-sec.clearfix
@@ -236,6 +237,7 @@ xingqu.baidu.com,tieba.baidu.com###guide_fc
 xingqu.baidu.com,tieba.baidu.com###xiu8_follow_warn
 xingqu.baidu.com,tieba.baidu.com##.add_guessing_btn
 xingqu.baidu.com,tieba.baidu.com##.edui-btn-paypost
+xingqu.baidu.com,tieba.baidu.com##.edui-btn-quick-reply
 xingqu.baidu.com,tieba.baidu.com##.edui-editor-msg
 xingqu.baidu.com,tieba.baidu.com##.edui-icon-voice
 xingqu.baidu.com,tieba.baidu.com##.edui-icon-medal
