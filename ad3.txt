@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506150615
-! Last Modified: 2015年06月15日 06:15
+! Version: 201506151845
+! Last Modified: 2015年06月15日 18:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -9234,6 +9234,7 @@ brandsales.58.com#@#div[id^="ad_"]
 dnwx.com#@#.ad_250
 !---------------------------------URL Whitelist-------------------------------!
 @@&ad_type=$domain=x.jd.com
+@@/AdShow/*$domain=mndxy.org
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
