@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506151915
-! Last Modified: 2015年06月15日 19:15
+! Version: 201506151945
+! Last Modified: 2015年06月15日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5433,6 +5433,7 @@ _vmind.qqvideo.tc.qq.com^
 ||mahua.com/www/default/js/replace_ab.js
 ||ainunu.com/vad.js
 ||xiaomengku.com/static/template/cms/v3/js/activity.js
+||itiexue.net^*.gif?w=1500&h=1500
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
@@ -9306,7 +9307,7 @@ dnwx.com#@#.ad_250
 @@_!!329633983.png$domain=i-ab.com
 @@u-ads.adap.tv*youku.com
 @@|http:$image,script,domain=jjcast.com
-@@|http:$script,~third-party,domain=avsow.com|avsow.net|btava.com|btspread.com|javdog.com
+@@|http:$script,~third-party,domain=avmask.com|avsow.com|avsow.net|btava.com|btspread.com|javdog.com
 @@|http:$script,~third-party,xmlhttprequest,domain=serve.netsh.org
 @@|http://*/??$domain=gome.com.cn
 @@|http://*/ad$domain=meiziweibo.com
@@ -12536,6 +12537,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+pconline.com.cn###JtlBestA
 ofweek.com###flybox-db
 ganji.com###write_resume_id
 gaokao.com###ad_top_gkw
