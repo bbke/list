@@ -6,7 +6,8 @@
       <variant title="Diablo AdFilters Lite(含增强贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad2.txt"/>
       <variant title="Diablo AdFilters(含基本贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad3.txt"/>
       <variant title="Diablo AdFilters(仅含增强贴吧广告过滤)" url="http://git.oschina.net/halflife/list/raw/master/ad4.txt"/>
-      <variant title="[proxy]GFWList" url="http://git.oschina.net/halflife/list/raw/master/gfwlist.txt" complete="true"/>
+      <variant title="ChinaList+EasyList（修正）" url="http://git.oschina.net/halflife/list/raw/master/adt-chinalist-easylist.txt"/>
+      <variant title="[proxy]GFWList" url="http://git.oschina.net/halflife/list/raw/master/gfwlist.txt"/>
       <variant title="[proxy]Filters" url="http://git.oschina.net/halflife/list/raw/master/proxy-list.txt"/>
     </variants>
   </subscription>
@@ -14,11 +15,10 @@
     <variants>
       <variant title="iFL" url="https://code.csdn.net/i_square/i/blob/master/iFL.txt" complete="true"/>
       <variant title="广告终结者" url="http://git.oschina.net/halflife/list/raw/master/adt-chinalist-easylist.txt"/>
-      <variant title="cjxlist" url="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"/>
       <variant title="xwhycadblock" url="http://bbs.theworld.cn/attachment.php?aid=MTE0NDQ4fDUyZjc3Mjc3fDEzOTc5MTM1OTh8NDczMHBuYytiNk1yR0dQa2lqdGFyOXg1R29QNEVaUjJoYTNIb0U4bXFHeVM0eGM%3D"/>
-      <variant title="easylistchina" url="https://easylist-downloads.adblockplus.org/easylistchina.txt" complete="true"/>
-      <variant title="easylist" url="https://easylist-downloads.adblockplus.org/easylist.txt"/>
-      <variant title="easylistchina+easylist" url="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"/>
+      <variant title="Easylist China" url="https://easylist-downloads.adblockplus.org/easylistchina.txt" complete="true"/>
+      <variant title="Easylist Lite" url="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"/>
+      <variant title="CJX's Annoyance List" url="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"/>
     </variants>
   </subscription>
   <subscription title="国外源" specialization="中文" homepage="http://code.minggo.tk/" type="ads" prefixes="zh">
@@ -27,7 +27,8 @@
       <variant title="Diablo AdFilters Lite(含增强贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad2.txt"/>
       <variant title="Diablo AdFilters(含基本贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad3.txt"/>
       <variant title="Diablo AdFilters(仅含增强贴吧广告过滤)" url="https://raw.githubusercontent.com/523860169/list/master/ad4.txt"/>
-      <variant title="[proxy]GFWList" url="https://raw.githubusercontent.com/523860169/list/master/gfwlist.txt" complete="true"/>
+      <variant title="ChinaList+EasyList（修正）" url="https://raw.githubusercontent.com/523860169/list/master/adt-chinalist-easylist.txt"/>
+      <variant title="[proxy]GFWList" url="https://raw.githubusercontent.com/523860169/list/master/gfwlist.txt"/>
       <variant title="[proxy]Filters" url="https://raw.githubusercontent.com/523860169/list/master/proxy-list.txt"/>
     </variants>
   </subscription>
