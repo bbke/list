@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 2.0]
-! Version: 201506151421
+! Version: 201506180959
 ! Title: ChinaList+EasyList(修正)
 ! ChinaList and EasyList combination subscription
 ! Last modified: 03 Feb 2014 03:50 UTC
@@ -742,6 +742,8 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + #rbbox
 ##script + .sptable[cellpadding="5"]
 .com/i.php?z=$script,third-party
+||bang5mai.com^$third-party
+||123hala.com^
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
 /adscpc/*
@@ -1195,7 +1197,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
 /pushstart.aspx?$popup,third-party
-|http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com
+|http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com|yzhlive.com
 ||093game.com^$popup,third-party
 ||1.baidu.com^$popup,domain=douban.com
 ||133gp.com^$popup
@@ -1237,7 +1239,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /2tu/heisiwang.js
 /404.safedog.cn/sitedog_stat_new.html
 /950-90.gif$domain=qire213.com
-/?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shcle.com|shclk.com|ttft.in|xhcbb.com
+/?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shcle.com|shclk.com|ttft.in|xhcbb.com|yzhlive.com
 /\.itjsb\.com\/[a-z0-9A-Z]+\.gif/$domain=itjsb.com
 /ad2014.js$domain=39xs.net|checheng123.com|haodu5.com
 /ad_nydus.png$domain=wowrk.com|x-berry.com
@@ -4363,7 +4365,7 @@ _vmind.qqvideo.tc.qq.com^
 ||sinaimg.cn/mw690/ea495f08gw1ehcsmx6dlzg20eq04gt9c.gif
 ||sinaimg.cn/rny/sinamail57/images/110316/threeKingdoms2.
 ||sinaimg.cn/unipro/
-||sinaimg.cn^$domain=174.139.109.38|208.94.244.98|360bo.cc|84zr.com|91v3p.co|99re.co|99re.net|99re.org|ac168.info|aisex.com|btago.com|btshare.net|btshark.com|btup.net|cao1024.com|cililian.me|jisuzhibo.net|liulanmi.com|lululu.club|lululu.lu|ml.gg|xxxbt.com|zhiboche.com
+||sinaimg.cn^$domain=174.139.109.38|208.94.244.98|360bo.cc|84zr.com|91v3p.co|99re.co|99re.net|99re.org|ac168.info|aisex.com|bejson.com|btago.com|btshare.net|btshark.com|btup.net|cao1024.com|cililian.me|jisuzhibo.net|liulanmi.com|lululu.club|lululu.lu|ml.gg|xxxbt.com|zhiboche.com
 ||sinaimg.cn^*/deco/$script
 ||sinajs.cn/blog7style/images/activity/app_tuiguang/
 ||sinajs.cn/t4/apps/publicity/static/wbad.js
@@ -4620,7 +4622,6 @@ _vmind.qqvideo.tc.qq.com^
 ||tv6080.com/qqt/
 ||tvf4.com/1/mugua.js
 ||tvf4.com^$subdocument
-||tvmost.com.hk/i/ajax/ad
 ||tvnmg.com/banner/
 ||tw.beanfun.com/bfweb/NEW/commonlogin
 ||tw.buy.yahoo.com/?z=
@@ -5151,9 +5152,18 @@ _vmind.qqvideo.tc.qq.com^
 ||mahua.com/www/default/js/replace_ab.js
 ||ainunu.com/vad.js
 ||xiaomengku.com/static/template/cms/v3/js/activity.js
+||itiexue.net^*.gif?w=1500&h=1500
+||sinajs.cn/t6/home/js/pl/guide/bigday/
+||sinajs.cn/t6/home/js/pl/guide/adforfqy/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
+icoolxue.com###player-ad
+ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-loan-list-card
+xinhuanet.com##.iframeSrc + A[href^="http"]:not([href*=".xinhuanet."])
+xinhuanet.com##.txt > UL > LI > A[href^="http"]:not([href*=".xinhuanet."])
+www.tiexue.net###navFixed + .head + SCRIPT + STYLE + DIV[class]
+didiaotv.com##.scupioadslot
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [class] > [id*="00"]:not([id="100"]) > ul
 cartoonad.com,cartoonmad.com##A[href*=".i-gamer."]
 cartoonmad.com##TR:nth-child(n+5) > TD > TABLE[width="732"]
@@ -5247,7 +5257,7 @@ huarenjie.com###RightAd2
 hcwang.cn###RightAda
 jwb.com.cn###RightBottomAD
 www.sina.com.cn###SI_EDU_AD
-souxue8.net,xiaodaoyl.com###ShouYe_ShangBu + table[width="100%"]
+souxue8.net,xiaodaoyl.com##.themeauthor > TABLE[width="100%"]:first-child
 21cn.com###Show_TopAd_Iframe0
 baqiushi.com,qiushibaike.info###SideBarNav img
 ifeng.com###StreamMediaWrap
@@ -8951,6 +8961,8 @@ bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 dnwx.com#@#.ad_250
 @@&ad_type=$domain=x.jd.com
+@@/IMAGES/AD/*$domain=pro-partner.com.tw
+@@/AdShow/*$domain=mndxy.org
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -9021,7 +9033,7 @@ dnwx.com#@#.ad_250
 @@_!!329633983.png$domain=i-ab.com
 @@u-ads.adap.tv*youku.com
 @@|http:$image,script,domain=jjcast.com
-@@|http:$script,~third-party,domain=avsow.com|avsow.net|btava.com|btspread.com|javdog.com
+@@|http:$script,~third-party,domain=avmask.com|avsow.com|avsow.net|btava.com|btspread.com|javdog.com
 @@|http:$script,~third-party,xmlhttprequest,domain=serve.netsh.org
 @@|http://*/??$domain=gome.com.cn
 @@|http://*/ad$domain=meiziweibo.com
@@ -9371,7 +9383,6 @@ dnwx.com#@#.ad_250
 @@||zhibowu.com/ad2.htm
 @@||zjol.com.cn^*/index.jsp?newsid=$elemhide
 @@/\.7k7k.com\/(?!(ad|load))/$domain=7k7k.com
-@@||jrjimg.cn/js.do?f=/share/js/
 ||146.148.85.61^
 ||akamaihd.net^*/gsd.html?d=
 ||akamaihd.net^*/sid.html?p=
@@ -12230,6 +12241,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||kaoyan.com/global/js/backtopnew.js
 ||eduuu.com/gaokao/2015/bannerDaili.js
 2cto.com##.adv980
+pconline.com.cn###JtlBestA
 ofweek.com###flybox-db
 ganji.com###write_resume_id
 gaokao.com###ad_top_gkw
