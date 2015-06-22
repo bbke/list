@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506221115
-! Last Modified: 2015年06月22日 11:15
+! Version: 201506221145
+! Last Modified: 2015年06月22日 11:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -7357,8 +7357,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ec_bdtg
 baidu.com##.ec_im_container
 ettoday.net##.ec_menu
 baidu.com##.ec_wise_ad
-ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-edu-course-mini-container
-ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-edu-course-mini-rec-list
+ipv6.baidu.com,www.baidu.com,www1.baidu.com##DIV[class^="ecl-edu-"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-health-mix-page > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-health-poplist-wrapper
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.ecl-loan-list-card
