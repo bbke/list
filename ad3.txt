@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506232015
-! Last Modified: 2015年06月23日 20:15
+! Version: 201506232115
+! Last Modified: 2015年06月23日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -12579,6 +12579,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+eastmoney.com###rightadvert
 ifeng.com##.fhsd
 zgsyz.com###ad
 zgsyz.com###ad2
@@ -12673,6 +12674,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
 @@/%*logo.png|$domain=feng.com
+@@||feng.com/aodoo3/images/54f86e822ee42.png
 @@/view.php?what=zone:93&$domain=feng.com
 @@/view.php?what=zone:94&$domain=feng.com
 !--------------------------------Tracking Systems-----------------------------!
@@ -12859,3 +12861,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||bitauto.com/bglog.gif?
 ||trends.com.cn/k.js
 ||duba.com/static/v2/js/min.pop.js
+||dfcfw.com/libs/js/counter.js
+||eastmoney.com/analysis/
