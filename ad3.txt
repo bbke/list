@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506241815
-! Last Modified: 2015年06月24日 18:15
+! Version: 201506241945
+! Last Modified: 2015年06月24日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -12510,7 +12510,6 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
-||wumii.cn^$third-party,domain=~wumii.com|~wumii.org
 ||zoosnet.net^$third-party
 ||kuaishang.cn^$third-party
 ||looyu.com^$third-party
@@ -12527,6 +12526,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||wumii.cn/ext/relatedItemsWidget
 ||sinajs.cn/t6/home/js/pl/guide/bigday/index.js
 ||c-ctrip.com/ResUnionOnline/R3/float/floating_normal.min.js
 ||tq.cn/floatcard?
@@ -12587,6 +12587,8 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+ck365.cn###Dmids
+ck365.cn###content_login
 eastmoney.com###rightadvert
 ifeng.com##.fhsd
 zgsyz.com###ad
