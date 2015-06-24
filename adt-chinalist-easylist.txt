@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 2.0]
-! Version: 201506231350
+! Version: 201506241709
 ! Title: ChinaList+EasyList(修正)
 ! ChinaList and EasyList combination subscription
 ! Last modified: 03 Feb 2014 03:50 UTC
@@ -1272,6 +1272,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /d125.260.gif$domain=btup.net
 /dhfun_ad/*
 /dy_44jjss/*
+/EZ-YAHOO/*$domain=ezvivi.com
 /float.js$domain=8888eee.com|xav4.com|xav5.com|xav6.com|xav7.com|xav8.com|xav9.com|xiaav.cc|xiaav.me
 /friends/*$image,domain=v2ex.com
 /front/adv/getpmadvlist
@@ -2672,6 +2673,7 @@ _vmind.qqvideo.tc.qq.com^
 ||e0575.cn/images/v1/dl/
 ||e0575.cn/js/advBigPopup/
 ||e0575.cn/js/float.js
+||e0575.com/attachment/image/*_flash.swf
 ||e0575.com/pic/AD_
 ||e23.cn/js/aaa.js
 ||e399.com/html/
@@ -2691,7 +2693,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ebp.renren.com^
 ||ebrun.com/jfile/lagou.js
 ||ebrun.com/jfile/position/js/*.js
-||ebuk.cn/d/file/book/bl/20131102/0526ab8fbca55994501d3b8dc8f8abaf.jpg
 ||ebuk.cn/d/file/p/20131102/01e3e09c7c0677dc0a3d0115da4517eb.jpg
 ||ecma.bdimg.com^
 ||edu03.com/data/js.php?id=
@@ -2709,13 +2710,12 @@ _vmind.qqvideo.tc.qq.com^
 ||enet.com.cn/home/v6/includes/adv/
 ||enet.com.cn/mem_str_zoneid=
 ||enjoy101.org/hk_rm_tab_
-||enshi.cn/images/20140508/pic_69368.gif
 ||enshi.cn/userfiles/esrb/$object,subdocument
-||enshi.cn/userfiles/esrb/ads/
 ||entry.baidu.com/rp/home?
 ||eol.cn/js/eol/
 ||eol.cn/js/global/jQuery_ads.js
 ||epinv.com/wp-content/themes/ep/js/single.js
+||epinv.com/wp-content/themes/ep/tu/*250.js
 ||epinv.com/wp-content/themes/ep/tu/yinshu.gif
 ||eprice.cn/image/upload/ad/
 ||eprice.com.tw/js/swfobject-2.3.js
@@ -3302,7 +3302,6 @@ _vmind.qqvideo.tc.qq.com^
 ||imgmega.com/i/*.gif$domain=18avhub.com|18avtube.com|206.108.55.53|mm-cg.com
 ||imgn.jiatx.com/jiatx/mall/outer/
 ||imgs.cc/images/ad_
-||imgs.ebrun.com/uploads/
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgur.com/iKkoHkn.jpg
 ||imgur.com/rTqveeX.jpg
@@ -4448,7 +4447,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ssnn.net^*-200-250.jpg
 ||ssshao.com/9115gg/
 ||starnnews.com/banner/
-/EZ-YAHOO/*$domain=ezvivi.com
 ||static.aizhan.com/jsa/
 ||static.cmhello.com/2015/02/
 ||static.colafile.com/images/vip.png
@@ -5167,12 +5165,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||dnvod.eu/upload/image/*.gif
+||dnvod.eu/upload/image/201501061648284843382.jpg
+||dnvod.eu/upload/image/201501061821572112730.jpg
+||dnvod.eu/upload/image/*.swf
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 gpcxw.com###AA2
-eprice.cn##.adverall
-elecinfo.com##DIV[class$="-advert"]
-expreview.com##.main-side-tao
+dnvod.eu##.r-ad4
+dnvod.eu##A[href^="http://www.dnvod.eu/HitOnAds."] > img
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -6709,6 +6710,7 @@ autohome.com.cn,tzfdc.com.cn##.advbox
 360che.com##.adver300_250
 360che.com##.adver600_80
 v1.cn##.adverBox300
+eprice.cn##.adverall
 jiaonan.net##.adverframe
 ce.cn,dianxinnews.com,eastmoney.com,like101.com.tw,sz.zj.cn##.advert
 gimhoy.com##.advert + div[class]:not(.post-content)
@@ -7421,7 +7423,6 @@ ijia360.com##.indexad_1
 sznews.com##.indexcon01
 sznews.com##.indexcon02
 sznews.com##.indexcon07
-guba.eastmoney.com##.indexmhot
 chinairn.com##.industry
 du8du8.com##.infos + .mulu_list
 wangyeba.com##.innner950
@@ -7575,6 +7576,7 @@ runbt.com##.main > a
 weidea.net##.main-banner
 firefox.com.cn,firefoxchina.cn##.main-promote-sites
 firefoxchina.cn##.main-promote-tmall
+expreview.com##.main-side-tao
 lz.chinanews.com##.main02Mid > a
 hongfen.org##.main_adser
 cnbeta.com##.main_content_right > .cber[style]:nth-child(7)
@@ -7805,6 +7807,7 @@ xmfish.com##.readCon_right
 finance.ifeng.com##.rec
 image.baidu.com##.recom
 image.baidu.com##.recommend
+guba.eastmoney.com##.redian
 w3cplus.com##.region-sidebar-second > :nth-last-child(n+3)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.res_top_banner
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##.result-op[data-click*="\"rsv_srcid\":\"10090\""]
@@ -8355,6 +8358,7 @@ weibo.com##div[ad-data]
 zongheng.com##div[alog-group="index_04_game"]
 i.ifeng.com##div[autofocus]
 anjuke.com##div[class$="-ad"]
+elecinfo.com##div[class$="-advert"]
 anjuke.com##div[class$="-poster"]
 hualady.com##div[class$="300x250"]
 jjxw.cn,we54.com##div[class$="_ad"]
@@ -8381,9 +8385,9 @@ cyol.com##div[class^="AD"]
 news.sina.com.cn##div[class^="ATopTxt"]
 168cz.com##div[class^="Ad_Left_"]
 ali213.net##div[class^="GG"]
+~car.kdslife.com,kdslife.com,pchome.net##div[class^="ad"]
 enet.com.cn,fjsen.com,itopdog.cn,lvye.cn,maituan.com,news.cnyes.com,qqkj.cn,ts.cn,www.163.com,xj163.cn,xk77.com,zhyjw.com,zznews.cn##div[class^="ad"]
 hupu.com,~my.hupu.com##div[class^="ad"]
-~car.kdslife.com,kdslife.com,pchome.net##div[class^="ad"]
 chengdu.cn,oeeee.com##div[class^="ad-"]
 cq.qq.com##div[class^="ad-box"]
 iqiyi.com##div[class^="ad-piclist-"]
@@ -8449,7 +8453,8 @@ mail.126.com,mail.163.com##div[id$="_AdDiv"]
 mail.126.com,mail.163.com##div[id$="_BannerDiv"]
 mail.126.com,mail.163.com##div[id$="_FooterDiv"]
 share.dmhy.me,share.dmhy.org##div[id$="_ad"]
-ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[id$="_canvas"]
+!--replace ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[id$="_canvas"]
+!ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[id$="_canvas"]
 mail.126.com,mail.163.com##div[id$="_dvBlockInfo"]
 58.com##div[id$="_gdbg"]
 anhuinews.com##div[id$="dl"]
@@ -8719,7 +8724,8 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl="job"] > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="ecr_pc_game_"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="qunar_hotel"] > .c-border
 ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="right_qunar_hotel"]
-ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="soft"] > .c-border
+!--replace ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="soft"] > .c-border
+!ipv6.baidu.com,www.baidu.com,www1.baidu.com##div[tpl^="soft"] > .c-border
 zuoye.baidu.com##dl[class="card related"]
 mcxiaobu.com##dl[id^="divFunction"]
 ks.js.cn##embed[src*="yytf/"]
@@ -8990,6 +8996,8 @@ yhd.com#@#.txtAd
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 @@&ad_type=$domain=x.jd.com
+@@/upload/ads/*$domain=dnvod.eu
+@@/adframe.$domain=dnvod.eu
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
@@ -12276,6 +12284,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||kaoyan.com/global/js/backtopnew.js
 ||eduuu.com/gaokao/2015/bannerDaili.js
 2cto.com##.adv980
+eastmoney.com###rightadvert
 ifeng.com##.fhsd
 zgsyz.com###ad
 zgsyz.com###ad2
@@ -12368,6 +12377,7 @@ feng.com##div[class^="wea_d_"]
 feng.com##div[class^="wep_e_"]
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
 @@/%*logo.png|$domain=feng.com
+@@||feng.com/aodoo3/images/54f86e822ee42.png
 @@/view.php?what=zone:93&$domain=feng.com
 @@/view.php?what=zone:94&$domain=feng.com
 /analytics.js$domain=qunar.com
@@ -12554,5 +12564,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||bitauto.com/bglog.gif?
 ||trends.com.cn/k.js
 ||duba.com/static/v2/js/min.pop.js
+||dfcfw.com/libs/js/counter.js
+||eastmoney.com/analysis/
 
 !-- END END ---
