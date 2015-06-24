@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201506231545
-! Last Modified: 2015年06月23日 15:45
+! Version: 201506240945
+! Last Modified: 2015年06月24日 09:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -31,6 +31,7 @@
 ||bdstatic.com/r/www/*cache/baidu_search/
 ||bdstatic.com/tb/*/bright_default_skin*.jpg
 ||bdstatic.com/tb/_/qrcode_*.js
+||bdstatic.com/tb/_/umoney_*.js
 ||bdstatic.com/tb/cms/ngmis/file_*.png
 ||bdstatic.com/tb/cms/post/bubble/
 @@||bdstatic.com/tb/static-album/img/like_pic*.png
@@ -38,7 +39,6 @@
 ||bdstatic.com/tb/static-common/img/rich_editor/new
 ||bdstatic.com/tb/static-common/js/pic_share/logger.js
 ||bdstatic.com/tb/static-common/lib/hourglass.js
-||bdstatic.com/tb/static-common/widget/umoney_promotion_dialog/
 ||bdstatic.com/tb/static-*common/style/common/
 @@||bdstatic.com/tb/static-*common/style/common/userbar_icon_png*.png
 ||bdstatic.com/tb/static-*common/widget/flash_lcs/swf/
@@ -51,7 +51,6 @@
 ||bdstatic.com/tb/static-ihome/widget/interaction_mod/
 ||bdstatic.com/tb/static-pb/img/voice_ad.gif
 ||bdstatic.com/tb/r/image/$image
-||bdstatic.com/tb/zt/umoney/
 ! i贴吧&主页
 xingqu.baidu.com,tieba.baidu.com###adide_platform
 xingqu.baidu.com,tieba.baidu.com###media_item
