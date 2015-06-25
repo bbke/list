@@ -35422,7 +35422,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 zzzjsh.com
 127.0.0.1 zz-ztjx.com
 127.0.0.1 zzzxxh.com
-127.0.0.1 zzzzvbbb.hkm.pw#
+127.0.0.1 zzzzvbbb.hkm.pw
+#
 # Updated: 2015-06-18 00:01
 # BY LAOD  www.laod.cn
 # http://laod.cn/hosts/2015-google-hosts.html
@@ -36593,5 +36594,3 @@ All Rights Reserved 2007-2014
 23.88.164.100 www.120p.com
 #其他
 61.155.222.135 static.coolapk.com
-#175.6.8.26 img1.chouti.com
-106.38.199.15 static.acfun.mm111.net
