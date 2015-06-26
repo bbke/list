@@ -1169,3 +1169,5 @@
 23.88.164.100 www.120p.com
 #其他
 61.155.222.135 static.coolapk.com
+180.169.18.3 secure.bilibili.com
+61.160.239.158 static.hdslb.com
