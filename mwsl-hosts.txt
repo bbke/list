@@ -35422,7 +35422,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zzzjsh.com
 127.0.0.1 zz-ztjx.com
 127.0.0.1 zzzxxh.com
-127.0.0.1 zzzzvbbb.hkm.pw﻿#+BEGIN
+127.0.0.1 zzzzvbbb.hkm.pw
 #+MESSAGE
 #######################################################################
 #
