@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506282015
-! Last Modified: 2015年06月28日 20:15
+! Version: 201506282115
+! Last Modified: 2015年06月28日 21:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -141,6 +141,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||eyeota.net^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
+||gtags.net^$third-party
 ||hotrank.com.tw^$third-party
 ||irs01.$third-party
 ||irs09.com^$third-party
@@ -149,6 +150,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||oadz.com^$third-party
 ||phpstat.com^$third-party
 ||pixanalytics.com^$third-party
+||sagetrc.com^$third-party
 ||sitebot.cn^$third-party
 ||top-bloggers.com^$third-party
 ||topsem.com^$third-party
@@ -157,6 +159,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||vamaker.com^$third-party
 ||vdoing.com^$third-party
 ||wrating.com^$third-party
+||zampda.net^$third-party
 ||ztcadx.com^$third-party
 ||360.cn/mapping_service?
 ||alimama.cn/inf.js
@@ -167,6 +170,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||baidu.com/hm.gif?
 ||baidu.com/js/m.js
 ||baidu.com/js/o.js
+||beacon.sina.com.cn^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
 ||bzclk.baidu.com^
@@ -192,6 +196,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||mlt01.com/cmp.htm$third-party
 ||n.yunshipei.com^
 ||pos.baidu.com^
+||r.sax.sina.com.cn^
 ||rs.sinajs.cn^
 ||sinajs.cn/open/analytics/
 ||sitemaji.com/nownews.php?
@@ -5468,6 +5473,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+cngold.org##.in_content_left_advs
 tieba.baidu.com##.client_ad_topBanner
 tieba.baidu.com##.client_ad_topBanner + .statistics_img_view + LI[class]
 tieba.baidu.com##.j_post_list_item + LI[class]:not(.j_post_list_item)
