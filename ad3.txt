@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201506291845
-! Last Modified: 2015年06月29日 18:45
+! Version: 201506292015
+! Last Modified: 2015年06月29日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1491,7 +1491,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 !------------------------------------Popups-----------------------------------!
 .189.gd^*.html?p=$popup,third-party
 .com/?Intr=$popup
-/?ref=$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|megaline.co|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tinylinks.co|tnabucks.com|tubeviral.com|ultrafiles.net|urlbeat.net|whackyvidz.com|yyv.co|zff.co
+/?ref$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|megaline.co|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tinylinks.co|tnabucks.com|tubeviral.com|ultrafiles.net|urlbeat.net|whackyvidz.com|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
 /pushstart.aspx?$popup,third-party
