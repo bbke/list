@@ -5,7 +5,7 @@
 // @include         chrome://browser/content/browser.xul
 // @author          harv.c
 // @homepage        http://haoutil.tk
-// @version         15.06.29.11
+// @version         15.06.30.10
 // @downloadUrl     http://git.oschina.net/halflife/list/raw/master/YoukuAntiADsL.uc.js
 // ==/UserScript==
 (function() {
@@ -21,6 +21,14 @@
         'youku_player': {
             'player': refD + 'player.swf',
             're': /http:\/\/static\.youku\.com(\/v[\d\.]+)?\/v\/swf\/q?player[^\.]*\.swf/i
+        },
+        'ku6': {
+            'player': refD + 'ku6.swf',
+            're': /http:\/\/player\.ku6cdn\.com\/default\/common\/player\/\d{12}\/player\.swf/i
+        },
+        'ku6_out': {
+            'player': refD + 'ku6_out.swf',
+            're': /http:\/\/player\.ku6cdn\.com\/default\/out\/\d{12}\/player\.swf/i
         },
         'iqiyi': {
             'player0': refD + 'iqiyi_out.swf',
@@ -69,7 +77,7 @@
            're': /http:\/\/\d+\.\d+\.\d+\.\d+(:\d+)?(\/test)?\/(testplayer|player|webplayer)\/(main|main\d|playershell)\.swf/i
         },
 		'pps': {
-            'player': refD + 'iqiyi_out.swf',
+            'player': refD + 'pps.swf',
             're': /http:\/\/www\.iqiyi\.com\/player\/cupid\/.*\/pps[\w]+.swf/i
         },
 		'ppsiqiyi': {
@@ -79,6 +87,26 @@
 		'ppslive': {
             'player': 'http://www.iqiyi.com/player/20140613210124/livePlayer.swf',
             're': /http:\/\/www\.iqiyi\.com\/common\/flashplayer\/\d+\/am.*\.swf/i
+		},		
+        '17173': {
+            'player': refD + '17173_Player_file.swf',
+            're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_file\.swf/i			                
+		},
+        '17173_out': {
+            'player': refD + '17173_Player_file_out.swf',
+  	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_file_(custom)?out\.swf/i
+     	},			
+	    '17173_stream_customOut': {
+            'player': refD + '17173_Player_stream_out.swf',
+  	    're': /http:\/\/f\.v\.17173cdn\.com(\/\d+)?\/flash\/Player_stream_(custom)?Out\.swf/i
+	    },			
+        '17173_live': {
+            'player': refD + '17173_Player_stream.swf',
+            're': /http:\/\/f\.v\.17173cdn\.com\/\d+\/flash\/Player_stream(_firstpage)?\.swf/i
+        },
+		'baiduAD': {
+            'player': refD + 'baiduAD.swf',
+		    're': /http:\/\/list\.video\.baidu\.com\/swf\/advPlayer\.swf/i
 		}
     },
 	FILTERS: {
