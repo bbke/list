@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507011815
-! Last Modified: 2015年07月01日 18:15
+! Version: 201507012015
+! Last Modified: 2015年07月01日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5484,10 +5484,14 @@ _vmind.qqvideo.tc.qq.com^
 ||ftchinese.com/m/marketing/ad.html
 ||downloadab.com^$subdocument
 ||baidu.com/tbliveact/data/xiu8/
+||chacuo.net/images/1.jpg
+||chacuo.net/images/2.jpg
+||chacuo.net/images/3.jpg
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.content_top
 haosou.com###mohe-etao_shangye
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.play_list_panel
 fulitie.org##.banner-site
@@ -6236,7 +6240,7 @@ pingpang.info###lwc
 playno1.com###m12
 lanyes.org###m_banner
 baike.baidu.com###mabox
-chacuo.net###mailtooltips
+chacuo.net###mailtooltipss
 e0575.cn,ghoffice.com,mgbbs.cn,mydigit.cn###main > .textMes
 qiannao.com###main > div[style="padding-left:20px;margin-top:10px;"]:first-child
 cntv.cn###main > div[style="position:relative; width:637px; overflow:hidden;"]
