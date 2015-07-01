@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201506302215
-! Last Modified: 2015年06月30日 22:15
+! Version: 201507010815
+! Last Modified: 2015年07月01日 08:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3961,6 +3961,7 @@ _vmind.qqvideo.tc.qq.com^
 ||kmplayer.cn/include/jscript/*-a.js
 ||kmplayer.cn/include/jscript/*-b.js
 ||knnwdyou.com^
+||koopan.com/%5Cad/
 ||kp52.cc/data/attachment/portal/
 ||ks.js.cn*/yytf/$object,script
 ||ktkkt.com/js/cnbeta/
@@ -4226,6 +4227,7 @@ _vmind.qqvideo.tc.qq.com^
 ||mxwz.com/swf/yidong2015.swf
 ||my0511.com/*/ad_
 ||my0511.com/aadd/
+||my0832.com/bbs/tem/12.jpg
 ||my0832.com/xyz/upload/
 ||myad.toocle.com^
 ||mybjx.net/theme/default/js/common/duilianchn.js
@@ -5593,16 +5595,10 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
-||my0832.com/bbs/tem/12.jpg
-||koopan.com/%5Cad/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-mcdulll.pixnet.net###box1290930
-mcdulll.pixnet.net###box1989082
-ddvip.com##.ad_1000_90
-my0832.com##.article_top > DIV[style="float:right;margin:0 0 10px 10px;"]
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -5932,8 +5928,8 @@ wanmei.com###body_right
 999.com###bot_gou
 kdhome.net###bottomadv
 china3-d.com###box > .flash
-mcdulll.com###box1290930
-mcdulll.com###box1989082
+mcdulll.com,mcdulll.pixnet.net###box1290930
+mcdulll.com,mcdulll.pixnet.net###box1989082
 gaxhw.com###box2
 cwyuni.tw###box34614 > [class^="box-"]
 cwyuni.tw###box766939
@@ -5983,6 +5979,7 @@ gg163.net###container > table[width="960"]
 zhaozi.cn###container2
 biquge001.com,fuli.ba,fuliba.asia,fuliba.mobi###content > a
 fuli.ba,fuliba.asia,fuliba.mobi,hexieba.com###content > div:first-child > a:first-child:last-child
+go-gddq.com###content > div[style="float: right;"]
 fuli.ba,fuliba.asia,fuliba.mobi###content > ul[style="list-style-type: none;"]
 yes-news.com###content-728
 yes-news.com###content-ads-right
@@ -6980,7 +6977,7 @@ sina.com.cn##.ad_01_right
 5944.net##.ad_03
 5944.net,ifeng.com##.ad_04
 ifeng.com##.ad_09
-szonline.net##.ad_1000_90
+ddvip.com,szonline.net##.ad_1000_90
 sucaitianxia.com##.ad_11
 nnnews.net##.ad_12
 warting.com##.ad_155x155
@@ -7192,6 +7189,7 @@ zhlzw.com##.article_ad2
 warting.com##.article_left_ad1
 warting.com##.article_left_ad2
 zhlzw.com##.article_oo
+my0832.com##.article_top > div[style="float:right;margin:0 0 10px 10px;"]
 pcdiy.com.tw##.aside-ad
 asp300.com##.asp300-indexAD
 haosou.com,so.com##.atom-adv
@@ -8832,9 +8830,9 @@ cyol.com##div[class^="AD"]
 news.sina.com.cn##div[class^="ATopTxt"]
 168cz.com##div[class^="Ad_Left_"]
 ali213.net##div[class^="GG"]
-~car.kdslife.com,kdslife.com,pchome.net##div[class^="ad"]
-hupu.com,~my.hupu.com##div[class^="ad"]
 enet.com.cn,fjsen.com,itopdog.cn,lvye.cn,maituan.com,news.cnyes.com,qqkj.cn,ts.cn,www.163.com,xj163.cn,xk77.com,zhyjw.com,zznews.cn##div[class^="ad"]
+hupu.com,~my.hupu.com##div[class^="ad"]
+~car.kdslife.com,kdslife.com,pchome.net##div[class^="ad"]
 chengdu.cn,oeeee.com##div[class^="ad-"]
 cq.qq.com##div[class^="ad-box"]
 iqiyi.com##div[class^="ad-piclist-"]
@@ -9041,7 +9039,6 @@ chinaz.com##div[style="border: 1px solid #BBD7E6;padding:5px;margin:10px 0px 10p
 moonbt.com##div[style="border:0px solid #999; width:980px;height:90px;text-align:center;"]
 tsdm.net##div[style="border:1px #BFE6F4 solid;width:960px;height:90px;margin:0 auto;"]
 sznews.com##div[style="border:solid 1px #ddd; padding-bottom:10px; padding-top:10px; margin-bottom:10px; width:670px; overflow:hidden; zoom:1; font-family:SimSun ;"]
-go-gddq.com###content > DIV[style="float: right;"]
 bbs.my0511.com##div[style="float: right; padding-left:10px; padding-bottom:10px;"]
 mucanwenxue.com##div[style="float:left; height:250px; width:300px; clear:left; margin: 1px 1px 1px 0px;"]
 gamefy.cn##div[style="float:left; width:220px; padding-top:15px;"]
@@ -9199,7 +9196,7 @@ hexieshe.com##img[width="640"][height="90"]
 hexieshe.com##img[width="640"][height="95"]
 china.com.cn##img[width="688"]
 caoliushequ1024.org##img[width="700"]
-gpshk.cc##IMG[width="770"]
+gpshk.cc##img[width="770"]
 ijia360.com##img[width="880"][height="90"]
 jd-bbs.com##img[width="900"][height="100"]
 855699.com##img[width="922"]
@@ -9483,6 +9480,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@/advert/*$domain=cctcw.cn|juxiangyou.com|locuspublishing.com
 @@/advert_$domain=wb.qq.com
 @@/advertise/*$domain=sfbuy.com|suning.com
+@@/advertisement.js$domain=gimhoy.com
 @@/advertisement/*$domain=muyingzhijia.com|store.oppomobile.com
 @@/advertising/*$domain=houdask.com
 @@/adview_pic_cpc_$domain=123564.com
@@ -9708,7 +9706,6 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||ganji.com/findjob/send_resume.*&ad_type=
 @@||gg.woniu.com^$domain=snail.com
 @@||gg1z.com/statics/gg/greendown/logo.gif
-@@/advertisement.js$domain=gimhoy.com
 @@||go.goyeah.com/adpolestar/$object-subrequest
 @@||gov.cn/scripts/Comm/AdRotator.js
 @@||gpsdlm.com/images/ad.
@@ -9895,6 +9892,7 @@ brandsales.58.com#@#div[id^="ad_"]
 ||hwcdn.net^*.html
 !--------------------------------Tracking Systems-----------------------------!
 @@.com%2Fanalytics.js$domain=free.com.tw
+@@/analytics.php?$domain=xcar.com.cn
 @@||7m.cn/v2/js/analyse.js
 @@||alicdn.com^*/click_track.js
 @@||analytics.163.com/ntes.js
@@ -9909,7 +9907,6 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
 @@||tajs.qq.com/stats?$domain=qq.com
 @@||tbcdn.cn^*/click_track.js
-@@/analytics.php?$domain=xcar.com.cn
 ||hjfile.cn/analytics/site/TrackEvent.js
 ! EasyList Lite
 ###ad-1
