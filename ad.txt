@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507010945
-! Last Modified: 2015年07月01日 09:45
+! Version: 201507011045
+! Last Modified: 2015年07月01日 10:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1165,6 +1165,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
+||hx7878.com^$third-party
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
 /adscpc/*
@@ -5595,10 +5596,17 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||fulitie.org/wp-content/themes/D8_4.0/js/guanbi-no.js
+||sinaimg.cn^*.gif$domain=fulitie.org
+||diaosisheshou.com/wp-content/uploads/*/1070x200.
+||diaosisheshou.com/wp-content/uploads/2015/03/dbqp.jpg
+||diaosisheshou.com/wp-content/uploads/*/llad
+||diaosisheshou.com/wp-content/uploads/2015/06/tcll.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+fulitie.org##.banner-site
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
