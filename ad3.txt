@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507021745
-! Last Modified: 2015年07月02日 17:45
+! Version: 201507021915
+! Last Modified: 2015年07月02日 19:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3154,7 +3154,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gamersky.com^*.htm$subdocument
 ||games.ifeng.com^$subdocument
 ||gamme.com.tw/ga/
-||gamme.com.tw/uploads/2015/05/932989beea7aa782ce0a883a4a13ac4f.jpg
 ||ganji.com/content.php
 ||ganjistatic1.com^*-banner-
 ||ganjistatic1.com^*/adm/
@@ -3162,7 +3161,6 @@ _vmind.qqvideo.tc.qq.com^
 ||gaofen.com/source/plugin/gaofen_ad/
 ||gd.sina.com.cn/iframe/22/
 ||gdt.qq.com^
-||gdtv.cn/2014/0616/1402914668473.png
 ||geiliwx.com/read/ad$script
 ||get.766.com^
 ||gexing.com.cn^*/images/1a.jpg
@@ -5486,10 +5484,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 |http:$subdocument,domain=mortastica.com
+||gucheng.com/2015/mst/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+gucheng.com##.news_ad_fenyelianjie
+gucheng.com##.news_ad_fenyeyuansheng
+gucheng.com##.news_ad_listyuansheng
+gucheng.com##.news_ad_wenzhong
 finance.sina.com.cn##.topbar
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
