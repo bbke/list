@@ -1,4 +1,4 @@
-MWSL-hostlist-2015.6.29
+MWSL-hostlist-2015.7.6
 All Rights Reserved 2007-2014
 127.0.0.1 localhost
 127.0.0.1 000.img2.haxiu.com
@@ -22,6 +22,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 001.chlian.com
 127.0.0.1 001.hi82.cn
 127.0.0.1 001.lg577.com
+127.0.0.1 001199.com
 127.0.0.1 001314.com
 127.0.0.1 001516.com
 127.0.0.1 001833.com
@@ -131,6 +132,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 028xhhq.com
 127.0.0.1 029-esc.com
 127.0.0.1 029find.cn
+127.0.0.1 029sskj.com
 127.0.0.1 029xt.com
 127.0.0.1 029yu.com
 127.0.0.1 029yusen.com
@@ -164,6 +166,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 0371wan.com
 127.0.0.1 0376v.com
 127.0.0.1 0377aijiu.com
+127.0.0.1 0377bxg.com
 127.0.0.1 0379hiphop.com
 127.0.0.1 0396fcxx.com
 127.0.0.1 03987721.com
@@ -241,6 +244,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 058559.cc
 127.0.0.1 058561.cc
 127.0.0.1 058566.cc
+127.0.0.1 059007.com
 127.0.0.1 0591news.com
 127.0.0.1 0592888.cn
 127.0.0.1 0592jj.com
@@ -324,6 +328,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 08819.com
 127.0.0.1 088699.com
 127.0.0.1 0888.in
+127.0.0.1 088abc.com
 127.0.0.1 088la.com
 127.0.0.1 088yy.com
 127.0.0.1 089333.com
@@ -372,6 +377,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 100797.com
 127.0.0.1 1008.mpoo.cn
 127.0.0.1 10086dic.cc
+127.0.0.1 10086ecc.cc
 127.0.0.1 10086jpj.com
 127.0.0.1 10086k.com
 127.0.0.1 10086pvv.com
@@ -386,9 +392,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 1010fz.com
 127.0.0.1 101nr.com
 127.0.0.1 1020668.com
+127.0.0.1 1020de.pw
 127.0.0.1 10455.vvchem.com
 127.0.0.1 1080s.cn
 127.0.0.1 108k.com
+127.0.0.1 109688.org
 127.0.0.1 10av.cc
 127.0.0.1 10bet.com
 127.0.0.1 10wdream.com
@@ -398,6 +406,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 110.sxzjhg.com
 127.0.0.1 110pao.com
 127.0.0.1 110vns.com
+127.0.0.1 11108.com
 127.0.0.1 1122.life-good.net
 127.0.0.1 114.sohenan.cn
 127.0.0.1 1142356373.f3322.org
@@ -424,6 +433,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 123.collect-china.cn
 127.0.0.1 123.daohang88.com
 127.0.0.1 123.dedewl.com
+127.0.0.1 123.myifd.party
 127.0.0.1 123.tyl123.cn
 127.0.0.1 12306.iboluo.cc
 127.0.0.1 1230yy.com
@@ -444,6 +454,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 129.sxzjhg.com
 127.0.0.1 12931.vvchem.com
 127.0.0.1 12kxw.com
+127.0.0.1 12rfbvf.pw
 127.0.0.1 13.tigermum.cn
 127.0.0.1 13.tljpj.com
 127.0.0.1 13026895559.com
@@ -458,6 +469,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 13759186263.com
 127.0.0.1 137677.com
 127.0.0.1 137sf.net
+127.0.0.1 138.666hz.net
 127.0.0.1 138.palacehotelyalongbay.com
 127.0.0.1 1381098364.bdfei.com
 127.0.0.1 1388.net
@@ -467,6 +479,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 1391909201.bdfei.com
 127.0.0.1 1393452007.fzkjxy.com
 127.0.0.1 139url.cn
+127.0.0.1 13bifreog.pw
 127.0.0.1 13m.lxyes.com
 127.0.0.1 1405679165.fzkjxy.com
 127.0.0.1 1407252244.liulanwangye.com
@@ -474,6 +487,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 140w5q.0755look.com
 127.0.0.1 1416358543.hebei-mengcun.com
 127.0.0.1 1416419140.chengxinjiameng.com
+127.0.0.1 1418178445.kanyanliang.com
 127.0.0.1 1418482093.funlabstudio.com
 127.0.0.1 14198.com
 127.0.0.1 1422290722.0519mr.net
@@ -484,9 +498,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 1427691882.globalsolartechcn.com
 127.0.0.1 1427693005.guangzhoufengtian.com
 127.0.0.1 144.zshuachang.cn
+127.0.0.1 147qq.com
 127.0.0.1 147zzz.com
 127.0.0.1 149.sxzjhg.com
 127.0.0.1 149669.com
+127.0.0.1 14csdughj.pw
 127.0.0.1 14gg.com
 127.0.0.1 14h.pw
 127.0.0.1 14pp.pw
@@ -506,6 +522,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 166mc.com
 127.0.0.1 168lube.com
 127.0.0.1 168ui.com
+127.0.0.1 16eyjhgb.pw
 127.0.0.1 16pc.cn
 127.0.0.1 17159yx.com
 127.0.0.1 1718job.cn
@@ -520,6 +537,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 17990.vicp.net
 127.0.0.1 179-diet.com-2q1.net
 127.0.0.1 17dk.com
+127.0.0.1 17fudu.com
 127.0.0.1 17ger.com
 127.0.0.1 17lkj.com
 127.0.0.1 17soho.net
@@ -575,6 +593,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 1stidc1.com
 127.0.0.1 1w2w3w4w.com
 127.0.0.1 1wanpay.com
+127.0.0.1 1www.688.org
 127.0.0.1 1www.kk44kk.com
 127.0.0.1 1ym.net
 127.0.0.1 1zhaopin.com.cn
@@ -636,6 +655,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 24287.com
 127.0.0.1 24756.z123.info
 127.0.0.1 250788.com
+127.0.0.1 25566.com
 127.0.0.1 255725.com
 127.0.0.1 25985299.com
 127.0.0.1 25hp0s0.com
@@ -647,6 +667,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 276668.com
 127.0.0.1 277.cc
 127.0.0.1 279cw.com
+127.0.0.1 28.duote.org
 127.0.0.1 282c.com
 127.0.0.1 283678.com
 127.0.0.1 287.qzjxxx.cn
@@ -697,6 +718,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 325503.com
 127.0.0.1 3278dy.com
 127.0.0.1 328hgw.com
+127.0.0.1 32afitgwe.pw
 127.0.0.1 32uuu.com
 127.0.0.1 3334.com
 127.0.0.1 333619.com
@@ -713,6 +735,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 3456777.com
 127.0.0.1 345zz.com
 127.0.0.1 348567.com
+127.0.0.1 34csdughj.pw
 127.0.0.1 35.duote.com.cn
 127.0.0.1 3506888.com
 127.0.0.1 355725.com
@@ -723,6 +746,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 360.bang08.com.cn
 127.0.0.1 360.be.ma
 127.0.0.1 360.com.qm75.com
+127.0.0.1 360.game5399.com
 127.0.0.1 360.haokongbu.com
 127.0.0.1 360.ixuhu.net
 127.0.0.1 360.mooo.info
@@ -806,6 +830,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 377455.com
 127.0.0.1 379788.com
 127.0.0.1 379999.com
+127.0.0.1 37fhfvgds.pw
 127.0.0.1 37jiaoyou.com
 127.0.0.1 37valve.com
 127.0.0.1 380505326.5d4d.net
@@ -821,6 +846,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 388ty.com
 127.0.0.1 38ab.org
 127.0.0.1 38ge.com
+127.0.0.1 38go1fg4vt.pw
 127.0.0.1 38xxoo.com
 127.0.0.1 38zu.cn
 127.0.0.1 38zz.info
@@ -833,6 +859,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 39742.com
 127.0.0.1 398498.com
 127.0.0.1 3987.haishengdatiyu.com
+127.0.0.1 399039.com
 127.0.0.1 39947.com
 127.0.0.1 39fuzhuang.cn
 127.0.0.1 39jiaoyou.com
@@ -876,7 +903,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 3gqqb.net
 127.0.0.1 3gtmw.com
 127.0.0.1 3guogame.com
+127.0.0.1 3gxyu.com
 127.0.0.1 3gzxw.cn
+127.0.0.1 3h66g48.com
 127.0.0.1 3he-recycle.com
 127.0.0.1 3-huan.com
 127.0.0.1 3iiii.com
@@ -947,8 +976,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 404085666.com
 127.0.0.1 4043.com
 127.0.0.1 40501.apian123.info
+127.0.0.1 4056.cc
 127.0.0.1 4056.com
 127.0.0.1 4056.cxjgm.com
+127.0.0.1 4056.fs952.com
 127.0.0.1 4056qp.com
 127.0.0.1 40777.832.4nojv.cn
 127.0.0.1 4080tuan.com
@@ -968,6 +999,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 42668.com
 127.0.0.1 42838.com
 127.0.0.1 42988.com
+127.0.0.1 42afitgwe.pw
 127.0.0.1 42mir3.com
 127.0.0.1 42tao.com
 127.0.0.1 430-2b.com
@@ -981,6 +1013,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 438966.com
 127.0.0.1 4394.com
 127.0.0.1 4399.qm75.com
+127.0.0.1 43bifreog.pw
 127.0.0.1 43u.publicvm.com
 127.0.0.1 43yk.com
 127.0.0.1 44.7itz.com
@@ -1021,8 +1054,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 456cao.com
 127.0.0.1 456ii.com
 127.0.0.1 458115010.oss-cn-shenzhen.aliyuncs.com
+127.0.0.1 458458.cc
 127.0.0.1 45969.com
 127.0.0.1 45bite.com
+127.0.0.1 45ddsfblve.pw
 127.0.0.1 45gtv.com
 127.0.0.1 45nnn.com
 127.0.0.1 45taijihui.com
@@ -1033,6 +1068,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 46789.com
 127.0.0.1 4680000.com
 127.0.0.1 469933.com
+127.0.0.1 46eyjhgb.pw
 127.0.0.1 46wen.com
 127.0.0.1 47.duote.org
 127.0.0.1 47266.yun818.com
@@ -1043,6 +1079,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 477477kd.com
 127.0.0.1 477677.com
 127.0.0.1 479933.com
+127.0.0.1 47fhfvgds.pw
 127.0.0.1 47hz.com
 127.0.0.1 484838.com
 127.0.0.1 488266.com
@@ -1063,6 +1100,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 49ttt.com
 127.0.0.1 4aa.cc
 127.0.0.1 4aaxx.com
+127.0.0.1 4bbbb.com
 127.0.0.1 4c.hk
 127.0.0.1 4cs81v.0755look.com
 127.0.0.1 4ddxx.com
@@ -1103,6 +1141,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 501155.com
 127.0.0.1 501668.com
 127.0.0.1 501788.com
+127.0.0.1 502pk.com
 127.0.0.1 5033.cc
 127.0.0.1 503599.com
 127.0.0.1 503838.com
@@ -1259,6 +1298,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 52cp.com.cn
 127.0.0.1 52cpic.com
 127.0.0.1 52djcy.com
+127.0.0.1 52dy88.com
 127.0.0.1 52eee.kk44kk.com
 127.0.0.1 52esport.com
 127.0.0.1 52fdd.com
@@ -1293,6 +1333,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 530111.com
 127.0.0.1 53111.nhhmufo.com
 127.0.0.1 5312512.com.cn
+127.0.0.1 531259.qizmr.com
 127.0.0.1 531555.com
 127.0.0.1 531golf.com
 127.0.0.1 533-weightloss.com-o13.net
@@ -1328,6 +1369,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 553131.com
 127.0.0.1 553786.com
 127.0.0.1 55388.tk
+127.0.0.1 554469.com
+127.0.0.1 554482.com
 127.0.0.1 55466.com
 127.0.0.1 555.tyw100.com
 127.0.0.1 555319.com
@@ -1427,6 +1470,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 578008.cn
 127.0.0.1 57877.com
 127.0.0.1 578781.com
+127.0.0.1 579888.com
 127.0.0.1 57av.cn
 127.0.0.1 57cits.com
 127.0.0.1 57kaixin.com
@@ -1475,6 +1519,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 593555.com
 127.0.0.1 594240.com
 127.0.0.1 595av.com
+127.0.0.1 595cz.com
 127.0.0.1 596691.com
 127.0.0.1 596988.com
 127.0.0.1 59947.com
@@ -1487,10 +1532,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 59ai8.com
 127.0.0.1 59aml.com
 127.0.0.1 59cn.mumayi.net
+127.0.0.1 59hus1dhv.pw
 127.0.0.1 59icq.com
 127.0.0.1 59ipl.com
 127.0.0.1 59jjj.com
 127.0.0.1 59kw.com
+127.0.0.1 59yyy.com
 127.0.0.1 5adz.cn
 127.0.0.1 5ai8.com
 127.0.0.1 5ajj.net
@@ -1606,6 +1653,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 63jjj.com
 127.0.0.1 63ke.com
 127.0.0.1 63wk.com
+127.0.0.1 641332cbgw.com
 127.0.0.1 64881783.com
 127.0.0.1 64hiy8.0755look.com
 127.0.0.1 64mir.com
@@ -1760,6 +1808,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 693366.com
 127.0.0.1 69805.mgm003.com
 127.0.0.1 698080.com
+127.0.0.1 6991688.com
 127.0.0.1 699566.com
 127.0.0.1 699768.com
 127.0.0.1 699911.com
@@ -1961,6 +2010,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 77880.cc
 127.0.0.1 77888.com
 127.0.0.1 77888js.com
+127.0.0.1 778959.com
+127.0.0.1 778969.com
 127.0.0.1 778998.com
 127.0.0.1 778999.pw
 127.0.0.1 778b.com
@@ -2018,6 +2069,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 78bv.com
 127.0.0.1 78fa.com
 127.0.0.1 78guoguo.com
+127.0.0.1 78nanzi.com
 127.0.0.1 78pao.com
 127.0.0.1 78qqq.com
 127.0.0.1 79000.com
@@ -2029,6 +2081,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 797911.com
 127.0.0.1 799077.com
 127.0.0.1 79915.tengdingwl.com
+127.0.0.1 799515.com
 127.0.0.1 7999999.com.cn
 127.0.0.1 79bc.com
 127.0.0.1 79he.com
@@ -2101,6 +2154,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 808222.com
 127.0.0.1 809678.cn
 127.0.0.1 80989.com
+127.0.0.1 80baoru.com
 127.0.0.1 80chengren.com
 127.0.0.1 80data.net
 127.0.0.1 80km.net
@@ -2128,6 +2182,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 8142888.com
 127.0.0.1 8152888.com
 127.0.0.1 8154888.com
+127.0.0.1 815558.com
 127.0.0.1 8156888.com
 127.0.0.1 8164888.com
 127.0.0.1 8167888.com
@@ -2147,6 +2202,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 822356.com
 127.0.0.1 823.s.3322.net
 127.0.0.1 82678.com
+127.0.0.1 829998.com
 127.0.0.1 82k2.com
 127.0.0.1 82nnn.com
 127.0.0.1 82sz.com
@@ -2172,6 +2228,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 84gao.com
 127.0.0.1 84qqq.com
 127.0.0.1 85102152.com
+127.0.0.1 8533.cc
 127.0.0.1 855669.com
 127.0.0.1 855989.com
 127.0.0.1 856333.cn
@@ -2181,8 +2238,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 858755.com
 127.0.0.1 8588.com
 127.0.0.1 858pk.com
+127.0.0.1 859377.com
 127.0.0.1 85948.com
 127.0.0.1 8595.com
+127.0.0.1 859998.com
 127.0.0.1 85chat.com
 127.0.0.1 85hive.com
 127.0.0.1 85ii.com
@@ -2302,6 +2361,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 889859.com
 127.0.0.1 8899559.com
 127.0.0.1 88bocai.cc
+127.0.0.1 88ck.cc
 127.0.0.1 88dihao.com
 127.0.0.1 88jj.cc
 127.0.0.1 88jx.net
@@ -2437,6 +2497,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 922788.com
 127.0.0.1 925.001933.com
 127.0.0.1 929898.com
+127.0.0.1 929998.com
 127.0.0.1 92taojin.com
 127.0.0.1 92vx.net
 127.0.0.1 92wtc.com
@@ -2589,6 +2650,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 995608.com
 127.0.0.1 995998.com
 127.0.0.1 9966.org
+127.0.0.1 997597.com
 127.0.0.1 997975.com
 127.0.0.1 997o.com
 127.0.0.1 997wyt.com
@@ -2599,6 +2661,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 99886.net
 127.0.0.1 998928.com
 127.0.0.1 998game.net
+127.0.0.1 998qb.com
 127.0.0.1 998yxw.com
 127.0.0.1 999.hgjygs.cn
 127.0.0.1 999.sydddq.cn
@@ -2667,6 +2730,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 9leu.com
 127.0.0.1 9maituku.com
 127.0.0.1 9mf3ds4a.6123337.com
+127.0.0.1 9osdhskj.pw
 127.0.0.1 9p78.com
 127.0.0.1 9pan.net
 127.0.0.1 9qqcc.com
@@ -2698,6 +2762,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 a.bjdbbs.com
 127.0.0.1 a.cctv2000.com
 127.0.0.1 a.clickdata.37wan.com
+127.0.0.1 a.cq-tw.cn
 127.0.0.1 a.ctvisa.com
 127.0.0.1 a.cw366.com
 127.0.0.1 a.dedewl.com
@@ -2729,6 +2794,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 a.txj888.com
 127.0.0.1 a.wbsz.com
 127.0.0.1 a.xydlh.com
+127.0.0.1 a.ypdawfi.tk
 127.0.0.1 a.yxcjqy.com
 127.0.0.1 a.zhuannet.com
 127.0.0.1 a.zjdsq.com
@@ -2745,6 +2811,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 a1cs317.vix.ro
 127.0.0.1 a1zuq10c5fc.sijism.com
 127.0.0.1 a2.8ip.cc
+127.0.0.1 a2.wv120.com
 127.0.0.1 a2.zxcdfgrty.com
 127.0.0.1 a2100.lixinrenjia.com
 127.0.0.1 a223.com
@@ -2846,11 +2913,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 ab3344.com
 127.0.0.1 ab656.com
 127.0.0.1 ab995.cn
+127.0.0.1 abagan.com
 127.0.0.1 abbcp.cn
 127.0.0.1 abc.aixin521km.com
 127.0.0.1 abc.ctvwm.com
 127.0.0.1 abc.dlefang.cn
 127.0.0.1 abc.hkrdwx.com
+127.0.0.1 abc.jeig98.com
 127.0.0.1 abc.ka68.cn
 127.0.0.1 abc.quain.cn
 127.0.0.1 abc.sy520.com
@@ -2899,6 +2968,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 act.zz.zqgame.com
 127.0.0.1 active.b2b.hc360.com
 127.0.0.1 ad.160d.com
+127.0.0.1 ad.39gif.com
 127.0.0.1 ad.51pc114.cn
 127.0.0.1 ad.55bbcc.com
 127.0.0.1 ad.admsger.com
@@ -2914,6 +2984,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ad79.co.kr
 127.0.0.1 adafapa.cx.cc
 127.0.0.1 adagio.tw
+127.0.0.1 adamlikdini.com
 127.0.0.1 adartemmusicae.home.pl
 127.0.0.1 adcfalat.tk
 127.0.0.1 adchina.cc
@@ -2950,6 +3021,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ads.avlive.info
 127.0.0.1 ads.regiedepub.com
 127.0.0.1 ads4cn.com
+127.0.0.1 ads80.com
 127.0.0.1 ads-a.juicyads.com
 127.0.0.1 adserv.cn
 127.0.0.1 adshs.com
@@ -2967,6 +3039,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 adv1.downsave.com
 127.0.0.1 adv2.downsave.com
 127.0.0.1 advancedmediarecovery.com
+127.0.0.1 advaqj.com
 127.0.0.1 advise.ttsq98.com
 127.0.0.1 ad-vnet.com
 127.0.0.1 advx.aliapp.com
@@ -2978,6 +3051,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 aeon-star.com.cn
 127.0.0.1 aeorokwr.tk
 127.0.0.1 aeovswy.com
+127.0.0.1 aespjfa.pw
 127.0.0.1 aeukdz.fvzbhsno.gq
 127.0.0.1 aeumcyguum.tk
 127.0.0.1 afafd.kmd365.com
@@ -2993,6 +3067,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 africatravelling.net
 127.0.0.1 afxn.fr.am
 127.0.0.1 afyopku.cn
+127.0.0.1 afzibl.cn
 127.0.0.1 afztravel.com
 127.0.0.1 ag0876.com
 127.0.0.1 ag6.pw
@@ -3062,6 +3137,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 aicntv.com
 127.0.0.1 aideiba.com
 127.0.0.1 aidimuye.com
+127.0.0.1 aiduobao.0fees.us
 127.0.0.1 aiers.com.cn
 127.0.0.1 ai-garden.com
 127.0.0.1 aigo10.com
@@ -3124,6 +3200,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 aiyaofei.com
 127.0.0.1 aizhengrong.net
 127.0.0.1 aizhicheng.cn
+127.0.0.1 aizhigu.yqp50.com
 127.0.0.1 aizibing886.com
 127.0.0.1 aizzu.com
 127.0.0.1 aj.rxlian.com
@@ -3252,10 +3329,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 anfuw.net
 127.0.0.1 angao1e.cn
 127.0.0.1 angaole.org.cn
+127.0.0.1 angeldns.f3322.org
 127.0.0.1 angeltext.cn
 127.0.0.1 anhei3img.d3cn.net
 127.0.0.1 anhui.driverchina.com
 127.0.0.1 anhuiguzhai.com
+127.0.0.1 anhuipharm.com.cn
 127.0.0.1 anillosur.net
 127.0.0.1 animal-robot.com
 127.0.0.1 anjiebofang.com
@@ -3267,6 +3346,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 anle123.com
 127.0.0.1 anlinjx.com
 127.0.0.1 anmeiqi.com
+127.0.0.1 anmo.tzxg.cn
 127.0.0.1 anmoqingdao.com
 127.0.0.1 annacz.com
 127.0.0.1 annengdl.com
@@ -3372,11 +3452,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 appleid.gdxhpx.com
 127.0.0.1 apple-id-400.com
 127.0.0.1 apple-id-lock.com
+127.0.0.1 appleion.com
 127.0.0.1 appleiphonegd.com
 127.0.0.1 apple-ipone-wact.com
 127.0.0.1 appletowel.com
 127.0.0.1 appolloktv.com
 127.0.0.1 apps.pcpp.cn
+127.0.0.1 appstore-apple.com
 127.0.0.1 aps.skyls.cn
 127.0.0.1 apseplastica.it
 127.0.0.1 apsxze.at.vu
@@ -3410,6 +3492,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ard.down.ttpod.com
 127.0.0.1 ardaloka.com
 127.0.0.1 areaguasch.com
+127.0.0.1 argo.therourkefamily.com
 127.0.0.1 ariiipxpk.tk
 127.0.0.1 armoky.com
 127.0.0.1 armortanks.com
@@ -3435,6 +3518,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 asd.xl.cx
 127.0.0.1 asdf.tywhifp.com
 127.0.0.1 asdfadgtyuyipfgjns.cx.cc
+127.0.0.1 asdw32q.yyvoyei.tk
 127.0.0.1 asex9.info
 127.0.0.1 asfdfdgfetbh.pw
 127.0.0.1 asfsd.nlfvqwq.com
@@ -3562,6 +3646,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 awfgusdgk.tk
 127.0.0.1 awiki.org
 127.0.0.1 awouckak.tk
+127.0.0.1 awsomnet.org
 127.0.0.1 aww.jirehfec.com.cn
 127.0.0.1 awwenshen.com
 127.0.0.1 awww.nnn54.com
@@ -3607,6 +3692,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 b.agan-tichon.co.il
 127.0.0.1 b.ax91.com
 127.0.0.1 b.ayudenergy.co.il
+127.0.0.1 b.casa-group.co.il
 127.0.0.1 b.dvg.pl
 127.0.0.1 b.emath.co.il
 127.0.0.1 b.glosuje.pl
@@ -3631,6 +3717,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 b.xundisk.net
 127.0.0.1 b.yinbbs.com
 127.0.0.1 b.yiyeqing.us
+127.0.0.1 b.ypdawfi.tk
 127.0.0.1 b.zobzoomino123a4.com
 127.0.0.1 b.zobzoomino123a9.com
 127.0.0.1 b059.com
@@ -3640,9 +3727,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 b2b.gigabyte.cn
 127.0.0.1 b2hsn.com
 127.0.0.1 b2k3.com
+127.0.0.1 b377.com
 127.0.0.1 b3939.com
 127.0.0.1 b5171.com
 127.0.0.1 b569.com
+127.0.0.1 b5788.com
 127.0.0.1 b665.com
 127.0.0.1 b6a.cn
 127.0.0.1 b7.gpxz.net
@@ -3720,6 +3809,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 baidusu.xyz
 127.0.0.1 baiduyisheng.com
 127.0.0.1 baifenbai99.com
+127.0.0.1 baiguangmajiang.cn
 127.0.0.1 baihe1966.com
 127.0.0.1 baihepingan.com
 127.0.0.1 baihuayiyao.com
@@ -3943,7 +4033,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 bco.in
 127.0.0.1 bconlineclass.com
 127.0.0.1 bcpuc.com
-127.0.0.1 bcs.duapp.com
 127.0.0.1 bcw001.com
 127.0.0.1 bcw88.cc
 127.0.0.1 bcw928.com
@@ -4057,9 +4146,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 bestnzb.com
 127.0.0.1 bestsh11.com
 127.0.0.1 beststaredu.com
+127.0.0.1 bet0514.cn
+127.0.0.1 bet0514.net
 127.0.0.1 bet0614.net
 127.0.0.1 bet156.com
 127.0.0.1 bet16.com
+127.0.0.1 bet1980.com
 127.0.0.1 bet222.com
 127.0.0.1 bet278.com
 127.0.0.1 bet365du.com
@@ -4113,11 +4205,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 bhtsoft.com
 127.0.0.1 bhw.sg-tek.net
 127.0.0.1 bhxm.com
+127.0.0.1 biandianw.cn
 127.0.0.1 bianhuan999.com
 127.0.0.1 biankoo.com
 127.0.0.1 biantaizth.8aop.com
 127.0.0.1 biao.ocbixzv.tk
 127.0.0.1 biao.sh8.cc
+127.0.0.1 biao.ypdawfi.tk
 127.0.0.1 biaobang.cn
 127.0.0.1 biaogebbs.com
 127.0.0.1 biaokun.com
@@ -4125,6 +4219,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 biaos.gqcgisu.tk
 127.0.0.1 bibidu.com
 127.0.0.1 biboshijiage.com
+127.0.0.1 bifeza.shuianshanba.com
 127.0.0.1 bigbangzzang.com
 127.0.0.1 bigbestfind.cn
 127.0.0.1 bigbull88.cn
@@ -4143,6 +4238,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 bigtopstats.cn
 127.0.0.1 bigtopstudios.cn
 127.0.0.1 bigumnh.com
+127.0.0.1 bihbj.cn
 127.0.0.1 bih-china.com
 127.0.0.1 bii.dtlama.com
 127.0.0.1 biketoss.com
@@ -4157,10 +4253,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 bing.www.44444kk.com
 127.0.0.1 bingo9.net
 127.0.0.1 bingtu.net
+127.0.0.1 bingyan.b0.upaiyun.com
 127.0.0.1 bingzhengart.com
 127.0.0.1 binhaibengye.com
 127.0.0.1 binuwyih.mfmv.ru
 127.0.0.1 biochempartner.com
+127.0.0.1 bio-ecofamily.com
 127.0.0.1 biofunction.cn
 127.0.0.1 bioito.cn
 127.0.0.1 bioocn.com
@@ -4268,6 +4366,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 bjshangchi.com
 127.0.0.1 bjshtf.com
 127.0.0.1 bjshuyi.com
+127.0.0.1 bjsjgy.cn
 127.0.0.1 bjsmyc.com
 127.0.0.1 bjssj0917.com
 127.0.0.1 bjsswater.com
@@ -4316,6 +4415,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 bkds.doctor120.net
 127.0.0.1 bkh.redian360.com
 127.0.0.1 bkkjob.com
+127.0.0.1 bkw.cc
 127.0.0.1 bl3x0ob.bnmch.com
 127.0.0.1 bl4ckst4r.cn
 127.0.0.1 blackhat.cc
@@ -4325,8 +4425,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 bli.saiqx.ga
 127.0.0.1 blieu.lhjsfq78.com
 127.0.0.1 blinkiebitch.com
+127.0.0.1 blizzard-asd-wow-zh.com
 127.0.0.1 blizzard-wow-us-ue-zh.com
 127.0.0.1 blizzie.net
+127.0.0.1 blk.thrww.com
 127.0.0.1 blm678.com
 127.0.0.1 bloa.jc750.com
 127.0.0.1 blog.chantal13.com
@@ -4362,6 +4464,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 bmw567.com
 127.0.0.1 bmysc.net
 127.0.0.1 bmz.xkw.pw
+127.0.0.1 bn.yjqpm115.com
 127.0.0.1 bn-boit.com
 127.0.0.1 bngyiwe.258ty.fr.to
 127.0.0.1 bnhz100.com
@@ -4369,9 +4472,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 bo.2hhhh.net
 127.0.0.1 bo.bo73.com
 127.0.0.1 boao.boaolos.com
+127.0.0.1 bob.ibiz.cc
 127.0.0.1 bobcentury.com
 127.0.0.1 bobo.91rbb.com
 127.0.0.1 bobo.97qingse.com
+127.0.0.1 bobo.kkxbb.com
 127.0.0.1 bobo.sqwyl.com
 127.0.0.1 bobo1314.com
 127.0.0.1 bo-ca1.com
@@ -4391,12 +4496,15 @@ All Rights Reserved 2007-2014
 127.0.0.1 boganu.disijiaju.cn
 127.0.0.1 bohaixieba.com
 127.0.0.1 bohanedu.net
+127.0.0.1 bohoro.career2010.cn
 127.0.0.1 bohouzhai.com
 127.0.0.1 boke-nyhb.com
 127.0.0.1 bokenyhb.huhuhu.net
+127.0.0.1 bokepes.com
 127.0.0.1 bokeza.yunheglobal.com
 127.0.0.1 bolansc.com
 127.0.0.1 boleme.com
+127.0.0.1 boller.cn
 127.0.0.1 bolunhemi.com
 127.0.0.1 bomeipt.snia888.com
 127.0.0.1 bonan8826.com
@@ -4413,6 +4521,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 bosacu.career2010.cn
 127.0.0.1 bosese.lebosse.org
 127.0.0.1 boshiyc.com
+127.0.0.1 bosiwangzi.com.cn
 127.0.0.1 bossguo.com.cn
 127.0.0.1 bossmb.com
 127.0.0.1 boszg.com
@@ -4455,6 +4564,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 brtshkwz.fhg2io4wrg.pw
 127.0.0.1 bry2gfvm.pw
 127.0.0.1 bs.bztdzurg.tk
+127.0.0.1 bs945.xabaitai.com
 127.0.0.1 bsdu2ghj.pw
 127.0.0.1 bsfw.net
 127.0.0.1 bsksy.com
@@ -4535,7 +4645,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 bx.twmvhvj.ga
 127.0.0.1 bx0635.com
 127.0.0.1 bxatx.com
+127.0.0.1 bxbg.1982sw.com
 127.0.0.1 bxbgsc.com
+127.0.0.1 bxfhhrh.ga
 127.0.0.1 bxht007.com
 127.0.0.1 bxljs.com.cn
 127.0.0.1 bxntg.com
@@ -4553,6 +4665,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 byfm.pvpm.rcfb8y.ml
 127.0.0.1 byglb.com
 127.0.0.1 byicjxzdpcu.tk
+127.0.0.1 byl.123nat.com
 127.0.0.1 bypf120.com
 127.0.0.1 byqjb.com
 127.0.0.1 byt55.com
@@ -4603,7 +4716,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 c.xihawan8.com
 127.0.0.1 c.xq12.com
 127.0.0.1 c.xxnaosw.tk
+127.0.0.1 c.ypdawfi.tk
 127.0.0.1 c.zhuolig.com
+127.0.0.1 c.zp22938576.com
+127.0.0.1 c.zp265.com
 127.0.0.1 c.zr00.com
 127.0.0.1 c0093.cn
 127.0.0.1 c1.keyrun.cn
@@ -4622,6 +4738,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 c7512.com
 127.0.0.1 c7e56444.allanalpass.com
 127.0.0.1 c7e56444.youfap.me
+127.0.0.1 c7qhd.yidabh.com
 127.0.0.1 c8.htt-lite.com.cn
 127.0.0.1 c8yy.com
 127.0.0.1 c99.gen.tr
@@ -4654,7 +4771,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 cai6.meilegoufs.com
 127.0.0.1 caiboshi.cc
 127.0.0.1 caidao.hk008.qingnian-web.com
+127.0.0.1 caidat.org
 127.0.0.1 caihuitx.com
+127.0.0.1 caishenakk.cn
+127.0.0.1 caishenmimapuke.cn
 127.0.0.1 caite8.com
 127.0.0.1 caiun.com
 127.0.0.1 cakio.tk
@@ -4851,6 +4971,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cechoice.com
 127.0.0.1 cedarera.com
 127.0.0.1 cefogu.centralpm.cn
+127.0.0.1 cefuhijx.pw
 127.0.0.1 ceigle.com
 127.0.0.1 celabon.com
 127.0.0.1 cema888.com
@@ -4950,6 +5071,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 chaoyangfossils.com
 127.0.0.1 chaoyu-car.com
 127.0.0.1 chao-yue.net
+127.0.0.1 chaozhouv.com
 127.0.0.1 chargol.com
 127.0.0.1 charismaticorange.com
 127.0.0.1 charles726.hongyun99.com
@@ -5182,6 +5304,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cj.pingguo55.com
 127.0.0.1 cj.qixi55.com
 127.0.0.1 cj598.com
+127.0.0.1 cj993.com
 127.0.0.1 cjcx.lszjy.com
 127.0.0.1 cjdsw.com
 127.0.0.1 cjgy.org
@@ -5194,6 +5317,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ck.adpush.cn
 127.0.0.1 ck.flow.doudouguo.com
 127.0.0.1 ck.softforum.com
+127.0.0.1 ck7wsjdfm4d.pw
 127.0.0.1 cka66.com
 127.0.0.1 ckai.cn
 127.0.0.1 ck-conveyors.com
@@ -5204,6 +5328,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ckzc007.com
 127.0.0.1 cl.0774ms.com
 127.0.0.1 cl.shunzhifs.com
+127.0.0.1 cl0579.aliapp.com
 127.0.0.1 clairic.com
 127.0.0.1 classiccarchina.org
 127.0.0.1 clboli.cn
@@ -5274,6 +5399,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cn.ucptt.com
 127.0.0.1 cn.usakrd.com
 127.0.0.1 cn.winner128.com
+127.0.0.1 cn923rhxm.pw
 127.0.0.1 cname1.net
 127.0.0.1 cnballvalve.net
 127.0.0.1 cnc.314151.com
@@ -5329,6 +5455,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cnmod.net
 127.0.0.1 cnmpinfo.cn
 127.0.0.1 cnmui.net
+127.0.0.1 cnmuju.net
 127.0.0.1 cnnbtx.com
 127.0.0.1 cnnet360.com
 127.0.0.1 cnnic.ch.ma
@@ -5339,6 +5466,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cnpengdu.com
 127.0.0.1 cnperfect.cn
 127.0.0.1 cnpfsc.com
+127.0.0.1 cnppaacc5.duapp.com
 127.0.0.1 cnpxy.com
 127.0.0.1 cnq.ecewang.cn
 127.0.0.1 cnqingda.com.cn
@@ -5413,6 +5541,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 com8888212.jon55.pw
 127.0.0.1 combinebet.cn
 127.0.0.1 comcc.in
+127.0.0.1 come258.com
 127.0.0.1 com-ft74.net
 127.0.0.1 com-hz77.net
 127.0.0.1 com-lu66.net
@@ -5458,6 +5587,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 count.cncrk.com
 127.0.0.1 count.dcttl.com
 127.0.0.1 count.ikuaiyu.com
+127.0.0.1 count.tt6786.com
 127.0.0.1 count.xiaoxinrili.com
 127.0.0.1 count.xj.cn
 127.0.0.1 count37.51yes.com
@@ -5490,6 +5620,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cpzsstz.com
 127.0.0.1 cq02.k77.cn
 127.0.0.1 cq176mir.com
+127.0.0.1 cq6000.cn
 127.0.0.1 cq9527.413sf.com
 127.0.0.1 cq98jp.hxcs.org
 127.0.0.1 cqafxh.org
@@ -5509,6 +5640,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cqjunxun.net
 127.0.0.1 cqla.net
 127.0.0.1 cqmktech.com
+127.0.0.1 cqnanding.com
 127.0.0.1 cqorqx.com
 127.0.0.1 cqpz.cn
 127.0.0.1 cqq.icfar.com
@@ -5551,6 +5683,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 csbqxq.com
 127.0.0.1 cscqc.net
 127.0.0.1 csctl.com
+127.0.0.1 csfxzc.com
 127.0.0.1 cshrxl.com
 127.0.0.1 cshyzs.com
 127.0.0.1 csj21.cn
@@ -5603,6 +5736,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ctn77.com
 127.0.0.1 ctrip369.net
 127.0.0.1 ctsywy.com
+127.0.0.1 ctufpdp.com
 127.0.0.1 ctv.whpx8.com
 127.0.0.1 ctv96.com
 127.0.0.1 ctwlcn.com
@@ -5637,6 +5771,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cwi100.com
 127.0.0.1 cwnin.com
 127.0.0.1 cwopo.com
+127.0.0.1 cw-xinyu.com
 127.0.0.1 cwysy.com
 127.0.0.1 cx.sogou.com
 127.0.0.1 cx6862.com
@@ -5658,6 +5793,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 cycfw.com
 127.0.0.1 cycneuro.com
 127.0.0.1 cyf-knife.com
+127.0.0.1 cygg888.com
 127.0.0.1 cyghzy.com
 127.0.0.1 cygree.com
 127.0.0.1 cyh7.cn
@@ -5693,6 +5829,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 czgtgbwg.com
 127.0.0.1 czgtgj.com
 127.0.0.1 czhbjz.com
+127.0.0.1 czhengfa.cn
 127.0.0.1 czhjln.com
 127.0.0.1 czhwjx.com
 127.0.0.1 czhyjz.com
@@ -5755,6 +5892,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 d1.w26.cn
 127.0.0.1 d1.ybtx.org
 127.0.0.1 d100.7r7z.com
+127.0.0.1 d10028.00vns.com
 127.0.0.1 d19.yctxdk.com
 127.0.0.1 d2.gj555.net
 127.0.0.1 d2.w26.cn
@@ -5808,6 +5946,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 dafa888.com
 127.0.0.1 da-forums.info
 127.0.0.1 daguogroup.com
+127.0.0.1 dahua800.com
 127.0.0.1 daidai.bjmrss.com.cn
 127.0.0.1 daifapt.com
 127.0.0.1 daiguohong.com
@@ -5834,6 +5973,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 dangdang.mxysplmab.tk
 127.0.0.1 dangdang.qukkagmac.tk
 127.0.0.1 dangdangtbsf.oyieoyyg.gq
+127.0.0.1 dangdangwangi.jeqphi.cn
+127.0.0.1 dangdangwangi.jksdb.cn
 127.0.0.1 dangong.cn
 127.0.0.1 dangongshu.com
 127.0.0.1 dangongwan.com
@@ -5935,8 +6076,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 ddkdzq.top
 127.0.0.1 ddos.lyjq.org
 127.0.0.1 ddown.jiaoben.cn
+127.0.0.1 ddr0qqp7.duell.cn
 127.0.0.1 dds.zjacc.org
+127.0.0.1 dds1fblve.pw
+127.0.0.1 ddsgsse.rnbhbtv.com
 127.0.0.1 ddsj.org
+127.0.0.1 ddtuikuan.dqlnyk.top
 127.0.0.1 ddtz555.com
 127.0.0.1 ddtz9.com
 127.0.0.1 ddy.lmyyxx.cn
@@ -5981,6 +6126,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 deyiweixiu.cn
 127.0.0.1 deyize.com
 127.0.0.1 dezcom.org
+127.0.0.1 df.disienw.com
 127.0.0.1 df0537.com
 127.0.0.1 df1236.com
 127.0.0.1 df5999.com
@@ -5989,6 +6135,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 dfcbchina.com
 127.0.0.1 dfd.fliiotg.com
 127.0.0.1 dfddo.hpaxlkb.com
+127.0.0.1 dfegrd23.pw
 127.0.0.1 dffsp.com
 127.0.0.1 dfgark.com
 127.0.0.1 dfgjykdg.cf
@@ -5998,6 +6145,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 dfjafd.qrtbzft.com
 127.0.0.1 dfjezlwb.tk
 127.0.0.1 dfmyms.com
+127.0.0.1 dfnweuhx.pw
 127.0.0.1 dfpvag.com
 127.0.0.1 dfsd.95188.bjlkhdm995.com
 127.0.0.1 dfsdfsd.wjvyhsl.info
@@ -6103,6 +6251,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ditieyh.cn
 127.0.0.1 diyiminglu.com
 127.0.0.1 diyitouzhu.com
+127.0.0.1 diypin.com
 127.0.0.1 diyyishu.com
 127.0.0.1 diyzhu.com
 127.0.0.1 dizuntea.ca
@@ -6114,11 +6263,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 dj.zwu.edu.cn
 127.0.0.1 dj055.com
 127.0.0.1 dj2277.com
+127.0.0.1 dj28iohe.pw
 127.0.0.1 dj6677.com
 127.0.0.1 dj8777.com
 127.0.0.1 djaise3.3n.cc
 127.0.0.1 djb.636399.cc
+127.0.0.1 djb14affls.pw
 127.0.0.1 djcalvin.com
+127.0.0.1 djfgsdcv.pw
 127.0.0.1 djfushi.com
 127.0.0.1 djhsdgtarf.ndiztdy.tk
 127.0.0.1 djhyhb.com
@@ -6134,6 +6286,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 djxggs.gnway.cc
 127.0.0.1 djzx133.com
 127.0.0.1 dk148.com
+127.0.0.1 dk23fbv4ij.pw
 127.0.0.1 dk557825.ntdll.net
 127.0.0.1 dk55785.ntdll.net
 127.0.0.1 dk9.xyz
@@ -6196,6 +6349,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 dl.uvwcii.com
 127.0.0.1 dl.wxtxgj.net
 127.0.0.1 dl.xmlushengda.com
+127.0.0.1 dl.xyzcii.com
 127.0.0.1 dl.yizhan123.com
 127.0.0.1 dl1.115.la
 127.0.0.1 dl100du.com
@@ -6231,7 +6385,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 dlpcqx.cn
 127.0.0.1 dlq.sf1994.com
 127.0.0.1 dlq1.axa8.com
-127.0.0.1 dlqxz.8090yxs.com
 127.0.0.1 dlrchy.com
 127.0.0.1 dlrdgc.com
 127.0.0.1 dlsanxie.com
@@ -6328,6 +6481,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 douduoguo.com
 127.0.0.1 dovchina.cn
 127.0.0.1 dow96.gong123.com
+127.0.0.1 dowmmur.tk
 127.0.0.1 down.0551fs.com
 127.0.0.1 down.0851qy.com
 127.0.0.1 down.110160.com
@@ -6337,6 +6491,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 down.168hda.com
 127.0.0.1 down.17web.com
 127.0.0.1 down.2013zhui.org
+127.0.0.1 down.2034.cn
 127.0.0.1 down.21outward.com
 127.0.0.1 down.24.cnnicidc.com
 127.0.0.1 down.314151.com
@@ -6364,6 +6519,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 down.7dlq.com
 127.0.0.1 down.800vod.com
 127.0.0.1 down.8476ddd.com
+127.0.0.1 down.8gau.com
 127.0.0.1 down.91debug.com
 127.0.0.1 down.931722.com
 127.0.0.1 down.958wg.com
@@ -6389,7 +6545,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 down.bianya.cc
 127.0.0.1 down.biomall.org.cn
 127.0.0.1 down.bsygyy.cn
+127.0.0.1 down.cdndown.net
 127.0.0.1 down.cdnxiazai.pw
+127.0.0.1 down.cdnxiazai.ren
+127.0.0.1 down.cdnxiazai.wang
 127.0.0.1 down.cdyb.net
 127.0.0.1 down.chinafangwei.org
 127.0.0.1 down.chinashangrui.com
@@ -6418,8 +6577,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 down.dongdongwg.com
 127.0.0.1 down.dongyangjindao.com
 127.0.0.1 down.doudouguo.com
+127.0.0.1 down.downcdn.in
 127.0.0.1 down.downcdn.me
+127.0.0.1 down.downxiazai.cc
 127.0.0.1 down.downxiazai.net
+127.0.0.1 down.downxiazai.org
 127.0.0.1 down.dream2013.net
 127.0.0.1 down.drv5.cn
 127.0.0.1 down.dsafsdsfibnmk.pw
@@ -6451,11 +6613,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 down.hanhan521.com
 127.0.0.1 down.hao5785.com
 127.0.0.1 down.hao6385.com
+127.0.0.1 down.haodown.in
+127.0.0.1 down.haodown.org
 127.0.0.1 down.hit020.com
 127.0.0.1 down.hkdaf.com
 127.0.0.1 down.hongchuanjx.com
 127.0.0.1 down.huaxingtk.com
 127.0.0.1 down.huayuanyoule.com
+127.0.0.1 down.i90ba.com
 127.0.0.1 down.iemao.com
 127.0.0.1 down.jd2fg50y6.pw
 127.0.0.1 down.jh128.com
@@ -6533,6 +6698,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 down.sou2v.com
 127.0.0.1 down.specc.net
 127.0.0.1 down.starcloud0531.com
+127.0.0.1 down.sui17.com
 127.0.0.1 down.sushouspell.com
 127.0.0.1 down.syicp.com
 127.0.0.1 down.szklkkjysgs.com
@@ -6560,12 +6726,20 @@ All Rights Reserved 2007-2014
 127.0.0.1 down.xiake.org
 127.0.0.1 down.xiami321.com
 127.0.0.1 down.xianlipin.org
+127.0.0.1 down.xiaobaixitong.com
 127.0.0.1 down.xiaoxinrili.com
+127.0.0.1 down.xiazai.es
 127.0.0.1 down.xiazai2.net
+127.0.0.1 down.xiazaicdn.net
 127.0.0.1 down.xiazaicdn.pw
+127.0.0.1 down.xiazaicdn.ren
 127.0.0.1 down.xiazaidi.com
+127.0.0.1 down.xiazaidown.net
+127.0.0.1 down.xiazaidown.org
+127.0.0.1 down.xiazaidown.wang
 127.0.0.1 down.xjte.cn
 127.0.0.1 down.xmzs8.com
+127.0.0.1 down.y73shop.com
 127.0.0.1 down.yangpuweiqi.com
 127.0.0.1 down.ybofang.cn
 127.0.0.1 down.ybtx.org
@@ -6626,6 +6800,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 down2.upanfile.com
 127.0.0.1 down2.upantool.com
 127.0.0.1 down20156181952.top
+127.0.0.1 down2015619842.party
 127.0.0.1 down23.huacolor.com
 127.0.0.1 down3.15111358088.cn
 127.0.0.1 down3.7scs.com
@@ -6725,6 +6900,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 downyy.h-a34-host.n9cn1.com
 127.0.0.1 down-z83.cn.qxiazai.com
 127.0.0.1 doxzcvzxis.yao.cl
+127.0.0.1 doyouyy.cn
 127.0.0.1 dp.fdodo.cn
 127.0.0.1 dp0736.net
 127.0.0.1 dpgjjs.com
@@ -6766,6 +6942,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 dsfds.lzywby.com
 127.0.0.1 dsfffg.uk.to
 127.0.0.1 dsfgerjk.pw
+127.0.0.1 dsg.bgbkjr.com
 127.0.0.1 dsgrt.com
 127.0.0.1 dshkhasl.xcvdjtea.tk
 127.0.0.1 dsjd.dsblg.cn
@@ -6774,6 +6951,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 dskchina.cn
 127.0.0.1 dsklhgk.pw
 127.0.0.1 dslj.com.cn
+127.0.0.1 dsmfgltd.com
+127.0.0.1 dsn8.com
 127.0.0.1 dsp.ctrtb.com
 127.0.0.1 dsp.youdao.com
 127.0.0.1 dspcdn.000dn.com
@@ -6787,6 +6966,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 dt8888.393c.com
 127.0.0.1 dtdq.cn
 127.0.0.1 dtgcjx.com
+127.0.0.1 dtgd5t4sdf9.pw
 127.0.0.1 dthdddf.tk
 127.0.0.1 dthg888.com
 127.0.0.1 dti8.hhadvi4j80.tk
@@ -6969,6 +7149,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 easeeee.net
 127.0.0.1 easisend.com
 127.0.0.1 eastfilm.net
+127.0.0.1 eastfy.com
 127.0.0.1 eastsoma.cn
 127.0.0.1 east-wood.net
 127.0.0.1 easugar.com
@@ -6977,6 +7158,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 easycheng.cn
 127.0.0.1 easyguo.com
 127.0.0.1 easy-inn.cn
+127.0.0.1 easyinn.com.cn
 127.0.0.1 easyito.com
 127.0.0.1 eat13.com
 127.0.0.1 eathp.com
@@ -7081,6 +7263,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 emfxpkp.tk
 127.0.0.1 emirkanotorent.com
 127.0.0.1 emode.my
+127.0.0.1 emoonbay.com
 127.0.0.1 emucbj.ml
 127.0.0.1 emv.cc
 127.0.0.1 emwmmmuew.tk
@@ -7142,15 +7325,19 @@ All Rights Reserved 2007-2014
 127.0.0.1 eqwp8oeur.pw
 127.0.0.1 eqyy99.com
 127.0.0.1 er38.0ch.cn
+127.0.0.1 erc9fef.pw
 127.0.0.1 er-china.com
 127.0.0.1 erfef2s0.pw
+127.0.0.1 erhehslk.pw
 127.0.0.1 erichware.com
+127.0.0.1 erihjpio.pw
 127.0.0.1 erki.net
 127.0.0.1 ero8.info
 127.0.0.1 erpsh.com.cn
 127.0.0.1 error.52shuwu.com
 127.0.0.1 errorpage.webcamcn.com
 127.0.0.1 ert36.com
+127.0.0.1 ertpoo.banesh.ca
 127.0.0.1 eruonxiongdd.cn
 127.0.0.1 erwghr.iwuyuan.cn
 127.0.0.1 eryogs.izabdjr.info
@@ -7211,10 +7398,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 ewbio.cn
 127.0.0.1 ewfcwe.nb118.com
 127.0.0.1 ewhsfrb.com
+127.0.0.1 ewilejgl.pw
 127.0.0.1 ewin11.com
 127.0.0.1 ewincity.net
 127.0.0.1 ewopo.com
 127.0.0.1 ewq2ui7rgh.pw
+127.0.0.1 ewrretg.pw
 127.0.0.1 ewymkwj.tk
 127.0.0.1 exaccess.ru
 127.0.0.1 exdj.cn
@@ -7258,6 +7447,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 f.ku63.com
 127.0.0.1 f.sadeodai.com
 127.0.0.1 f.yomihui.com
+127.0.0.1 f01dgfjs.pw
+127.0.0.1 f02gsjff.pw
 127.0.0.1 f1.70e.com
 127.0.0.1 f1.aidaicn.com
 127.0.0.1 f1.p0y.cn
@@ -7351,6 +7542,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 fatekd.com
 127.0.0.1 fatfamoto.com
 127.0.0.1 fatvps.com
+127.0.0.1 fav8.net
+127.0.0.1 fawhs.party
 127.0.0.1 fay.vrlag.info
 127.0.0.1 fbb0oy.net
 127.0.0.1 fbche.com
@@ -7463,9 +7656,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 ffl866.com
 127.0.0.1 fg.ggzojy.com
 127.0.0.1 fg2va0uhf.pw
+127.0.0.1 fgasjfsd.pw
 127.0.0.1 fgcn.qpkzp.top
 127.0.0.1 fgfdgf.ipjcq.com
 127.0.0.1 fggz.org
+127.0.0.1 fggzb.com
 127.0.0.1 fghhf6787.lnlipkh.tk
 127.0.0.1 fghty.yvxdr.com
 127.0.0.1 fghxcz.info.gf
@@ -7473,6 +7668,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 fgqc.net
 127.0.0.1 fgryqne.com
 127.0.0.1 fh.yysgcjxpj.com
+127.0.0.1 fh5kf5eu.pw
+127.0.0.1 fhasplkf.pw
 127.0.0.1 fhcdjd.com
 127.0.0.1 fhcfzx.com
 127.0.0.1 fhcp2015.com
@@ -7488,6 +7685,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 fhtxs.com
 127.0.0.1 fhzlove.20.550cc.cn
 127.0.0.1 fiaongfiaong.xwysb.info
+127.0.0.1 fiasdtdgf.pw
 127.0.0.1 fibam.joomla.comunique-se.com.br
 127.0.0.1 fic.yktxhep.com
 127.0.0.1 fidiy.com
@@ -7522,6 +7720,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 findhere.org
 127.0.0.1 finead.cn
 127.0.0.1 fineunion.cn
+127.0.0.1 finger.vddse.com
 127.0.0.1 fircecymbal.com
 127.0.0.1 fireemblem.net
 127.0.0.1 firstasia-sh.com
@@ -7540,6 +7739,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 fjiangjun.com
 127.0.0.1 fjjly.com
 127.0.0.1 fjjsl.com.cn
+127.0.0.1 fjksdrh201.pw
 127.0.0.1 fjlcme.com
 127.0.0.1 fjledzm.com
 127.0.0.1 fjlhh.com
@@ -7604,6 +7804,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 fm120.cn
 127.0.0.1 fm120.com
 127.0.0.1 fm120.com.cn
+127.0.0.1 fm126.com
 127.0.0.1 fm520.net
 127.0.0.1 fm588.com
 127.0.0.1 fm881.cqwin.com
@@ -7613,10 +7814,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 fncolor.com
 127.0.0.1 fnfwqgrp.pw
 127.0.0.1 fnkgwww.aaa258.com
+127.0.0.1 fnkjk.com
 127.0.0.1 fnmgj.bzukqbv.com
 127.0.0.1 fny.cn
 127.0.0.1 focus.inhe.net
 127.0.0.1 focvbnxcui.yao.cl
+127.0.0.1 fohm435pf.pw
 127.0.0.1 fok66.com
 127.0.0.1 fok77.com
 127.0.0.1 foltol.com
@@ -7634,6 +7837,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 forum.5721.net
 127.0.0.1 forum.d99q.cn
 127.0.0.1 foryoung.com.cn
+127.0.0.1 fos42su5ivu.pw
 127.0.0.1 fosight.com
 127.0.0.1 fotuna.cn
 127.0.0.1 fox_a1.w8.ws86.com
@@ -7651,7 +7855,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 free.hahakiss.com
 127.0.0.1 free.tuanidc.net
 127.0.0.1 freeadschina.cn
-127.0.0.1 freedns.afraid.org
 127.0.0.1 freegongkao.com
 127.0.0.1 freett.com
 127.0.0.1 freetwyq.r.haizhangs.com
@@ -7671,6 +7874,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 fs-11.com
 127.0.0.1 fsagc.org
 127.0.0.1 fsbjbxc.com
+127.0.0.1 fsdgf33s.pw
 127.0.0.1 fshanyan.com
 127.0.0.1 fshdmc.com
 127.0.0.1 fshsffe.fxplptdnh.gq
@@ -7743,6 +7947,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 fuhaituan.com
 127.0.0.1 fuhaowang.net
 127.0.0.1 fuil.aansk.com
+127.0.0.1 fuisdbng.pw
 127.0.0.1 fujiedr.com
 127.0.0.1 fuke.aimin120.com
 127.0.0.1 fulai8.net
@@ -7780,6 +7985,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 fx.ac-doors.com
 127.0.0.1 fxbhcdbu.caifuzc.com
 127.0.0.1 fxgold.cc
+127.0.0.1 fxhggs.com
 127.0.0.1 fxing.com.cn
 127.0.0.1 fxkm.18km.cn
 127.0.0.1 fxlhtvf.ml
@@ -7804,6 +8010,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 fyizs.com
 127.0.0.1 fyjhd.com
 127.0.0.1 fyltw.com
+127.0.0.1 fymsd.cn
 127.0.0.1 fyqtewa.cn
 127.0.0.1 fyt-1.com
 127.0.0.1 fytjzx.com
@@ -7886,6 +8093,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 g5uy.pw
 127.0.0.1 g67805.com
 127.0.0.1 g68.8833555.com
+127.0.0.1 ga.baby-impact.cn
 127.0.0.1 gaa69.com
 127.0.0.1 gaaae.com
 127.0.0.1 gacmkgesyu.tk
@@ -7930,6 +8138,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 game63759.com
 127.0.0.1 game646.com
 127.0.0.1 game65571.com
+127.0.0.1 game6868.cn
 127.0.0.1 game68797.com
 127.0.0.1 game69.510592.com
 127.0.0.1 game747.com.9daneh.com
@@ -7996,6 +8205,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gazti.net
 127.0.0.1 gb228.cn
 127.0.0.1 gbeoxun.cn
+127.0.0.1 gbnyyh.weixinzc.com
 127.0.0.1 gbtv.cn
 127.0.0.1 gc.hengtuys.cn
 127.0.0.1 gc.onemob.cn
@@ -8052,6 +8262,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gelibao.cn
 127.0.0.1 genecine.com.cn
 127.0.0.1 genjou.com
+127.0.0.1 gentel.cn
 127.0.0.1 gepaigd.com
 127.0.0.1 gerardocaballero.com
 127.0.0.1 gerenfa.chungcheng.net
@@ -8067,6 +8278,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gf108.com
 127.0.0.1 gf2ube.com
 127.0.0.1 gf958.com
+127.0.0.1 gfcdc.com
 127.0.0.1 gfd3h6hosdj.pw
 127.0.0.1 gfdgse31.pw
 127.0.0.1 gfdnhga.ccs.pl
@@ -8074,6 +8286,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gfg.eyaboo.com
 127.0.0.1 gfsn888.com
 127.0.0.1 gfsyxh.com
+127.0.0.1 gftw2312eu.pw
 127.0.0.1 gfw.shouka.bjjmhy.cn
 127.0.0.1 gfwhj.gdmeeting.com
 127.0.0.1 gfyhfdsfg.pw
@@ -8085,6 +8298,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gg.u97.cn
 127.0.0.1 gg.xinooo.com
 127.0.0.1 gg08.ftp21.net
+127.0.0.1 gg2nzml7.breggia.cn
 127.0.0.1 gg4777.com
 127.0.0.1 gg5599.com
 127.0.0.1 gg7799.com
@@ -8121,9 +8335,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 ghghusosuj.fjshdiaoi.qsyadi.com
 127.0.0.1 ghjgfjf.com
 127.0.0.1 gh-jz.com
+127.0.0.1 ghkyhutf.pw
 127.0.0.1 ghnfcwhdpib.tk
 127.0.0.1 ghost8.cn
 127.0.0.1 ghtushu.bookonline.com.cn
+127.0.0.1 ghvwq1s6.pw
 127.0.0.1 ghwlp.com
 127.0.0.1 ghwrxr.dxqtz.com
 127.0.0.1 ghxwhf.zggxdh.com
@@ -8150,6 +8366,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gjzqxm.com
 127.0.0.1 gk168.net
 127.0.0.1 gkkkl.com
+127.0.0.1 gklgf1s7.pw
 127.0.0.1 gksdh.cn
 127.0.0.1 gl.yudilu.com
 127.0.0.1 gl20.com
@@ -8183,6 +8400,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gmdmt.com
 127.0.0.1 gmfc.cc
 127.0.0.1 gmhljc.com
+127.0.0.1 gmiixac.com
 127.0.0.1 gmjinyurun.com.cn
 127.0.0.1 gmlfw.com
 127.0.0.1 gmmocyuc.tk
@@ -8213,6 +8431,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gochuangye.com
 127.0.0.1 gocnfz.com
 127.0.0.1 gocuta.cn
+127.0.0.1 god123.cn
 127.0.0.1 godfs.3g.cn
 127.0.0.1 godhatesfa.gs
 127.0.0.1 godyq.com
@@ -8345,9 +8564,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 gruwlsck.com
 127.0.0.1 grwhgr.xicp.net
 127.0.0.1 gs.gwwl.com.cn
+127.0.0.1 gs2e5uifg.pw
 127.0.0.1 gsdassrthr.erqrt.info
 127.0.0.1 gsdog36.pw
 127.0.0.1 gs-dt.cn
+127.0.0.1 gsdvbko201.pw
 127.0.0.1 gsfwrx.hzhsqx.com
 127.0.0.1 gsfya.com
 127.0.0.1 gsj100.cn
@@ -8469,6 +8690,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gxejgs.com
 127.0.0.1 gxezkytv.tk
 127.0.0.1 gxfc.zxxw078.com
+127.0.0.1 gxgc66.com
 127.0.0.1 gxgoogle.com
 127.0.0.1 gxguguo.com
 127.0.0.1 gxjbl.com
@@ -8477,6 +8699,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gxldm.com
 127.0.0.1 gxqdw.com
 127.0.0.1 gxqyyq.com
+127.0.0.1 gxvidotd.yao.cl
 127.0.0.1 gxvpn.com
 127.0.0.1 gxwenrui.com
 127.0.0.1 gxwpjc.com
@@ -8501,6 +8724,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gyufu.com
 127.0.0.1 gyuum.tk
 127.0.0.1 gywgk.com
+127.0.0.1 gyxdwvcefy.pw
 127.0.0.1 gyxgcm.com
 127.0.0.1 gyxhbz.com
 127.0.0.1 gyxjk.com
@@ -8519,6 +8743,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 gz55.cn
 127.0.0.1 gz5888.com
 127.0.0.1 gzaqgy.com
+127.0.0.1 gzarura.com
 127.0.0.1 gz-bangke.com
 127.0.0.1 gzbdr.com
 127.0.0.1 gzbm.cc
@@ -8716,11 +8941,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 hao.63jjj.com
 127.0.0.1 hao.770xxoo.com
 127.0.0.1 hao.7759.com
+127.0.0.1 hao.8p7.net
 127.0.0.1 hao.92xxoo.com
 127.0.0.1 hao.haoliuweh11.org
 127.0.0.1 hao.ll13.com
 127.0.0.1 hao.meiyues.com
 127.0.0.1 hao.nnddw.com
+127.0.0.1 hao.qquu8.com
 127.0.0.1 hao.xc186.com
 127.0.0.1 hao.yywto.com
 127.0.0.1 hao0110.com
@@ -8872,6 +9099,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hdqc.uk.to
 127.0.0.1 hdscn.com
 127.0.0.1 hdshoesy.com
+127.0.0.1 hdsojfg.pw
 127.0.0.1 hdt4353sd.tk
 127.0.0.1 hdtea.net
 127.0.0.1 hdteste.kit.net
@@ -8902,6 +9130,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hefeihs.com
 127.0.0.1 hefenji.org
 127.0.0.1 hefzl.com
+127.0.0.1 hegou365.com
 127.0.0.1 hehengmt.com
 127.0.0.1 heibanr.com
 127.0.0.1 heidc.com.cn
@@ -8959,6 +9188,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 heztec.cn
 127.0.0.1 hf128.com
 127.0.0.1 hfblojf.com
+127.0.0.1 hfcrtdrx.pw
 127.0.0.1 hfd8.com
 127.0.0.1 hfdjs.com
 127.0.0.1 hfdongman.com
@@ -8971,6 +9201,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hfjydl.com
 127.0.0.1 hflddz.com
 127.0.0.1 hfled-china.com
+127.0.0.1 hflkashb.pw
 127.0.0.1 hfnd0afk.jchsgfuy.pw
 127.0.0.1 hfqszs.cn
 127.0.0.1 hfrjgc.com
@@ -9007,6 +9238,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hg4087.com
 127.0.0.1 hg4578.com
 127.0.0.1 hg488.com
+127.0.0.1 hg517.com
 127.0.0.1 hg519.com
 127.0.0.1 hg5308.com
 127.0.0.1 hg5565.com
@@ -9050,6 +9282,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hgt.gf108.com
 127.0.0.1 hgtr3.com
 127.0.0.1 hgw0088.com
+127.0.0.1 hgwljg1.com
 127.0.0.1 hgxj0088.com
 127.0.0.1 hgxjw89.com
 127.0.0.1 hgxulong.com
@@ -9067,6 +9300,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hhdes.com
 127.0.0.1 hhe5.com
 127.0.0.1 hhfd.fliez.com.cn
+127.0.0.1 hhfdcpi.tk
 127.0.0.1 hhfs.51vip.biz
 127.0.0.1 hhh47.com
 127.0.0.1 hhh76.com
@@ -9259,6 +9493,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hnkdmenye.com
 127.0.0.1 hnkjfw.com
 127.0.0.1 hnkltz.com
+127.0.0.1 hnkypg.com
 127.0.0.1 hnkypump.com
 127.0.0.1 hnliyin.com
 127.0.0.1 hn-lt.cn
@@ -9269,6 +9504,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hnnip.com
 127.0.0.1 hnnsd.com
 127.0.0.1 hnpiem.philipchan.me
+127.0.0.1 hnqytz.com
 127.0.0.1 hnrck.com
 127.0.0.1 hnrxw.com
 127.0.0.1 hnsdc.org
@@ -9381,6 +9617,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 hppzq.com
 127.0.0.1 hptvs.net
 127.0.0.1 hq168.net
+127.0.0.1 hq22qeh.pw
 127.0.0.1 hq258.com
 127.0.0.1 hqbqq67.cn
 127.0.0.1 hqcrane.cn
@@ -9455,9 +9692,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 htrfdvc.amdweb1.com
 127.0.0.1 httx.com
 127.0.0.1 htwmusic.com
+127.0.0.1 htyldz.com
 127.0.0.1 htyyl.net
 127.0.0.1 htyzs.cn
 127.0.0.1 htzcv.com
+127.0.0.1 hu27bhd.pw
 127.0.0.1 huabeirl.com
 127.0.0.1 huabeizw.com
 127.0.0.1 huacaocha123.net
@@ -9503,6 +9742,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 huasxx.com
 127.0.0.1 huate.hk
 127.0.0.1 huate007.com
+127.0.0.1 huawei.zaofoxiang.cn
 127.0.0.1 huaxiazh.com
 127.0.0.1 huaxin8888.com
 127.0.0.1 huaxingshuma.com
@@ -9514,6 +9754,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 huazhongcn.com
 127.0.0.1 hubay.com.cn
 127.0.0.1 hubeifda.com
+127.0.0.1 hubeihaircut.com
 127.0.0.1 hubgwy.net
 127.0.0.1 hucq8.com
 127.0.0.1 hudiedaoju.com
@@ -9567,7 +9808,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 hvgchonmive-3yy.tk
 127.0.0.1 hvmikndqlq.tk
 127.0.0.1 hvxftjwl.com
+127.0.0.1 hw.1890575.cn
 127.0.0.1 hw.5852888.cn
+127.0.0.1 hw.7171717.cn
 127.0.0.1 hw.cn
 127.0.0.1 hw1018.com
 127.0.0.1 hw175.com
@@ -9766,15 +10009,18 @@ All Rights Reserved 2007-2014
 127.0.0.1 ie.dianxin777.com
 127.0.0.1 ie.txwb.com
 127.0.0.1 ieboss.cn
+127.0.0.1 iehfsldj.pw
 127.0.0.1 iekseiyg.tk
 127.0.0.1 ielts6.cn
 127.0.0.1 iemate.com
 127.0.0.1 ierllc.net
 127.0.0.1 ieseg.cn
 127.0.0.1 iexx.com
+127.0.0.1 if3gy6ki.pw
 127.0.0.1 ifeii.com
 127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 ifenjiu.com
+127.0.0.1 ifhadsljk.pw
 127.0.0.1 ifix8.com
 127.0.0.1 ifjnu.com
 127.0.0.1 ifvt39gqwv.pw
@@ -9791,6 +10037,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ihiq.uksfh.com
 127.0.0.1 ihlim.net
 127.0.0.1 ihoogool.com
+127.0.0.1 ihrufz.top
 127.0.0.1 ihuihuang.cn
 127.0.0.1 ii.cvb8.pw
 127.0.0.1 iicloud.kdiehg.cn
@@ -9806,8 +10053,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 ijqewr.com
 127.0.0.1 ikedoor.com
 127.0.0.1 iklanbariskota.com
+127.0.0.1 ikuy4oiuy.pw
 127.0.0.1 ikxx8.com
 127.0.0.1 ilmailu.net
+127.0.0.1 ilongbi15.duapp.com
 127.0.0.1 ilongre.cc
 127.0.0.1 ilovechu.net
 127.0.0.1 ilplufy.com
@@ -9828,6 +10077,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 imbbs.in
 127.0.0.1 imblog.in
 127.0.0.1 imegzs.com
+127.0.0.1 imeime.cn
 127.0.0.1 imeiye.org
 127.0.0.1 img.114lm.com
 127.0.0.1 img.200237.com
@@ -9893,6 +10143,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 imso3rry.count.xj.cn
 127.0.0.1 im-value.cn
 127.0.0.1 imymm.com
+127.0.0.1 imzbtzgl.wushang22.com
 127.0.0.1 in588.com
 127.0.0.1 inancn.com
 127.0.0.1 inapi.9vh.net
@@ -9978,6 +10229,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ironic.org
 127.0.0.1 ironpunch.com
 127.0.0.1 irpp.ru
+127.0.0.1 irs01.com
 127.0.0.1 irshop.net
 127.0.0.1 irzsp.com
 127.0.0.1 isalvat.es
@@ -9990,6 +10242,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ishumoer.com
 127.0.0.1 ismoke.hk
 127.0.0.1 isthmusportrait.com
+127.0.0.1 isurvey.ipsos.com.cn
 127.0.0.1 isystar.com
 127.0.0.1 it.ceu.hu
 127.0.0.1 it.dgzx.net
@@ -10029,6 +10282,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ixeajki.cn
 127.0.0.1 ixtc.com.cn
 127.0.0.1 ixzg.com
+127.0.0.1 ixztcrr.com
 127.0.0.1 iyau.cn
 127.0.0.1 iyismkqgkgw.tk
 127.0.0.1 iyouigou.net
@@ -10055,6 +10309,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 j0695.jkgame9006.com
 127.0.0.1 j0704.jkgame9006.com
 127.0.0.1 j0hnx3r.org
+127.0.0.1 j1.humanding.com
 127.0.0.1 j13.sysuowang.com.cn
 127.0.0.1 j8le.com
 127.0.0.1 j8yx.com
@@ -10092,6 +10347,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jce6.com
 127.0.0.1 jcec.cn
 127.0.0.1 jcedu.org
+127.0.0.1 jchsgfuy.pw
 127.0.0.1 jchundian.cn
 127.0.0.1 jcmart.ru
 127.0.0.1 jcnykj.com
@@ -10145,6 +10401,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jgky.net
 127.0.0.1 jgss322.com.cn
 127.0.0.1 jgtang.f3322.org
+127.0.0.1 jgtf3miu.pw
 127.0.0.1 jgysgcb.com
 127.0.0.1 jh.01lm.com
 127.0.0.1 jh1100.com
@@ -10156,7 +10413,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 jhhg.hrjfpfntp.gq
 127.0.0.1 jhhg88.com
 127.0.0.1 jhjdcp.com
+127.0.0.1 jhn8km9n.pw
 127.0.0.1 jhnytovp.tk
+127.0.0.1 jho6itwu.pw
 127.0.0.1 jhongxia.com
 127.0.0.1 jhr_anquan.bookonline.com.cn
 127.0.0.1 jhs3gp.com
@@ -10187,6 +10446,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jianchi18.eqzg.yuisp.com
 127.0.0.1 jianfei.guanwanglianmeng.com
 127.0.0.1 jianfeia.com
+127.0.0.1 jianfenghuwai.com
 127.0.0.1 jiangsu.cfsn.cn
 127.0.0.1 jiangsujituan.yao.cl
 127.0.0.1 jiangsutouz.yao.cl
@@ -10198,6 +10458,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jiankang.bxg68.com
 127.0.0.1 jiankangc.com
 127.0.0.1 jiankang-jp.com
+127.0.0.1 jiankangshqu.org
 127.0.0.1 jianlinhair.cn
 127.0.0.1 jianyundc.com
 127.0.0.1 jianzhijob.pw
@@ -10250,6 +10511,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jikefanli.com
 127.0.0.1 jilipp.com
 127.0.0.1 jilongcompany.com
+127.0.0.1 jimeifc.com
 127.0.0.1 jimuan.net
 127.0.0.1 jin035.moodall.com
 127.0.0.1 jin046.venvest.com
@@ -10376,6 +10638,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jkfghseui.pw
 127.0.0.1 jkjs365.com
 127.0.0.1 jkjxx.com
+127.0.0.1 jklfhglk.pw
 127.0.0.1 jkljn.com.cn
 127.0.0.1 jkndp.com
 127.0.0.1 jknezv.pw
@@ -10433,6 +10696,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jmkg.net
 127.0.0.1 jm-led.cn
 127.0.0.1 jmming.com
+127.0.0.1 jmnet110.cn
 127.0.0.1 jmp1.5166.info
 127.0.0.1 jmp8.5166.info
 127.0.0.1 jmp9.5166.info
@@ -10488,6 +10752,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 joleru.52baixingshuo.com
 127.0.0.1 jomaygift.com
 127.0.0.1 jomcwln.tk
+127.0.0.1 jonathanhearn.eu
 127.0.0.1 jontilma.com
 127.0.0.1 joozo.net
 127.0.0.1 joshi.org
@@ -10502,6 +10767,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jp998.cn
 127.0.0.1 jpay.aliapp.com
 127.0.0.1 jpjsh.com
+127.0.0.1 jpkc.cqie.cn
 127.0.0.1 jpkt.whu.edu.cn
 127.0.0.1 jpmining.com
 127.0.0.1 jpqd88.com
@@ -10552,6 +10818,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 js.union001.com
 127.0.0.1 js.unionbig.com
 127.0.0.1 js.unionhzh.com
+127.0.0.1 js.xiaoxiaodetaiyang.com
 127.0.0.1 js.yiwad.com
 127.0.0.1 js.yongv.com
 127.0.0.1 js.zsj18.com
@@ -10646,6 +10913,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 julylover.com
 127.0.0.1 jumbobestrate.cn
 127.0.0.1 jumeigouba.net
+127.0.0.1 jumeituikuan.sgqhoid.com
 127.0.0.1 jumeiwsy.com
 127.0.0.1 jump.admin6.com
 127.0.0.1 jump.fytymy.com
@@ -10735,6 +11003,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jybyxs.cn
 127.0.0.1 jyfbs.com
 127.0.0.1 jyfh2.kcdazm.xyz
+127.0.0.1 jyged.party
 127.0.0.1 jyh91.com
 127.0.0.1 jyhaijiao.com
 127.0.0.1 jyhywlj.com
@@ -10746,6 +11015,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 jymp1688.f3322.org
 127.0.0.1 jymtfrg.yao.cl
 127.0.0.1 jyq2011.com
+127.0.0.1 jysbz.com
 127.0.0.1 jytianming.com
 127.0.0.1 jytoto.cn
 127.0.0.1 jywt2.newhua.com
@@ -10790,6 +11060,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 k9l4.com
 127.0.0.1 ka.65pay.com
 127.0.0.1 ka.s8pay.com
+127.0.0.1 ka0635.com
 127.0.0.1 ka1360.com
 127.0.0.1 ka266.com
 127.0.0.1 ka6886.com
@@ -10897,6 +11168,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 kehuangwy.com
 127.0.0.1 kehuitaoci.cn
 127.0.0.1 keicloud.pocieg.cn
+127.0.0.1 keindown.com
 127.0.0.1 kek88.com
 127.0.0.1 kelakelicai.com
 127.0.0.1 kele1688.web23.badudns.cc
@@ -10905,6 +11177,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 kelindun.cn
 127.0.0.1 keludi.smart2.ytx360.com
 127.0.0.1 kendall-web-lab.com
+127.0.0.1 kently.cn
 127.0.0.1 kep77.com
 127.0.0.1 kepgnqsl.tk
 127.0.0.1 kepko.net
@@ -10931,6 +11204,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 kfzxcl.tk
 127.0.0.1 kg.dubnyvu.tk
 127.0.0.1 kg.plapk.com
+127.0.0.1 kgnrklg.pw
 127.0.0.1 kgsindia.in
 127.0.0.1 kh.cgbuild.cn
 127.0.0.1 kh.xzxf119.cn
@@ -10947,6 +11221,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 khntaeq.com
 127.0.0.1 khwivvzc.tk
 127.0.0.1 khx5.com
+127.0.0.1 khz16gmx.sixdm.cn
 127.0.0.1 kibeke.disijiaju.cn
 127.0.0.1 kicp.c0m.li
 127.0.0.1 kidstownenglish.com.cn
@@ -10961,10 +11236,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 kingkinglove.tk
 127.0.0.1 kingmax.me
 127.0.0.1 kingpinmetal.com
+127.0.0.1 kingtai-gs.com.img.800cdn.com
 127.0.0.1 kinlv.com
 127.0.0.1 kinslate.com
 127.0.0.1 kintstdio.com
 127.0.0.1 kioader.ht.cx
+127.0.0.1 kir22.ru
 127.0.0.1 kissrobin.com
 127.0.0.1 kitor.pl
 127.0.0.1 kitty80.com
@@ -10978,6 +11255,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 kjjl.cc
 127.0.0.1 kjjl.net
 127.0.0.1 kjm.zhaoduanhua.com
+127.0.0.1 kjtk.tjkbz.top
 127.0.0.1 kk.fmnlhsbydtkw.tk
 127.0.0.1 kk.zrqd.org
 127.0.0.1 kk1997.com
@@ -11018,6 +11296,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 kluo8.com
 127.0.0.1 klzlm.com
 127.0.0.1 km.axxyw.cn
+127.0.0.1 km9933.com
 127.0.0.1 kmawqwkgamo.tk
 127.0.0.1 kmbnhy.com
 127.0.0.1 kmcq.net
@@ -11030,6 +11309,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 kmquhuan.com
 127.0.0.1 kmrhy.com
 127.0.0.1 kmstzm.com
+127.0.0.1 kmtz7.com
 127.0.0.1 kmy4.pw
 127.0.0.1 kmy5.pw
 127.0.0.1 kmybxx.com
@@ -11049,6 +11329,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 komstar.pl
 127.0.0.1 komuka.net
 127.0.0.1 koncepts2kreations.com
+127.0.0.1 kongbu99.com
 127.0.0.1 kopame.com
 127.0.0.1 korepi.lvbaoranshiye.com
 127.0.0.1 kosekargo.com
@@ -11168,7 +11449,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 l00000.com
 127.0.0.1 l0086s.com
 127.0.0.1 l1.pp3.cn
+127.0.0.1 l1ifreog.pw
 127.0.0.1 l2-life.ru
+127.0.0.1 l5u0smvg.dpchem.cn
 127.0.0.1 laboratoriobionorte.com.br
 127.0.0.1 lab-star.com
 127.0.0.1 lacolombesarl.ch
@@ -11275,6 +11558,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 leccoint.com
 127.0.0.1 lechuancaijing.com
 127.0.0.1 le-crin.net
+127.0.0.1 ledaaa.cn
 127.0.0.1 led-fluorescent.cn
 127.0.0.1 ledingba.com
 127.0.0.1 lee90.com
@@ -11330,6 +11614,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 lg5673.565882.com
 127.0.0.1 lg9015.565882.com
 127.0.0.1 lgblyzx.com
+127.0.0.1 lgf2yig.pw
 127.0.0.1 lgfadart.com
 127.0.0.1 lggzu.cn
 127.0.0.1 lginfo.net
@@ -11490,6 +11775,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ljcxqd.com
 127.0.0.1 ljgazjpm.cn
 127.0.0.1 ljhongguan.com
+127.0.0.1 ljkgbsd.pw
 127.0.0.1 ljmp.cn
 127.0.0.1 ljps.net
 127.0.0.1 ljshym.com
@@ -11518,6 +11804,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ll.yiemai.com
 127.0.0.1 ll0o.com
 127.0.0.1 ll-89.com
+127.0.0.1 llb125.duapp.com
 127.0.0.1 llb668.com
 127.0.0.1 lle.iorueogjyrx.gq
 127.0.0.1 llflnrf.tk
@@ -11569,7 +11856,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 logo1.tongyi8.tongyi.com
 127.0.0.1 logstack.cn
 127.0.0.1 logular.com
-127.0.0.1 lol.uuu9.com
 127.0.0.1 lol3dx.com
 127.0.0.1 lolade.disijiaju.cn
 127.0.0.1 lolnr.com
@@ -11663,6 +11949,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ltcssf.com
 127.0.0.1 ltgzo.hqt518.com
 127.0.0.1 lthqw.com
+127.0.0.1 lti5rm45.rahino.cn
 127.0.0.1 ltjtjx.cn
 127.0.0.1 ltmega.com
 127.0.0.1 lt-metal.com
@@ -11688,9 +11975,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 luobar.us
 127.0.0.1 luofuart.com
 127.0.0.1 luoheac.cn
+127.0.0.1 lupidsx.com
 127.0.0.1 luqyai.party
 127.0.0.1 lus621.com
 127.0.0.1 lushantouzi.com
+127.0.0.1 lutyxh.cn
 127.0.0.1 luyibo.cc
 127.0.0.1 luyiwen.web226.hbmss.com
 127.0.0.1 luysw.cn
@@ -11738,6 +12027,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 lxsilk.cn
 127.0.0.1 lxsqjy.com
 127.0.0.1 lxszsh.com
+127.0.0.1 lxtuijt.com
 127.0.0.1 lxtxdp.com
 127.0.0.1 lxwcollection.com
 127.0.0.1 lxxrmyy.com
@@ -11775,6 +12065,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 lysty.cn
 127.0.0.1 lytao.net
 127.0.0.1 lytea88.com
+127.0.0.1 lythwe48.pw
 127.0.0.1 lytztb.com
 127.0.0.1 lyxgh.com
 127.0.0.1 lyxql.com
@@ -11823,6 +12114,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 m.ccrk.cc
 127.0.0.1 m.ccrn.cc
 127.0.0.1 m.cjhuawu.cn
+127.0.0.1 m.csxhkj.com
 127.0.0.1 m.ctop.cc
 127.0.0.1 m.dfml.cn
 127.0.0.1 m.dgs18.com
@@ -11919,6 +12211,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mactose.com
 127.0.0.1 madebykristine.com
 127.0.0.1 madeinsiping.com
+127.0.0.1 madhacker.biz
 127.0.0.1 mafund.cn
 127.0.0.1 mage1994.com
 127.0.0.1 mahuan.net
@@ -11958,6 +12251,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mail.yicike.com
 127.0.0.1 mail.ytxsoft.com
 127.0.0.1 mail.zgqh.com.cn
+127.0.0.1 mail.zhechem.com
 127.0.0.1 mailerg.com
 127.0.0.1 mainpage.nwu.edu.cn
 127.0.0.1 mainpiano.com.cn
@@ -12054,6 +12348,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mb5u.com
 127.0.0.1 mbaogq.com
 127.0.0.1 mbhhqj.com
+127.0.0.1 mbjuh4gb.pw
 127.0.0.1 mbmb55.com
 127.0.0.1 mbo28.com
 127.0.0.1 mbo88.com
@@ -12077,6 +12372,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mdzkxse.com
 127.0.0.1 me.3788.cn
 127.0.0.1 me.mapbar.com
+127.0.0.1 me12530.com
 127.0.0.1 me6666.com
 127.0.0.1 mebel.by.ru.fqwerz.cn
 127.0.0.1 media.17leyi.com
@@ -12091,6 +12387,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mediahousenamemartmovie.cn
 127.0.0.1 medplgj.tk
 127.0.0.1 meedns.com
+127.0.0.1 meetwiser.com
 127.0.0.1 megamindonline.com
 127.0.0.1 megoers.com
 127.0.0.1 mei.jxmeiju.com
@@ -12219,6 +12516,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mingyilock.cn
 127.0.0.1 mingyu8.com
 127.0.0.1 mi-ni.org
+127.0.0.1 minieye.cc
 127.0.0.1 minisolarcn.s512.000pc.net
 127.0.0.1 miniyuzhou.com
 127.0.0.1 minyabox.com
@@ -12301,6 +12599,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mlo49e.com
 127.0.0.1 mlvxcmbdvrxe.tk
 127.0.0.1 mlxdg.com
+127.0.0.1 mm.0838r.com
 127.0.0.1 mm.700wyt.com
 127.0.0.1 mm.a135.net
 127.0.0.1 mm.aa88567.cn
@@ -12313,6 +12612,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mm.uu88567.cn
 127.0.0.1 mm.wagww.com
 127.0.0.1 mm.zb121.net
+127.0.0.1 mm026.com
 127.0.0.1 mm16.net
 127.0.0.1 mm356dl.yyh8.net
 127.0.0.1 mm44.cc
@@ -12331,6 +12631,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mmhbfqs.com
 127.0.0.1 mmiyiakyks.tk
 127.0.0.1 mmliaolm.com
+127.0.0.1 mmm.1yygg.com
 127.0.0.1 mmm777.com
 127.0.0.1 mm-mall.com
 127.0.0.1 mmpp147.com
@@ -12493,6 +12794,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 mw1.gaoxindt.cn
 127.0.0.1 mw2.gaoxindt.cn
 127.0.0.1 mw9.xabmw.cc
+127.0.0.1 mwhwpeix.hyqcyph.com
 127.0.0.1 mwk7.com
 127.0.0.1 mwmmrmfia.tk
 127.0.0.1 mwtwrjanleuc.tk
@@ -12583,6 +12885,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 nanke.wsyy120.com
 127.0.0.1 nankeblog.com
 127.0.0.1 nankejd.com
+127.0.0.1 nannanly.com
 127.0.0.1 nanningyimin.com
 127.0.0.1 nanoderm.com.cn
 127.0.0.1 nanotec.cl
@@ -12626,6 +12929,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ndfgsd.cf
 127.0.0.1 ndg.yktxhep.com
 127.0.0.1 ndhomeopathy.com
+127.0.0.1 ndt.hrbdy.top
 127.0.0.1 ndtcci.com
 127.0.0.1 ndtzd.com
 127.0.0.1 nduoyi.com
@@ -12641,6 +12945,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 neoxom.eu
 127.0.0.1 netclass.nbcc.cn
 127.0.0.1 net-ebuy.com
+127.0.0.1 netengeer.cn
 127.0.0.1 netm.cc
 127.0.0.1 netman123.com
 127.0.0.1 nettt.cn
@@ -12679,6 +12984,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 news.zhike.com
 127.0.0.1 news.zw007.net
 127.0.0.1 news005.lovoquan.net
+127.0.0.1 newtech-beauty.cn
 127.0.0.1 newware1.chinakaobo.cn
 127.0.0.1 newware10.huangshimumen.com
 127.0.0.1 newware11.024xuyisheng.com
@@ -12783,6 +13089,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 njfuzs.com
 127.0.0.1 njfybjy.cn
 127.0.0.1 njgaea.com
+127.0.0.1 njghes.com
 127.0.0.1 njgwbn.newhua.com
 127.0.0.1 njhtqx.com
 127.0.0.1 njhyxx.cn
@@ -12794,6 +13101,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 njnmsy.com
 127.0.0.1 njourdry01.com
 127.0.0.1 njqhfc.123nat.com
+127.0.0.1 njqhzs.com
 127.0.0.1 njrenyun.com
 127.0.0.1 njrlfc.com
 127.0.0.1 njrlfcyy.com
@@ -12821,6 +13129,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 nlox.xvus.lydtdj.com
 127.0.0.1 nltpjlhfp.tk
 127.0.0.1 nm.onlinedown.net
+127.0.0.1 nm2189cloud.oos-nm2.ctyunapi.cn
 127.0.0.1 nm-cx.com
 127.0.0.1 nmdpw.com
 127.0.0.1 nmfcd.com.cn
@@ -12878,6 +13187,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 nqboshang.com
 127.0.0.1 nqjvzfi.com
 127.0.0.1 nqyzw88.com
+127.0.0.1 nrwityi0o.com
 127.0.0.1 nrzqw.com
 127.0.0.1 ns02.us
 127.0.0.1 ns1.com-rg4.net
@@ -12919,6 +13229,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 nubuyu.youme-kidsgarment.com
 127.0.0.1 nuch.cn
 127.0.0.1 nuevolorenzo.com.ar
+127.0.0.1 nugbnu.pw
 127.0.0.1 nugmachine.com
 127.0.0.1 nunaxry.com
 127.0.0.1 nuodr.com
@@ -12941,6 +13252,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 nwu613lab.org
 127.0.0.1 nwvbxbtmwzr.tk
 127.0.0.1 nx7su.com
+127.0.0.1 nxbh.net
 127.0.0.1 nxfzhrz.wiuyugesycey.gq
 127.0.0.1 nxguangda.com
 127.0.0.1 nxhailiang.com
@@ -13015,6 +13327,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 officeon.ch.ma
 127.0.0.1 officeon.venez.fr
 127.0.0.1 offline.lt
+127.0.0.1 og25sdihe.pw
 127.0.0.1 ogimaeeckm.tk
 127.0.0.1 ogkaisie.tk
 127.0.0.1 ogt.yisjdh.com
@@ -13036,12 +13349,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 oixykyisx.tk
 127.0.0.1 oizio.net
 127.0.0.1 ojopiojo.cl
+127.0.0.1 ojuiewoy.pw
 127.0.0.1 ok.91234m.com
 127.0.0.1 ok.we5200.com
 127.0.0.1 ok.ymyly.com
 127.0.0.1 ok1.df516.com
 127.0.0.1 ok100.net
 127.0.0.1 ok3377.com
+127.0.0.1 ok365.com
 127.0.0.1 ok449.com
 127.0.0.1 ok888.suntar.cc
 127.0.0.1 okanochina.com
@@ -13069,6 +13384,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 olt.me
 127.0.0.1 olxznikoj.tk
 127.0.0.1 olympic-man.net
+127.0.0.1 olz02.cn
 127.0.0.1 omegachina.net
 127.0.0.1 omgghar.com
 127.0.0.1 omismo.com
@@ -13093,6 +13409,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 onlycake.net
 127.0.0.1 onlylgo.cn
 127.0.0.1 onnipeem.tk
+127.0.0.1 onofficetime.com.cn
 127.0.0.1 ons.zo-so9880.com
 127.0.0.1 onspt.cn
 127.0.0.1 o-o.ksdg8.com
@@ -13110,9 +13427,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 openfree.50host.com
 127.0.0.1 openmcucom.s509.000pc.net
 127.0.0.1 openwrt.dnsd.me
+127.0.0.1 opfjerg.pw
 127.0.0.1 opjfgh22.pw
 127.0.0.1 opjtopkr.tk
 127.0.0.1 opklytui.lomhyuij.ung.aethaeg.ga
+127.0.0.1 opljk2g7.pw
 127.0.0.1 opopop14.cx.cc
 127.0.0.1 o-power.net
 127.0.0.1 opqvixst.cn
@@ -13137,6 +13456,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 otfgps.com
 127.0.0.1 otiledesign.nl
 127.0.0.1 otoeiepthd.tk
+127.0.0.1 otsgjfxu.hanguo28.com
 127.0.0.1 otzo.com
 127.0.0.1 oudew.com
 127.0.0.1 oudexingqiu.com
@@ -13176,6 +13496,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 oxsnyoa.com
 127.0.0.1 oxtmpuo.tk
 127.0.0.1 oxx98.com
+127.0.0.1 oy21j3hgb.pw
 127.0.0.1 ozfmd.com
 127.0.0.1 ozvaris.com
 127.0.0.1 ozylc.com
@@ -13228,6 +13549,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 p.xdsq.net
 127.0.0.1 p.xinxiangy.com
 127.0.0.1 p.yymmz.com
+127.0.0.1 p04osdf.pw
 127.0.0.1 p1.17hihi.com
 127.0.0.1 p1.xcdf.cn
 127.0.0.1 p1881.aiwanma99.com
@@ -13240,10 +13562,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 p54.net
 127.0.0.1 p57.carab.cn
 127.0.0.1 p57.mcdcy.cn
+127.0.0.1 p5pqjwb3z.0451mt.com
 127.0.0.1 p757.com
 127.0.0.1 p83suncity.com
 127.0.0.1 p999999.com
 127.0.0.1 pablodc.com.ar
+127.0.0.1 pabxw.pw
 127.0.0.1 pack224.org
 127.0.0.1 packetflood.net
 127.0.0.1 paganinihttpdown.go.3322.org
@@ -13256,12 +13580,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 pai189.net
 127.0.0.1 paigou868.com
 127.0.0.1 paihuowang.cn
+127.0.0.1 paijupifachangjia.cn
 127.0.0.1 paiming.cn.com
 127.0.0.1 paincl.com
 127.0.0.1 paipai.hljqfpy.com
 127.0.0.1 paisc2014.com
 127.0.0.1 paishihk.com
 127.0.0.1 pajinsen120.com
+127.0.0.1 palacehotelyalongbay.com
 127.0.0.1 pamingyu.asia
 127.0.0.1 p-an.com.cn
 127.0.0.1 panbingrong.com
@@ -13305,6 +13631,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 payapl.com
 127.0.0.1 paydota.com
 127.0.0.1 paygm.net
+127.0.0.1 pay-jd.com
 127.0.0.1 payud.com
 127.0.0.1 paztuolu.tk
 127.0.0.1 pb.besoft.com.cn
@@ -13334,6 +13661,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 pcjiaoyan.com
 127.0.0.1 pcjiaoyu.com
 127.0.0.1 pcjxsb.com
+127.0.0.1 pckf.com
 127.0.0.1 pcobc.com
 127.0.0.1 pconline.gxdk.com.cn
 127.0.0.1 pcookie.cnzz.com
@@ -13513,6 +13841,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 plsys.plyz.net
 127.0.0.1 plts-led.cn
 127.0.0.1 plugrush.com
+127.0.0.1 plump.565882.com
 127.0.0.1 plumsushi.com
 127.0.0.1 plusnotes.pl
 127.0.0.1 pmbszs.oss-cn-hangzhou.aliyuncs.com
@@ -13527,10 +13856,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 poc.cvaergds.gq
 127.0.0.1 pochipet.com
 127.0.0.1 pod.show125.com
+127.0.0.1 pogwfphld.pw
 127.0.0.1 point.swjoy.com
 127.0.0.1 poiselady.cc
 127.0.0.1 poiuyhpmh.com
 127.0.0.1 pokerefer.com
+127.0.0.1 pokmhhf.cmjotcn.com
 127.0.0.1 polarispartsaustralia.com
 127.0.0.1 polymerhr.com
 127.0.0.1 pop.91tiger.com
@@ -13585,6 +13916,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 pp9279.com
 127.0.0.1 pp98676.tk
 127.0.0.1 ppawbkyy.com
+127.0.0.1 ppbba.pw
 127.0.0.1 ppc.liaoyuanwed521.net
 127.0.0.1 ppdgtg.com
 127.0.0.1 ppdwjmnx.tk
@@ -13620,6 +13952,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 proalife.com
 127.0.0.1 proanalytics.cn
 127.0.0.1 processinfo.com.cn
+127.0.0.1 product.av199.net
 127.0.0.1 product.fansixp.com
 127.0.0.1 prof.eorezo.com
 127.0.0.1 profile.100580.com
@@ -13640,6 +13973,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ptci-md.org
 127.0.0.1 ptdrw.com
 127.0.0.1 ptsfjw.com
+127.0.0.1 ptyx.cn
 127.0.0.1 ptzzxx.com.cn
 127.0.0.1 pu.plugrush.com
 127.0.0.1 pu022.com
@@ -13668,11 +14002,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 pvs8.net
 127.0.0.1 pvsmu.com
 127.0.0.1 pvv.zgrco.com
+127.0.0.1 pvwsq.pw
 127.0.0.1 pvwvgc.yluu.com
 127.0.0.1 pw1998.com
 127.0.0.1 pwirzne.tk
 127.0.0.1 pwrzp.top
+127.0.0.1 px578.com
 127.0.0.1 pxjsxx.com
+127.0.0.1 pxjvwh.science
 127.0.0.1 pxmmzzm.com
 127.0.0.1 pxshj.com
 127.0.0.1 pxtkd.com
@@ -13706,6 +14043,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 q.qqbiaoqing.com
 127.0.0.1 q12m.com
 127.0.0.1 q132.cn
+127.0.0.1 q37440.hktd12t.me48.com
 127.0.0.1 q58723.net
 127.0.0.1 q66msc.com
 127.0.0.1 q-88.ws
@@ -13734,9 +14072,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 qc88.cc
 127.0.0.1 qcasssa016.duapp.com
 127.0.0.1 qcc.npwein.com
+127.0.0.1 qchot.com
 127.0.0.1 qcitjnyt.tk
 127.0.0.1 qcjtw.com
 127.0.0.1 qckxhj.qukcscmu.gq
+127.0.0.1 qcmx8.com
 127.0.0.1 qcqhydjc.com
 127.0.0.1 qcwo.v4.zmtuaa.com
 127.0.0.1 qcyhmv.com
@@ -13846,6 +14186,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 qinuriyongpin.com
 127.0.0.1 qinyangmh.com
 127.0.0.1 qionghaihotel.cn
+127.0.0.1 qipai1688.com
 127.0.0.1 qiqipower.com
 127.0.0.1 qiqiu168.com
 127.0.0.1 qiqu.hahatuba.com
@@ -13876,6 +14217,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 qlrmyy.com
 127.0.0.1 qlsgjsq.com
 127.0.0.1 qltmnav.com
+127.0.0.1 qlvfbx.info
 127.0.0.1 qlwbshy.com
 127.0.0.1 qlx.rongshengkang.com
 127.0.0.1 qlxjs.com
@@ -13902,6 +14244,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 qpoe.com
 127.0.0.1 qpojz1.equinems.com
 127.0.0.1 qpxjyey.cn
+127.0.0.1 qpyx.332.zj.cn
 127.0.0.1 qpyx.jfwfsfnnwvv.pw
 127.0.0.1 qq.7622.cn
 127.0.0.1 qq.a777.cn
@@ -14012,6 +14355,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 queenspamgt.cn
 127.0.0.1 qugf.com
 127.0.0.1 qugo166.com
+127.0.0.1 quinoline.cn
 127.0.0.1 qukw.fr.to
 127.0.0.1 qulg.ru
 127.0.0.1 qunae.net.cn
@@ -14044,8 +14388,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 qwe456123qwe.3322.org
 127.0.0.1 qweasd.qllkmhx.com
 127.0.0.1 qwed.eejc.org
+127.0.0.1 qweltkns.pw
 127.0.0.1 qwemzzx.pw
 127.0.0.1 qwer33.linkpc.net
+127.0.0.1 qwerhroh.pw
 127.0.0.1 qwgea.com
 127.0.0.1 qwlsgtpn.tk
 127.0.0.1 qwsz.zzbj360.com
@@ -14091,8 +14437,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 r.fxxgw.com
 127.0.0.1 r1gsdog.pw
 127.0.0.1 r402.com
+127.0.0.1 r4hjtdfy.pw
+127.0.0.1 r5tjfgbh.pw
 127.0.0.1 r7e2.com
 127.0.0.1 r8.leifengg.net
+127.0.0.1 r8ytjerj.pw
 127.0.0.1 ra7688.com
 127.0.0.1 ra999.cn
 127.0.0.1 radiocomunicazioni.org
@@ -14127,6 +14476,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 rcvle.cn
 127.0.0.1 rcybc.com
 127.0.0.1 rczpz.net
+127.0.0.1 rd.121.com
 127.0.0.1 rd.33junshi.com
 127.0.0.1 rd.bestdogz.com
 127.0.0.1 rd007.com
@@ -14192,6 +14542,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 restoe.org
 127.0.0.1 rewen8.com
 127.0.0.1 rewqiuihjffgnkklmkghfgvnmnk.bzrvr.gq
+127.0.0.1 rewrwerw.pw
 127.0.0.1 reyiro.barycenter-sh.com
 127.0.0.1 reytxlmaj.tk
 127.0.0.1 rezelute.com
@@ -14204,8 +14555,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 rfrzs.com
 127.0.0.1 rfy333.cn
 127.0.0.1 rfysgins.freeudp.com
+127.0.0.1 rg123.com.cn
 127.0.0.1 rgeg.mroze.com
 127.0.0.1 rgsyht.com
+127.0.0.1 rgwefghg.pw
 127.0.0.1 rgxb.com
 127.0.0.1 rh.xeengonline.com
 127.0.0.1 rh.xtmiye.com
@@ -14244,6 +14597,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 rjxxyy.com
 127.0.0.1 rk1177.com
 127.0.0.1 rk23whn.pw
+127.0.0.1 rkgjdfl.pw
 127.0.0.1 rlkxtorkwqt.tk
 127.0.0.1 rlodj.info
 127.0.0.1 rlwomen.org
@@ -14252,6 +14606,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 rmzzdzyv.gmgmauai.gq
 127.0.0.1 rnrs.cn
 127.0.0.1 ro.jojo-333.com
+127.0.0.1 robaje.tianxiahuiyule.com
 127.0.0.1 robinhud.com
 127.0.0.1 robiolic.aomenpujingduchangmeinu319.com
 127.0.0.1 robotbobot.cn
@@ -14308,6 +14663,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 rtbn2.cn
 127.0.0.1 rtgfew9.pw
 127.0.0.1 rtkjfg3.pw
+127.0.0.1 rtkjfg43.pw
 127.0.0.1 rtqx.com
 127.0.0.1 rtsjsfdgs.gq
 127.0.0.1 rtv.sabaj.pl
@@ -14354,6 +14710,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 rxsb.ycxyzs.cn
 127.0.0.1 rxue.com
 127.0.0.1 ryanbrain.stepladderonline.co.uk
+127.0.0.1 ryew.pgojw.top
 127.0.0.1 ryhqumol.yqmm.ru
 127.0.0.1 ryj.sxcncidc.com
 127.0.0.1 rytlrlq.com
@@ -14370,6 +14727,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 s.1717388.com
 127.0.0.1 s.97qingse.com
 127.0.0.1 s.ahchuanyi.com
+127.0.0.1 s.aiszu.com
 127.0.0.1 s.clkservice.youdao.com
 127.0.0.1 s.cyxycb.com
 127.0.0.1 s.jtnet8.com
@@ -14386,6 +14744,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 s.zjdsq.com
 127.0.0.1 s001568.com
 127.0.0.1 s0161.lsgame502.com
+127.0.0.1 s0473.com
 127.0.0.1 s1.admin6.com
 127.0.0.1 s1.fly800.com
 127.0.0.1 s1.xlskad.cn
@@ -14410,8 +14769,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 s8.jisuxia.com
 127.0.0.1 s8s8s8.com
 127.0.0.1 s8s8s8.oss-cn-qingdao.aliyuncs.com
+127.0.0.1 s923rxcnc.pw
 127.0.0.1 s99988.com
 127.0.0.1 sacawo.qiushibaikeba.com
+127.0.0.1 sadfh38s.pw
 127.0.0.1 sadsaw.pxmmzzm.com
 127.0.0.1 sadts.com
 127.0.0.1 safe.abc-edu.net
@@ -14419,12 +14780,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 safe9.tb8099.com
 127.0.0.1 safeparkingltd.com
 127.0.0.1 safepay1.tb8099.com
+127.0.0.1 sahfdgfk.pw
 127.0.0.1 saiboy.com
 127.0.0.1 sail.hnist.cn
 127.0.0.1 saints.game321.com
 127.0.0.1 sale.jinti.com
 127.0.0.1 sale.wpkejipay.com
 127.0.0.1 saleemrana.com
+127.0.0.1 salemai.cn
 127.0.0.1 saler8.com
 127.0.0.1 salih.cn
 127.0.0.1 salizo.sdgreezyd.com
@@ -14451,6 +14814,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sannalegno.it
 127.0.0.1 sanoh-dl.com
 127.0.0.1 sanpsj127.ccs.pl
+127.0.0.1 sanse.123nat.com
 127.0.0.1 sansunjx.com
 127.0.0.1 santj.com
 127.0.0.1 sanxiaomingshi.com
@@ -14559,6 +14923,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sdforestwood.com
 127.0.0.1 sdfsa.hsshuanglifangn.cn
 127.0.0.1 sdfuer120.com
+127.0.0.1 sdgfsd32.pw
 127.0.0.1 sdghx.com
 127.0.0.1 sdgjsmg.com
 127.0.0.1 sdgwevd.bdijq.info
@@ -14566,6 +14931,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sdjchzls.com
 127.0.0.1 sdjhzb.com
 127.0.0.1 sdk1.itracker.cn
+127.0.0.1 sdkjfnsd.pw
 127.0.0.1 sd-kl.com
 127.0.0.1 sdkqmz.com
 127.0.0.1 sdl.tcbrush.com
@@ -14599,6 +14965,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sdxhcpyf.tk
 127.0.0.1 sdxnj.com
 127.0.0.1 sdxsjyy.com
+127.0.0.1 sdyhj35f.pw
 127.0.0.1 sdymkd.com
 127.0.0.1 sdzhj.com
 127.0.0.1 sdzjjt.com
@@ -14637,12 +15004,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 se.ggfang.com
 127.0.0.1 se.haole19.com
 127.0.0.1 se.niwyt.com
+127.0.0.1 se.sao678.com
 127.0.0.1 se.sao79.com
 127.0.0.1 se.smm3.com
 127.0.0.1 se.zglcai.com
 127.0.0.1 se0123.com
 127.0.0.1 se2.bxhost.com
 127.0.0.1 se39.com
+127.0.0.1 se770.com
 127.0.0.1 se897.com
 127.0.0.1 sealx.net
 127.0.0.1 search.114so.cn
@@ -14664,6 +15033,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 seexn.cn
 127.0.0.1 sef7.com
 127.0.0.1 sefige.share0898.com
+127.0.0.1 segege.com
 127.0.0.1 segege123.info
 127.0.0.1 segouxdy.com
 127.0.0.1 seikopacking.cn
@@ -14750,6 +15120,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sgba.biz
 127.0.0.1 sgbf.lcly001.com
 127.0.0.1 sgchk.xndup.top
+127.0.0.1 sgf345b.pw
 127.0.0.1 sgfdg.dopcgg.com
 127.0.0.1 sgg.kimo37.com
 127.0.0.1 sggmc.cn
@@ -14810,6 +15181,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 shangzeng.cc
 127.0.0.1 shankoucun.com
 127.0.0.1 shanqidai.jk365.cc
+127.0.0.1 shanxichangjian.com.cn
 127.0.0.1 shanxifoods.com
 127.0.0.1 shanxinianpiao.cn
 127.0.0.1 shanzhu.info
@@ -14868,6 +15240,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 shenke.com.cn
 127.0.0.1 shenlong168.com
 127.0.0.1 shenluo.net
+127.0.0.1 shenmo99.cc
 127.0.0.1 shenouah.com
 127.0.0.1 shenouhf.com
 127.0.0.1 shenronglzjn.com
@@ -14909,6 +15282,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 shipinqqq.com
 127.0.0.1 shishangmiao.com
 127.0.0.1 shisheng.net
+127.0.0.1 shishenjiadao.cn
 127.0.0.1 shit.vc
 127.0.0.1 shitcunt.info
 127.0.0.1 shiwuyu.com
@@ -15019,6 +15393,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 shuangsishihua.net
 127.0.0.1 shuangying163.com
 127.0.0.1 shuangyuansheng.cn
+127.0.0.1 shuaqiangba.com
 127.0.0.1 shuazuanqq.com
 127.0.0.1 shubaby.net
 127.0.0.1 shudan5.com
@@ -15067,13 +15442,16 @@ All Rights Reserved 2007-2014
 127.0.0.1 si.siyhc.cn
 127.0.0.1 si01.gen6699.com
 127.0.0.1 sibuzongdai.com
+127.0.0.1 sicherekredite.ru
 127.0.0.1 sichere-online-zahlung.com
 127.0.0.1 sichuankuaijie.cn
 127.0.0.1 sic-sg.net
 127.0.0.1 sicu.educ.org.cn
+127.0.0.1 sidh.shidkf.yao.cl
 127.0.0.1 sight10.com
 127.0.0.1 sightm.com.cn
 127.0.0.1 sighto.cn
+127.0.0.1 siji55.com
 127.0.0.1 sikjx.vjrm.info
 127.0.0.1 silk55.cn
 127.0.0.1 silksky.com
@@ -15135,6 +15513,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sjzha.cn
 127.0.0.1 sjzsmxx.cn
 127.0.0.1 sjzwowo.com
+127.0.0.1 sk26mfnv.pw
 127.0.0.1 skbpay.cn
 127.0.0.1 skg4.tk
 127.0.0.1 skiec.com
@@ -15223,6 +15602,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 soft.4engo4h.pw
 127.0.0.1 soft.68888898.com
 127.0.0.1 soft.9ejv8e3hvn.pw
+127.0.0.1 soft.9v9wlrksd.pw
 127.0.0.1 soft.afh1ftrj.com
 127.0.0.1 soft.aojack.cn
 127.0.0.1 soft.artk2jfg.com
@@ -15322,6 +15702,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sogou.infocanada.cn
 127.0.0.1 sogou.minggetang.com
 127.0.0.1 sogou.shufapeixun.cn
+127.0.0.1 sogou.xyunyu.com
 127.0.0.1 sogou1111.aliapp.com
 127.0.0.1 sogou66.zs268.cn
 127.0.0.1 sogouvip.aliapp.com
@@ -15330,6 +15711,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 soju79.co.kr
 127.0.0.1 solarf.net
 127.0.0.1 solea-labs.com
+127.0.0.1 solid19.duapp.com
 127.0.0.1 sololineas.com
 127.0.0.1 soneimeng.com
 127.0.0.1 songbenyiyi.com
@@ -15359,6 +15741,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 soupotian.cn
 127.0.0.1 sourcingtrims.biz
 127.0.0.1 souspqtt.r.haizhangs.com
+127.0.0.1 sousuo1.th51.com
 127.0.0.1 souweng.com
 127.0.0.1 souxuncn.com
 127.0.0.1 sowemi.fengzhangyu.com
@@ -15450,6 +15833,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sscfly.com
 127.0.0.1 ssc-hk.cn
 127.0.0.1 sscskill.com
+127.0.0.1 sscuu.com
 127.0.0.1 ssddiy.com
 127.0.0.1 ssdyx.com
 127.0.0.1 ssfushi.com
@@ -15592,6 +15976,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sunsishu.blog.163.com
 127.0.0.1 suntaobao.com.cn
 127.0.0.1 suntop.com.cn
+127.0.0.1 suntrys.com
 127.0.0.1 sunwear.net.cn
 127.0.0.1 sunzhiyong.com.cn
 127.0.0.1 sunzhonglun.com
@@ -15678,6 +16063,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 sxqsfs.com
 127.0.0.1 sxsllfj.com
 127.0.0.1 sxsuoyu.com
+127.0.0.1 sxtdfc668.uk.to
 127.0.0.1 sxtdqczp.com
 127.0.0.1 sxtijian.com
 127.0.0.1 sxtrds.com
@@ -15756,6 +16142,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 szbsgcctv.net
 127.0.0.1 szbszx.com
 127.0.0.1 szcables.com
+127.0.0.1 szchehang.cn
 127.0.0.1 szchelic.net.img.800cdn.com
 127.0.0.1 szckd.cn
 127.0.0.1 szcqzs.com
@@ -15886,6 +16273,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 t.zytwq.net
 127.0.0.1 t1.tx8.us
 127.0.0.1 t103.8833555.com
+127.0.0.1 t15fhftrj.pw
+127.0.0.1 t16rtkjfg.pw
+127.0.0.1 t17ytjerj.pw
 127.0.0.1 t2.is686.com
 127.0.0.1 t2.keydot.net
 127.0.0.1 t222.cn
@@ -15893,6 +16283,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 t31.org
 127.0.0.1 t35.cc
 127.0.0.1 t3gpjpf.pw
+127.0.0.1 t5tjfgbh.pw
 127.0.0.1 t6t8.com
 127.0.0.1 t6y8.com
 127.0.0.1 t70123.com
@@ -15902,12 +16293,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 t8ytjerj.pw
 127.0.0.1 t95188k.elloenz.com
 127.0.0.1 t95188k.tkygghj.com
+127.0.0.1 t9gsdog.pw
 127.0.0.1 ta0.ba0.jtedhdg.tk
 127.0.0.1 tabao65498.bgp132.91kweb.com
 127.0.0.1 tabaon9.com
 127.0.0.1 tabasum.cn
 127.0.0.1 tabkhy.cc
 127.0.0.1 tabnoa2.cc
+127.0.0.1 taboa.89axk4gn.com
 127.0.0.1 tabovip11.co
 127.0.0.1 tabow.uncj.info
 127.0.0.1 taclex.com
@@ -15929,6 +16322,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 taiyangnengchukou.cn
 127.0.0.1 taiyangtuandui.com
 127.0.0.1 takau.org
+127.0.0.1 talboco.info
+127.0.0.1 talbodo.info
 127.0.0.1 talegou.com
 127.0.0.1 talentstree.com
 127.0.0.1 talkfuse.com
@@ -15949,6 +16344,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 tao593.com
 127.0.0.1 taob.ddqprpu.com
 127.0.0.1 taob268.com
+127.0.0.1 taoba0.tpgibl.cn
 127.0.0.1 taoba1.kdhpypn.tk
 127.0.0.1 taobangbao.com
 127.0.0.1 taobao.114so.cn
@@ -15987,10 +16383,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 taobbaop.cc
 127.0.0.1 taobc.com
 127.0.0.1 taobeike.com
+127.0.0.1 taobet15.com
 127.0.0.1 taobk.net.cn
 127.0.0.1 taobmc15.com
 127.0.0.1 taoboi.com
 127.0.0.1 taobwncn.com
+127.0.0.1 taocat.com.cn
+127.0.0.1 taocm15.com
 127.0.0.1 taodnf.sohuapps.com
 127.0.0.1 taofangchan.cn
 127.0.0.1 taogu.org.cn
@@ -16124,6 +16523,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 tbtkzfb.jbdfrti.com
 127.0.0.1 tbtuikuan.amwljg1.com
 127.0.0.1 tbtuikuan.fgruj.info
+127.0.0.1 tbueu.com
 127.0.0.1 tbusua.cc
 127.0.0.1 tbuyy.com
 127.0.0.1 tbvni.com
@@ -16140,6 +16540,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 tcgbw.com
 127.0.0.1 tchea175.tytd.cc
 127.0.0.1 tcheb74.tytd.cc
+127.0.0.1 tciibl.cn
 127.0.0.1 tcjbel.nozwm.cn
 127.0.0.1 tcmedu.com
 127.0.0.1 tcmn.biz
@@ -16193,14 +16594,17 @@ All Rights Reserved 2007-2014
 127.0.0.1 tenqi-soft.com
 127.0.0.1 tensuerte.com
 127.0.0.1 teooo.cn
+127.0.0.1 teorahdsabvna.cc
 127.0.0.1 terc.luzhuitao.cn
 127.0.0.1 terminaldecoded.com
 127.0.0.1 tesk108.asia
 127.0.0.1 test.bezpecnosti.cz
 127.0.0.1 test.gaxtoa.com
+127.0.0.1 test.taoholycity.com
 127.0.0.1 test.ttdk.cn
 127.0.0.1 test2a1f.ch.ma
 127.0.0.1 testeo.tk
+127.0.0.1 tet.174399.com
 127.0.0.1 tetrachrome.com
 127.0.0.1 tetuku.com
 127.0.0.1 tetwo.r.51xianyu.com
@@ -16318,6 +16722,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 tiaozhuan.xiazai8.asia
 127.0.0.1 tiaozhuan1.baidu-souhu-aiqiyi422915.xyz
 127.0.0.1 tiaozhuan20121241.xyz
+127.0.0.1 tiaozhuan20121243.xyz
 127.0.0.1 tiaozhuan20156032333.xyz
 127.0.0.1 tiaozhuan20156041558.xyz
 127.0.0.1 tiaozhuan20156051429.xyz
@@ -16418,6 +16823,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 tk.crvktdo.com
 127.0.0.1 tk.fsgj.jcbhig.cn
 127.0.0.1 tk.ithzeuu.com
+127.0.0.1 tk.jcgj6666.com
 127.0.0.1 tk.kgugwxi.com
 127.0.0.1 tk.mkjxlwu.com
 127.0.0.1 tk.prdwjlseu.com
@@ -16431,8 +16837,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 tk066.com
 127.0.0.1 tk1.900tif.com
 127.0.0.1 tk1.99tif.com
+127.0.0.1 tk336.com
 127.0.0.1 tk5.cc
 127.0.0.1 tk67.net
+127.0.0.1 tk8.jczabm1.com
 127.0.0.1 tkcp.org
 127.0.0.1 tkdwdg.com
 127.0.0.1 tkf.befqrevzwqmx.gq
@@ -16542,6 +16950,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 tongli-tech.com
 127.0.0.1 tongnl.com
 127.0.0.1 tongse123.cc
+127.0.0.1 tongtongke.com
 127.0.0.1 tongxinwl.com
 127.0.0.1 tongyi-dl.com
 127.0.0.1 tongyinmuyuan.com
@@ -16593,6 +17002,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 tq6.zw151.com
 127.0.0.1 tqg11.it119.cc
 127.0.0.1 tqkaoyan.com
+127.0.0.1 tr7ew8qlk.pw
 127.0.0.1 trace.qq771.com
 127.0.0.1 tracker.likedevil.com
 127.0.0.1 trackergeek.com
@@ -16723,14 +17133,21 @@ All Rights Reserved 2007-2014
 127.0.0.1 tui95188.tangyingppu.cn
 127.0.0.1 tuidanl.fobkra.com
 127.0.0.1 tuifang8.com
+127.0.0.1 tuifbdf.phehx.com
 127.0.0.1 tuifefesdfd.cbqar4.cn
 127.0.0.1 tuig.shddesign.cn
 127.0.0.1 tuik.zwwxtzl.com
 127.0.0.1 tuikuai.jxuoczgkyatw.tk
 127.0.0.1 tuikuan.068687.com
+127.0.0.1 tuikuan.aqpbtl.cn
+127.0.0.1 tuikuan.b888betw006.com
 127.0.0.1 tuikuan.chulzxin.vbghjfygjudrt.tk
 127.0.0.1 tuikuan.dkwqc2g.cn
+127.0.0.1 tuikuan.ftwibl.cn
+127.0.0.1 tuikuan.nyiwt.top
+127.0.0.1 tuikuan.ocgpvev.com
 127.0.0.1 tuikuan.oenyfuc.com
+127.0.0.1 tuikuan.u7zd5.com
 127.0.0.1 tuikuan.ucwsipq.com
 127.0.0.1 tuikuan.wdpwdrz.com
 127.0.0.1 tuikuan055.vxwruzb.com
@@ -16739,9 +17156,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 tuikuandingdan.bdsg052.pw
 127.0.0.1 tuikuangh.bodogfy.com
 127.0.0.1 tuikuanliucheng.vibgfew.com
+127.0.0.1 tuikuanxiey.wboibl.cn
+127.0.0.1 tuikuanzx.bgtyw886.com
+127.0.0.1 tuikuanzx.njfrxe.com
 127.0.0.1 tuikuanzx95518.haowe.cf
 127.0.0.1 tuinsak.9mruw.com
 127.0.0.1 tuiqsf.0b5q54j4pgz5.tk
+127.0.0.1 tuiskn.kc4eejh.cn
 127.0.0.1 tuitanic.com
 127.0.0.1 tuituituil.qdusz.info
 127.0.0.1 tuku.122166.com
@@ -16943,6 +17364,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 udvyv.cn
 127.0.0.1 ue.ueadlian.com
 127.0.0.1 ue-10086.com
+127.0.0.1 ue29hf3v.pw
 127.0.0.1 ue52.net
 127.0.0.1 uea.zo.zecxa.info
 127.0.0.1 uedas.qidian.com
@@ -16953,6 +17375,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ugg.js-xz.com
 127.0.0.1 ugiuzey.com
 127.0.0.1 uho123.com
+127.0.0.1 uhuiu.b0.upaiyun.com
 127.0.0.1 uhxjcyspdo.tk
 127.0.0.1 ui9i.com
 127.0.0.1 uiaah4.com
@@ -17125,6 +17548,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 user.cangbo88.com
 127.0.0.1 user.kuaibu.org
 127.0.0.1 users.belgacom.net
+127.0.0.1 ushsj.cn
 127.0.0.1 usplb.com
 127.0.0.1 ustcvoting.com
 127.0.0.1 usydaoo.tbt.mx
@@ -17155,6 +17579,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 v.9vcpp.cn
 127.0.0.1 v.cbvv.ru
 127.0.0.1 v.dedewl.com
+127.0.0.1 v.img80.net
 127.0.0.1 v.ltmm20.com
 127.0.0.1 v.sphwq.net
 127.0.0.1 v.tg.com.cn
@@ -17192,6 +17617,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 vanexpo.cn
 127.0.0.1 vankin.de
 127.0.0.1 varmjr.com
+127.0.0.1 vas23id5g.pw
 127.0.0.1 vastramworldwide.com
 127.0.0.1 vate.com.cn
 127.0.0.1 vaub.net
@@ -17325,12 +17751,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 vip.xinxiwds.cn
 127.0.0.1 vip.y217.com
 127.0.0.1 vip.y9z.com.cn
+127.0.0.1 vip.yhzb36.cn
 127.0.0.1 vip.yirunda.com.cn
 127.0.0.1 vip.yiyuntianxin.com
 127.0.0.1 vip.yuangui365.cn
 127.0.0.1 vip.yxxjbg.com
 127.0.0.1 vip.yzdtyc.cn
 127.0.0.1 vip.zhengpin360.com
+127.0.0.1 vip.zhinengshuo.cn
 127.0.0.1 vip.zhongdaqkw.com
 127.0.0.1 vip.zhongyupm.com
 127.0.0.1 vip.zihong.org
@@ -17380,6 +17808,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 vlianfz.c.5d4d.net
 127.0.0.1 vmjdcmld.fbw9uefw.pw
 127.0.0.1 vn110.com
+127.0.0.1 vn88000.com
 127.0.0.1 vn88222.com
 127.0.0.1 vnasudfgaik.ccs.pl
 127.0.0.1 vnedkov.com
@@ -17410,6 +17839,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 vps.jinglecat.com
 127.0.0.1 vpshk.org
 127.0.0.1 vpssy.com
+127.0.0.1 vptb8.com
 127.0.0.1 vqkfm.com
 127.0.0.1 vqxcytf.tk
 127.0.0.1 vrcgga.cn
@@ -17451,8 +17881,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 vvvv.kfwgc.xyz
 127.0.0.1 vvvvvv.365ks.cn
 127.0.0.1 vvw.9iwanqp.cn
+127.0.0.1 vvw.wh-hongtu.com.cn
 127.0.0.1 vvwv.htfcq.xyz
 127.0.0.1 vwbchvnxh.tk
+127.0.0.1 vwfz7dw9.huijiangbeng.com
 127.0.0.1 vw-tsi.com
 127.0.0.1 vxjrvbnc.tk
 127.0.0.1 vxworks.info
@@ -17479,6 +17911,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 w1.i2384.cn
 127.0.0.1 w1.plugrush.com
 127.0.0.1 w11.4g2s.com
+127.0.0.1 w18eiorhqw.pw
 127.0.0.1 w2.qianyaso.net
 127.0.0.1 w23y.com
 127.0.0.1 w2sea.net
@@ -17575,7 +18008,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.ccbkwh.com
 127.0.0.1 wap.ccbyun.com
 127.0.0.1 wap.ccexbz.cc
+127.0.0.1 wap.cchkc.com
 127.0.0.1 wap.cciesp.com
+127.0.0.1 wap.cciwn.com
+127.0.0.1 wap.ccnkr.com
+127.0.0.1 wap.ccnwg.com
 127.0.0.1 wap.cmbxjs.cc
 127.0.0.1 wap.cmread.com
 127.0.0.1 wap.cnxnkra.com
@@ -17585,6 +18022,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.dfpan.com
 127.0.0.1 wap.dgbojia.cn
 127.0.0.1 wap.duojiamu.com
+127.0.0.1 wap.eebs.cn.com
 127.0.0.1 wap.eebxc.cc
 127.0.0.1 wap.eebxv.cc
 127.0.0.1 wap.elxjx.com
@@ -17593,6 +18031,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.everx.cc
 127.0.0.1 wap.exevz.cc
 127.0.0.1 wap.fbhcb.com
+127.0.0.1 wap.fnsid.com
+127.0.0.1 wap.fxhggs.com
 127.0.0.1 wap.gooap.com
 127.0.0.1 wap.gowulian.com
 127.0.0.1 wap.gstarcad.com
@@ -17609,6 +18049,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.icagq.com
 127.0.0.1 wap.icagw.com
 127.0.0.1 wap.icbcazt.com
+127.0.0.1 wap.icbcbn.com
+127.0.0.1 wap.icbcbne.com
+127.0.0.1 wap.icbcbnm.com
 127.0.0.1 wap.icbccvtf.com
 127.0.0.1 wap.icbccvye.com
 127.0.0.1 wap.icbccvyj.com
@@ -17633,6 +18076,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.icbcpst.com
 127.0.0.1 wap.icbcrcp.com
 127.0.0.1 wap.icbcsky.com
+127.0.0.1 wap.icbcsno.com
+127.0.0.1 wap.icbcsnp.com
+127.0.0.1 wap.icbcsnr.com
 127.0.0.1 wap.icbctcg.com
 127.0.0.1 wap.icbctcr.com
 127.0.0.1 wap.icbctgc.com
@@ -17642,11 +18088,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.icbcuon.com
 127.0.0.1 wap.icbc-vb.com
 127.0.0.1 wap.icbcvey.com
+127.0.0.1 wap.icbcvnc.com
 127.0.0.1 wap.icbcvnd.com
 127.0.0.1 wap.icbcvng.com
+127.0.0.1 wap.icbcvnt.com
 127.0.0.1 wap.icbcvyg.com
 127.0.0.1 wap.icbcxcp.com
 127.0.0.1 wap.icbcyct.com
+127.0.0.1 wap.icbczb.com
 127.0.0.1 wap.icbc-zm.com
 127.0.0.1 wap.icbdq.com
 127.0.0.1 wap.icbdy.com
@@ -17658,6 +18107,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.icdcdc.com
 127.0.0.1 wap.icdcdn.com
 127.0.0.1 wap.icdcjb.com
+127.0.0.1 wap.icdrk.com
+127.0.0.1 wap.icdrl.com
+127.0.0.1 wap.icdrp.com
+127.0.0.1 wap.icdrq.com
 127.0.0.1 wap.icexb.cc
 127.0.0.1 wap.icfrty.com
 127.0.0.1 wap.icgat.com
@@ -17707,8 +18160,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.icze.cc
 127.0.0.1 wap.idecx.cc
 127.0.0.1 wap.ideq.cc
+127.0.0.1 wap.iecbs.cc
 127.0.0.1 wap.ieds.cc
 127.0.0.1 wap.iixiuxiu.com
+127.0.0.1 wap.iokidc.com
 127.0.0.1 wap.ixaxua.cc
 127.0.0.1 wap.jjffss.com
 127.0.0.1 wap.jntn.org
@@ -17728,6 +18183,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.mvxz.cc
 127.0.0.1 wap.nabbl.cn
 127.0.0.1 wap.ncitao.org
+127.0.0.1 wap.nfkfwf.com
 127.0.0.1 wap.pc95528.com
 127.0.0.1 wap-.pr6.findhere.org
 127.0.0.1 wap.qmzbw.com
@@ -17736,6 +18192,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.sg
 127.0.0.1 wap.shandianxm.com
 127.0.0.1 wap.sjcmsms.com
+127.0.0.1 wap.swuns.com
 127.0.0.1 wap.szdxchem.com
 127.0.0.1 wap.ta2s.cn
 127.0.0.1 wap.tccbl.com
@@ -17743,14 +18200,19 @@ All Rights Reserved 2007-2014
 127.0.0.1 wap.troy.gz.cn
 127.0.0.1 wap.tsbyby.cn
 127.0.0.1 wap.txgcn.com
+127.0.0.1 wap.ubifs.com
+127.0.0.1 wap.uiens.com
+127.0.0.1 wap.uinev.com
 127.0.0.1 wap.vcbid.cc
 127.0.0.1 wap.vcovx.cc
+127.0.0.1 wap.vcxip.cc
 127.0.0.1 wap.w8ad.cn
 127.0.0.1 wap.waphjw.com
 127.0.0.1 wap.wapmy.cn
 127.0.0.1 wap.wxvhx.com
 127.0.0.1 wap.xiayeshikong.com
 127.0.0.1 wap.xydzj.cn
+127.0.0.1 wap.xyunyu.com
 127.0.0.1 wap.yncczs.com
 127.0.0.1 wap.zcqe.com
 127.0.0.1 wap.zgsjlm.com.cn
@@ -17799,11 +18261,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 wasbet.com
 127.0.0.1 watafiti.com
 127.0.0.1 watch.ychaoda.com
+127.0.0.1 watch.ypdawfi.tk
 127.0.0.1 watch518.com
 127.0.0.1 watchlead.com
 127.0.0.1 water-agplus.com
 127.0.0.1 watercube.cc
 127.0.0.1 wauc.onexpc.cc
+127.0.0.1 wav.ibcvs.cc
 127.0.0.1 waw.adaigui.cn
 127.0.0.1 wawa8886.com
 127.0.0.1 waxchong.com
@@ -17908,6 +18372,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 weigew.cn
 127.0.0.1 weigex.com
 127.0.0.1 weijiewm.com
+127.0.0.1 weiku.001vip.net
 127.0.0.1 weiku.cjhuawu.cn
 127.0.0.1 weiku001.duapp.com
 127.0.0.1 weikuchina.com
@@ -17942,6 +18407,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wep-10086.pw
 127.0.0.1 wer.zhiwenedu.cn
 127.0.0.1 wer1.1safe.cn
+127.0.0.1 weraa.party
 127.0.0.1 wertdtdd.com
 127.0.0.1 westadmin.gotoip2.com
 127.0.0.1 westkc.net
@@ -18035,6 +18501,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 whynotad.com
 127.0.0.1 whzi.sv1.swedns.cn
 127.0.0.1 whzyqszc.com
+127.0.0.1 wi4e4fhsd.pw
 127.0.0.1 wi567.com
 127.0.0.1 wi7807.com
 127.0.0.1 widget.plugrush.com
@@ -18098,6 +18565,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wlk.yitaodg.com
 127.0.0.1 wll8.com
 127.0.0.1 wlm54.net
+127.0.0.1 wlpro.aliapp.com
 127.0.0.1 wlsxy.com
 127.0.0.1 wlszj.com
 127.0.0.1 wlyz1.20rj.com
@@ -18129,6 +18597,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wnka.09march98.tk
 127.0.0.1 wns55.com
 127.0.0.1 wnsr016.com
+127.0.0.1 wnsr520.net
 127.0.0.1 wnww.rlwytz.cc
 127.0.0.1 wo.ppp172.com
 127.0.0.1 wo.pwcl.pw
@@ -18169,6 +18638,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 woxuve.shuianshanba.com
 127.0.0.1 woyufengtianxiaoshuo.com
 127.0.0.1 wp.zp68.com
+127.0.0.1 wp88.com
 127.0.0.1 wpait.com
 127.0.0.1 wpann.com
 127.0.0.1 wplvshi.com
@@ -18182,6 +18652,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wqzedu.cn
 127.0.0.1 wr.ovo8.com.cn
 127.0.0.1 wrcclub.com
+127.0.0.1 wre.tofnun.com
 127.0.0.1 wreas.zhjint.cc
 127.0.0.1 wrhdvwh.ga
 127.0.0.1 wrinimade360.kanshinipzxcnvd-1eds.dsker9pds.57670.net
@@ -18205,6 +18676,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wsjhszx.org.cn
 127.0.0.1 wsloan.cn
 127.0.0.1 wsmy.com.cn
+127.0.0.1 wspai.cn
 127.0.0.1 wspr.bjccyy.com.cn
 127.0.0.1 wssc22.com
 127.0.0.1 wssxsy.com
@@ -18317,6 +18789,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ww.jkmaka.com
 127.0.0.1 ww.jxgjky.com
 127.0.0.1 ww.kk44kk.com
+127.0.0.1 ww.njfybjy.cn
 127.0.0.1 ww.rfy333.cn
 127.0.0.1 ww.taobao.ainbgc.cn
 127.0.0.1 ww.uhetao.com
@@ -18343,6 +18816,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wwdz.502pk.com
 127.0.0.1 wwe.fct3600.com
 127.0.0.1 wwee.95188.reoybqk.com
+127.0.0.1 wwmz.club
 127.0.0.1 wwn.club
 127.0.0.1 wwppmkf.com
 127.0.0.1 wwq.hbmc.net
@@ -18353,6 +18827,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wwshjl.com
 127.0.0.1 wwv.52map.net
 127.0.0.1 wwv.787go.net
+127.0.0.1 wwv.dangci555.com
 127.0.0.1 wwv.miyiad.com
 127.0.0.1 wwv.usa.cc
 127.0.0.1 wwvv.528ff.com
@@ -18362,6 +18837,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.00008888.com
 127.0.0.1 www.0000bmw.com
 127.0.0.1 www.0000mgm.com
+127.0.0.1 www.0000pj.com
+127.0.0.1 www.0000zs.com
 127.0.0.1 www.0003mgm.com
 127.0.0.1 www.00046.com
 127.0.0.1 www.0004mgm.com
@@ -18384,23 +18861,29 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.00222.com
 127.0.0.1 www.00271.com
 127.0.0.1 www.00295.com
+127.0.0.1 www.0033524.com
 127.0.0.1 www.00365.com
 127.0.0.1 www.003cmp.com
 127.0.0.1 www.003mgm.com
 127.0.0.1 www.003sg.com
 127.0.0.1 www.00416.com
 127.0.0.1 www.00444.com
+127.0.0.1 www.004466.com
 127.0.0.1 www.00448.com
 127.0.0.1 www.004mgm.com
 127.0.0.1 www.005006.com
 127.0.0.1 www.005445.com
+127.0.0.1 www.0055js.com
 127.0.0.1 www.0059.com
 127.0.0.1 www.006512.com
 127.0.0.1 www.0066524.com
 127.0.0.1 www.006bai.net
 127.0.0.1 www.006sb.com
+127.0.0.1 www.006xpj.com
 127.0.0.1 www.0073388.com
 127.0.0.1 www.0075.com
+127.0.0.1 www.0077524.com
+127.0.0.1 www.007bct.com
 127.0.0.1 www.007bifen.com
 127.0.0.1 www.007hwn.com
 127.0.0.1 www.007kawang.com
@@ -18435,6 +18918,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.0163.com
 127.0.0.1 www.017177.com
 127.0.0.1 www.017232.com
+127.0.0.1 www.01a88.com
 127.0.0.1 www.01kj.com
 127.0.0.1 www.0209.com
 127.0.0.1 www.020dg.com
@@ -18484,9 +18968,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.0315ju.com
 127.0.0.1 www.03222.com
 127.0.0.1 www.03333.com
+127.0.0.1 www.0333zx.com
 127.0.0.1 www.03507.net
 127.0.0.1 www.0352e.com
 127.0.0.1 www.0352gc.com
+127.0.0.1 www.036900.net
 127.0.0.1 www.0371scdb.com
 127.0.0.1 www.0375news.cn
 127.0.0.1 www.0376.net
@@ -18498,6 +18984,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.0399.com
 127.0.0.1 www.03a88.com
 127.0.0.1 www.03bwin.com
+127.0.0.1 www.03xpj.com
 127.0.0.1 www.040101.com
 127.0.0.1 www.040103.com
 127.0.0.1 www.040104.com
@@ -18521,6 +19008,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.0510mr.com
 127.0.0.1 www.0518i.com
 127.0.0.1 www.05190.com
+127.0.0.1 www.052008.com
 127.0.0.1 www.052009.com
 127.0.0.1 www.0531yla.com
 127.0.0.1 www.0532qdzxmr.com
@@ -18617,6 +19105,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.0851seo.com
 127.0.0.1 www.0866.com
 127.0.0.1 www.08669news.cn
+127.0.0.1 www.0884.cc
 127.0.0.1 www.0885z.com
 127.0.0.1 www.0888zr.com
 127.0.0.1 www.0889.com
@@ -18639,6 +19128,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.0931gc.com
 127.0.0.1 www.0931zybdf.cn
 127.0.0.1 www.0931zybdf.com
+127.0.0.1 www.0932mls.com
 127.0.0.1 www.0938120.cn
 127.0.0.1 www.0954fc.com
 127.0.0.1 www.0954news.cn
@@ -18719,6 +19209,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.110160.com
 127.0.0.1 www.1101wish.com
 127.0.0.1 www.110568.cn
+127.0.0.1 www.11067.com
 127.0.0.1 www.110v220v.com
 127.0.0.1 www.1110022.com
 127.0.0.1 www.1110055.com
@@ -18761,6 +19252,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.1138.com
 127.0.0.1 www.11444.com
 127.0.0.1 www.114447.com
+127.0.0.1 www.114733.com
 127.0.0.1 www.1149.cn
 127.0.0.1 www.114hx.com
 127.0.0.1 www.114sms.cn
@@ -18772,7 +19264,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.115502.com
 127.0.0.1 www.115522.com
 127.0.0.1 www.1155ss.com
+127.0.0.1 www.1161234.com
 127.0.0.1 www.116228.cn
+127.0.0.1 www.116667.com
 127.0.0.1 www.116jj.com
 127.0.0.1 www.117447.com
 127.0.0.1 www.117hsw.com
@@ -18827,6 +19321,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.1234cao.com
 127.0.0.1 www.1234gua.com
 127.0.0.1 www.1234wg.com
+127.0.0.1 www.12351.org.cn
 127.0.0.1 www.123548.com
 127.0.0.1 www.123790.com
 127.0.0.1 www.123bo.com
@@ -18927,6 +19422,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.150com.com
 127.0.0.1 www.1532777.com
 127.0.0.1 www.15355.com
+127.0.0.1 www.154qq.com
 127.0.0.1 www.155000.com
 127.0.0.1 www.1551777.com
 127.0.0.1 www.155ys.com
@@ -19003,6 +19499,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.17msge.com
 127.0.0.1 www.17sxl.com
 127.0.0.1 www.17wy.net
+127.0.0.1 www.17ys.com
 127.0.0.1 www.17yx.la
 127.0.0.1 www.18030802001.com
 127.0.0.1 www.180666.com
@@ -19012,7 +19509,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.181777.com
 127.0.0.1 www.181816888.com
 127.0.0.1 www.1818qp.com
+127.0.0.1 www.181aa.com
 127.0.0.1 www.182106.com
+127.0.0.1 www.182256.com
 127.0.0.1 www.182299.com
 127.0.0.1 www.18288200199.com
 127.0.0.1 www.183.158pm.com
@@ -19058,6 +19557,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.18lly.com
 127.0.0.1 www.18lu.pw
 127.0.0.1 www.18luck.com
+127.0.0.1 www.18luck.net
 127.0.0.1 www.18zzz.com
 127.0.0.1 www.190395.com
 127.0.0.1 www.1908.com
@@ -19066,6 +19566,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.1918art.com
 127.0.0.1 www.191999.com
 127.0.0.1 www.1942gm.com
+127.0.0.1 www.19461946.com
 127.0.0.1 www.1946bv.com
 127.0.0.1 www.195vip.com
 127.0.0.1 www.196777.com
@@ -19089,6 +19590,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.1dwz.com
 127.0.0.1 www.1g2g.net
 127.0.0.1 www.1gaofan.com
+127.0.0.1 www.1jhl.com
 127.0.0.1 www.1m01.cn
 127.0.0.1 www.1mjhnj.com
 127.0.0.1 www.1ngfsn.com
@@ -19133,6 +19635,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.2015f.net
 127.0.0.1 www.202222.com
 127.0.0.1 www.203.com
+127.0.0.1 www.2034hezi.com
 127.0.0.1 www.205088.com
 127.0.0.1 www.205365.com
 127.0.0.1 www.20567.com
@@ -19216,6 +19719,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.222bbb.com
 127.0.0.1 www.222ccc.com
 127.0.0.1 www.222eee.cn
+127.0.0.1 www.222jjj.com
 127.0.0.1 www.222xe.com
 127.0.0.1 www.222xi.com
 127.0.0.1 www.222xy.com
@@ -19226,6 +19730,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.223886.com
 127.0.0.1 www.223we.com
 127.0.0.1 www.223you.com
+127.0.0.1 www.224457.com
 127.0.0.1 www.2244kk.com
 127.0.0.1 www.226636.com
 127.0.0.1 www.226639.com
@@ -19355,13 +19860,18 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.26nnn.com
 127.0.0.1 www.26uuu.tv
 127.0.0.1 www.26yyy.com
+127.0.0.1 www.270bo.com
+127.0.0.1 www.27186.com
 127.0.0.1 www.271bi.com
 127.0.0.1 www.271bo.com
 127.0.0.1 www.273555.com
 127.0.0.1 www.273757.com
 127.0.0.1 www.27477.com
 127.0.0.1 www.275bi.com
+127.0.0.1 www.27666.com
+127.0.0.1 www.27666d.com
 127.0.0.1 www.27749.com
+127.0.0.1 www.277770.com
 127.0.0.1 www.27789.com
 127.0.0.1 www.277bc.com
 127.0.0.1 www.277tk.com
@@ -19432,6 +19942,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.3007.com
 127.0.0.1 www.301888.com
 127.0.0.1 www.301msc.com
+127.0.0.1 www.3033m.com
 127.0.0.1 www.3033t.com
 127.0.0.1 www.3033u.com
 127.0.0.1 www.3033v.com
@@ -19456,6 +19967,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.311111.com
 127.0.0.1 www.311211.com
 127.0.0.1 www.31135.com
+127.0.0.1 www.3115b.com
 127.0.0.1 www.311yy.com
 127.0.0.1 www.312082.com
 127.0.0.1 www.31222.com
@@ -19466,6 +19978,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.31441.com
 127.0.0.1 www.315358.cn
 127.0.0.1 www.315866.net
+127.0.0.1 www.315atong2.com
 127.0.0.1 www.315safe.com
 127.0.0.1 www.3171game.com
 127.0.0.1 www.3177.com
@@ -19503,6 +20016,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.332258.cn
 127.0.0.1 www.3322hs.com
 127.0.0.1 www.33288888.com
+127.0.0.1 www.33318.com
 127.0.0.1 www.3331xj.com
 127.0.0.1 www.3332055.com
 127.0.0.1 www.333222d.com
@@ -19530,6 +20044,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.333958.cn
 127.0.0.1 www.333blg.com
 127.0.0.1 www.333jjj.com
+127.0.0.1 www.333xhtd.com
 127.0.0.1 www.3344111.com
 127.0.0.1 www.3344588.com
 127.0.0.1 www.3344bet.com
@@ -19548,6 +20063,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.33789.com
 127.0.0.1 www.337x.com
 127.0.0.1 www.3380000.com
+127.0.0.1 www.338333.com
 127.0.0.1 www.338829.com
 127.0.0.1 www.338895.com
 127.0.0.1 www.3388sj.com
@@ -19592,6 +20108,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.345888.com
 127.0.0.1 www.345955.com
 127.0.0.1 www.346789.com
+127.0.0.1 www.34767.com
 127.0.0.1 www.34819.com
 127.0.0.1 www.3483.com
 127.0.0.1 www.3485.com
@@ -19625,6 +20142,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.360kongjian.com
 127.0.0.1 www.360lt.com
 127.0.0.1 www.360ons.com
+127.0.0.1 www.360-qhw.com
 127.0.0.1 www.360root.com
 127.0.0.1 www.360silkstreet.com
 127.0.0.1 www.360wifii.com
@@ -19636,6 +20154,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.362.net
 127.0.0.1 www.363222.com
 127.0.0.1 www.36365g.com
+127.0.0.1 www.36365p.com
+127.0.0.1 www.36365r.com
 127.0.0.1 www.363900.net
 127.0.0.1 www.363977.com
 127.0.0.1 www.36500006.com
@@ -19673,6 +20193,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.367888.com
 127.0.0.1 www.367a.com
 127.0.0.1 www.368787.com
+127.0.0.1 www.3688js.com
 127.0.0.1 www.368cash.com
 127.0.0.1 www.368qj.com
 127.0.0.1 www.36928.com
@@ -19762,6 +20283,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.3dbet1.com
 127.0.0.1 www.3dcgchina.net
 127.0.0.1 www.3dhrzx.cn
+127.0.0.1 www.3doprint.com
 127.0.0.1 www.3dtzw.com
 127.0.0.1 www.3emm.com
 127.0.0.1 www.3epay.com
@@ -19827,6 +20349,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.41355.com
 127.0.0.1 www.413588.com
 127.0.0.1 www.4157.com
+127.0.0.1 www.4167pj.com
 127.0.0.1 www.4187.com
 127.0.0.1 www.418811.com
 127.0.0.1 www.419.com.cn
@@ -19874,11 +20397,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.444113.com
 127.0.0.1 www.444222.com
 127.0.0.1 www.444333.com
+127.0.0.1 www.44437.com
 127.0.0.1 www.444408.com
 127.0.0.1 www.444460.com
 127.0.0.1 www.4444kkk.com
 127.0.0.1 www.4444sq.com
 127.0.0.1 www.4444zs.com
+127.0.0.1 www.44453.com
 127.0.0.1 www.444555.com
 127.0.0.1 www.444600.com
 127.0.0.1 www.44462.com
@@ -19905,6 +20430,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.44789.com
 127.0.0.1 www.447bet.com
 127.0.0.1 www.448448.com
+127.0.0.1 www.448887.com
 127.0.0.1 www.4488999.com
 127.0.0.1 www.4488kk.com
 127.0.0.1 www.44908.com
@@ -19996,6 +20522,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.490222.com
 127.0.0.1 www.49222.com
 127.0.0.1 www.492222.com
+127.0.0.1 www.493365.com
 127.0.0.1 www.4934.com
 127.0.0.1 www.4947.com
 127.0.0.1 www.49487.com
@@ -20204,6 +20731,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.52yipei.cn
 127.0.0.1 www.52ymss.com
 127.0.0.1 www.52yushi.com
+127.0.0.1 www.52yxg.cn
 127.0.0.1 www.52znsj.cn
 127.0.0.1 www.530555.com
 127.0.0.1 www.530du.com
@@ -20433,6 +20961,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.59hhh.com
 127.0.0.1 www.59icq.com
 127.0.0.1 www.59ppp.com
+127.0.0.1 www.59yyy.com
 127.0.0.1 www.5a364h.cn
 127.0.0.1 www.5agj.cn
 127.0.0.1 www.5aicode.com
@@ -20455,6 +20984,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.5jh.org
 127.0.0.1 www.5jhyvgb.com
 127.0.0.1 www.5k58.com
+127.0.0.1 www.5k777.com
 127.0.0.1 www.5kxc.com
 127.0.0.1 www.5le.cc
 127.0.0.1 www.5letes.hu
@@ -20471,6 +21001,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.5xxuu.com
 127.0.0.1 www.5yaogao.cn
 127.0.0.1 www.5zdq.com
+127.0.0.1 www.5zgj.com
 127.0.0.1 www.600049.com
 127.0.0.1 www.6000m.com
 127.0.0.1 www.6004.com
@@ -20509,6 +21040,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.616book.cn
 127.0.0.1 www.616book.com
 127.0.0.1 www.6188.com
+127.0.0.1 www.618shenbo.com
 127.0.0.1 www.61jjj.com
 127.0.0.1 www.61ko.com
 127.0.0.1 www.620555.com
@@ -20585,6 +21117,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.66118.com
 127.0.0.1 www.6611js.com
 127.0.0.1 www.661789.com
+127.0.0.1 www.661800.com
 127.0.0.1 www.66328.com
 127.0.0.1 www.663366.com
 127.0.0.1 www.663774.com
@@ -20609,8 +21142,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.666470.com
 127.0.0.1 www.666575.com
 127.0.0.1 www.666609.com
+127.0.0.1 www.66668k.com
 127.0.0.1 www.66668l.com
+127.0.0.1 www.66668u.com
 127.0.0.1 www.6666a8.com
+127.0.0.1 www.6666bmw.com
 127.0.0.1 www.6666hs.com
 127.0.0.1 www.6666jinsha.com
 127.0.0.1 www.6666tj.com
@@ -20620,6 +21156,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.66693.com
 127.0.0.1 www.666bjb.com
 127.0.0.1 www.666blg.com
+127.0.0.1 www.666jsc.com
 127.0.0.1 www.666lunwen.com
 127.0.0.1 www.666yuyu.com
 127.0.0.1 www.6671111.com
@@ -20640,6 +21177,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.6681258.com
 127.0.0.1 www.668777.com
 127.0.0.1 www.6688137.com
+127.0.0.1 www.6688877.com
 127.0.0.1 www.6688bet.com
 127.0.0.1 www.6688tk.com
 127.0.0.1 www.668yk.com
@@ -20671,6 +21209,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.66smsm.com
 127.0.0.1 www.66sq.com
 127.0.0.1 www.66sunny.com
+127.0.0.1 www.66t.net
 127.0.0.1 www.66zffff4421.pw
 127.0.0.1 www.66zhifu-165.xyz
 127.0.0.1 www.66zr888.com
@@ -20683,6 +21222,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.675.tw
 127.0.0.1 www.6750732.com
 127.0.0.1 www.67555.com
+127.0.0.1 www.67588.com
 127.0.0.1 www.67677.com
 127.0.0.1 www.676uu.com
 127.0.0.1 www.678.com
@@ -20778,6 +21318,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.7171b.com
 127.0.0.1 www.7185.com
 127.0.0.1 www.718677.com
+127.0.0.1 www.718shenbo.com
 127.0.0.1 www.719999.com
 127.0.0.1 www.71idz.com
 127.0.0.1 www.71meise.com
@@ -20796,6 +21337,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.726666.com
 127.0.0.1 www.7282.com
 127.0.0.1 www.72888.com
+127.0.0.1 www.728js.com
 127.0.0.1 www.729.com
 127.0.0.1 www.72bbb.com
 127.0.0.1 www.72hk.net
@@ -20830,6 +21372,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.7535pk.com
 127.0.0.1 www.75528.com
 127.0.0.1 www.755855.com
+127.0.0.1 www.755kk.co.cc
 127.0.0.1 www.756.la
 127.0.0.1 www.7589.com
 127.0.0.1 www.75896.tk
@@ -20869,6 +21412,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.773999.com
 127.0.0.1 www.774006.com
 127.0.0.1 www.774403.com
+127.0.0.1 www.774711.com
 127.0.0.1 www.77500.com
 127.0.0.1 www.775447.com
 127.0.0.1 www.775848.com
@@ -20944,6 +21488,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.781111.com
 127.0.0.1 www.78128.com
 127.0.0.1 www.781777.com
+127.0.0.1 www.7819.com
 127.0.0.1 www.78234.com
 127.0.0.1 www.78278.com
 127.0.0.1 www.782888.com
@@ -21061,7 +21606,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.80989.com
 127.0.0.1 www.809993.com
 127.0.0.1 www.809aa.com
+127.0.0.1 www.809hh.com
 127.0.0.1 www.809ss.com
+127.0.0.1 www.80dytt.com
 127.0.0.1 www.80hdd.com
 127.0.0.1 www.80kfc.com
 127.0.0.1 www.80lou.com
@@ -21072,6 +21619,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.81030068.com
 127.0.0.1 www.810wyt.com
 127.0.0.1 www.8119.hk
+127.0.0.1 www.811999.com
 127.0.0.1 www.812200.org.cn
 127.0.0.1 www.812340.com
 127.0.0.1 www.812666.com
@@ -21089,6 +21637,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.81baobao.com
 127.0.0.1 www.81fsf.com
 127.0.0.1 www.81qc.com
+127.0.0.1 www.82058808.com
 127.0.0.1 www.821900.com
 127.0.0.1 www.822001.com
 127.0.0.1 www.82388.com
@@ -21174,6 +21723,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.860217.cn
 127.0.0.1 www.86150000.com
 127.0.0.1 www.86228.com
+127.0.0.1 www.862789.com
 127.0.0.1 www.864668.com
 127.0.0.1 www.86567.com
 127.0.0.1 www.865985.xyz
@@ -21195,6 +21745,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.86bet.com
 127.0.0.1 www.86gan.com
 127.0.0.1 www.86oki.com
+127.0.0.1 www.86pe.net
 127.0.0.1 www.86sunnet.com
 127.0.0.1 www.86zs.com
 127.0.0.1 www.86zt.com
@@ -21274,6 +21825,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.888828888.com
 127.0.0.1 www.88887.com
 127.0.0.1 www.888879.com
+127.0.0.1 www.88888333.net.cn
 127.0.0.1 www.888887.net
 127.0.0.1 www.888888kk.com
 127.0.0.1 www.888898.com
@@ -21299,6 +21851,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.888zr00.com
 127.0.0.1 www.888zr111.com
 127.0.0.1 www.888zr222.com
+127.0.0.1 www.888zr55.com
 127.0.0.1 www.888zr60.com
 127.0.0.1 www.889568.com
 127.0.0.1 www.8897777.com.cn
@@ -21314,6 +21867,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.88ff.us
 127.0.0.1 www.88guogan.com
 127.0.0.1 www.88gww.com
+127.0.0.1 www.88js88.com
 127.0.0.1 www.88jt44.com
 127.0.0.1 www.88kh.com
 127.0.0.1 www.88kj.com
@@ -21360,6 +21914,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.899099.com
 127.0.0.1 www.899381.com
 127.0.0.1 www.899400.com
+127.0.0.1 www.89976.com
 127.0.0.1 www.89ac.com
 127.0.0.1 www.89dx.com
 127.0.0.1 www.89nnn.com
@@ -21369,6 +21924,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.8aq.org
 127.0.0.1 www.8bo.com
 127.0.0.1 www.8ds888.com
+127.0.0.1 www.8f365.com
 127.0.0.1 www.8f999.com
 127.0.0.1 www.8ff.net
 127.0.0.1 www.8ggss.com
@@ -21461,6 +22017,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.91vk.com
 127.0.0.1 www.91xin.com
 127.0.0.1 www.91xueya.com
+127.0.0.1 www.91yingshi.cc
 127.0.0.1 www.91yinuo.com
 127.0.0.1 www.91yqp.com
 127.0.0.1 www.91ysjk.com
@@ -21536,6 +22093,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.95188.ghjgh.com
 127.0.0.1 www.95188.ntmnfml.com
 127.0.0.1 www.95188.xpswkgm.com
+127.0.0.1 www.95188.yuleb2b.com
 127.0.0.1 www.95188tk.ihkqowy.com
 127.0.0.1 www.9518tuku.xaescvk.com
 127.0.0.1 www.951ac.cn
@@ -21589,6 +22147,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.9769.com
 127.0.0.1 www.97699.com
 127.0.0.1 www.97789.com
+127.0.0.1 www.9778g.com
 127.0.0.1 www.9783.in
 127.0.0.1 www.9785.com
 127.0.0.1 www.9788.com
@@ -21607,6 +22166,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.98139.com
 127.0.0.1 www.981718.cn
 127.0.0.1 www.98188.com
+127.0.0.1 www.981abc.com
 127.0.0.1 www.9829999.com
 127.0.0.1 www.9852098.com
 127.0.0.1 www.9855777.com
@@ -21627,6 +22187,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.98csc.net
 127.0.0.1 www.98e8.com
 127.0.0.1 www.98fs.tk
+127.0.0.1 www.98msc.com
 127.0.0.1 www.98xpxp.com
 127.0.0.1 www.98xueli.com
 127.0.0.1 www.990033.com
@@ -21684,6 +22245,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.99999.cc
 127.0.0.1 www.9999969.com
 127.0.0.1 www.99999hao.com
+127.0.0.1 www.9999cf.com
 127.0.0.1 www.9999dd.com
 127.0.0.1 www.9999jsc.com
 127.0.0.1 www.9999q.com
@@ -21725,6 +22287,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.9ene456.com
 127.0.0.1 www.9er7.cn
 127.0.0.1 www.9f999.com
+127.0.0.1 www.9gfh.com
 127.0.0.1 www.9hh.com
 127.0.0.1 www.9ht.com
 127.0.0.1 www.9htm.com
@@ -21795,6 +22358,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.aabbcc.0n.hk
 127.0.0.1 www.aabbk.com
 127.0.0.1 www.aady.cc
+127.0.0.1 www.aadyw.cc
 127.0.0.1 www.aamm22.com
 127.0.0.1 www.aamm33.com
 127.0.0.1 www.aamm44.com
@@ -21812,8 +22376,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ab88888.com
 127.0.0.1 www.ab99911.com
 127.0.0.1 www.ab99933.com
+127.0.0.1 www.ab99966.com
 127.0.0.1 www.ab99977.com
 127.0.0.1 www.abc1000.net
+127.0.0.1 www.abc606.com
 127.0.0.1 www.abcd.com
 127.0.0.1 www.abcdaf.cn
 127.0.0.1 www.abcebiz.com
@@ -21991,6 +22557,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.am0222.com
 127.0.0.1 www.am05555.com
 127.0.0.1 www.am1666.com
+127.0.0.1 www.am1699.com
 127.0.0.1 www.am182.com
 127.0.0.1 www.am184.com
 127.0.0.1 www.am2588.com
@@ -21998,12 +22565,15 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.am2688.com
 127.0.0.1 www.am2699.com
 127.0.0.1 www.am2828.com
+127.0.0.1 www.am3299.com
 127.0.0.1 www.am335.com
 127.0.0.1 www.am3355.com
 127.0.0.1 www.am3588.com
+127.0.0.1 www.am3599.com
 127.0.0.1 www.am366.com
 127.0.0.1 www.am4422.com
 127.0.0.1 www.am529.com
+127.0.0.1 www.am5577.com
 127.0.0.1 www.am661.com
 127.0.0.1 www.am679.com
 127.0.0.1 www.am7766.com
@@ -22016,6 +22586,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.am917.com
 127.0.0.1 www.am9222.com
 127.0.0.1 www.am9299.com
+127.0.0.1 www.am9599.com
+127.0.0.1 www.am9899.com
 127.0.0.1 www.am9908.com
 127.0.0.1 www.am991.com
 127.0.0.1 www.am995.com
@@ -22041,6 +22613,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.amjs6.com
 127.0.0.1 www.amjs83.com
 127.0.0.1 www.amjs84.com
+127.0.0.1 www.amjs91.com
 127.0.0.1 www.amlklghsta.cn
 127.0.0.1 www.amn007.com
 127.0.0.1 www.amn009.com
@@ -22051,6 +22624,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ampron.com
 127.0.0.1 www.amvip666.com
 127.0.0.1 www.amwonkyu.cn
+127.0.0.1 www.amxj2222.com
 127.0.0.1 www.amxvws.pw
 127.0.0.1 www.amzy1.com
 127.0.0.1 www.amzy3.com
@@ -22132,6 +22706,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.apple-coer.com
 127.0.0.1 www.appleicid.com
 127.0.0.1 www.appleiclo1ud.com
+127.0.0.1 www.apple-idas.com
 127.0.0.1 www.appleid-myicluuod.com
 127.0.0.1 www.appleieds.com
 127.0.0.1 www.apple-iphono.com
@@ -22211,6 +22786,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.av5z.com
 127.0.0.1 www.av83.net
 127.0.0.1 www.avastbbs.com
+127.0.0.1 www.avcome.com
 127.0.0.1 www.avdown.com
 127.0.0.1 www.avena147.com
 127.0.0.1 www.avic1.com.cn
@@ -22334,6 +22910,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.baigooe.com
 127.0.0.1 www.baike123.info
 127.0.0.1 www.bailibet.com
+127.0.0.1 www.bailinxc.cn
 127.0.0.1 www.baimoo.com
 127.0.0.1 www.baishengpaiju.com
 127.0.0.1 www.baishulou.net
@@ -22341,6 +22918,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.baiud.com
 127.0.0.1 www.baiwanmeng.com
 127.0.0.1 www.baixing118.com
+127.0.0.1 www.baixingss.com
 127.0.0.1 www.baiy.net
 127.0.0.1 www.baiyou.asia
 127.0.0.1 www.baiyuny.com
@@ -22506,11 +23084,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bestvideo.it
 127.0.0.1 www.bestwaytousa.com
 127.0.0.1 www.bet0077.com
+127.0.0.1 www.bet0635.com
 127.0.0.1 www.bet1019.com
 127.0.0.1 www.bet137.com
 127.0.0.1 www.bet16.com
 127.0.0.1 www.bet2006.com
 127.0.0.1 www.bet2080.com
+127.0.0.1 www.bet317.com
+127.0.0.1 www.bet365010.com
 127.0.0.1 www.bet365081.com
 127.0.0.1 www.bet365604.com
 127.0.0.1 www.bet3659998.com
@@ -22528,6 +23109,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.betbet.cc
 127.0.0.1 www.bete100.com
 127.0.0.1 www.bete500.com
+127.0.0.1 www.betffa.com
 127.0.0.1 www.betwd2.com
 127.0.0.1 www.between-legs.com
 127.0.0.1 www.bexley.cn
@@ -22538,10 +23120,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bfjunp.com
 127.0.0.1 www.bfjy.ysjyweb.com
 127.0.0.1 www.bg0001.com
+127.0.0.1 www.bg0002.com
 127.0.0.1 www.bg0003.com
 127.0.0.1 www.bg0006.com
 127.0.0.1 www.bg0007.com
 127.0.0.1 www.bg0009.com
+127.0.0.1 www.bg002.com
 127.0.0.1 www.bg1115.com
 127.0.0.1 www.bg1122.com
 127.0.0.1 www.bg1177.com
@@ -22550,11 +23134,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bg48.com
 127.0.0.1 www.bg553.com
 127.0.0.1 www.bg70.com
+127.0.0.1 www.bg7188.com
 127.0.0.1 www.bg8898.com
 127.0.0.1 www.bga100.cn
 127.0.0.1 www.bgfw6.cn
+127.0.0.1 www.bgkhm885.com
 127.0.0.1 www.bglzb.com
 127.0.0.1 www.bgygs.com
+127.0.0.1 www.bgztms.cn
 127.0.0.1 www.bh885.com
 127.0.0.1 www.bhbx.net
 127.0.0.1 www.bhgbz.com
@@ -22601,6 +23188,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bjaimu.cn
 127.0.0.1 www.bjb0011.com
 127.0.0.1 www.bjb0033.com
+127.0.0.1 www.bjb0055.com
 127.0.0.1 www.bjb2222.com
 127.0.0.1 www.bjb22222.com
 127.0.0.1 www.bjb333.com
@@ -22612,6 +23200,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bjb8888.com
 127.0.0.1 www.bjb88888.com
 127.0.0.1 www.bjb9999.com
+127.0.0.1 www.bjbbjt.com
 127.0.0.1 www.bjbdwl.com.cn
 127.0.0.1 www.bjbfsj.com
 127.0.0.1 www.bjbqzl.cn
@@ -22625,6 +23214,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bjdth.com
 127.0.0.1 www.bjdy123.com
 127.0.0.1 www.bjdzxf.cn
+127.0.0.1 www.bjeccdu.com
 127.0.0.1 www.bjenyirongzi.tk
 127.0.0.1 www.bjfrcy.com
 127.0.0.1 www.bjfuhegong.com
@@ -22717,6 +23307,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bjzsjx.com
 127.0.0.1 www.bjzxch.com
 127.0.0.1 www.bjzxyk.tk
+127.0.0.1 www.bkjhak.mbqpm115.com
 127.0.0.1 www.bkook.cn
 127.0.0.1 www.bkvishwakarma.com
 127.0.0.1 www.bl0088.com
@@ -22726,6 +23317,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.blackpass.com
 127.0.0.1 www.blazefire.net
 127.0.0.1 www.bleindex.com
+127.0.0.1 www.blf5588.com
 127.0.0.1 www.blfw100.com
 127.0.0.1 www.blg026.com
 127.0.0.1 www.blg03.com
@@ -22735,7 +23327,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.blg039.com
 127.0.0.1 www.blg08.com
 127.0.0.1 www.blggd.cn
+127.0.0.1 www.blizzard-ak-wow-us-eu-battle.com
 127.0.0.1 www.blizzard-an-wow-us-un-tb.com
+127.0.0.1 www.blizzard-us-zu-wow.com
 127.0.0.1 www.blizzard-wow-da-battle.com
 127.0.0.1 www.blizzard-wow-dan-us.com
 127.0.0.1 www.blizzard-wow-dn-us-battle.com
@@ -22744,10 +23338,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.blizzrd-wow-us-dns-battle.com
 127.0.0.1 www.blm000.com
 127.0.0.1 www.blm2222.com
+127.0.0.1 www.blm3399.com
 127.0.0.1 www.blm5588.com
 127.0.0.1 www.blm6666.com
 127.0.0.1 www.blm8877.com
 127.0.0.1 www.blm8899.com
+127.0.0.1 www.blm9955.com
 127.0.0.1 www.blmakeup.com
 127.0.0.1 www.blogbus.net.cn
 127.0.0.1 www.blr0099.com
@@ -22770,6 +23366,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bmsc.com.cn
 127.0.0.1 www.bmw0022.com
 127.0.0.1 www.bmw0044.com
+127.0.0.1 www.bmw0077.com
 127.0.0.1 www.bmw1738.net
 127.0.0.1 www.bmw333.com
 127.0.0.1 www.bmw6888.com
@@ -22853,7 +23450,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bspv-pump.com
 127.0.0.1 www.bssby.com
 127.0.0.1 www.bsskk.com
+127.0.0.1 www.bst218.com
 127.0.0.1 www.bstbet.com
+127.0.0.1 www.bstkq.com
 127.0.0.1 www.bstxf.com
 127.0.0.1 www.bsui.net
 127.0.0.1 www.bsw999.cn
@@ -22865,6 +23464,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bte11.com
 127.0.0.1 www.btkqfm.com
 127.0.0.1 www.btocblog.com
+127.0.0.1 www.bts999.com
 127.0.0.1 www.btsxjhb.com
 127.0.0.1 www.btszl.com
 127.0.0.1 www.btv-1.com
@@ -22881,6 +23481,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.building2.com.cn
 127.0.0.1 www.bujiesi.com
 127.0.0.1 www.bujwarise.co.za
+127.0.0.1 www.bundychina.com
 127.0.0.1 www.burosys.net
 127.0.0.1 www.burugui.com
 127.0.0.1 www.busqc.com
@@ -22936,6 +23537,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.bygj06.com
 127.0.0.1 www.bygj08.com
 127.0.0.1 www.byhbz.com
+127.0.0.1 www.bypf120.com
 127.0.0.1 www.byrc168.com
 127.0.0.1 www.byzxchina.com
 127.0.0.1 www.bzec.net
@@ -22956,6 +23558,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.c5kk.com
 127.0.0.1 www.c5-web.com
 127.0.0.1 www.c6779.com
+127.0.0.1 www.c7c1.com
 127.0.0.1 www.c7kuiliguo.cn
 127.0.0.1 www.c818.com
 127.0.0.1 www.c9cc.com
@@ -23014,6 +23617,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.care999.cn
 127.0.0.1 www.carloon.cn
 127.0.0.1 www.carslwear.com
+127.0.0.1 www.cash-168.com
 127.0.0.1 www.cash888.net
 127.0.0.1 www.catholic.cd
 127.0.0.1 www.cazedu.cn
@@ -23171,6 +23775,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.changleiy.com
 127.0.0.1 www.changxing666.net
 127.0.0.1 www.changxinjj.com
+127.0.0.1 www.changyan888.com
 127.0.0.1 www.chao-bo.com
 127.0.0.1 www.chaoda.com
 127.0.0.1 www.chaoji666.com
@@ -23450,6 +24055,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.combaby.cn
 127.0.0.1 www.come980.net
 127.0.0.1 www.comeinbaby.com
+127.0.0.1 www.comeitbar.com
 127.0.0.1 www.comiyou.com
 127.0.0.1 www.comma23.com
 127.0.0.1 www.comojia.com
@@ -23554,6 +24160,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.cs518.net
 127.0.0.1 www.cs55888.com
 127.0.0.1 www.cs608.com
+127.0.0.1 www.cs66888.com
 127.0.0.1 www.cs908.com
 127.0.0.1 www.cs9111.com
 127.0.0.1 www.csbhsq.com
@@ -23665,6 +24272,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.cydbk.com
 127.0.0.1 www.cye-fscp.com
 127.0.0.1 www.cyener.cn
+127.0.0.1 www.cygg888.com
 127.0.0.1 www.cyh7.com
 127.0.0.1 www.cypgroup.com
 127.0.0.1 www.cywzgxx.com
@@ -23721,6 +24329,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.d33388.com
 127.0.0.1 www.d3555.com
 127.0.0.1 www.d4eq.net
+127.0.0.1 www.d4tkd.com
 127.0.0.1 www.d5559.com
 127.0.0.1 www.d5859.com
 127.0.0.1 www.d6669.com
@@ -23754,6 +24363,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.da556.com
 127.0.0.1 www.da5566.com
 127.0.0.1 www.da6699.com
+127.0.0.1 www.da8868.com
 127.0.0.1 www.da88da.com
 127.0.0.1 www.daai8.com
 127.0.0.1 www.dabaolin.com
@@ -23822,8 +24432,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dataoying.com
 127.0.0.1 www.datawaregames.com
 127.0.0.1 www.datiku.com.cn
+127.0.0.1 www.datouyu.net
 127.0.0.1 www.datum-mobile.com
 127.0.0.1 www.david168.com
+127.0.0.1 www.david-seo.com
 127.0.0.1 www.dawangxiao.com
 127.0.0.1 www.dawklghstd.cn
 127.0.0.1 www.dawuge.com
@@ -23851,6 +24463,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dc1155.com
 127.0.0.1 www.dc1166.com
 127.0.0.1 www.dc2266.com
+127.0.0.1 www.dc5544.com
 127.0.0.1 www.dc9999.com
 127.0.0.1 www.dcdljx.com
 127.0.0.1 www.dcfbuy.com
@@ -23862,9 +24475,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dd37.cc
 127.0.0.1 www.dd4se.com
 127.0.0.1 www.ddaa22.com
+127.0.0.1 www.ddc23.com
+127.0.0.1 www.ddc48.com
 127.0.0.1 www.ddclzx.fdxyxre.com
 127.0.0.1 www.ddclzx.xgbigid.com
 127.0.0.1 www.ddd138.com
+127.0.0.1 www.ddd15.com
 127.0.0.1 www.ddd24.com
 127.0.0.1 www.ddd288.com
 127.0.0.1 www.ddd42.com
@@ -23881,6 +24497,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ddkqz.com.cn
 127.0.0.1 www.ddmmnn.asia
 127.0.0.1 www.ddmsj.com.cn
+127.0.0.1 www.ddongcity.com
 127.0.0.1 www.ddragons.cn
 127.0.0.1 www.ddsj999.com
 127.0.0.1 www.ddtz660.com
@@ -23980,6 +24597,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dgzhenye.com.cn
 127.0.0.1 www.dh.nbsou.net
 127.0.0.1 www.dh091.com
+127.0.0.1 www.dh2222.com
 127.0.0.1 www.dh234.com
 127.0.0.1 www.dhbp.cn
 127.0.0.1 www.dhxljmzz.com
@@ -24029,6 +24647,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dj0888.com
 127.0.0.1 www.dj1818dao.com
 127.0.0.1 www.dj2555.com
+127.0.0.1 www.dj3788.com
 127.0.0.1 www.dj453.com
 127.0.0.1 www.dj8887.com
 127.0.0.1 www.dj8999.com
@@ -24211,6 +24830,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dxdc888.com
 127.0.0.1 www.dxinzbao.com
 127.0.0.1 www.dxjz.tk
+127.0.0.1 www.dxpwyd.com
 127.0.0.1 www.dxqtz.com
 127.0.0.1 www.dxsylc.com
 127.0.0.1 www.dy0007.com
@@ -24221,6 +24841,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dy-1314.cn
 127.0.0.1 www.dy161.cc
 127.0.0.1 www.dy581.cn
+127.0.0.1 www.dy7711.com
 127.0.0.1 www.dy88888.com
 127.0.0.1 www.dy9911.com
 127.0.0.1 www.dycxsy.com
@@ -24250,6 +24871,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.dzka86.com
 127.0.0.1 www.dz-ly.com
 127.0.0.1 www.dzpod.com
+127.0.0.1 www.dzpycbu.tk
 127.0.0.1 www.dzrc.com
 127.0.0.1 www.dzunjz.com
 127.0.0.1 www.dzvtc.cn
@@ -24293,6 +24915,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.edolnet.com
 127.0.0.1 www.edqbf.cn
 127.0.0.1 www.edujt.com
+127.0.0.1 www.e-dyer.com
 127.0.0.1 www.ee0044.com
 127.0.0.1 www.ee25.com
 127.0.0.1 www.ee250.cn
@@ -24406,6 +25029,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.exungo.cn
 127.0.0.1 www.ey88.pw
 127.0.0.1 www.eyangcong.com
+127.0.0.1 www.eyebao.org
 127.0.0.1 www.eyjiaju.com
 127.0.0.1 www.eyret6.com
 127.0.0.1 www.e-yun.com
@@ -24456,6 +25080,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.fanyigongsi.org.cn
 127.0.0.1 www.faomu.com
 127.0.0.1 www.farida.cn
+127.0.0.1 www.fasfovrkeask.orskhn.cn
 127.0.0.1 www.fashioncolor.net
 127.0.0.1 www.fashion-jewelry-factory.com
 127.0.0.1 www.fasiagroup.com
@@ -24647,10 +25272,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.frobel.com.cn
 127.0.0.1 www.frtyy.com
 127.0.0.1 www.frutascecas.kit.net
+127.0.0.1 www.fsacovrkm.qamde.cn
+127.0.0.1 www.fsaocvkfbmr.jskhw556.com
 127.0.0.1 www.fsb111.com
 127.0.0.1 www.fscsbz.com
 127.0.0.1 www.fsehome.com
 127.0.0.1 www.fsgjslgy.com
+127.0.0.1 www.fsgp.cc
 127.0.0.1 www.fshanyan.com
 127.0.0.1 www.fshonly.com
 127.0.0.1 www.fsjct.net
@@ -24709,6 +25337,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.fxci.com
 127.0.0.1 www.fxcpw.com
 127.0.0.1 www.fxh9.com
+127.0.0.1 www.fxhggs.com
 127.0.0.1 www.fxing.com.cn
 127.0.0.1 www.fxok.cn
 127.0.0.1 www.fxpcw.com
@@ -24736,6 +25365,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.fzfilm.com
 127.0.0.1 www.fzhaojing.com
 127.0.0.1 www.fzhcz.com
+127.0.0.1 www.fzhtc.com
 127.0.0.1 www.fzhzw.com.cn
 127.0.0.1 www.fzj998.com
 127.0.0.1 www.fzjayr.com
@@ -24779,6 +25409,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.game499.tz-pump.com
 127.0.0.1 www.game499.wmphp.cn
 127.0.0.1 www.game51688.com
+127.0.0.1 www.game5399.com
 127.0.0.1 www.game6188.com
 127.0.0.1 www.game6698.com
 127.0.0.1 www.game67.com.allzhao.cn
@@ -24859,6 +25490,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.gburner.com
 127.0.0.1 www.gc8300.com
 127.0.0.1 www.gc9999.com
+127.0.0.1 www.gcaqhao.tk
 127.0.0.1 www.gcbbs.org
 127.0.0.1 www.gccg123.com
 127.0.0.1 www.gcjb999.com
@@ -24899,6 +25531,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.geogle.com
 127.0.0.1 www.geo-wisdom.com
 127.0.0.1 www.gexing100.net
+127.0.0.1 www.gf018.com
 127.0.0.1 www.gf099.com
 127.0.0.1 www.gf299.com
 127.0.0.1 www.gf4567.com
@@ -24993,8 +25626,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.gongheshengshi.com
 127.0.0.1 www.gongjida.cn
 127.0.0.1 www.gongmeidesign.com
+127.0.0.1 www.gongyiw.cn
 127.0.0.1 www.gonjl.com
 127.0.0.1 www.goodbyebaidu.com
+127.0.0.1 www.goodcek.com
 127.0.0.1 www.goodlala.com
 127.0.0.1 www.googleadsl.com
 127.0.0.1 www.googles.net.cn
@@ -25038,7 +25673,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.greenp.cn
 127.0.0.1 www.grhfdr.com
 127.0.0.1 www.gricen.com
-127.0.0.1 www.growlforwindows.com
 127.0.0.1 www.grtnp.com
 127.0.0.1 www.grtopic.com
 127.0.0.1 www.grupo-ara.com
@@ -25061,6 +25695,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.gsxws.com
 127.0.0.1 www.gsyhy.com
 127.0.0.1 www.gsyy120.com
+127.0.0.1 www.gszxkb.cn
+127.0.0.1 www.gt1122.com
 127.0.0.1 www.gt666777.com
 127.0.0.1 www.gu05.com
 127.0.0.1 www.gua123.com
@@ -25084,6 +25720,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.guci99.cn
 127.0.0.1 www.guess365.com
 127.0.0.1 www.guide55.com
+127.0.0.1 www.guidegogo.com
 127.0.0.1 www.guideng.com.cn
 127.0.0.1 www.guidiao.com.cn
 127.0.0.1 www.guiduan.com.cn
@@ -25170,6 +25807,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.gygrtpianub.com
 127.0.0.1 www.gygsy.com
 127.0.0.1 www.gygyad.com
+127.0.0.1 www.gyhbhys.com
 127.0.0.1 www.gyhl.net.cn
 127.0.0.1 www.gyjlb.com
 127.0.0.1 www.gykls.com
@@ -25217,6 +25855,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.gzeesiejr.tk
 127.0.0.1 www.gzgaoshi.com
 127.0.0.1 www.gzgjppjj.com
+127.0.0.1 www.gzgv.pw
 127.0.0.1 www.gzhairi.com
 127.0.0.1 www.gzhali.com
 127.0.0.1 www.gzhhy.com
@@ -25292,6 +25931,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.h678.com
 127.0.0.1 www.h77.com
 127.0.0.1 www.h7777.com
+127.0.0.1 www.h7889.com
 127.0.0.1 www.h8666.com
 127.0.0.1 www.h9383.cn
 127.0.0.1 www.h957.com
@@ -25410,6 +26050,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hb0g.com
 127.0.0.1 www.hb1111.com
 127.0.0.1 www.hb3333.com
+127.0.0.1 www.hb6669.com
 127.0.0.1 www.hb95161.com
 127.0.0.1 www.hb-aoxing.cn
 127.0.0.1 www.hbbgwz.com
@@ -25546,6 +26187,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hfblojf.com
 127.0.0.1 www.hfdk.gdait.com
 127.0.0.1 www.hfelem.com
+127.0.0.1 www.hfhfqc.com
 127.0.0.1 www.hfjdxyk.com
 127.0.0.1 www.hfjianghe.com
 127.0.0.1 www.hfkindyroo.com
@@ -25557,6 +26199,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hfxianghai.com
 127.0.0.1 www.hfxmgm.com
 127.0.0.1 www.hfxrj.com
+127.0.0.1 www.hfyuanzhong.com
 127.0.0.1 www.hfzhiyuan.com
 127.0.0.1 www.hg.qqloves.net
 127.0.0.1 www.hg.yy5106.net
@@ -25637,11 +26280,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hg5599.com
 127.0.0.1 www.hg5677.com
 127.0.0.1 www.hg56777.com
+127.0.0.1 www.hg56786.com
 127.0.0.1 www.hg5757.com
 127.0.0.1 www.hg58.com
 127.0.0.1 www.hg5858.com
 127.0.0.1 www.hg589.com
 127.0.0.1 www.hg59.com
+127.0.0.1 www.hg6100.com
 127.0.0.1 www.hg635.com
 127.0.0.1 www.hg6368.com
 127.0.0.1 www.hg6377.com
@@ -25660,6 +26305,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hg7766.com
 127.0.0.1 www.hg776688.com
 127.0.0.1 www.hg7809.com
+127.0.0.1 www.hg788.com
 127.0.0.1 www.hg7895.com
 127.0.0.1 www.hg795566.com
 127.0.0.1 www.hg7997.cc
@@ -25725,6 +26371,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hhdes.com
 127.0.0.1 www.hhfoot.com
 127.0.0.1 www.hhgjs99.com
+127.0.0.1 www.hhgz888.com
 127.0.0.1 www.hhh33.com
 127.0.0.1 www.hhh47.com
 127.0.0.1 www.hhh52.com
@@ -25766,17 +26413,21 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hiyal.com
 127.0.0.1 www.hj0731.com
 127.0.0.1 www.hj185.com
+127.0.0.1 www.hj292.com
 127.0.0.1 www.hj3377.com
+127.0.0.1 www.hj386.com
 127.0.0.1 www.hj5558.com
 127.0.0.1 www.hj806.com
 127.0.0.1 www.hj819.com
 127.0.0.1 www.hj839.com
 127.0.0.1 www.hj8568.com
+127.0.0.1 www.hj8686.com
 127.0.0.1 www.hj882.com
 127.0.0.1 www.hj883.com
 127.0.0.1 www.hj889.com
 127.0.0.1 www.hj9090.com
 127.0.0.1 www.hj955.com
+127.0.0.1 www.hj985.com
 127.0.0.1 www.hj991.com
 127.0.0.1 www.hjbcc.com
 127.0.0.1 www.hjc118.com
@@ -25786,6 +26437,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hjc1888.com
 127.0.0.1 www.hjc218.com
 127.0.0.1 www.hjc299.com
+127.0.0.1 www.hjc377.com
 127.0.0.1 www.hjc3888.com
 127.0.0.1 www.hjc528.com
 127.0.0.1 www.hjc558.com
@@ -25796,6 +26448,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hjc777.com
 127.0.0.1 www.hjc778.com
 127.0.0.1 www.hjc788.com
+127.0.0.1 www.hjc8866.com
 127.0.0.1 www.hjc887.com
 127.0.0.1 www.hjc978.com
 127.0.0.1 www.hjccj.com
@@ -25839,6 +26492,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hldk.lamedas.com
 127.0.0.1 www.hldkc.cn
 127.0.0.1 www.hle888.com
+127.0.0.1 www.hlf809.com
 127.0.0.1 www.hl-ifb.com
 127.0.0.1 www.hljiaolun.cn
 127.0.0.1 www.hljsdswx.com
@@ -25881,6 +26535,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hnhfqm.com
 127.0.0.1 www.hnhfsm.com
 127.0.0.1 www.hnhryl.com
+127.0.0.1 www.hnhsba.com
 127.0.0.1 www.hnjbit.com
 127.0.0.1 www.hnjmxy.cn
 127.0.0.1 www.hnkjfw.com
@@ -25925,6 +26580,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.honglihui.com
 127.0.0.1 www.hongmaoshiye.com
 127.0.0.1 www.hongqimachine.com
+127.0.0.1 www.hongshengjixie.cn
 127.0.0.1 www.hongsoul.com
 127.0.0.1 www.hongtu028.com
 127.0.0.1 www.hongtu888.net
@@ -26074,6 +26730,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hufao.com
 127.0.0.1 www.hugebo.com
 127.0.0.1 www.hugegis.com
+127.0.0.1 www.huhushengfeng8.net
 127.0.0.1 www.hui0044.com
 127.0.0.1 www.hui0055.com
 127.0.0.1 www.hui0066.com
@@ -26084,7 +26741,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.hui1199.com
 127.0.0.1 www.hui137.com
 127.0.0.1 www.hui2222.com
+127.0.0.1 www.hui2233.com
 127.0.0.1 www.hui3333.com
+127.0.0.1 www.hui3377.com
 127.0.0.1 www.hui5555.com
 127.0.0.1 www.huibosh.com
 127.0.0.1 www.huibozn.com
@@ -26242,6 +26901,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.icluod-find.com
 127.0.0.1 www.icn-apple.com
 127.0.0.1 www.icoat.cc
+127.0.0.1 www.icocous.com
 127.0.0.1 www.ic-office.net
 127.0.0.1 www.icudi.org
 127.0.0.1 www.icw168.com
@@ -26452,8 +27112,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jfgsw.com
 127.0.0.1 www.jfkx.cn
 127.0.0.1 www.jfnykj.cn
+127.0.0.1 www.j-french.com
 127.0.0.1 www.jfwzx.com
 127.0.0.1 www.jg0505.com
+127.0.0.1 www.jg06.com
 127.0.0.1 www.jg1155.com
 127.0.0.1 www.jg3055.com
 127.0.0.1 www.jg5055.com
@@ -26462,6 +27124,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jg8055.com
 127.0.0.1 www.jg9055.com
 127.0.0.1 www.jgdd999.com
+127.0.0.1 www.jgi4vcbfs3.com
 127.0.0.1 www.jgqp.cc
 127.0.0.1 www.jgrhstsefg.cn
 127.0.0.1 www.jgvoxmlt.com
@@ -26552,7 +27215,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jiluba.com
 127.0.0.1 www.jimaw.cn
 127.0.0.1 www.jimeile.com.cn
+127.0.0.1 www.jin0099.com
+127.0.0.1 www.jin2020.com
 127.0.0.1 www.jin3088.com
+127.0.0.1 www.jin6633.com
 127.0.0.1 www.jinaitiao.com
 127.0.0.1 www.jinan007.com
 127.0.0.1 www.jinanheniantang.com
@@ -26695,6 +27361,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jmm008.com
 127.0.0.1 www.jmm015.com
 127.0.0.1 www.jmm019.com
+127.0.0.1 www.jmm05.com
 127.0.0.1 www.jmm123.com
 127.0.0.1 www.jmm567.com
 127.0.0.1 www.jmm678.com
@@ -26721,6 +27388,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jnh5588.com
 127.0.0.1 www.jnh566.com
 127.0.0.1 www.jnh6688.com
+127.0.0.1 www.jnh771.com
+127.0.0.1 www.jnh773.com
 127.0.0.1 www.jnh776.com
 127.0.0.1 www.jnh8888.com
 127.0.0.1 www.jnh8899.com
@@ -26801,6 +27470,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.js255.com
 127.0.0.1 www.js33558.com
 127.0.0.1 www.js336.com
+127.0.0.1 www.js339.com
 127.0.0.1 www.js3838.com
 127.0.0.1 www.js444000.com
 127.0.0.1 www.js55.com
@@ -26824,6 +27494,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.js8504.com
 127.0.0.1 www.js8800.com
 127.0.0.1 www.js880000.com
+127.0.0.1 www.js888009.com
 127.0.0.1 www.js88804.com
 127.0.0.1 www.js88888.com
 127.0.0.1 www.js911.com
@@ -26852,6 +27523,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jsgkedu.com
 127.0.0.1 www.jshongao.com
 127.0.0.1 www.jshongtai.cn
+127.0.0.1 www.jshsjsj.cn
 127.0.0.1 www.jshvision.com
 127.0.0.1 www.jshzw.com
 127.0.0.1 www.jsj10000.com
@@ -26875,6 +27547,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jsrui.com
 127.0.0.1 www.jssy201212.com
 127.0.0.1 www.jst640.com
+127.0.0.1 www.jstv2222.com
+127.0.0.1 www.jstv4444.com
 127.0.0.1 www.jswwmz.com
 127.0.0.1 www.jsxyyb.com.cn
 127.0.0.1 www.jsyhxx.com
@@ -26993,6 +27667,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.jzd33.com
 127.0.0.1 www.jzd333.com
 127.0.0.1 www.jzd55.com
+127.0.0.1 www.jze553.com
+127.0.0.1 www.jze883.com
+127.0.0.1 www.jze885.com
 127.0.0.1 www.jze99.com
 127.0.0.1 www.jzfly.com
 127.0.0.1 www.jzfsad.com
@@ -27083,6 +27760,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.keegu.com
 127.0.0.1 www.keeufishing.com
 127.0.0.1 www.kefuban.com
+127.0.0.1 www.kefuchina.com
 127.0.0.1 www.kehai360.com
 127.0.0.1 www.kehai369.com
 127.0.0.1 www.kele99.com
@@ -27150,6 +27828,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.kj49.com
 127.0.0.1 www.kjh302.com
 127.0.0.1 www.kjszxw.com
+127.0.0.1 www.kjtcb.xyzuvw1.com
+127.0.0.1 www.kjzf.info
 127.0.0.1 www.kk1718.com
 127.0.0.1 www.kk2000.com
 127.0.0.1 www.kk2xx.com
@@ -27221,6 +27901,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ks299.net
 127.0.0.1 www.kscohaiu.com
 127.0.0.1 www.ksdiy.com
+127.0.0.1 www.ksdkk3.tk
 127.0.0.1 www.ksdnewr.com
 127.0.0.1 www.ksdsmt.com
 127.0.0.1 www.ksgjggc.com
@@ -27240,6 +27921,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ktuanw.com
 127.0.0.1 www.ktv580.com
 127.0.0.1 www.ku246.com
+127.0.0.1 www.kuaibo999.com
 127.0.0.1 www.kuaiboqvod5.com
 127.0.0.1 www.kuaichale.com
 127.0.0.1 www.kuaigo.com.cn
@@ -27302,7 +27984,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.kxm06.com
 127.0.0.1 www.kxm07.com
 127.0.0.1 www.kxm08.com
+127.0.0.1 www.kxm10.com
 127.0.0.1 www.kxm15.com
+127.0.0.1 www.kxm16.com
 127.0.0.1 www.kxm33.net
 127.0.0.1 www.kxm77.net
 127.0.0.1 www.kxm88.net
@@ -27315,6 +27999,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.kylxz.com
 127.0.0.1 www.kyqmj.com.cn
 127.0.0.1 www.kyui999.com
+127.0.0.1 www.kyxxw.com
 127.0.0.1 www.kyyz.net
 127.0.0.1 www.kzcs2.com
 127.0.0.1 www.kzxk.net
@@ -27324,6 +28009,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.l00000.com
 127.0.0.1 www.l66668.com
 127.0.0.1 www.l88msc.com
+127.0.0.1 www.la0001.com
 127.0.0.1 www.la0003.com
 127.0.0.1 www.la0005.com
 127.0.0.1 www.la0007.com
@@ -27479,6 +28165,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.leuco.com.cn
 127.0.0.1 www.leweisp.cn
 127.0.0.1 www.lexingtonshenyang.cn
+127.0.0.1 www.leyfond.net
 127.0.0.1 www.leyoupt.com
 127.0.0.1 www.lf0077.com
 127.0.0.1 www.lfcbbs.com
@@ -27501,8 +28188,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.lgu8.com
 127.0.0.1 www.lgwhim.com
 127.0.0.1 www.lgxtea.com
+127.0.0.1 www.lh1133.com
 127.0.0.1 www.lh3339.com
 127.0.0.1 www.lh3355.com
+127.0.0.1 www.lh5533.com
 127.0.0.1 www.lh9933.com
 127.0.0.1 www.lh9955.com
 127.0.0.1 www.lhbyerzh.com
@@ -27588,6 +28277,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.lj.rsjyzxgs.com
 127.0.0.1 www.ljh09.com
 127.0.0.1 www.ljh11.com
+127.0.0.1 www.ljh49.com
 127.0.0.1 www.ljh66.com
 127.0.0.1 www.ljh86.com
 127.0.0.1 www.ljkm8.com
@@ -27631,6 +28321,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.lnwsdcf.com
 127.0.0.1 www.lob1.com.cn
 127.0.0.1 www.lobobc.com
+127.0.0.1 www.lol8888.com
 127.0.0.1 www.lolpn.com
 127.0.0.1 www.lolx5.com
 127.0.0.1 www.lonelywifehookup.com
@@ -27696,6 +28387,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.lsrc.cn
 127.0.0.1 www.lsseye.com
 127.0.0.1 www.lsspjgc.com
+127.0.0.1 www.lsuzio.tk
 127.0.0.1 www.lswfqdly.com
 127.0.0.1 www.lswjs.com
 127.0.0.1 www.lsydjy.com
@@ -27787,6 +28479,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.lyshx.cn
 127.0.0.1 www.lyss3.com
 127.0.0.1 www.lyss5.com
+127.0.0.1 www.lyss77.com
 127.0.0.1 www.lyss88.com
 127.0.0.1 www.lysty.cn
 127.0.0.1 www.lysyp.com
@@ -27841,6 +28534,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.m0999.com
 127.0.0.1 www.m1n2.cn
 127.0.0.1 www.m29999.com
+127.0.0.1 www.m3111.com
 127.0.0.1 www.m3-1699.com
 127.0.0.1 www.m3eye.com
 127.0.0.1 www.m4006.com
@@ -28014,6 +28708,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.mggww.com
 127.0.0.1 www.mggyu.info
 127.0.0.1 www.mgjr2.com
+127.0.0.1 www.mgm1789.com
 127.0.0.1 www.mgm303.com
 127.0.0.1 www.mgm665.com
 127.0.0.1 www.mgm8.co
@@ -28068,6 +28763,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.mixiao.com
 127.0.0.1 www.mix-stars.com
 127.0.0.1 www.mizis.net
+127.0.0.1 www.mj99.net
 127.0.0.1 www.mjrcpbvj.com
 127.0.0.1 www.mjuly.com
 127.0.0.1 www.mk696.com
@@ -28115,6 +28811,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.mngbct.com
 127.0.0.1 www.mni8.com
 127.0.0.1 www.mnism.com
+127.0.0.1 www.mnjpwcv.tk
 127.0.0.1 www.mnlala.com
 127.0.0.1 www.mo171.cn
 127.0.0.1 www.moban111.com
@@ -28195,6 +28892,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.msmsmm.com
 127.0.0.1 www.msnsh.com
 127.0.0.1 www.msok.net
+127.0.0.1 www.msqxevg.tk
 127.0.0.1 www.msqyzs.com
 127.0.0.1 www.msuue.com
 127.0.0.1 www.mswangu.com
@@ -28210,6 +28908,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.mt5888.com
 127.0.0.1 www.mt58888.com
 127.0.0.1 www.mt6665.com
+127.0.0.1 www.mt6667.com
+127.0.0.1 www.mt6668.com
 127.0.0.1 www.mt7058.com
 127.0.0.1 www.mt7078.com
 127.0.0.1 www.mt9888.com
@@ -28226,6 +28926,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.mtzbss.com
 127.0.0.1 www.mucnn.com
 127.0.0.1 www.mud-fire.com
+127.0.0.1 www.mueasjq.tk
 127.0.0.1 www.multicolor.cn
 127.0.0.1 www.muqingfenli.com
 127.0.0.1 www.muralesarmani.it
@@ -28286,6 +28987,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.mzszj.com
 127.0.0.1 www.mzxx.ykedu.net
 127.0.0.1 www.mzysz.cn
+127.0.0.1 www.n54h5c.com
 127.0.0.1 www.n721.com
 127.0.0.1 www.n76.com
 127.0.0.1 www.n7tattoo.com
@@ -28324,6 +29026,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.nbhthotel.com
 127.0.0.1 www.nbhualing.com
 127.0.0.1 www.nb-huatai.com
+127.0.0.1 www.nbjxrq.com
 127.0.0.1 www.nbliwei.com
 127.0.0.1 www.nbnoa.com
 127.0.0.1 www.nbqqqq.cn
@@ -28496,6 +29199,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.npx004.com
 127.0.0.1 www.nqia.com.cn
 127.0.0.1 www.ns116.com
+127.0.0.1 www.nsberry.com
 127.0.0.1 www.nsg7.cn
 127.0.0.1 www.nshy8.com
 127.0.0.1 www.nstaobao.com
@@ -28546,6 +29250,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.nymz.xkw.pw
 127.0.0.1 www.nysznk.com
 127.0.0.1 www.ny-x.cn
+127.0.0.1 www.nyzlpx.com
 127.0.0.1 www.nyzppfw.com
 127.0.0.1 www.nz-qq.com
 127.0.0.1 www.nzwstn.com
@@ -28645,6 +29350,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.p57.org.cn
 127.0.0.1 www.p57super.com
 127.0.0.1 www.p57tr.com
+127.0.0.1 www.p666222.com
 127.0.0.1 www.p666333.com
 127.0.0.1 www.p6666.com
 127.0.0.1 www.p811.com
@@ -28666,7 +29372,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.panuni.com
 127.0.0.1 www.paomo47.com
 127.0.0.1 www.paonwang.com
-127.0.0.1 www.paopaoche.net
 127.0.0.1 www.paopaohei.com.cn
 127.0.0.1 www.papaxs.com
 127.0.0.1 www.paper119.com
@@ -28767,8 +29472,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.pj3335.com
 127.0.0.1 www.pj37.com
 127.0.0.1 www.pj408.com
+127.0.0.1 www.pj4345.com
 127.0.0.1 www.pj5001.com
 127.0.0.1 www.pj538.com
+127.0.0.1 www.pj550022.com
 127.0.0.1 www.pj550066.com
 127.0.0.1 www.pj550077.com
 127.0.0.1 www.pj550088.com
@@ -28776,15 +29483,18 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.pj5522.com
 127.0.0.1 www.pj555999.com
 127.0.0.1 www.pj60888.com
+127.0.0.1 www.pj6155.com
 127.0.0.1 www.pj6161.com
 127.0.0.1 www.pj6345.com
 127.0.0.1 www.pj6363.com
 127.0.0.1 www.pj6565.com
 127.0.0.1 www.pj6615.com
+127.0.0.1 www.pj6625.com
 127.0.0.1 www.pj6635.com
 127.0.0.1 www.pj6665.com
 127.0.0.1 www.pj667.com
 127.0.0.1 www.pj700.com
+127.0.0.1 www.pj7055.com
 127.0.0.1 www.pj7711.com
 127.0.0.1 www.pj7979.com
 127.0.0.1 www.pj8080.com
@@ -28794,6 +29504,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.pj8585.com
 127.0.0.1 www.pj8668.com
 127.0.0.1 www.pj87.com
+127.0.0.1 www.pj8875.com
 127.0.0.1 www.pj8888.com
 127.0.0.1 www.pj8892.com
 127.0.0.1 www.pj9090.com
@@ -28805,6 +29516,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.pj98.com
 127.0.0.1 www.pj9868.com
 127.0.0.1 www.pj987.com
+127.0.0.1 www.pjbet66.com
 127.0.0.1 www.pjcfkj.cn
 127.0.0.1 www.pjdc003.com
 127.0.0.1 www.pjdc888.com
@@ -28960,9 +29672,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.qbstm.com
 127.0.0.1 www.qbz88.com
 127.0.0.1 www.qbzlzl.cn
+127.0.0.1 www.qc.failymiss.com
 127.0.0.1 www.qc0739.com
 127.0.0.1 www.qc8188.com
 127.0.0.1 www.qc88.cc
+127.0.0.1 www.qc8sn7.com
 127.0.0.1 www.qcbbt.com
 127.0.0.1 www.qccd0531.com
 127.0.0.1 www.qcfczs.com
@@ -29004,6 +29718,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.qianjing123.com
 127.0.0.1 www.qianjing51.com
 127.0.0.1 www.qiankafu.com
+127.0.0.1 www.qiankunzh.com
 127.0.0.1 www.qianlong.com.cn
 127.0.0.1 www.qianmeisss.cn
 127.0.0.1 www.qianwan3.com
@@ -29068,6 +29783,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.qizhaokouyu.com
 127.0.0.1 www.qj-jt.com
 127.0.0.1 www.qjy168.com
+127.0.0.1 www.qkglf8.com
 127.0.0.1 www.qkjx.qdedu.net
 127.0.0.1 www.qkrt.cn
 127.0.0.1 www.qktysc.com
@@ -29161,12 +29877,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.qsf888.net
 127.0.0.1 www.qsgms.com
 127.0.0.1 www.qshdch.com
+127.0.0.1 www.qsn360.com
 127.0.0.1 www.qssjwj.com
 127.0.0.1 www.qsttzk.com
 127.0.0.1 www.qszhibo.com
 127.0.0.1 www.qt088.com
 127.0.0.1 www.qt1209.com
 127.0.0.1 www.qtai.cc
+127.0.0.1 www.qtai.org.cn
 127.0.0.1 www.qtduokaiqi.com
 127.0.0.1 www.qtdyf.cn
 127.0.0.1 www.qtedu.net
@@ -29339,10 +30057,12 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.rongzui.com
 127.0.0.1 www.rootqq.cn
 127.0.0.1 www.rosedame.com
+127.0.0.1 www.rosemaryln.org
 127.0.0.1 www.rosettastone.cn.com
 127.0.0.1 www.rotipra3.com
 127.0.0.1 www.rotork-china.com
 127.0.0.1 www.roysm.com
+127.0.0.1 www.rpch.tk
 127.0.0.1 www.rpgwebgame.com
 127.0.0.1 www.rqdsj.com
 127.0.0.1 www.r-r.com.tw
@@ -29375,6 +30095,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ruihengs.com
 127.0.0.1 www.ruihuayy.com
 127.0.0.1 www.ruijianplastic.com
+127.0.0.1 www.ruilandi.com
 127.0.0.1 www.ruis.cn
 127.0.0.1 www.ruitin.cn
 127.0.0.1 www.run123.cn
@@ -29478,6 +30199,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sb177.info
 127.0.0.1 www.sb271.com
 127.0.0.1 www.sb273.com
+127.0.0.1 www.sb275.com
 127.0.0.1 www.sb276.com
 127.0.0.1 www.sb278.com
 127.0.0.1 www.sb2999.com
@@ -29500,6 +30222,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sb9908.com
 127.0.0.1 www.sb9977.com
 127.0.0.1 www.sb999.com
+127.0.0.1 www.sbdhw.com
 127.0.0.1 www.sbet09.net
 127.0.0.1 www.sbgdx.xyz
 127.0.0.1 www.sbjj888.com
@@ -29588,6 +30311,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sdw111.com
 127.0.0.1 www.sdw17.com
 127.0.0.1 www.sdw18.com
+127.0.0.1 www.sdw36.com
 127.0.0.1 www.sdw444.com
 127.0.0.1 www.sdxjsw.com
 127.0.0.1 www.sdxsj.cn
@@ -29663,6 +30387,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sgzmy.com
 127.0.0.1 www.sgzqg.com
 127.0.0.1 www.sh11999.com
+127.0.0.1 www.sh1288.com
 127.0.0.1 www.sh1588.com
 127.0.0.1 www.sh198.com
 127.0.0.1 www.sh588.com
@@ -29674,6 +30399,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.shadu2008.cn
 127.0.0.1 www.shadu8.net
 127.0.0.1 www.shalong05.com
+127.0.0.1 www.shalong20.com
 127.0.0.1 www.shalong365.com
 127.0.0.1 www.shalong8.com
 127.0.0.1 www.shan22.com
@@ -29719,6 +30445,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.shenbo8.net
 127.0.0.1 www.shenbo918.com
 127.0.0.1 www.shenboyulech.com
+127.0.0.1 www.shenfeng885.website
 127.0.0.1 www.shengda.com.hk
 127.0.0.1 www.shengdagou.tk
 127.0.0.1 www.shengdh.com
@@ -29780,6 +30507,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.shishi999.com
 127.0.0.1 www.shishibet.com
 127.0.0.1 www.shishijunhui.com
+127.0.0.1 www.shishilu.com
 127.0.0.1 www.shiyakeji.usa.cc
 127.0.0.1 www.shiyanjiwang.com
 127.0.0.1 www.shiyimx.cn
@@ -29918,6 +30646,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sjdry.cn
 127.0.0.1 www.sjdzs.cc
 127.0.0.1 www.sjg001.com
+127.0.0.1 www.sjg118.com
 127.0.0.1 www.sjg600.com
 127.0.0.1 www.sjg900.com
 127.0.0.1 www.sjh185.com
@@ -29967,6 +30696,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sl099.com
 127.0.0.1 www.sl1051.com
 127.0.0.1 www.slanlife.com
+127.0.0.1 www.slcaq.com
 127.0.0.1 www.slimwa.com
 127.0.0.1 www.slm678.com
 127.0.0.1 www.slr000.com
@@ -30031,6 +30761,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sohu.com.blog.seqing.sdjzw.cn
 127.0.0.1 www.sohu.ir
 127.0.0.1 www.sohu.kapa98.j630.com
+127.0.0.1 www.soinjeans.com
 127.0.0.1 www.sokmil.com.cn
 127.0.0.1 www.sokuys.com
 127.0.0.1 www.solarf.net
@@ -30111,12 +30842,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ss52ss.net
 127.0.0.1 www.ss53ss.com
 127.0.0.1 www.ss608.com
+127.0.0.1 www.ss6163.com
 127.0.0.1 www.ssb888.com
 127.0.0.1 www.ssbo22.com
 127.0.0.1 www.ssc1008.com
 127.0.0.1 www.ssc2015.com
 127.0.0.1 www.ssc5656.com
 127.0.0.1 www.ssc658.com
+127.0.0.1 www.ssc8008.com
 127.0.0.1 www.sscy163.com
 127.0.0.1 www.ssd233.com
 127.0.0.1 www.ssdyw.com
@@ -30333,6 +31066,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.sxpse.cn
 127.0.0.1 www.sxqsfs.com
 127.0.0.1 www.sxrcjl.com
+127.0.0.1 www.sxrzht.com
 127.0.0.1 www.sxsddq.com
 127.0.0.1 www.sxsdfz.com
 127.0.0.1 www.sxsgyj.com
@@ -30361,6 +31095,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.syjmck.com
 127.0.0.1 www.syjzzs.com
 127.0.0.1 www.sykazt.com.cn
+127.0.0.1 www.sykkkk.com
 127.0.0.1 www.sykld.com
 127.0.0.1 www.sykou.com
 127.0.0.1 www.sylake.com
@@ -30372,7 +31107,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.synkroni.net
 127.0.0.1 www.sypx.org
 127.0.0.1 www.syshww.cn
+127.0.0.1 www.sysm18.com
 127.0.0.1 www.sytang.net
+127.0.0.1 www.sytz666.com
 127.0.0.1 www.syw.ha.cn
 127.0.0.1 www.sy-wang.com
 127.0.0.1 www.sywudao.com
@@ -30439,6 +31176,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.szrqhj.com
 127.0.0.1 www.szsdjdwx.com
 127.0.0.1 www.szshenyuan.com
+127.0.0.1 www.szshszq.com
 127.0.0.1 www.szshxcw.com
 127.0.0.1 www.sz-sjkj.com
 127.0.0.1 www.szsjyy.cn
@@ -30451,6 +31189,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.szwb666.com
 127.0.0.1 www.szwfy123.com
 127.0.0.1 www.szxinchengyu.cn
+127.0.0.1 www.szxrl.com.cn
 127.0.0.1 www.szxt1688.cn
 127.0.0.1 www.szyahua188.com
 127.0.0.1 www.szydbl.com
@@ -30473,6 +31212,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.t6669.com
 127.0.0.1 www.t6t8.com
 127.0.0.1 www.t7.publicvm.com
+127.0.0.1 www.ta0bao.net.cn
 127.0.0.1 www.tabkhy.cc
 127.0.0.1 www.taclark.com
 127.0.0.1 www.tahtjx.net
@@ -30504,6 +31244,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tankgame888.com
 127.0.0.1 www.tankway.com
 127.0.0.1 www.tans6.cn
+127.0.0.1 www.taoba0.net.cn
+127.0.0.1 www.taobao.com.i37l8.1xwla.alipey-cvc.com
+127.0.0.1 www.taobao.com.wudn0.gb6kc.alipey-ncc.com
 127.0.0.1 www.taobao.h4d2.com
 127.0.0.1 www.taobao.igfznr.cn
 127.0.0.1 www.taobao0559.com
@@ -30567,6 +31310,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tcmjiang.com
 127.0.0.1 www.tcpedge.com
 127.0.0.1 www.tcsd66.com
+127.0.0.1 www.tc-shinmei.com
 127.0.0.1 www.tctdxs.com
 127.0.0.1 www.tctobacco.com
 127.0.0.1 www.tcxsyl.com
@@ -30622,6 +31366,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.thegameborder.com
 127.0.0.1 www.thesixthelement.com.cn
 127.0.0.1 www.thetrh22.com
+127.0.0.1 www.thlxmy.com
 127.0.0.1 www.threebearkids.com
 127.0.0.1 www.thszhw.com
 127.0.0.1 www.thxtek.com
@@ -30640,6 +31385,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tianqi6.com
 127.0.0.1 www.tianranzhiwu.com
 127.0.0.1 www.tianshengv.com
+127.0.0.1 www.tianshuiedu.com
 127.0.0.1 www.tianshuinanke.com
 127.0.0.1 www.tiantangguzhai.com
 127.0.0.1 www.tiantao99.com
@@ -30650,6 +31396,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tianyu558.com
 127.0.0.1 www.tianyueip.com
 127.0.0.1 www.tianz08.com
+127.0.0.1 www.tianzj.cn
 127.0.0.1 www.tie1lang.net
 127.0.0.1 www.tieliren.net
 127.0.0.1 www.tiepaipai.com
@@ -30741,8 +31488,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tongjie518.com
 127.0.0.1 www.tongjingbing.com
 127.0.0.1 www.tongmanhong.com
+127.0.0.1 www.tongrendushu.com
 127.0.0.1 www.tongrentanghk.com
 127.0.0.1 www.tongshi86.com
+127.0.0.1 www.tongtongke.com
 127.0.0.1 www.tongyongpe.com
 127.0.0.1 www.tongyuan-medicalfood.com
 127.0.0.1 www.tongyutools.com
@@ -30808,6 +31557,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tsfhw.com
 127.0.0.1 www.tshongyun.com
 127.0.0.1 www.tshsx.com
+127.0.0.1 www.tshtcy.com
 127.0.0.1 www.tsinfo.com.cn
 127.0.0.1 www.tsinghuayuke.com
 127.0.0.1 www.tsit.com.cn
@@ -30941,6 +31691,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tyc775.com
 127.0.0.1 www.tyc797.com
 127.0.0.1 www.tyc8080.com
+127.0.0.1 www.tyc88.com
 127.0.0.1 www.tyc923.com
 127.0.0.1 www.tyc999.com
 127.0.0.1 www.tyhsgtjk8.com
@@ -30956,6 +31707,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tytzz.com
 127.0.0.1 www.tywjj.com
 127.0.0.1 www.tywsh.cn
+127.0.0.1 www.tywxq.com
 127.0.0.1 www.tyxjzs.com
 127.0.0.1 www.tyyoushi.com
 127.0.0.1 www.tyyxz.com
@@ -30969,6 +31721,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.tzl5888.com
 127.0.0.1 www.tzsdpc.com
 127.0.0.1 www.tzsuma.com
+127.0.0.1 www.tzv8.com
 127.0.0.1 www.tzyhzk.com
 127.0.0.1 www.tzyichao.com
 127.0.0.1 www.tzyyzpc.com
@@ -31107,6 +31860,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.veveee.com
 127.0.0.1 www.vfacai.com
 127.0.0.1 www.vghutyu.tk
+127.0.0.1 www.vgl2006.de
 127.0.0.1 www.vgm8.com
 127.0.0.1 www.vgyyhn8.tk
 127.0.0.1 www.vhhxxt.tk
@@ -31119,6 +31873,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.vic0077.com
 127.0.0.1 www.vic0088.com
 127.0.0.1 www.vic0099.com
+127.0.0.1 www.vic010.com
 127.0.0.1 www.vic013.com
 127.0.0.1 www.vic014.com
 127.0.0.1 www.vic015.com
@@ -31204,6 +31959,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.vns0030.com
 127.0.0.1 www.vns10010.com
 127.0.0.1 www.vns114.com
+127.0.0.1 www.vns131.com
 127.0.0.1 www.vns136.com
 127.0.0.1 www.vns138.com
 127.0.0.1 www.vns150.com
@@ -31361,6 +32117,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.wdbc3.com
 127.0.0.1 www.wdbc33.com
 127.0.0.1 www.wdbeibei.com
+127.0.0.1 www.wdc12.com
 127.0.0.1 www.wdcn.net
 127.0.0.1 www.wdgyxh.tk
 127.0.0.1 www.wdhysm.com
@@ -31548,8 +32305,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.wn1111.com
 127.0.0.1 www.wnd-iobpp.cn
 127.0.0.1 www.wns0200.com
+127.0.0.1 www.wns3399.com
+127.0.0.1 www.wns355.com
+127.0.0.1 www.wns655.com
+127.0.0.1 www.wns7755.com
+127.0.0.1 www.wns880.com
 127.0.0.1 www.wns887.com
 127.0.0.1 www.wns99.com
+127.0.0.1 www.wns9955.com
 127.0.0.1 www.wnsr01.com
 127.0.0.1 www.wnwda.cn
 127.0.0.1 www.wnyvfa.org
@@ -31575,7 +32338,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.wosucai.com
 127.0.0.1 www.wotaoqi.com
 127.0.0.1 www.wowand.com
-127.0.0.1 www.wowody.net
 127.0.0.1 www.wowwb.com
 127.0.0.1 www.woxiwo.com
 127.0.0.1 www.woyao998.com
@@ -31755,6 +32517,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xayimei.com
 127.0.0.1 www.xayswh.com
 127.0.0.1 www.xazhwz.com
+127.0.0.1 www.xb8811.com
 127.0.0.1 www.xbds.net
 127.0.0.1 www.xbgushu.com
 127.0.0.1 www.xbmmzx.com
@@ -31826,6 +32589,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xgn365.com
 127.0.0.1 www.xgn88.com
 127.0.0.1 www.xgydq.com
+127.0.0.1 www.xgzycw.com
 127.0.0.1 www.xh0055.com
 127.0.0.1 www.xh2666.com
 127.0.0.1 www.xh2678.com
@@ -31864,6 +32628,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xiangruicn.com
 127.0.0.1 www.xiangshui360.net
 127.0.0.1 www.xiangtan.cn
+127.0.0.1 www.xiangxieli.cc
 127.0.0.1 www.xiang-ya.com
 127.0.0.1 www.xianjian3.com
 127.0.0.1 www.xianlc.com
@@ -31887,6 +32652,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xiaojie07.com
 127.0.0.1 www.xiaoke123.com
 127.0.0.1 www.xiaomi520.com
+127.0.0.1 www.xiaorenren.com
 127.0.0.1 www.xiaoshoubang.org
 127.0.0.1 www.xiaoshuo8.cc
 127.0.0.1 www.xiaoshuoan.com
@@ -31991,6 +32757,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xinzhijie.com
 127.0.0.1 www.xinzhongyr.xz.cn
 127.0.0.1 www.xinzxd.com
+127.0.0.1 www.xiongdi008.com
 127.0.0.1 www.xionghouwen.cn
 127.0.0.1 www.xiongmiao.com
 127.0.0.1 www.xionyi.com
@@ -32012,6 +32779,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xj6789.com
 127.0.0.1 www.xj765.com
 127.0.0.1 www.xj8811.com
+127.0.0.1 www.xj8866.com
 127.0.0.1 www.xj898.com
 127.0.0.1 www.xj9922.com
 127.0.0.1 www.xjapple.cn
@@ -32019,6 +32787,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xjbye.com
 127.0.0.1 www.xjcollagen.com
 127.0.0.1 www.xjd8.com
+127.0.0.1 www.xjdc55.com
 127.0.0.1 www.xjfl.com
 127.0.0.1 www.xjgyy.com
 127.0.0.1 www.xjhs66.com
@@ -32093,11 +32862,16 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xpg998.com
 127.0.0.1 www.xpj11111.com
 127.0.0.1 www.xpj1588.com
+127.0.0.1 www.xpj222666.com
 127.0.0.1 www.xpj226.com
+127.0.0.1 www.xpj555000.com
 127.0.0.1 www.xpj555333.com
 127.0.0.1 www.xpj55555.com
 127.0.0.1 www.xpj5888.com
+127.0.0.1 www.xpj88.com
 127.0.0.1 www.xpj888777.com
+127.0.0.1 www.xpj9399.com
+127.0.0.1 www.xpj999333.com
 127.0.0.1 www.xprkj.com
 127.0.0.1 www.xptshanghai.com
 127.0.0.1 www.xpxp94.com
@@ -32116,7 +32890,6 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xsedu.zJ.cn
 127.0.0.1 www.xsfcw.net
 127.0.0.1 www.xsffbwgg.com
-127.0.0.1 www.xshuotxt.com
 127.0.0.1 www.xsr.cc
 127.0.0.1 www.xssa.net
 127.0.0.1 www.xsspxx.net
@@ -32163,6 +32936,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xuvu.info
 127.0.0.1 www.xuyinews.com
 127.0.0.1 www.xuzxinyong.com
+127.0.0.1 www.xw3388.com
 127.0.0.1 www.xw6677.com
 127.0.0.1 www.xwcfw.cc
 127.0.0.1 www.xwzyz.org
@@ -32195,6 +32969,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xxzzgg.com
 127.0.0.1 www.xy.my866.com
 127.0.0.1 www.xy5050.com
+127.0.0.1 www.xy66888.com
 127.0.0.1 www.xy962.com
 127.0.0.1 www.xy984.tk
 127.0.0.1 www.xy9991.com
@@ -32212,6 +32987,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.xykqq.com
 127.0.0.1 www.xypcde.com
 127.0.0.1 www.xyrfsp.com
+127.0.0.1 www.xysanreqi.com
 127.0.0.1 www.xysql.com.cn
 127.0.0.1 www.xysz.cn
 127.0.0.1 www.xyt07.com
@@ -32241,7 +33017,10 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.y2030.com
 127.0.0.1 www.y3mall.com
 127.0.0.1 www.y5.cc
+127.0.0.1 www.y6665.com
 127.0.0.1 www.y822.com
+127.0.0.1 www.y9959.com
+127.0.0.1 www.yabtpop.gov.cn
 127.0.0.1 www.yadea.com.cn
 127.0.0.1 www.yaglaser.cn
 127.0.0.1 www.yahookk.t3.to
@@ -32312,6 +33091,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ycpl.com.cn
 127.0.0.1 www.ycqcw.cn
 127.0.0.1 www.ycrtvu.cn
+127.0.0.1 www.ycssfj.gov.cn
 127.0.0.1 www.yctoronto.cn
 127.0.0.1 www.yctuikuan.bjbylcw336.com
 127.0.0.1 www.ycwlky.com
@@ -32328,6 +33108,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ydlism.com
 127.0.0.1 www.ydlpm.com
 127.0.0.1 www.ydqbcz.com
+127.0.0.1 www.ydt.org.cn
 127.0.0.1 www.ydthw.com
 127.0.0.1 www.ye8.asia
 127.0.0.1 www.ye8.wang
@@ -32378,6 +33159,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ygrmir3.com
 127.0.0.1 www.yh0111.com
 127.0.0.1 www.yh01777.com
+127.0.0.1 www.yh0388.com
+127.0.0.1 www.yh04777.com
 127.0.0.1 www.yh077.com
 127.0.0.1 www.yh10888.com
 127.0.0.1 www.yh1235.com
@@ -32386,11 +33169,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.yh277.com
 127.0.0.1 www.yh30888.com
 127.0.0.1 www.yh3690.com
+127.0.0.1 www.yh39888.com
 127.0.0.1 www.yh50888.com
 127.0.0.1 www.yh60888.com
 127.0.0.1 www.yh6299.com
 127.0.0.1 www.yh6333.com
 127.0.0.1 www.yh6599.com
+127.0.0.1 www.yh7005.com
 127.0.0.1 www.yh7399.com
 127.0.0.1 www.yh7599.com
 127.0.0.1 www.yh792.com
@@ -32457,8 +33242,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.yimengquan.com
 127.0.0.1 www.yimiedu.com
 127.0.0.1 www.yimuhe.com
+127.0.0.1 www.yin0020.com
 127.0.0.1 www.yin0033.com
+127.0.0.1 www.yin0055.com
+127.0.0.1 www.yin0066.com
 127.0.0.1 www.yin0088.com
+127.0.0.1 www.yin0090.com
+127.0.0.1 www.yin0099.com
 127.0.0.1 www.yinchaoyang.com
 127.0.0.1 www.yingfengba.com
 127.0.0.1 www.yingheidc.com
@@ -32474,6 +33264,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.yinhe07.com
 127.0.0.1 www.yinhe2.cc
 127.0.0.1 www.yinhe3388.com
+127.0.0.1 www.yinhe8.cc
 127.0.0.1 www.yinhe8811.com
 127.0.0.1 www.yinhe-china.com
 127.0.0.1 www.yinlian777.com
@@ -32547,10 +33338,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.yl6601.com
 127.0.0.1 www.yl6602.com
 127.0.0.1 www.yl6603.com
+127.0.0.1 www.yl6606.com
 127.0.0.1 www.yl6608.com
+127.0.0.1 www.yl6609.com
 127.0.0.1 www.yl7766.com
+127.0.0.1 www.yl885588.com
 127.0.0.1 www.yl887788.com
 127.0.0.1 www.yl9699.com
+127.0.0.1 www.yl9777.com
 127.0.0.1 www.ylcoffeetea.com
 127.0.0.1 www.ylcxfashion.cn
 127.0.0.1 www.yldztw.com
@@ -32575,6 +33370,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ylg799.com
 127.0.0.1 www.ylg89.com
 127.0.0.1 www.ylg899.com
+127.0.0.1 www.ylg9699.com
 127.0.0.1 www.ylg98.com
 127.0.0.1 www.ylg9999.com
 127.0.0.1 www.yli029.com
@@ -32662,6 +33458,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.youxivns.com
 127.0.0.1 www.youxiwu.org
 127.0.0.1 www.youyou15.com
+127.0.0.1 www.yoxi001.com
 127.0.0.1 www.yoyei.com
 127.0.0.1 www.yp178.com
 127.0.0.1 www.yp58.com
@@ -32703,6 +33500,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.y-sousuo.com
 127.0.0.1 www.ysw365.com
 127.0.0.1 www.yswm.net
+127.0.0.1 www.ysxy.cc
 127.0.0.1 www.ysypx.com
 127.0.0.1 www.ysys88.com
 127.0.0.1 www.yszxyy.com
@@ -32758,6 +33556,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.yuedazhiban.com
 127.0.0.1 www.yuedongclub.com
 127.0.0.1 www.yuefei.net
+127.0.0.1 www.yuehuankj.com
 127.0.0.1 www.yuejichina.cn
 127.0.0.1 www.yuejinjx.com
 127.0.0.1 www.yuenvhuisuo.com
@@ -32827,6 +33626,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.yxjhsy.com
 127.0.0.1 www.yxlinde.com
 127.0.0.1 www.yxlm.com
+127.0.0.1 www.yxlm01.com
 127.0.0.1 www.yxnf.com
 127.0.0.1 www.yxohq.com
 127.0.0.1 www.yxres.com
@@ -32906,6 +33706,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.yzxc010.com
 127.0.0.1 www.yzxfw.com
 127.0.0.1 www.z0001.com
+127.0.0.1 www.z0002.com
 127.0.0.1 www.z0005.com
 127.0.0.1 www.z0007.com
 127.0.0.1 www.z0009.com
@@ -32997,6 +33798,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.zf886.com
 127.0.0.1 www.zfb2015.com
 127.0.0.1 www.zfy.cn
+127.0.0.1 www.zfzx8.com
 127.0.0.1 www.zg.yy1000y.com
 127.0.0.1 www.zgahrq.com
 127.0.0.1 www.zgbjwjyy.com
@@ -33046,6 +33848,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.zhangjl.com.cn
 127.0.0.1 www.zhangli520.com
 127.0.0.1 www.zhangpeng006.com
+127.0.0.1 www.zhangruifena.com
+127.0.0.1 www.zhangruifenb.com
 127.0.0.1 www.zhangyalan.com
 127.0.0.1 www.zhanzhangle.com
 127.0.0.1 www.zhanzhangsoft.com
@@ -33199,11 +34003,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.zju-ae.com
 127.0.0.1 www.zjwedu.net
 127.0.0.1 www.zjwh.net
+127.0.0.1 www.zjwsavip.cc
 127.0.0.1 www.zjwyjx.cn
 127.0.0.1 www.zjxfg.com
 127.0.0.1 www.zjxxkx.com
 127.0.0.1 www.zjyabang.com
 127.0.0.1 www.zjyodal.com
+127.0.0.1 www.zjzzz.com
 127.0.0.1 www.zkcd.com.cn
 127.0.0.1 www.zkls.cn
 127.0.0.1 www.zks007.com
@@ -33260,6 +34066,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.zr11111.com
 127.0.0.1 www.zr1166.com
 127.0.0.1 www.zr3366.com
+127.0.0.1 www.zr6611.com
 127.0.0.1 www.zr66666.com
 127.0.0.1 www.zr6789.com
 127.0.0.1 www.zr7766.com
@@ -33279,6 +34086,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.zs3355.com
 127.0.0.1 www.zs3399.com
 127.0.0.1 www.zs8886.com
+127.0.0.1 www.zs9966.com
 127.0.0.1 www.zsadg.cn
 127.0.0.1 www.zscbd.com
 127.0.0.1 www.zscg.com
@@ -33300,6 +34108,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.ztbpt.com
 127.0.0.1 www.ztgy.com
 127.0.0.1 www.ztkk89.com
+127.0.0.1 www.ztlekdd.tk
 127.0.0.1 www.ztspank.com
 127.0.0.1 www.zttdq.com
 127.0.0.1 www.ztxfl.com
@@ -33440,6 +34249,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 www.zzz13.com
 127.0.0.1 www.zzz17.com
 127.0.0.1 www.zzz48.com
+127.0.0.1 www.zzz61.com
 127.0.0.1 www.zzz78.com
 127.0.0.1 www.zzzk6666.com
 127.0.0.1 www.zzzx.net.cn
@@ -33568,6 +34378,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 wwww.kkxbb.com
 127.0.0.1 wwww.ojw44ezyjjma.tk
 127.0.0.1 wwww.spirior.org
+127.0.0.1 wwww.zzqqq.com
 127.0.0.1 wwww.zzz13.com
 127.0.0.1 wwww51998com.com
 127.0.0.1 wwwwwv.usa.cc
@@ -33721,6 +34532,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xazcgj.com
 127.0.0.1 xazd.net
 127.0.0.1 xazzxzs.com
+127.0.0.1 xbbrw.cn
 127.0.0.1 xbggxs.com
 127.0.0.1 xbjdypw.com
 127.0.0.1 xbk.guanwanglianmeng.com
@@ -33878,6 +34690,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xiaoyuanbaoli.com
 127.0.0.1 xiasha666.com
 127.0.0.1 xiaxi88.com
+127.0.0.1 xiaz.syxia.com
 127.0.0.1 xiazai.3ddianshiji.com
 127.0.0.1 xiazai.869v.com
 127.0.0.1 xiazai.cdren.com
@@ -33887,6 +34700,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xiazai.lianmengqudao1.com
 127.0.0.1 xiazai.lianmengqudao2.com
 127.0.0.1 xiazai.lianmengqudao3.com
+127.0.0.1 xiazai.lianmengqudao5.com
 127.0.0.1 xiazai.lianmengqudao6.com
 127.0.0.1 xiazai.rilibiao.com.cn
 127.0.0.1 xiazai.sh5y.com
@@ -33916,6 +34730,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xiazai15.869v.com
 127.0.0.1 xiazai15.it376.com
 127.0.0.1 xiazai2.7r7z.com
+127.0.0.1 xiazai2.869v.com
 127.0.0.1 xiazai3.9pan.cc
 127.0.0.1 xiazai3.ke8u.com
 127.0.0.1 xiazai5.869v.com
@@ -33935,6 +34750,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xiazhai.tuizhong.com
 127.0.0.1 xiazhai.wan4399.com
 127.0.0.1 xiazhai.xiaocen.com
+127.0.0.1 xicaophoto.com
 127.0.0.1 xiehe0459.com
 127.0.0.1 xiehuapf.com
 127.0.0.1 xiemu.net
@@ -33953,6 +34769,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xinanhuagong.com
 127.0.0.1 xinbo11.com
 127.0.0.1 xindongxingdaoju.com
+127.0.0.1 xingangcai.com
 127.0.0.1 xingangda.com
 127.0.0.1 xingcaivip.com
 127.0.0.1 xingcaiyle.com
@@ -34052,6 +34869,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xkjs.imnu.edu.cn
 127.0.0.1 xkowecf5uy.pw
 127.0.0.1 xktpower.com
+127.0.0.1 xkw.pw
 127.0.0.1 xkxko.cn
 127.0.0.1 xl07.com
 127.0.0.1 xl1.dl.gezila.com
@@ -34071,6 +34889,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xlwchem.com
 127.0.0.1 xlzxsh.cn
 127.0.0.1 xm.4399me.com
+127.0.0.1 xm28cvn.pw
 127.0.0.1 xmbaiyida.com
 127.0.0.1 xmcrystal.com.cn
 127.0.0.1 xmcxz.com
@@ -34114,6 +34933,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xnhhsj.com
 127.0.0.1 xn--j5q755g.xn--55qx5d
 127.0.0.1 xn--lbrs59br5a.xn--fiqs8s
+127.0.0.1 xnlg.foxterrierclubnsw.com
 127.0.0.1 xn--myuy6fk21azoa.cc
 127.0.0.1 xn--orw0a8690a.com
 127.0.0.1 xn--qdk5b289to1i.com
@@ -34217,6 +35037,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xvvx.zhangyixiao.com
 127.0.0.1 xw.gdlp66.com
 127.0.0.1 xw3333.com
+127.0.0.1 xw5544.com
 127.0.0.1 xw8877.com
 127.0.0.1 xweas.keemark.ro
 127.0.0.1 xwfhwr.hzhsqx.com
@@ -34248,6 +35069,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xxoo07.com
 127.0.0.1 xxooyx.com
 127.0.0.1 xxqh.net
+127.0.0.1 xxsdaj.com
 127.0.0.1 xxspps.com
 127.0.0.1 xxuus.com
 127.0.0.1 xxx.0554fl.com
@@ -34267,6 +35089,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 xy0u.com
 127.0.0.1 xy2so.com
 127.0.0.1 xy5162.com
+127.0.0.1 xy66888.com
 127.0.0.1 xyaxt.yluu.com
 127.0.0.1 xybor.r.haizhangs.com
 127.0.0.1 xycjs.com
@@ -34368,6 +35191,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 y888x2.paybvytd.com
 127.0.0.1 ya772.com
 127.0.0.1 yaa.3yuanli.com
+127.0.0.1 yaade.com
 127.0.0.1 yaae.yiriri.com
 127.0.0.1 yabook.net
 127.0.0.1 yaci.cc
@@ -34388,6 +35212,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 yan98.com
 127.0.0.1 yanchang.com
 127.0.0.1 yanchouse.cn
+127.0.0.1 yanchufu888.com
 127.0.0.1 yanfeng.b.xundisk.net
 127.0.0.1 yang.yijkw.com
 127.0.0.1 yangfantennis.com
@@ -34411,6 +35236,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 yanuo05.com
 127.0.0.1 yanuotianxia.org
 127.0.0.1 yanwei2015.xkw.pw
+127.0.0.1 yanxizj.com
 127.0.0.1 yanzhaoedu.cn
 127.0.0.1 yao.cl
 127.0.0.1 yaohq.com
@@ -34448,6 +35274,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ybtzzx.com
 127.0.0.1 ybuu.net
 127.0.0.1 ybzq008.asia
+127.0.0.1 ybzxw226.com
 127.0.0.1 yc.kzczxt.com
 127.0.0.1 yc0371.com
 127.0.0.1 yc1234.com
@@ -34482,6 +35309,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ycyns.com
 127.0.0.1 yd.ouyaoxiazai.com
 127.0.0.1 yd12356.com
+127.0.0.1 yd1688.cn
 127.0.0.1 yd315.com
 127.0.0.1 yd6.nb1017.com
 127.0.0.1 ydc2sfvf.pw
@@ -34499,6 +35327,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ydsy.yun-sou.info
 127.0.0.1 ye.henyjoun.com
 127.0.0.1 ye65.com
+127.0.0.1 yeadee.net
 127.0.0.1 yeahka.com.cvsles.tk
 127.0.0.1 yeatrue.com
 127.0.0.1 yee.zxqycyw.com
@@ -34537,6 +35366,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 yfrys.com
 127.0.0.1 yfyspt.com
 127.0.0.1 yg86899.com
+127.0.0.1 ygb8nmkj.pw
 127.0.0.1 ygfyd.com
 127.0.0.1 yggw.sxzl5118.com.cn
 127.0.0.1 yghjgw.com
@@ -34597,6 +35427,8 @@ All Rights Reserved 2007-2014
 127.0.0.1 yigouka852.com
 127.0.0.1 yiheng.jztedu.com
 127.0.0.1 yihongshicai.com
+127.0.0.1 yihua.na-qu.xz.cn
+127.0.0.1 yihx.yao.cl
 127.0.0.1 yilevo.52baixingshuo.com
 127.0.0.1 yilijian.net
 127.0.0.1 yindahn.com
@@ -34620,6 +35452,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 yinhe86.com
 127.0.0.1 yinhepc.duqp68.com
 127.0.0.1 yinlefilm.com
+127.0.0.1 yinlianzg.com
 127.0.0.1 yinlongquan.com
 127.0.0.1 yinmeilu8.com
 127.0.0.1 yinnasu.com
@@ -34697,9 +35530,11 @@ All Rights Reserved 2007-2014
 127.0.0.1 yl4488.com
 127.0.0.1 yl5566.com
 127.0.0.1 yl5588.com
+127.0.0.1 yl6601.com
 127.0.0.1 ylcctv.net
 127.0.0.1 ylf.moyuso.com
 127.0.0.1 ylg2299.com
+127.0.0.1 ylg3399.com
 127.0.0.1 ylg499.com
 127.0.0.1 ylg599.com
 127.0.0.1 ylg6699.com
@@ -34744,6 +35579,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 ynkmwst.com
 127.0.0.1 ynkmxhw.com
 127.0.0.1 ynlfjx.com
+127.0.0.1 ynlxtjw.com
 127.0.0.1 ynly1598.com
 127.0.0.1 ynna.biz
 127.0.0.1 ynnlkj.com
@@ -34874,12 +35710,14 @@ All Rights Reserved 2007-2014
 127.0.0.1 ysypx.com
 127.0.0.1 yszrru.cn
 127.0.0.1 yszw.zzbj360.com
+127.0.0.1 yt.dk58hdk.xyz
 127.0.0.1 yt444000.com
 127.0.0.1 yt530.com
 127.0.0.1 yt7.dk588hdk.cc
 127.0.0.1 yt9.dk588hdk.cc
 127.0.0.1 yta4jerjs.pw
 127.0.0.1 ytasrxxh.hyqcyph.com
+127.0.0.1 ytcron.com
 127.0.0.1 ytdzhg.com
 127.0.0.1 ytdzkj.com.cn
 127.0.0.1 yt-ev.com
@@ -35084,6 +35922,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 yytianya.com
 127.0.0.1 yytly.com.cn
 127.0.0.1 yytoz.com
+127.0.0.1 yyucq.science
 127.0.0.1 yyw0379.com
 127.0.0.1 yyx78.com
 127.0.0.1 yy-xjy.com
@@ -35106,6 +35945,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 yz3300.com
 127.0.0.1 yz3377.com
 127.0.0.1 yz90989.com
+127.0.0.1 yzbaofeng.com
 127.0.0.1 yzcmykt.com
 127.0.0.1 yzdn.com
 127.0.0.1 yzdwxx.net
@@ -35191,6 +36031,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zdpunch.cn
 127.0.0.1 zdxut6.com
 127.0.0.1 zdy.aolin18.com
+127.0.0.1 zdy.gdyg.org.cn
 127.0.0.1 zdy.huayipxl.com
 127.0.0.1 zdy.njxsdq.cn
 127.0.0.1 zdy.rocg.cn
@@ -35248,6 +36089,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zggg.yao.cl
 127.0.0.1 zggg2.yao.cl
 127.0.0.1 zggl688.com
+127.0.0.1 zghbhy.com.cn
 127.0.0.1 zghdky.com
 127.0.0.1 zghdmgys.com
 127.0.0.1 zghnyg.com
@@ -35314,6 +36156,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zhenmei.qb1166.com
 127.0.0.1 zhenshijingdian.com
 127.0.0.1 zhenyuanpump.com.cn
+127.0.0.1 zhenyun.asu.su
 127.0.0.1 zhetuo.jiacinet.com
 127.0.0.1 zhexyyf.ogyoqeqig.gq
 127.0.0.1 zhgl.cc
@@ -35335,6 +36178,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zhifubao95188.oayqnm.info
 127.0.0.1 zhifubaoaa.95188.uzibsmdjh.com
 127.0.0.1 zhiguw.com
+127.0.0.1 zhihuiwh.net
 127.0.0.1 zhijufang.com
 127.0.0.1 zhiming123.linkpc.net
 127.0.0.1 zhiqingyan.com
@@ -35364,6 +36208,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zhongshang.gdk.mx
 127.0.0.1 zhongshenglipin.com
 127.0.0.1 zhongshixie.com
+127.0.0.1 zhongxin.codelife.us
 127.0.0.1 zhongyilunwen.com
 127.0.0.1 zhongyimeimei.com
 127.0.0.1 zhongyucan.com
@@ -35464,6 +36309,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zjstv2014.com
 127.0.0.1 zjsxlx.com
 127.0.0.1 zjwcg.com
+127.0.0.1 zjwsavip.cc
 127.0.0.1 zjxiangxun.com
 127.0.0.1 zjxichen.com
 127.0.0.1 zjxinben.com
@@ -35559,11 +36405,13 @@ All Rights Reserved 2007-2014
 127.0.0.1 zqyl.org.cn
 127.0.0.1 zr0011.com
 127.0.0.1 zr0044.com
+127.0.0.1 zr3.iamhat.cn
 127.0.0.1 zrcsm.com
 127.0.0.1 zrkxdl1.com
 127.0.0.1 zrm.hnalqcyx.com.cn
 127.0.0.1 zrm.youfukoi.com.cn
 127.0.0.1 zrq123.com
+127.0.0.1 zruningman.club
 127.0.0.1 zs.game2.cn
 127.0.0.1 zs.hniuzsjy.cn
 127.0.0.1 zs1209.com
@@ -35630,6 +36478,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zx.lqfuaew.com
 127.0.0.1 zx.tcbojpd.ml
 127.0.0.1 zx.tvovmgg.ga
+127.0.0.1 zx.xxnkxi.science
 127.0.0.1 zx.zdtkxpk.ml
 127.0.0.1 zx7799.net
 127.0.0.1 zx7z.com
@@ -35647,6 +36496,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zxpxoham.muyangr.com
 127.0.0.1 zxqp211.com
 127.0.0.1 zxqp5160.com
+127.0.0.1 zxqp88.com
 127.0.0.1 zxsbj.com
 127.0.0.1 zxsjqq.com
 127.0.0.1 zxspfb.com
@@ -35684,6 +36534,9 @@ All Rights Reserved 2007-2014
 127.0.0.1 zysqx.com
 127.0.0.1 zyswb.com
 127.0.0.1 zytk.tk5577.com
+127.0.0.1 zytz003.com
+127.0.0.1 zytz018.com
+127.0.0.1 zytz028.com
 127.0.0.1 zywcb.com
 127.0.0.1 zyyaoyou.com
 127.0.0.1 zyzh.net
@@ -35749,6 +36602,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 zztaishang.com
 127.0.0.1 zztk.aamewjw.com
 127.0.0.1 zztscz.com
+127.0.0.1 zzuycwdf.karner.cn
 127.0.0.1 zzvote.com.img.800cdn.com
 127.0.0.1 zzweike.com
 127.0.0.1 zzwjdn.com
