@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507102000
-! Last Modified: 2015年07月10日 20:00
+! Version: 201507102030
+! Last Modified: 2015年07月10日 20:30
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -80,7 +80,6 @@ www.cam4.tw,www.cam4.com###subfoot,.sponsorAd, .xmlAdsWrapper, .xmlAdsTitle
 chaturbate.com##.banner, .ad
 ! Google
 ||google-analytics.com^$third-party
-||googleadservices.com^$third-party
 ||googlerank.info^$third-party
 ||googletagmanager.com/gtm.js?$third-party
 ||googleapis.com^*/gen_204?
@@ -5309,7 +5308,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||tiexue.net/testforjph/
 ||zgjm.org/data/cache/mytag-30.htm
-||taobaocdn.com^$subdocument
+||strip.taobaocdn.com/tfscom/$subdocument
 ||180.96.27.85^*.htm
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
@@ -11043,7 +11042,6 @@ yahoo.com#@#.type_ads_default
 ||adzerk.net^$third-party
 ||alexa.com^*/promotebuttons/
 ||alimama.com^$third-party
-||allyes.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||analytics.disneyinternational.com^
 ||aorms.com^$third-party
@@ -11606,7 +11604,6 @@ yahoo.com##li[data-beacon^="https://beap.gemini.yahoo.com/"]
 ||advertising.com^$third-party
 ||bannerflow.com^$third-party
 ||bet365affiliates.com^$third-party
-||btkitty.org/static/images/880X60.gif
 ||cntv.cn/Library/js/js_ad_gb.js
 ||exogripper.com^$popup
 ||images-amazon.com/images/*/browser-scripts/da-
