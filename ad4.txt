@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(OnlyForTB)
 ! Expires: 4 hours
-! Version: 201506261645
-! Last Modified: 2015年06月26日 16:45
+! Version: 201507101945
+! Last Modified: 2015年07月10日 19:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则为基于iFL修改的贴吧过滤规则，感谢大大的分享！
@@ -12,7 +12,6 @@
 ! 屏蔽一些图片和脚本
 */img/history_game/$domain=tieba.baidu.com
 */widget/spage_game_tab/$domain=tieba.baidu.com
-||xiu8.com
 ||wanba.baidu.com
 ||screenshot.dwstatic.com^
 ||yy.com^$domain=tieba.baidu.com
@@ -78,14 +77,12 @@ xingqu.baidu.com,tieba.baidu.com##.u_wallet
 xingqu.baidu.com,tieba.baidu.com##.u_xiu8
 ! 顶部
 xingqu.baidu.com,tieba.baidu.com###activity_nav_barrage_spring_enter
-xingqu.baidu.com,tieba.baidu.com###game_live_list
 xingqu.baidu.com,tieba.baidu.com##.interviewZero
 xingqu.baidu.com,tieba.baidu.com###j_navtab_wanle
 xingqu.baidu.com,tieba.baidu.com###j_navtab_game
 xingqu.baidu.com,tieba.baidu.com##.icon_group
 xingqu.baidu.com,tieba.baidu.com##.icon_yyshow
 xingqu.baidu.com,tieba.baidu.com##.star_nav_ico_group
-xingqu.baidu.com,tieba.baidu.com##.content_top
 ! 右侧
 xingqu.baidu.com,tieba.baidu.com###creativeplatform-datarecommend
 xingqu.baidu.com,tieba.baidu.com###tieba-notice.region_bright
@@ -119,7 +116,6 @@ xingqu.baidu.com,tieba.baidu.com##.threadListGroupCnt_bright
 xingqu.baidu.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
 xingqu.baidu.com,tieba.baidu.com###bdshare
-xingqu.baidu.com,tieba.baidu.com###duoku_servers_list
 xingqu.baidu.com,tieba.baidu.com###forum_recommend
 xingqu.baidu.com,tieba.baidu.com###guide_fc
 xingqu.baidu.com,tieba.baidu.com###xiu8_follow_warn
