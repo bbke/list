@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507111045
-! Last Modified: 2015年07月11日 10:45
+! Version: 201507111115
+! Last Modified: 2015年07月11日 11:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5432,10 +5432,19 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||pconline.com.cn/test/*.html?
+||auto-online.com.tw/vendor_data/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+taoguba.com.cn###ad_tgb_list
+auto-online.com.tw##DIV[style="width:160px;height:480px;margin:0;background:#000000"]
+auto-online.com.tw##.news_content > DIV[style="width:728px;margin:10px auto"]
+auto-online.com.tw##.text_links_h
+auto-online.com.tw##DIV[style="width:336px;height:280px;margin:0;background:#000000"]
+auto-online.com.tw##DIV[style="width:728px;height:130px;margin:0;background:#000000"]
+taoguba.com.cn##.p_wenz + DIV > DIV[style="text-align:center;cursor:hand;"]
+taoguba.com.cn##DIV[style="width:98%;center;margin-top:20px;margin-bottom:20px;over-flow:hidden;height:70px;"]
 backchina.com##.eis_subnav_area
 backchina.com##DIV[style="width:300px; min-height: 250px; background-color: #f5f5f5; margin:0;"]
 hc360.com,yaolan.com###AD
