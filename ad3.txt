@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507131745
-! Last Modified: 2015年07月13日 17:45
+! Version: 201507131815
+! Last Modified: 2015年07月13日 18:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4729,7 +4729,7 @@ _vmind.qqvideo.tc.qq.com^
 ||tietuku.com^$domain=99re.city|99re.net|potplayer.org|souxue8.net|totuwo.com|xiaodaoyl.com
 ||tietuku.com^*.gif$domain=lightnovel.cn
 ||tiexue.net/domain-policy/
-|http://*.aspx$xmlhttprequest,domain=tiexue.net
+||tiexue.net/test*.aspx
 ||tigtag.com/images/pic1/
 ||tigtag.com/r/Adv/
 ||tigtag.com/styles/phpcms/js/tigtag/ads.js
@@ -5329,7 +5329,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-tiexue.net##DIV[id^="Baidu_BBS_AD"]
+tiexue.net##DIV[id^="Baidu_"]
 tiexue.net##.test-goods
 juqingbao.com###goog
 hz66.com##.lb_gg
@@ -6131,7 +6131,7 @@ qqjia.com###myadsL
 qqjia.com###myadsR
 javjunkies.com###naked-ad
 narutom.com###naruto_desk
-www.tiexue.net###navFixed + .head + script + style + div[class]
+tiexue.net##SCRIPT + STYLE + DIV[class]
 webkaka.com###navo + .ucontent
 tgbus.com###neck_970
 40407.com###nei_fmt
@@ -9278,7 +9278,6 @@ brandsales.58.com#@#div[id^="ad_"]
 @@/adimg/*$domain=itools.cn|laniqu.com|tdx.com.cn|veryeast.cn
 @@/adlogger_tracker.php$domain=serve.netsh.org
 @@/adpic/*$domain=czsrc.com|nieyou.com|youlea.com
-@@/ads.js?$domain=tiexue.net
 @@/ads/*$domain=189.cn
 @@/adsame.$domain=liba.com|libaclub.com
 @@/adsbox.$domain=long7.qq.com
