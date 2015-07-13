@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507131845
-! Last Modified: 2015年07月13日 18:45
+! Version: 201507131915
+! Last Modified: 2015年07月13日 19:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -863,7 +863,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 |http://*:6215/s.php?id=$script,third-party
 |http://*:6970/s.php?id=$script,third-party
 |http://*:8088/s.php?id=$script,third-party
-||005.tv^$third-party
+||005.tv^$image,third-party
 ||007y.net^$third-party
 ||033.com^$third-party
 ||0591101.com^$third-party
