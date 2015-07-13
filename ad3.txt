@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507131300
-! Last Modified: 2015年07月13日 13:00
+! Version: 201507131745
+! Last Modified: 2015年07月13日 17:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4729,7 +4729,7 @@ _vmind.qqvideo.tc.qq.com^
 ||tietuku.com^$domain=99re.city|99re.net|potplayer.org|souxue8.net|totuwo.com|xiaodaoyl.com
 ||tietuku.com^*.gif$domain=lightnovel.cn
 ||tiexue.net/domain-policy/
-||tiexue.net/testforjph/
+|http://*.aspx$xmlhttprequest,domain=tiexue.net
 ||tigtag.com/images/pic1/
 ||tigtag.com/r/Adv/
 ||tigtag.com/styles/phpcms/js/tigtag/ads.js
@@ -5323,10 +5323,14 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||imeee.cn/DA_HTML/*.js
+||img*.itiexue.net^*/*.gif
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+tiexue.net##DIV[id^="Baidu_BBS_AD"]
+tiexue.net##.test-goods
 juqingbao.com###goog
 hz66.com##.lb_gg
 dygang.com###gd
