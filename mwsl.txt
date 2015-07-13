@@ -1703,6 +1703,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 63wk.com
 127.0.0.1 641332cbgw.com
 127.0.0.1 64881783.com
+127.0.0.1 648yx.com
 127.0.0.1 64hiy8.0755look.com
 127.0.0.1 64mir.com
 127.0.0.1 64uuu.com
@@ -5715,6 +5716,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 count.cncrk.com
 127.0.0.1 count.dcttl.com
 127.0.0.1 count.ikuaiyu.com
+127.0.0.1 count.tianxinli.org
 127.0.0.1 count.tt6786.com
 127.0.0.1 count.xiaoxinrili.com
 127.0.0.1 count.xj.cn
@@ -6115,6 +6117,7 @@ All Rights Reserved 2007-2014
 127.0.0.1 danhao99.com
 127.0.0.1 danielhur.com
 127.0.0.1 danmeizg.com
+127.0.0.1 danmu.zuipaidang.com
 127.0.0.1 dano.net.cn
 127.0.0.1 danpuwz.com
 127.0.0.1 danxia.8866.org
