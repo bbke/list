@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201507121815
-! Last Modified: 2015年07月12日 18:15
+! Version: 201507131300
+! Last Modified: 2015年07月13日 13:00
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -21,6 +21,7 @@ lusongsong.com###selectsearch-icon
 mp.weixin.qq.com###js_pc_qr_code
 m.jiemian.com###js-b-ad
 news.sina.com.cn##.news_weixin_ercode
+pcbeta.com###weixinqr
 pornhub.com##.playlist-bar-tray,#adA,#adB
 tu.duowan.com###tuAppRecommend, .tu--qrcode
 tw.news.yahoo.com###html_fp
