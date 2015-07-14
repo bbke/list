@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507141045
-! Last Modified: 2015年07月14日 10:45
+! Version: 201507141245
+! Last Modified: 2015年07月14日 12:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3363,7 +3363,7 @@ _vmind.qqvideo.tc.qq.com^
 ||ifxtx.com/tp/
 ||ifxtx.com^*589x60.
 ||iggyy8.com/js/v/
-||iguaji.com/wp-content/uploads/*/ad
+||iguaji.com/wp-content/uploads/*/ttzad
 ||iguang.tw/bm/seo_rotation/html/js/
 ||ihref.com/ihref_gg/
 ||ijia360.com/data/poster/
@@ -3402,7 +3402,7 @@ _vmind.qqvideo.tc.qq.com^
 ||imeee.cn/DA_HTML/*.js
 ||imeee.cn/DA_HTML/bottom_960x90.html
 ||img*.bet007.com/image/*.gif
-||img*.itiexue.net^*/*.gif
+||img*.itiexue.net/20*.gif$domain=www.tiexue.net
 ||img*.titan007.com/image/*.gif
 ||img*.win007.com/image/*.gif
 ||img.3sjt.com^
@@ -9263,6 +9263,7 @@ brandsales.58.com#@#div[id^="ad_"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||pos.baidu.com/acom?$script,subdocument,domain=zdfans.com
 @@&ad_type=$domain=x.jd.com
+@@||itiexue.net/js/tiexue/statistic/wwwindex/ad
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
