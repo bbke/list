@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507142145
-! Last Modified: 2015年07月14日 21:45
+! Version: 201507142215
+! Last Modified: 2015年07月14日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -684,7 +684,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 |http://*/ad.js?sn=
 |http://*/ad.js?v=
 |http://*/gg/
-|http://*/i.js$third-party,domain=~btup.net
 |http://*/js/ad.
 |http://*/js/ad/
 |http://*/js/tc.js
@@ -832,6 +831,9 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
+||jsmbaidu.com^$third-party
+||ta80.com^$third-party
+||toufangke.com^$third-party
 ||ruanwenclub.com^$third-party
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
@@ -8512,7 +8514,6 @@ cwyuni.tw##a[href*="rakuten.tw"]
 btkitty.org,btlibrary.com,diggbt.com##a[href*="simplevpn.us"]
 jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
 cnzol.com##a[href*="zhuan5."]
-btkitty.org##a[href="/forme.php"]
 mopiaoyao.com##a[href="/html/zanzhu.html"]
 cari.com.my##a[href="http://banner.cari.com.my/daybanner/?page=promotion"]
 kdslife.com##a[href="http://club.kdslife.com/thread_1_15_8389777__.html"]
