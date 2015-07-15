@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507152115
-! Last Modified: 2015年07月15日 21:15
+! Version: 201507152215
+! Last Modified: 2015年07月15日 22:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -336,7 +336,6 @@ xingqu.baidu.com,tieba.baidu.com##.thread_recommend
 ||6693.cc^$third-party
 ||6721.com^$third-party
 ||6788787.com^$third-party
-||6dad.com^$third-party
 ||70yx.com^$third-party
 ||74lm.com^$third-party
 ||7794.com^$third-party
@@ -953,6 +952,8 @@ hk.search.auctions.yahoo.com###yauadysmh
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
 ||weareqy.com^$third-party
+||6dad.com^$third-party
+||8ox.cn^$third-party
 |http://p.*.com/view.php?uid=$script,third-party
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
@@ -5459,6 +5460,7 @@ _vmind.qqvideo.tc.qq.com^
 ||avcity.twavtv.com/js/twavt.js
 ||tietuku.com/efc7c0de4f9d6724.jpg
 ||chrome007.com/images/headline.jpg
+||diandianlu.com/js/
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
