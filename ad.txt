@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507172045
-! Last Modified: 2015年07月17日 20:45
+! Version: 201507172145
+! Last Modified: 2015年07月17日 21:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1471,7 +1471,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 /404.safedog.cn/sitedog_stat_new.html
 /950-90.gif$domain=qire213.com
 /?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shcle.com|shclk.com|ttft.in|xhcbb.com|yzhlive.com
-/\/videos\/other\/[0-9]{8}\/([a-z][0-9]|[13579][13579])\//$domain=iqiyi.com
 /^http:\/\/.*?\.\w+$/$xmlhttprequest,domain=tiexue.net
 /^http:\/\/www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf/$domain=iqiyi.com
 /^http:\/\/www\.itjsb\.com\/[a-z0-9A-Z]+\.(gif|jpg)/$domain=itjsb.com
@@ -1580,7 +1579,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 /tres/recommend/*$domain=ifeng.com
 /uniontgm.cmb.
 /upload/gad/*$domain=pbzy.com|shanzhaiben.com
-/videos/other/*.f4v|$domain=iqiyi.com
 /vmind.qqvideo.tc.qq.com^
 /wangyuedeux/imgs/wangzhuano.jpg
 /wangyuedeux/imgs/youlian.png
@@ -5473,10 +5471,13 @@ _vmind.qqvideo.tc.qq.com^
 ||iqiyi.com/common/flashplayer/*/980
 ||i-part.com.tw/hookimg/23892_14367801811.jpg
 ||i-part.com.tw/js2/newShineStar
+||sinaimg.cn/large/68299a77jw1eu2f2opaakg205k05k74r.gif
+||121.40.136.114^*.htm
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+mopiaoyao.com##.context_t
 i-part.com.tw###AdBanner785
 www.tiexue.net##.main > STYLE + DIV[class]
 hc360.com,yaolan.com###AD
