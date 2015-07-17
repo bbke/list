@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507171045
-! Last Modified: 2015年07月17日 10:45
+! Version: 201507171115
+! Last Modified: 2015年07月17日 11:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3487,7 +3487,7 @@ _vmind.qqvideo.tc.qq.com^
 ||iqiyi.com/player/*/a.swf
 ||iqiyi.com/player/*/bannery.swf
 ||iqiyi.com/player/common/adflash
-||iqiyi.com/player/common/rebull_tong
+||iqiyi.com/player/common/rebull
 ||iqiyi.com/player/cupid/*/pageer.swf
 ||iqiyi.com/player/cupid/common/flash980100.swf
 ||iqiyi.com/show2?a=qc_
@@ -4267,7 +4267,7 @@ _vmind.qqvideo.tc.qq.com^
 ||qiyipic.com/common/*/250-230.
 ||qiyipic.com/common/*/250230.
 ||qiyipic.com/common/*/255x205
-||qiyipic.com/common/*/980-
+||qiyipic.com/common/*/980
 ||qiyipic.com/common/*/baiyao.
 ||qiyipic.com/common/*/kehuzhuanqu
 ||qiyipic.com/common/*980x
@@ -4275,7 +4275,7 @@ _vmind.qqvideo.tc.qq.com^
 ||qiyipic.com/common/*tonglan
 ||qiyipic.com/common/20140814/d68d9651bac24228996dd7a19f269d79.png
 ||qiyipic.com/common/20141021/sanjiukehuzhuanqu.jpg
-||qiyipic.com/common/20141112/225x230.jpg
+||qiyipic.com/common/*/225x230.jpg
 ||qiyipic.com/common/20150528/diyizhuanqu.jpg
 ||qiyipic.com/common/fix/dasdasdasdk.jpg
 ||qiyipic.com/common/fix/rebull_
@@ -9289,6 +9289,7 @@ brandsales.58.com#@#div[id^="ad_"]
 !---------------------------------URL Whitelist-------------------------------!
 !@@||pos.baidu.com/acom?$script,subdocument,domain=zdfans.com
 @@&ad_type=$domain=x.jd.com
+@@||tiexue.net/XmlHttp/ReplyDraft.ashx
 @@&ad_width=590&$domain=jd.com
 @@&ad_width=810&$domain=jd.com
 @@.beautifulphoto.net/ads/music
