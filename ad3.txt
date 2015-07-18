@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507181815
-! Last Modified: 2015年07月18日 18:15
+! Version: 201507182015
+! Last Modified: 2015年07月18日 20:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -12610,7 +12610,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||ithome.com/images/v2.1/downsoftmaster.gif
 ||ithome.com/js/win7china.js
 ||ithome.com/js/win8china.js
-||koolearn.com/v2/js/indexAD.js
+||koolearn.com/v2/js/*AD.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||lab.feng.com/images_new/ad-
 ||netease.com^*bobologo
@@ -12635,11 +12635,13 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||wanwan.sina.com.cn/sinasupersport/back/
 ||xcar.com.cn/bbs/adfocus.js
 ||qidian.com/Images/990x40_
+||koolearn.com/www/subject/script/subject_form.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 ||kaoyan.com/global/js/backtopnew.js
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+koolearn.com##.show_ad
 sina.com.cn##.blk_APP_JSl
 sina.com.cn##.blk_APP_JSr
 duba.net###login_alert
@@ -12929,3 +12931,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||dfcfw.com/libs/js/counter.js
 ||eastmoney.com/analysis/
 ||fx678.com/htcount/count.js
+||it168.com/pv.js
+||iciba.com/web/static/scripts/kds2_record.js
