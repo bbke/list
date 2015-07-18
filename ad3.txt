@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507180815
-! Last Modified: 2015年07月18日 08:15
+! Version: 201507180915
+! Last Modified: 2015年07月18日 09:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -4544,7 +4544,6 @@ _vmind.qqvideo.tc.qq.com^
 ||sinaimg.cn/large/68299a77jw1eu2f2opaakg205k05k74r.gif
 ||sinaimg.cn/large/b8c4115djw1els3p1luszg208c06ymzb.jpg
 ||sinaimg.cn/large/d3a48243tw1e9ku3qboj1j207e02aq2y.jpg
-||sinaimg.cn/large/ec7673$domain=acgft.club
 ||sinaimg.cn/large/ed5e6a1djw1eqk0bw8xjsj208c03m0tf.jpg
 ||sinaimg.cn/large/ed5e6a1djw1eqk2p0g0q5j20hs03m3ze.jpg
 ||sinaimg.cn/large/ed5e6a1djw1eqklc2eicfj20r802idh3.jpg
@@ -5357,10 +5356,15 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
+||acgget.com/up/*/715x147
+||acgget.com/up/*/papa
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
+acgft.club##.gtttop
+acgft.club##A[href*=".taobao.com"] > IMG
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
