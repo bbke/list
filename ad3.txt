@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507201615
-! Last Modified: 2015年07月20日 16:15
+! Version: 201507201645
+! Last Modified: 2015年07月20日 16:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1305,6 +1305,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 !------------------------------------Popups-----------------------------------!
 .189.gd^*.html?p=$popup,third-party
 .com/?Intr=$popup
+||jxf75.com^$popup
 /?$popup,domain=allanalpass.com|amy.gs|any.gs|cash4files.com|deb.gs|dyo.gs|filesonthe.net|galleries.bz|goneviral.com|linkbucks.com|megaline.co|miniurls.co|picbucks.com|qqc.co|rqq.co|seriousdeals.net|theseblogs.com|tinylinks.co|tnabucks.com|tubeviral.com|ultrafiles.net|urlbeat.net|whackyvidz.com|yyv.co|zff.co
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
@@ -9365,7 +9366,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@/data/attachment/*_300_250_
 @@/dy_44jjss/topbu.js
 @@/dy_44jjss/zytop1.js
-@@/eroex.js$domain=javfee.com
+@@/eroex.$domain=avmask.net|javfee.com
 @@/FrameWork/AFP/ASP_$domain=mytv365.com
 @@/g.doubleclick.net.js?$domain=serve.netsh.org
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com|tuan.duba.com
