@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507210915
-! Last Modified: 2015年07月21日 09:15
+! Version: 201507211115
+! Last Modified: 2015年07月21日 11:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -9612,8 +9612,7 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||inte.sogou.com/ask?id=$domain=fmdisk.com
 @@||itc.cn/public_photo/advert/$domain=focus.cn
-@@||itiexue.net/js/tiexue/statistic/wwwindex/ad
-@@||itiexue.net/js/tiexue/statistic/wwwindex/gg
+@@||itiexue.net/js/tiexue/statistic/wwwindex/
 @@||itjsb.com/bg.gif
 @@||j.wit.qq.com/sc/crystal_ad.js?$domain=888.sports.qq.com
 @@||jinhongweiqi.com/ad/update/
@@ -9712,8 +9711,8 @@ brandsales.58.com#@#div[id^="ad_"]
 @@||taobao.com^*&adgroupid=
 @@||tenpay.com/v2.0/main/creditcard/portal_rpm_apply.shtml
 @@||tenpay.com^*?ADTAG=
-@@||tiexue.net/post2json_
-@@||tiexue.net/XmlHttp/ReplyDraft.ashx
+@@||tiexue.net/post2
+@@||tiexue.net/xml
 @@||tmall.com/go/*/banner.php
 @@||tompda.com/images/pix.swf
 @@||totheglory.im/pic/ttg_logo.png
@@ -12592,6 +12591,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||dmf8.taobao.com/|$popup,domain=www.tsdm.net
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
+/^http:\/\/.*?\.\w+$/$xmlhttprequest,domain=tiexue.net
 ||reaicomic.com/images/sound2/pm_
 ||neuralstemcell.com.cn/img/js.js
 ||dmzj.com/module/js/float_code.js
@@ -12761,6 +12761,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 @@||feng.com/aodoo3/images/54f86e822ee42.png
 @@/view.php?what=zone:93&$domain=feng.com
 @@/view.php?what=zone:94&$domain=feng.com
+@@||tiexue.net/post2
+@@||tiexue.net/xml
 !--------------------------------Tracking Systems-----------------------------!
 /analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
@@ -12949,3 +12951,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||fx678.com/htcount/count.js
 ||it168.com/pv.js
 ||iciba.com/web/static/scripts/kds2_record.js
+||track.uc.cn^
+||pcpop.com/pv/pv.js
