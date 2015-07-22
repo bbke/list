@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507221415
-! Last Modified: 2015年07月22日 14:15
+! Version: 201507221645
+! Last Modified: 2015年07月22日 16:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -12705,6 +12705,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
+||54kefu.net^$third-party
 ||5etv.com^$third-party
 ||wpa.b.qq.com/cgi/wpa.php?
 ||2005net.net^$third-party
@@ -12724,6 +12725,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 /^http:\/\/.*?\.\w+$/$xmlhttprequest,domain=tiexue.net
+||hc360.com/js/module/info/info_liuliangbao.js
 ||reaicomic.com/images/sound2/pm_
 ||neuralstemcell.com.cn/img/js.js
 ||dmzj.com/module/js/float_code.js
@@ -12776,7 +12778,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||toutiao.haotui.com/data/js/0.js
 ||bjwj2y.com/JS/LsJS.aspx
 ||rjzxw.com/temp/index.files/logo2.gif
-||127.net/external/js6promote.min.js
+||127.net/external/js6promote
 ||naajie.com/float.js
 ||lofter.com/mailEntry.do?blogad
 ||wanwan.sina.com.cn/kb/
