@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507222245
-! Last Modified: 2015年07月22日 22:45
+! Version: 201507230815
+! Last Modified: 2015年07月23日 08:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -953,8 +953,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##script + .sptable[cellpadding="5"]
 !----------------------------------Ads-Union----------------------------------!
 .com/i.php?z=$script,third-party
-||526d.com^$third-party
-||xchgx.com^
 .com/mediaController.php?pid=$script,third-party
 /99vjj/*$third-party
 /adscpc/*
@@ -1048,6 +1046,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||3g.990.net^
 ||4936.cn^$third-party
 ||51ads.com^$third-party
+||526d.com^$third-party
 ||5399.com^$third-party
 ||565882.com^$third-party
 ||58.215.179.159^
@@ -1388,6 +1387,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||wudang05.com^$third-party
 ||xabaitai.com^
 ||xajx.com^$third-party
+||xchgx.com^
 ||xcy8.com^
 ||xdwan.com^$third-party
 ||xp3366.com^$third-party
@@ -1747,7 +1747,9 @@ _vmind.qqvideo.tc.qq.com^
 ||1684.cc/js/1684/
 ||1688.com.au/site1/1688ad/
 ||16888.com/ajax/loadcardata.php
+||168gamer.com/api.php?mod=js&bid=
 ||168gamer.com/static/js/adolg.js
+||168gamer.com/static/js/adtops.js
 ||168gamer.com/static/js/cpa.js
 ||16sucai.com/ads/
 ||16sucai.com/taopic.png
@@ -2817,6 +2819,7 @@ _vmind.qqvideo.tc.qq.com^
 ||dd.xdnice.com^
 ||ddata.over-blog.com^*.gif
 ||dddbbb.net^$script,subdocument
+||ddheli.com/k.js
 ||ddooo.com/ddjs/
 ||ddooo.com/duoduo/
 ||ddooo.com/js/
@@ -3441,6 +3444,7 @@ _vmind.qqvideo.tc.qq.com^
 ||i-part.com.tw/hookimg/23892_14367801811.jpg
 ||i-part.com.tw/images2/index/HouseStar/
 ||i-part.com.tw/js2/newShineStar
+||i.168gamer.com^$image,object
 ||i.168img.com^$image,object
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
 ||i.fgi.tw/images/survey_of_woman
@@ -5490,15 +5494,10 @@ _vmind.qqvideo.tc.qq.com^
 ||zyzczs.com/js/tj.txt
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
-||ddheli.com/k.js
-||i.168gamer.com^$image,object
-||168gamer.com/static/js/adtops.js
-||168gamer.com/api.php?mod=js&bid=
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-168gamer.com##.a_ptad
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -6769,6 +6768,7 @@ ijia360.com##.a.fz0.mb15
 tucao.cc##.a2013d
 0772fang.com##.a_banner
 168gamer.com##.a_fad1
+168gamer.com##.a_ptad
 168gamer.com##.a_tad
 bbs.vpser.net##.ab_pip
 vpser.net##.ab_textlink1
