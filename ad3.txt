@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507240845
-! Last Modified: 2015年07月24日 08:45
+! Version: 201507240945
+! Last Modified: 2015年07月24日 09:45
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1314,7 +1314,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
 /pushstart.aspx?$popup,third-party
-|http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com|yzhlive.com
+|http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|99files.net|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com|yzhlive.com
 ||093game.com^$popup,third-party
 ||1.baidu.com^$popup,domain=douban.com
 ||133gp.com^$popup
@@ -1332,7 +1332,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 ||javjunkies.com/JAV.php$popup
 ||javjunkies.com/JO.php$popup
 ||jjwxc.net/jjad*.html$popup
-||jxf75.com^$popup
 ||kuai.xunlei.com/do_e_mu?data=$popup
 ||moe.005.tv^$popup,third-party
 ||qidian.com/showavd.$popup
