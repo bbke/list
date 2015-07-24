@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507241045
-! Last Modified: 2015年07月24日 10:45
+! Version: 201507241215
+! Last Modified: 2015年07月24日 12:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -1385,7 +1385,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /cari/banner/*
 /cari/daybanner/*
 /comiis_yccs/ads/*
-/config.js$domain=12345xo.com|123gbgb.com|216xx.com|66ctct.com|987abc.com|auau88.com|etet666.com|xbxb123.com|yeyeqi7.com
+/config.js$domain=12345xo.com|123gbgb.com|123ksks.com|216xx.com|66ctct.com|987abc.com|auau88.com|etet666.com|xbxb123.com|yeyeqi7.com
 /cooperation/*$script,subdocument,domain=firefox.huanqiu.com
 /d125.260.gif$domain=btup.net
 /dhfun_ad/*
@@ -4881,7 +4881,6 @@ _vmind.qqvideo.tc.qq.com^
 ||uopera.net/content/uploadfile/201412/f26a1420006500.png
 ||up.hiao.com^
 ||up.qingdaonews.com/up/$object,script
-||upaiyun.com/2014/11/b61e8bb459fc154a606958efcfd3cb28.jpg
 ||upaiyun.com/css88/*/1008
 ||upaiyun.com/css88/*/250
 ||upaiyun.com/css88/*/680
@@ -5381,6 +5380,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+jjxw.cn##.ou_banner
+jjxw.cn##.ru_banner
 junshiqu.com##.pg08
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
