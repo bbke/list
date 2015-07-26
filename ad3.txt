@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507261215
-! Last Modified: 2015年07月26日 12:15
+! Version: 201507261315
+! Last Modified: 2015年07月26日 13:15
 ! Homepage: http://tieba.baidu.com/p/3460075419
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -369,7 +369,6 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ||link.ad966.com^$third-party
 ||lm.35.com^$third-party
 ||love12.tw^$third-party
-||lrswl.com^$third-party
 ||maxreturn.cn^$third-party
 ||meidulm.com^$third-party
 ||molidao.com^$third-party
@@ -5387,6 +5386,7 @@ _vmind.qqvideo.tc.qq.com^
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+6.cn##.min-ad-box
 365kl.net###textAD
 loldk.com##.adv-bg > a > img
 loldk.com##.tools-recommend
@@ -9360,6 +9360,7 @@ house.shangdu.com#@#.top_ad
 yhd.com#@#.txtAd
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
+fsjoy.com#@#.main_adv
 !---------------------------------URL Whitelist-------------------------------!
 !@@||pos.baidu.com/acom?$script,subdocument,domain=zdfans.com
 @@&ad_type=$domain=x.jd.com
