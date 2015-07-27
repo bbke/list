@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201507272245
-! Last Modified: 2015年07月27日 22:45
+! Version: 201507280600
+! Last Modified: 2015年07月28日 06:00
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -51,6 +51,7 @@ xhamster.com##.sponsorBottom
 ||360doc.com/js/showarticlefollow20130912.js
 ||addtoany.com/menu/transparent.gif
 ||analytics.163.com^
+||baifendian.com^$third-party
 ||boom.1ccbt.com/gfra.php?
 ||buysellads.com^$third-party
 ||cache1.value-domain.com/xrea_header.js
@@ -58,7 +59,8 @@ xhamster.com##.sponsorBottom
 ||chat9.jd.com/dd/getDownloadURL.action?
 ||creative.xtendmedia.com^
 ||edge.quantserve.com/quant.js
-||edgecast.cam4s.com/web/js/cam4*.js
+||edgecast.cam4s.com/web/js/Cam4Xtra_*.js
+||edgecast.cam4s.com/web/js/cam4_*.js
 ||etahub.com^$third-party
 ||flashi.tv/histats.php?
 ||forum.xitek.com/xml/flash.swf

@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
 ! Title: [proxy]Filters
 ! Expires: 4 hours
-! Version: 201506261445
-! Last Modified: 2015年06月26日 14:45
-! Homepage: http://tieba.baidu.com/p/3460075419
+! Version: 201507280600
+! Last Modified: 2015年07月28日 06:00
+! Homepage: http://tieba.baidu.com/p/3845689586
 !
 ! 本规则为自用简洁版，欢迎补充规则
 !如有任何疑问、意见或建议，请反馈至：HalfLife吧
@@ -152,6 +152,7 @@ video.yahoo.com
 ||viidii.info
 ||w3p.la
 ||wangyou.com
+||webchat.cam4.com
 ||woyao.cl
 ||www.cam4.
 ||www.idaili.me
