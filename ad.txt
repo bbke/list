@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507281715
-! Last Modified: 2015年07月28日 17:15
+! Version: 201507281745
+! Last Modified: 2015年07月28日 17:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5488,10 +5488,13 @@ _vmind.qqvideo.tc.qq.com^
 ||zzc.cn/b/
 ||zznews.cn/home/js/duilian1.js
 ||youku.com/player.php/sid/XMTI5MTM2ODc3Mg==/v.swf
+||123.sogou.com/nstatic/img/jiao.swf
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+123.sogou.com###engineHotWord
+123.sogou.com##.adword > A
 kikinote.com##.pc_ad
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.activity_iframe_container
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.head_middle > DIV[class]:first-child
@@ -5755,7 +5758,6 @@ aibang.com###advBottomBox
 szonline.net###adv_focus
 360kan.com###advert_stack_0
 qq.com###advertisement
-sogou.com###adword
 mtime.com###animation_lu
 qzone.qq.com###appCanvasRecentAppActivity > .activity-area
 qzone.qq.com###appCanvasRightBottomTips
@@ -5845,7 +5847,6 @@ lightnovel.cn###category_lk
 weather.com.cn###ccs
 jbtalks.cc###center-popup-bg
 jbtalks.cc###center-popup-show
-123.sogou.com###center_1
 huarenjie.com###cftoutiao
 nhaidu.com###change_1
 nhaidu.com###change_1 + .rowa
@@ -6182,7 +6183,6 @@ zongheng.com###index_game
 tiboo.cn###index_idlm
 popgo.org###index_rads
 poxiao.com###indextopleft > .content > ul > li:first-child
-123.sogou.com###infb_4
 loveshang.com###infobox + div[style="margin:0 auto 5px;width:980px;"]
 xxsy.net###infoleftad_1
 xxsy.net###infoleftad_2
