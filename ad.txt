@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201507291645
-! Last Modified: 2015年07月29日 16:45
+! Version: 201507292145
+! Last Modified: 2015年07月29日 21:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -9478,6 +9478,7 @@ house.shangdu.com#@#.top_ad
 yhd.com#@#.txtAd
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
+perfectmatch.tw#@#.right_ad
 !---------------------------------URL Whitelist-------------------------------!
 !-----------------------------Malware Domains rules---------------------------!
 ||146.148.85.61^
@@ -12281,6 +12282,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||crs.baidu.com^
 ||tui.cnzz.com^$third-party
 ||lxbjs.baidu.com^$third-party
+||tanx.com/ex?i=$third-party
 ||goutong.baidu.com^
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
@@ -12296,7 +12298,6 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||neuralstemcell.com.cn/img/js.js
 ||dmzj.com/module/js/float_code.js
 ||wumii.cn/ext/relatedItemsWidget
-||sinajs.cn/t6/home/js/pl/guide/bigday/index.js
 ||c-ctrip.com/ResUnionOnline/R3/float/floating_normal.min.js
 ||tq.cn/floatcard?
 ||lofter.com/blogPhotoAd?
@@ -12356,8 +12357,11 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||kaoyan.com/global/js/backtopnew.js
 ||sinaimg.cn/large/a518ed97jw1eu4mxubbe6j209q01e3ys.jpg
 ||eduuu.com/gaokao/2015/bannerDaili.js
+||baike.com/newtop/news.html
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
+baike.com###newsfix-on
 loldk.com##A[href$=".html?from=video_right"]
 koolearn.com##.show_ad
 sina.com.cn##.blk_APP_JSl
