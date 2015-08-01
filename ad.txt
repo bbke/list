@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508012045
-! Last Modified: 2015年08月01日 20:45
+! Version: 201508020600
+! Last Modified: 2015年08月02日 06:00
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -136,6 +136,7 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ! 屏蔽一些图片和脚本
 */img/history_game/$domain=tieba.baidu.com
 */widget/spage_game_tab/$domain=tieba.baidu.com
+@@/advertise_$domain=tieba.baidu.com
 ||wanba.baidu.com
 ||screenshot.dwstatic.com^
 ||yy.com^$domain=tieba.baidu.com
@@ -177,13 +178,9 @@ yun.baidu.com,pan.baidu.com###uploadExceptionMsgContainer, .upload-bar, .feed-is
 ! i贴吧&主页
 xingqu.baidu.com,tieba.baidu.com###adide_platform
 xingqu.baidu.com,tieba.baidu.com###media_item
-xingqu.baidu.com,tieba.baidu.com###spage_liveshow_slide
-xingqu.baidu.com,tieba.baidu.com###spage_game_tab_wrapper
-xingqu.baidu.com,tieba.baidu.com###plat_act_wrapper
-xingqu.baidu.com,tieba.baidu.com##.ihome_aside_first
+xingqu.baidu.com,tieba.baidu.com##.ihome_aside_section[j-mygift]
 xingqu.baidu.com,tieba.baidu.com##.ihome_game_group
 xingqu.baidu.com,tieba.baidu.com##.member_rank
-xingqu.baidu.com,tieba.baidu.com##.tshow_out_date_warn
 xingqu.baidu.com,tieba.baidu.com##.top-sec.clearfix
 xingqu.baidu.com,tieba.baidu.com##.userinfo_scores
 ! 右上角
@@ -194,24 +191,20 @@ xingqu.baidu.com,tieba.baidu.com##.u_appcenterEntrance
 xingqu.baidu.com,tieba.baidu.com##.u_bdhome
 xingqu.baidu.com,tieba.baidu.com##.u_game
 xingqu.baidu.com,tieba.baidu.com##.u_joinvip
-xingqu.baidu.com,tieba.baidu.com##.u_mytbmall
 xingqu.baidu.com,tieba.baidu.com##.u_split
 xingqu.baidu.com,tieba.baidu.com##.u_menu_tbmall
-xingqu.baidu.com,tieba.baidu.com##.u_wallet
+xingqu.baidu.com,tieba.baidu.com##.u_mytbmall
 xingqu.baidu.com,tieba.baidu.com##.u_xiu8
+xingqu.baidu.com,tieba.baidu.com##.u_wallet
 ! 顶部
-xingqu.baidu.com,tieba.baidu.com###activity_nav_barrage_spring_enter
-xingqu.baidu.com,tieba.baidu.com##.interviewZero
 xingqu.baidu.com,tieba.baidu.com###j_navtab_wanle
 xingqu.baidu.com,tieba.baidu.com###j_navtab_game
+xingqu.baidu.com,tieba.baidu.com###threadListGroupCnt
 xingqu.baidu.com,tieba.baidu.com##.icon_group
-xingqu.baidu.com,tieba.baidu.com##.icon_yyshow
-xingqu.baidu.com,tieba.baidu.com##.star_nav_ico_group
-! 右侧
-xingqu.baidu.com,tieba.baidu.com###creativeplatform-datarecommend
+! 两侧
 xingqu.baidu.com,tieba.baidu.com###tieba-notice.region_bright
+xingqu.baidu.com,tieba.baidu.com##.app_forum_rank_float
 xingqu.baidu.com,tieba.baidu.com##.aside_region.celebrity
-xingqu.baidu.com,tieba.baidu.com##.platform_aside_module
 xingqu.baidu.com,tieba.baidu.com##.platform_aside_tieba_partner
 xingqu.baidu.com,tieba.baidu.com##.profile_bottom
 xingqu.baidu.com,tieba.baidu.com##.region_bright.celebrity
@@ -224,21 +217,14 @@ xingqu.baidu.com,tieba.baidu.com##.user_score
 xingqu.baidu.com,tieba.baidu.com###top_activity
 xingqu.baidu.com,tieba.baidu.com##.achievement_medal_wrapper
 xingqu.baidu.com,tieba.baidu.com##.card_userinfo_honor
-xingqu.baidu.com,tieba.baidu.com##.guessing_watermark
-xingqu.baidu.com,tieba.baidu.com##.icon_pre
+xingqu.baidu.com,tieba.baidu.com##.fav-wrapper
+xingqu.baidu.com,tieba.baidu.com##.icon_author
+xingqu.baidu.com,tieba.baidu.com##.icon_replyer
 xingqu.baidu.com,tieba.baidu.com##.icon_wrap
 xingqu.baidu.com,tieba.baidu.com##.icon_tbworld
-xingqu.baidu.com,tieba.baidu.com##.j_nameplate
 xingqu.baidu.com,tieba.baidu.com##.l_post.l_post_bright[data-field*="\"user_name\":\"\\u623f\\u4ea7"]
-xingqu.baidu.com,tieba.baidu.com##.mobile_res
-xingqu.baidu.com,tieba.baidu.com##.reward_title
-xingqu.baidu.com,tieba.baidu.com##.reward_panel_wrap
 xingqu.baidu.com,tieba.baidu.com##.save_face_bg
 xingqu.baidu.com,tieba.baidu.com##.share_btn_wrapper
-xingqu.baidu.com,tieba.baidu.com##.sofa_front_list_wrap
-xingqu.baidu.com,tieba.baidu.com##.thread_recommend_ps
-xingqu.baidu.com,tieba.baidu.com##.threadListGroupCnt_bright
-xingqu.baidu.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
 xingqu.baidu.com,tieba.baidu.com###bdshare
 xingqu.baidu.com,tieba.baidu.com###forum_recommend
@@ -246,12 +232,8 @@ xingqu.baidu.com,tieba.baidu.com###guide_fc
 xingqu.baidu.com,tieba.baidu.com###xiu8_follow_warn
 xingqu.baidu.com,tieba.baidu.com##.add_guessing_btn
 xingqu.baidu.com,tieba.baidu.com##.edui-btn-paypost
-xingqu.baidu.com,tieba.baidu.com##.edui-btn-quick-reply
-xingqu.baidu.com,tieba.baidu.com##.edui-editor-msg
-xingqu.baidu.com,tieba.baidu.com##.edui-icon-voice
 xingqu.baidu.com,tieba.baidu.com##.edui-icon-medal
-xingqu.baidu.com,tieba.baidu.com##.save-to-quick-reply-btn
-xingqu.baidu.com,tieba.baidu.com##.poster_head_surveillance
+xingqu.baidu.com,tieba.baidu.com##.j_surveillance
 xingqu.baidu.com,tieba.baidu.com##.thread_recommend
 ! EasyList China
 !189.cn
