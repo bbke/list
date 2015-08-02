@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201508020945
-! Last Modified: 2015年08月02日 09:45
+! Version: 201508021045
+! Last Modified: 2015年08月02日 10:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -6238,8 +6238,8 @@ image.baidu.com###only-lady-sec
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###op_wiseapp
 ifeng.com###optimusPrimeContentId
 jiyingdm.com###otherWindowBox
-zimuzu.tv###output > li > a[href^="http"]:not([href^="http://www.zimuzu."])
-zimuzu.tv###output > li > a[href^="http"]:not([href^="http://www.zimuzu."]) + h2
+zimuzu.tv###output > LI > A[href^="http"]:not([href^="http://www.zimuzu.tv/resource/"])
+zimuzu.tv###output > LI > A[href^="http"]:not([href^="http://www.zimuzu.tv/resource/"]) + h2
 dnvod.eu###outwin
 lalulalu.com###overture-side-bar-ads
 3boys2girls.com###overture_ads_long
