@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508021645
-! Last Modified: 2015年08月02日 16:45
+! Version: 201508022345
+! Last Modified: 2015年08月02日 23:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1414,7 +1414,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
 /pushstart.aspx?$popup,third-party
-|http:$popup,third-party,domain=400gb.com|bego.cc|ctfile.com|pipipan.com
 |http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|99files.net|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com|yzhlive.com
 ||093game.com^$popup,third-party
 ||1.baidu.com^$popup,domain=douban.com
@@ -5502,7 +5501,7 @@ _vmind.qqvideo.tc.qq.com^
 ||668vv.net/Runtime/js/*ad
 ||668vv.net/Uploads/ad/
 ||51t.com^$subdocument
-|http:$subdocument,domain=400gb.com|bego.cc|ctfile.com|pipipan.com
+||fulisuo.com/Plug/GG.asp?id=
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 btkitty.la##A[href^="/search/"]
