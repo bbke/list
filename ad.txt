@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508021215
-! Last Modified: 2015年08月02日 12:15
+! Version: 201508021245
+! Last Modified: 2015年08月02日 12:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -219,6 +219,7 @@ xingqu.baidu.com,tieba.baidu.com##.user_score
 xingqu.baidu.com,tieba.baidu.com###top_activity
 xingqu.baidu.com,tieba.baidu.com##.achievement_medal_wrapper
 xingqu.baidu.com,tieba.baidu.com##.card_userinfo_honor
+xingqu.baidu.com,tieba.baidu.com##.d_nameplate
 xingqu.baidu.com,tieba.baidu.com##.fav-wrapper
 xingqu.baidu.com,tieba.baidu.com##.icon_author
 xingqu.baidu.com,tieba.baidu.com##.icon_replyer
@@ -227,6 +228,7 @@ xingqu.baidu.com,tieba.baidu.com##.icon_tbworld
 xingqu.baidu.com,tieba.baidu.com##.l_post.l_post_bright[data-field*="\"user_name\":\"\\u623f\\u4ea7"]
 xingqu.baidu.com,tieba.baidu.com##.save_face_bg
 xingqu.baidu.com,tieba.baidu.com##.share_btn_wrapper
+xingqu.baidu.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
 xingqu.baidu.com,tieba.baidu.com###bdshare
 xingqu.baidu.com,tieba.baidu.com###forum_recommend
@@ -1411,6 +1413,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /BadwebRemindPage.aspx?param=$popup,third-party
 /pushportal/PushPortalServer$popup,third-party
 /pushstart.aspx?$popup,third-party
+|http:$popup,third-party,domain=400gb.com|bego.cc|ctfile.com|pipipan.com
 |http:$popup,third-party,domain=520ccc.cc|5278.cc|5278bbs.com|67.212.233.37|99files.net|bforu.info|downp2p.com|dwbpy.com|jandown.com|jxedt.com|kxddd.com|lamp99.com|mimima.com|rmdown.com|scokl.com|see3r.com|shcle.com|shclk.com|tenitt.info|ttft.in|xhcbb.com|xunfs.com|yzhlive.com
 ||093game.com^$popup,third-party
 ||1.baidu.com^$popup,domain=douban.com
@@ -5498,6 +5501,7 @@ _vmind.qqvideo.tc.qq.com^
 ||668vv.net/Runtime/js/*ad
 ||668vv.net/Uploads/ad/
 ||51t.com^$subdocument
+|http:$subdocument,domain=400gb.com|bego.cc|ctfile.com|pipipan.com
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 zimuzu.tv###ad1

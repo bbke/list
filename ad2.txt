@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters Lite
 ! Expires: 4 hours
-! Version: 201508021145
-! Last Modified: 2015年08月02日 11:45
+! Version: 201508021245
+! Last Modified: 2015年08月02日 12:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自xwhycadblock，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -219,6 +219,7 @@ xingqu.baidu.com,tieba.baidu.com##.user_score
 xingqu.baidu.com,tieba.baidu.com###top_activity
 xingqu.baidu.com,tieba.baidu.com##.achievement_medal_wrapper
 xingqu.baidu.com,tieba.baidu.com##.card_userinfo_honor
+xingqu.baidu.com,tieba.baidu.com##.d_nameplate
 xingqu.baidu.com,tieba.baidu.com##.fav-wrapper
 xingqu.baidu.com,tieba.baidu.com##.icon_author
 xingqu.baidu.com,tieba.baidu.com##.icon_replyer
@@ -227,6 +228,7 @@ xingqu.baidu.com,tieba.baidu.com##.icon_tbworld
 xingqu.baidu.com,tieba.baidu.com##.l_post.l_post_bright[data-field*="\"user_name\":\"\\u623f\\u4ea7"]
 xingqu.baidu.com,tieba.baidu.com##.save_face_bg
 xingqu.baidu.com,tieba.baidu.com##.share_btn_wrapper
+xingqu.baidu.com,tieba.baidu.com##.user_card_vip_tips
 ! 底部
 xingqu.baidu.com,tieba.baidu.com###bdshare
 xingqu.baidu.com,tieba.baidu.com###forum_recommend
