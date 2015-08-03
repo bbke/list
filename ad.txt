@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508030020
-! Last Modified: 2015年08月03日 00:20
+! Version: 201508031645
+! Last Modified: 2015年08月03日 16:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -1456,6 +1456,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /2tu/ads/*
 /2tu/heisiwang.js
 /404.safedog.cn/sitedog_stat_new.html
+/52meiju_700_90.jpg
 /950-90.gif$domain=qire213.com
 /?age=1&$domain=dwbpy.com|kxddd.com|scokl.com|see3r.com|shcle.com|shclk.com|ttft.in|xhcbb.com|yzhlive.com
 /^http:\/\/www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf/$domain=iqiyi.com
@@ -1562,6 +1563,7 @@ hk.search.auctions.yahoo.com###yauadysmh
 /tb780x90.gif$domain=btmee.com|btmee.net
 /the_top$domain=28188.com|28188.net
 /tonghuacun/skin/zxf/kan_hree.js
+/Tpl/k248/dd.js
 /tres/recommend/*$domain=ifeng.com
 /uniontgm.cmb.
 /upload/gad/*$domain=pbzy.com|shanzhaiben.com
@@ -1954,6 +1956,7 @@ _vmind.qqvideo.tc.qq.com^
 ||51img1.com^$domain=hdscg.com|v8gay.com
 ||51netu.com.cn/index.php/index/advShow?adpid=
 ||51ou.com/images/taoping
+||51t.com^$subdocument
 ||51test.net/baiduunion/
 ||51test.net/js_new/*_banner.js
 ||51test.net/js_new/*_content_down.js
@@ -2066,6 +2069,8 @@ _vmind.qqvideo.tc.qq.com^
 ||66384.com/templets/SWFad
 ||6665432.com^*.gif
 ||666kv.com/adstaic/
+||668vv.net/Runtime/js/*ad
+||668vv.net/Uploads/ad/
 ||66e.cc/d/$script
 ||66hbo.com/images/new1/uploads/index_banner/*.gif$~collapse
 ||66hbo.com/images/new1/uploads/index_banner/*.jpg
@@ -2665,7 +2670,6 @@ _vmind.qqvideo.tc.qq.com^
 ||chuixue.com/jsa/
 ||chuixue.com/template/*/images/g_js/show_
 ||chunxiao.tv/1.aspx
-/52meiju_700_90.jpg
 ||cilook.net/cilookinc/isee5_950x60.gif
 ||cishuge.com/static/js/xiaoshuo.js
 ||citysbs.com/no/*/1190x60-
@@ -3076,6 +3080,7 @@ _vmind.qqvideo.tc.qq.com^
 ||ftchinese.com/m/marketing/ad.html
 ||fububu.com/zb_users/THEME/LuSongSong/style/ads/
 ||fulidang.com/ads/
+||fulisuo.com/Plug/GG.asp?id=
 ||fulitie.org/wp-content/themes/D8_4.0/js/guanbi-no.js
 ||fumanhua.com/template/*/images/g_js/$subdocument
 ||fun.ynet.com^
@@ -3792,7 +3797,6 @@ _vmind.qqvideo.tc.qq.com^
 ||jznews.com.cn/js/topad
 ||k.youku.com^$domain=flvcd.com
 ||k248.com/Runtime/js/*ad
-/Tpl/k248/dd.js
 ||k618.cn/gg$image
 ||k618.cn/tlgg/
 ||k7mm.com/js/t*.js
@@ -5497,17 +5501,8 @@ _vmind.qqvideo.tc.qq.com^
 ||zznews.cn/home/js/duilian1.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
-||668vv.net/Runtime/js/*ad
-||668vv.net/Uploads/ad/
-||51t.com^$subdocument
-||fulisuo.com/Plug/GG.asp?id=
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-btkitty.la##A[href^="/search/"]
-zimuzu.tv###ad1
-zimuzu.tv###ad2
-668vv.net###haoetv
-668vv.net###haoetv1
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -5641,9 +5636,9 @@ yeyou.com###ad-yeyou-nitifiction
 price.com.hk###ad0
 cncrk.com,downxia.com###ad04
 downxia.com###ad05
-90oo.com,etest8.com,eworldship.com,hntobacco.com,im286.com,price.com.hk,xyfdcw.com.cn,ylnet.com.cn,zbgl.net###ad1
+90oo.com,etest8.com,eworldship.com,hntobacco.com,im286.com,price.com.hk,xyfdcw.com.cn,ylnet.com.cn,zbgl.net,zimuzu.tv###ad1
 gamebase.com.tw###ad160_top
-00sy.com,eworldship.com,junshiqu.com,rshhy.com,wanshuge.net,wanshulou.com,xyfdcw.com.cn,yinsha.com###ad2
+00sy.com,eworldship.com,junshiqu.com,rshhy.com,wanshuge.net,wanshulou.com,xyfdcw.com.cn,yinsha.com,zimuzu.tv###ad2
 xfastest.com###ad270scupio
 mao-123.com,mengmao.org,rshhy.com,xinhuanet.com,yinsha.com###ad3
 xinhuanet.com###ad4
@@ -6134,7 +6129,8 @@ hao123.com###guesslikesite
 hao123.com###guesslikesite-block
 www.gxorg.com###h
 hao123.com###hao123-gw11
-k248.com###haoetv
+668vv.net,k248.com###haoetv
+668vv.net###haoetv1
 macd.cn###hbad
 coolaler.com###hd
 ithome.com###hd_float
@@ -6348,8 +6344,8 @@ image.baidu.com###only-lady-sec
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###op_wiseapp
 ifeng.com###optimusPrimeContentId
 jiyingdm.com###otherWindowBox
-zimuzu.tv###output > LI > A[href^="http"]:not([href^="http://www.zimuzu.tv/resource/"])
-zimuzu.tv###output > LI > A[href^="http"]:not([href^="http://www.zimuzu.tv/resource/"]) + h2
+zimuzu.tv###output > li > a[href^="http"]:not([href^="http://www.zimuzu.tv/resource/"])
+zimuzu.tv###output > li > a[href^="http"]:not([href^="http://www.zimuzu.tv/resource/"]) + h2
 dnvod.eu###outwin
 lalulalu.com###overture-side-bar-ads
 3boys2girls.com###overture_ads_long
@@ -8760,7 +8756,7 @@ open-open.com##a[href="http://www.miniui.com/demo/#src=datagrid/celledit.html"]
 btmee.net##a[href="http://www.tk001.com/?btmee"]
 xiadele.com##a[href="http://yun.banjiajia.com"]
 1024gc.com,1024gc.info,1024gc.net,1024gc.org,1024gongchang.com,1024gongchang.info,1024gongchang.net,1024gongchang.org,1024hegongchang.com,1024hegongchang.info,1024hegongchang.net,1024hegongchang.org,1024hgc.com,1024hgc.info,1024hgc.net,1024hgc.org##a[href^="/ad/"]
-btkitty.me##a[href^="/search/"]
+btkitty.la,btkitty.me##a[href^="/search/"]
 mobile01.com##a[href^="adredir.php"]
 17kqw.com##a[href^="gg.php?"]
 3g.tianya.cn,m.tianya.cn##a[href^="http://3g.tianya.cn/g/ad."]
@@ -9440,7 +9436,7 @@ mucanwenxue.com#@#.ad250
 apk.tw#@#.ad300
 szonline.net#@#.ad310
 012.tw#@#.ad728
-2kk.cc,520tingshu.com,580k.com#@#.ad960
+2kk.cc,520tingshu.com,580k.com,668vv.net#@#.ad960
 xuduba.com#@#.ad980
 189.cn,czbj.js.cn#@#.adArea
 xa.house365.com#@#.adBox
@@ -9505,7 +9501,6 @@ house.shangdu.com#@#.top_ad
 yhd.com#@#.txtAd
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
-668vv.net#@#.ad960
 !---------------------------------URL Whitelist-------------------------------!
 !-----------------------------Malware Domains rules---------------------------!
 ||146.148.85.61^
