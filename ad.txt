@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508051845
-! Last Modified: 2015年08月05日 18:45
+! Version: 201508051915
+! Last Modified: 2015年08月05日 19:15
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -3842,7 +3842,6 @@ _vmind.qqvideo.tc.qq.com^
 ||ktzhk.com/plugins/cache_template/adv_3b2g.js
 ||ku6.com/c2014/1521/s200628414/index.shtml
 ||ku6cdn.com/comm/v/0.1.0/mm.png
-||ku6img.com/data2/p10/cms/2014/12/4/pic_1417659082299.png
 ||kuaihei.com/js/980
 ||kuaihei.com/js/view.js
 ||kuaihei.com/js/xiazaishang.js
@@ -4788,7 +4787,6 @@ _vmind.qqvideo.tc.qq.com^
 ||stats.chinaz.com/tool/
 ||stcn.com/common/flash/aigu.swf
 ||stheadline.com/*banner$script
-||stheadline.com/js/dfp_ads/
 ||stheadline.com^*/right_promo.js
 ||stnn.cc/images/xy/*80px
 ||stnn.cc/images/xy/*x80$image,object
@@ -8142,7 +8140,6 @@ zhcw.com##.news_blanck
 auto-online.com.tw##.news_content > div[style="width:728px;margin:10px auto"]
 tianqi.com##.news_ggimg
 wfcmw.cn##.news_top_ad2
-backchina.com,news.cn2che.com##.newsad
 mitbbs.ca,mitbbs.com##.newskuang2
 icnkr.com##.newsmainbox_midder_top
 022net.com##.newssidead
