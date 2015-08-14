@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508142015
-! Last Modified: 2015年08月14日 20:15
+! Version: 201508142045
+! Last Modified: 2015年08月14日 20:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -5546,9 +5546,11 @@ _yad_jsonp_
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 ||bestvogue.com/fans/
+||ecmb.bdimg.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 wenku.baidu.com##.tiger-gkStudyCard-dialog
+ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_right > TABLE > TBODY > TR > TD > table
 btkitty.la,btkitty.me,btkitty.org,btlibrary.com,btlibrary.org,diggbt.com,diggbt.net,storebt.com##a[href^="/search/"],a[onclick][target="_blank"],a[style],a[href$=".php"],[id] > a[href$=".html"],[onclick*="("]
 loorin.com##.portal_block_summary > A[href^="http"]:not([href^="http://www.loorin."])
 hc360.com,yaolan.com###AD
