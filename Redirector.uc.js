@@ -8,7 +8,7 @@
 // @downloadURL     http://git.oschina.net/halflife/list/raw/master/Redirector.uc.js
 // @startup         Redirector.init();
 // @shutdown        Redirector.destroy(true);
-// @version         15.06.12.11
+// @version         15.08.14.18
 // ==/UserScript==
 (function() {
     Cu.import("resource://gre/modules/XPCOMUtils.jsm");
@@ -53,9 +53,9 @@
     to: "://fonts-gstatic.lug.ustc.edu.cn/$1",
     regex: true
 },{
-    name: "Google统计和tag >> mingto.tk",
+    name: "Google统计和tag >> mingto.coding.io",
     from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices|googleadservices)\.com\/([\w]+\/)*([\w]+(\.[\w]+)?)/i,
-    to: "http://www.minggo.cf/cdn/google/$4",
+    to: "http://minggo.coding.io/cdn/google/$4",
     regex: true
 },{
     name: "sourceforge >> 镜像站点",

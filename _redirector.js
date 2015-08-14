@@ -35,9 +35,9 @@ rules = [{
     to: "://fonts-gstatic.lug.ustc.edu.cn/$1",
     regex: true
 },{
-    name: "Google统计和tag >> mingto.tk",
+    name: "Google统计和tag >> mingto.coding.io",
     from: /^https?:\/\/(.*?)(google-analytics|googletagmanager|googletagservices|googleadservices)\.com\/([\w]+\/)*([\w]+(\.[\w]+)?)/i,
-    to: "http://www.minggo.cf/cdn/google/$4",
+    to: "http://minggo.coding.io/cdn/google/$4",
     regex: true
 },{
     name: "sourceforge >> 镜像站点",
