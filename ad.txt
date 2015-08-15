@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508150615
-! Last Modified: 2015年08月15日 06:15
+! Version: 201508150815
+! Last Modified: 2015年08月15日 08:15
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -2505,6 +2505,7 @@ _yad_jsonp_
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/mo/adm_iframe.htm?
 ||besc.baidustatic.com^
+||bestvogue.com/fans/
 ||bestxl.com/langzi/0403/ld.jpg
 ||bforu.info/03.jpg
 ||bh111.com/flash/*+
@@ -3008,6 +3009,7 @@ _yad_jsonp_
 ||ebrun.com/jfile/position/js/*.js
 ||ebuk.cn/d/file/p/20131102/01e3e09c7c0677dc0a3d0115da4517eb.jpg
 ||ecma.bdimg.com^
+||ecmb.bdimg.com^
 ||edu03.com/data/js.php?id=
 ||edu24ol.com/web_news/images/cj_news.jpg
 ||edu24ol.com/web_news/js/1100.jpg
@@ -5545,16 +5547,8 @@ _yad_jsonp_
 ||zznews.cn/home/js/duilian1.js
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
-||bestvogue.com/fans/
-||ecmb.bdimg.com^
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
-miercn.com##.content7
-bejson.com##.validateButtons > .right
-wenku.baidu.com##.tiger-gkStudyCard-dialog
-ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_right > TABLE > TBODY > TR > TD > table
-btkitty.la,btkitty.me,btkitty.org,btlibrary.com,btlibrary.org,diggbt.com,diggbt.net,storebt.com##a[href^="/search/"],a[onclick][target="_blank"],a[style],a[href$=".php"],[id] > a[href$=".html"],[onclick*="("]
-loorin.com##.portal_block_summary > A[href^="http"]:not([href^="http://www.loorin."])
 hc360.com,yaolan.com###AD
 21yq.com,yaolan.com###AD1
 itavcn.com###ADE
@@ -5967,6 +5961,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [id*="00"]:not([id=
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > [id*="00"]:not([id="100"]) > ul
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_left > div:not([id]) > div[id][data-rendered="true"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_right > table > tbody > tr > td > div:not(#con-ar)
+ipv6.baidu.com,www.baidu.com,www1.baidu.com###content_right > table > tbody > tr > td > table
 aa25.cn###content_top
 jb51.net###contsec
 qq.com###coo_qqBrowser
@@ -7470,6 +7465,7 @@ yunkeji.com##.content > p:nth-last-of-type(2)
 yunkeji.com##.content > p:nth-last-of-type(3)
 downg.com##.content.ad-b950x50
 ptbus.com##.content14
+miercn.com##.content7
 news.580k.com##.contentAD
 jstv.com##.content_gg
 xxs8.com##.content_left_adv
@@ -8279,6 +8275,7 @@ play.jb51.net##.playtlbdx
 19lou.com##.pop-ad
 qzone.qq.com##.pop-app-list-c
 anzhuo365.com,pzzc.net##.portal_block_summary
+loorin.com##.portal_block_summary > a[href^="http"]:not([href^="http://www.loorin."])
 iplaysoft.com##.post > center
 verygoogle.com##.post-content > p:first-child
 ihacksoft.com,ipc.me##.post-top-gg
@@ -8561,6 +8558,7 @@ cnool.net##.third-banner
 jbtalks.cc##.threadad
 cndesign.com##.throughAdPic
 iqiyi.com##.thumbnail_item[href^="http:"]:not([href^="http://www.iqiyi.com/"])
+wenku.baidu.com##.tiger-gkStudyCard-dialog
 wenku.baidu.com##.tiger-vip-dialog
 mail.qq.com##.tipbook-top
 3gsc.com.cn##.tipsA
@@ -8662,6 +8660,7 @@ tv.sohu.com##.us_right
 ifeng.com##.v-adbox
 0598yu.com##.v1100_ad
 iciba.com##.vRecomm
+bejson.com##.validateButtons > .right
 longzhu.com,plu.cn##.video-ad1
 longzhu.com##.video-ad2
 ck101.com##.videoADImg
@@ -8819,6 +8818,7 @@ open-open.com##a[href="http://www.miniui.com/demo/#src=datagrid/celledit.html"]
 btmee.net##a[href="http://www.tk001.com/?btmee"]
 xiadele.com##a[href="http://yun.banjiajia.com"]
 1024gc.com,1024gc.info,1024gc.net,1024gc.org,1024gongchang.com,1024gongchang.info,1024gongchang.net,1024gongchang.org,1024hegongchang.com,1024hegongchang.info,1024hegongchang.net,1024hegongchang.org,1024hgc.com,1024hgc.info,1024hgc.net,1024hgc.org##a[href^="/ad/"]
+btkitty.la,btkitty.me,btkitty.org,btlibrary.com,btlibrary.org,diggbt.com,diggbt.net,storebt.com##a[href^="/search/"],a[onclick][target="_blank"],a[style],a[href$=".php"],[id] > a[href$=".html"],[onclick*="("]
 mobile01.com##a[href^="adredir.php"]
 17kqw.com##a[href^="gg.php?"]
 3g.tianya.cn,m.tianya.cn##a[href^="http://3g.tianya.cn/g/ad."]
