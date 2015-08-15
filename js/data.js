@@ -34,7 +34,7 @@ var Config = getMStr(function(){
 	BookLink, http://booklink.me/, img/web/booklink.ico
 综合
 	百度首页, http://www.baidu.com/, img/web/baidu.ico
-	分站, http://www.minggo.tk/, img/web/minggo.ico
+	分站, http://minggo.coding.io, img/web/minggo.ico
 	搜图标, http://www.easyicon.net/, img/web/easyicon.png
 	酷安网, http://www.coolapk.com/, img/web/coolapk.ico
 	网易云音乐, http://music.163.com/, img/web/music.ico
