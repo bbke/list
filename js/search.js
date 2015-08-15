@@ -1,6 +1,6 @@
 var search_zh_cn = {
 	"web":[
-		{"name":"百度","url":"http://www.baidu.com/s?ie=utf8&wd="},
+		{"name":"百度","url":"https://www.baidu.com/s?wd="},
 		{"name":"谷歌","url":"http://www.google.com/search?q="},
 		{"name":"必应","url":"http://www.bing.com/search?mkt=zh-cn&q="},
 		{"name":"维基","url":"https://zh.wikipedia.org/zh-cn/Special:搜索?search="}
