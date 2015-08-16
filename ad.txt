@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508160945
-! Last Modified: 2015年08月16日 09:45
+! Version: 201508161115
+! Last Modified: 2015年08月16日 11:15
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4946,7 +4946,6 @@ _yad_jsonp_
 ||tietuku.com/0bb9bfe57636dc55.jpg
 ||tietuku.com/0f65751b4e0f0ce6.gif
 ||tietuku.com/bd75a2d8aa0d4c86.jpg
-||tietuku.com/efc7c0de4f9d6724.jpg
 ||tietuku.com^$domain=5ydj.com|99re.city|99re.net|99re8.com|btshark.org|potplayer.org|qqjishu.net|souxue8.net|totuwo.com|xiaodaoyl.com
 ||tietuku.com^*.gif$domain=lightnovel.cn
 ||tiexue.net/domain-policy/
@@ -5561,6 +5560,7 @@ _yad_jsonp_
 ||fullyu.com/js-lib/jquery.modal.
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+linovel.com###J_ad_
 letv.com##.adv_img
 letv.com##.broadcast-adv
 fullyu.com##.content-ads
