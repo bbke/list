@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201508172045
-! Last Modified: 2015年08月17日 20:45
+! Version: 201508172315
+! Last Modified: 2015年08月17日 23:15
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -3812,9 +3812,6 @@ _yad_jsonp_
 ||langya.cn/images/ad_down.js
 ||lanrenzhijia.com/uploads/ibeifeng
 ||lanxicy.com/images/rili.gif
-||lanyes.org/content/templates/default/images/no
-||lanyes.org/content/uploadfile/10086china.gif
-||lanyes.org/content/uploadfile/jishulianmeng.gif
 ||laogu.com/laogubbs/my/
 ||laogu.com/my/ad
 ||laoyuegou.com/img/*/banner/
@@ -5330,7 +5327,7 @@ _yad_jsonp_
 ||yubei8.com/boximg/
 ||yubei8.com/img/
 ||yunaw.com/content/templates/yunaw/images/2345banner
-||yundasys.com^*/ad.html
+||yundasys.com:1602/wsd/ykjcx/
 ||yundianb.com/hao/
 ||yundianb.com/tu/jia.gif
 ||yunfile.com^*/offline_banner/
@@ -6232,7 +6229,6 @@ my0511.com###lphybbschklogdiv
 pingpang.info###lwc
 haosou.com###ly-yaopin > .content
 playno1.com###m12
-lanyes.org###m_banner
 baike.baidu.com###mabox
 chacuo.net###mailtooltipss
 e0575.cn,ghoffice.com,mgbbs.cn,mydigit.cn,ntpcb.com###main > .textMes
@@ -9161,7 +9157,6 @@ guofs.com##div[style^="width: 882px;"]
 t6t8.com##div[style^="width: 965px;height:90px;"]
 imanhua.com##div[style^="width: 978px;"]
 my0538.com##div[style^="width:1000px;"][style*="50px;"]
-lanyes.org##div[style^="width:250px;height:250px;"]
 93994.com##div[style^="width:300px"][style*=":250px"]
 00fuck.com,01fuck.com,1024bao.com,20fuck.com,20men.com,22fuck.com,32cao.com,33fuck.com,42bao.com,44fuck.com,66fuck.com,74bao.com,75ri.com,83bao.com,96ri.com,bao36.com,bao85.com,baoxxx.com,cao71.com,cao89.com,caoporn.com,fuck01.com,fuck44.com,fuckhao.com,gan80.com,gantube.com,gao08.com,gao1024.com,men00.com,men55.com,men70.com,porncao.com,pornhao.com,ri15.com,ri69.com,ri86.com,ri96.com,rifuck.com,tube1024.com,tubewan.com,wanfuck.com,xxxgao.com##div[style^="width:300px;height:250px;"]
 hbrc.com##div[style^="width:500px; height:200px;"]
