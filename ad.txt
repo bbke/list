@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508192215
-! Last Modified: 2015年08月19日 22:15
+! Version: 201508192245
+! Last Modified: 2015年08月19日 22:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -12375,6 +12375,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||ziffdavis.com^$third-party
 ! CJX's Annoyance List
 !-----------------------General advert blocking filters-----------------------!
+/source/plugin/yw_alertlogin/*
 !------------------------General element hiding rules-------------------------!
 ###windlocation
 !-----------------------------Union&third-party-------------------------------!
@@ -12465,15 +12466,16 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||zol-img.com.cn/star/image/star-banner2.gif
 ||kaoyan.com/global/js/backtopnew.js
 ||sinaimg.cn/large/a518ed97jw1eu4mxubbe6j209q01e3ys.jpg
-||eduuu.com/gaokao/2015/bannerDaili.js
 ||baike.com/newtop/news.html
 ||xiaoma.com/kf.php?arg=
 ||xiaoma.com/xiaoma/www/js/article_right
 ||baidu.com/cms/lemmaconfig/baikeDynamic.
 ||baidu.com/cms/lemmaconfig/navbarAd.
 /banner/*$domain=leiphone.com
+||cndns.com/incs/js/website_mobile.js
 !------------------------Specific element hiding rules------------------------!
 leiphone.com##.zhiqu-ads
+app01.com.tw##.adOursWrap
 baike.baidu.com##.baike-dynamic-wrapper
 miercn.com###foot_return_foot
 2cto.com##.adv980
@@ -12505,7 +12507,6 @@ zgsyz.com###ad2
 pconline.com.cn###JtlBestA
 ofweek.com###flybox-db
 ganji.com###write_resume_id
-gaokao.com###ad_top_gkw
 alipay.com###J-cooperant-banner
 qidian.com##.qdRead_client
 12306.cn##.fix-yh
@@ -12789,3 +12790,4 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||track.uc.cn^
 ||pcpop.com/pv/pv.js
 ||ta.trs.cn^$third-party
+||ccoo.cn/mystat.asp
