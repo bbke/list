@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508190945
-! Last Modified: 2015年08月19日 09:45
+! Version: 201508191045
+! Last Modified: 2015年08月19日 10:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -4085,8 +4085,6 @@ _yad_jsonp_
 ||mil.news.sina.com.cn/iframe/109/2012/1024/photo.html
 ||mil.news.sina.com.cn/iframe/109/2013/1015/hotpic.html
 ||miljinhua.com/GD/
-||milxue.com/hdys.jpg
-||milxue.com/nh*.jpg
 ||mimg.127.net/ggimg/all/img18/140218_yixin_780x96.jpg
 ||missyuan.com/sy/
 ||mitbbs.*/servicedata/static_ad.php
@@ -4107,7 +4105,6 @@ _yad_jsonp_
 ||moe-acg.us/images/*/360x360
 ||moe.fm/public/images/fm/promotion_
 ||moe123.com/static/img/2014_fattycat.jpg
-||moe123.com/static/img/sp/mirugo_2014_christmas_large.jpg
 ||momoshop.com.tw/goods/GoodsDetail.jsp?$subdocument
 ||momoshop.com.tw/league/$domain=beephone.com.tw
 ||money.qz828.com^
@@ -4126,7 +4123,6 @@ _yad_jsonp_
 ||motorfans.com.cn/iggs_system/
 ||mp3.haogeba.com^$image,object
 ||mracg.com/data/attachment/portal/201412/17/
-||mrhso.com/Public/img/jiaoyou.gif
 ||ms211.com/211tf/
 ||ms211.com/js/tf.js
 ||mscbsc.com/gbook/telecomhr292x90.gif
@@ -8860,7 +8856,7 @@ wapwenku.baidu.com,wk.baidu.com##a[href^="http://www.baidu.com/cpro.php?"]
 beephone.com.tw##a[href^="http://www.beephone.com.tw/adlink.php?id="]
 zhibo8.cc##a[href^="http://www.bobo."]
 douyutv.com##a[href^="http://www.buffst.com/"]
-moonbbs.com##a[href^="http://www.dealmoon.com/Credit-Cards/?"]
+moonbbs.com##.plc.plm > DIV > DIV > A[href*=".dealmoon.com"]
 china.com##a[href^="http://www.dxdjys."]
 win007.com##a[href^="http://www.edewin.com/"]
 zdfans.com##a[href^="http://www.hao123.com/?tn="]
