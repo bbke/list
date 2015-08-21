@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201508212245
-! Last Modified: 2015年08月21日 22:45
+! Version: 201508212315
+! Last Modified: 2015年08月21日 23:15
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -5446,8 +5446,11 @@ _yad_jsonp_
 ||ms211.com/about/$subdocument
 ||hkitblog.com/logo/hkitblog_zh.jpg
 ||hkitblog.com/wp-content/uploads/2015/08/hkit-blog-banner.jpg
+||pconline.com.cn/pconline/download/fz/
+||pconline.com.cn/intelcorefamily/
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dl.pconline.com.cn##.contentdiv > .expPicB
 dy2018.com,xiaopian.com##A[href*=".mytanwan."]
 loldk.com##A[href*=".2144.cn"]
 hkitblog.com##.afc_popup
@@ -12376,6 +12379,7 @@ youtube.com##a[href^="https://www.youtube.com/cthru?"]
 ||baidu.com/cms/lemmaconfig/navbarAd.
 /banner/*$domain=leiphone.com
 ||cndns.com/incs/js/website_mobile.js
+||pconline.com.cn/jrzcz/*/intf
 !------------------------Specific element hiding rules------------------------!
 leiphone.com##.zhiqu-ads
 app01.com.tw##.adOursWrap
@@ -12694,3 +12698,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||pcpop.com/pv/pv.js
 ||ta.trs.cn^$third-party
 ||ccoo.cn/mystat.asp
+||count.pcauto.com.cn^
+||counter.pcauto.com.cn^
