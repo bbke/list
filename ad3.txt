@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters(NoTB)
 ! Expires: 4 hours
-! Version: 201508212215
-! Last Modified: 2015年08月21日 22:15
+! Version: 201508212245
+! Last Modified: 2015年08月21日 22:45
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，感谢各位大大的分享！
@@ -814,7 +814,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 ##a[href*="/?Intr="]
 ##a[href*="/?intr="]
 ##a[href*="_com/?aff="]
-##a[href="http://ldpgl.code.mytanwan.com/htmlcode/1045.html"]
 ##a[href="http://www.xing9999.com/?k"]
 ##a[href^="http://188.qy8.me"]
 ##a[href^="http://vda.icantw.com/?q="]
@@ -5449,6 +5448,7 @@ _yad_jsonp_
 ||hkitblog.com/wp-content/uploads/2015/08/hkit-blog-banner.jpg
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
+dy2018.com,xiaopian.com##A[href*=".mytanwan."]
 loldk.com##A[href*=".2144.cn"]
 hkitblog.com##.afc_popup
 muyuge.net###txt_r
