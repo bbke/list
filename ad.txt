@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Diablo AdFilters
 ! Expires: 4 hours
-! Version: 201508231115
-! Last Modified: 2015年08月23日 11:15
+! Version: 201508231215
+! Last Modified: 2015年08月23日 12:15
 ! Homepage: http://tieba.baidu.com/p/3845689586
 !
 !本规则合并自cjx、easylistchina，并补充了基于iFL修改的贴吧过滤规则，感谢各位大大的分享！
@@ -979,7 +979,6 @@ hk.search.auctions.yahoo.com###yauadysmh
 |http://p.*.com/view.php?uid=$script,third-party
 |http://tk.*.php?id=*&s=$script
 |http://tk.*.php?id=*&step=
-||005.tv^$image,third-party
 ||007y.net^$third-party
 ||033.com^$third-party
 ||0591101.com^$third-party
@@ -2884,9 +2883,6 @@ _yad_jsonp_
 ||diaosisheshou.com/wp-content/uploads/2015/06/tcll.gif
 ||dichan.com.au/newhouse/pinnacle/images/bcastr3.swf
 ||dig.chouti.com/advert
-||dilidili.com/js/w234.js
-||dilidili.com/js/w250.js
-||dilidili.com/js/w960.js
 ||dioguitar23.*/images/*.gif
 ||discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||discuz.gtimg.cn/cloud/scripts/discuz_tips.js
@@ -5569,6 +5565,10 @@ _yad_jsonp_
 ||zzsky.cn/images/zzskycom_
 ||zzz4.com/JS_AD/
 ||xinhuanet.com/2015/html2015/xhfloatAdv.html
+||005.tv/data/attachment/forum/*.gif$domain=dilidili.com
+||dilidili.com/js/index.js
+||dilidili.com/js/right
+||dilidili.com/js/w*.js
 !------------------------Specific element hiding rules------------------------!
 gpcxw.com###AA2
 hc360.com,yaolan.com###AD
